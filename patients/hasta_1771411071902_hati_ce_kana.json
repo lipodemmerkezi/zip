@@ -1168,7 +1168,7 @@
       "pdfYolu": "pdfs/HATİCE KANA 23-29 MART 6. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/HATİCE KANA 23-29 MART 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/HATİCE KANA 23-29 MART 6. HAFTA.pdf",
-      "kayitTarihi": "2026-03-17T08:21:09.403Z",
+      "kayitTarihi": "2026-03-17T08:22:24.570Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu salata",
@@ -1332,7 +1332,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Hatice Hanım, nasılsınız?\n\nAltıncı haftaya geçerken artık programın büyük kısmı oturmaya başladı. Beslenme düzenine alıştınız, bedeninizi daha iyi dinlemeye başladınız ve hücresel düzeyde olan değişimleri yavaş yavaş fark ediyorsunuz. Çevrenizden duyduğunuz yorumlar ve özellikle ayaklarınızdaki, üst bedeninizdeki o küçülme ve hafifleme hissi, aslında dokulardaki ödemin ve inflamasyonun azaldığının en net göstergesidir. \n\nBu süreçte açlık atakları yaşamamak ve kan şekerini dengede tutmak için öğün atlamamak çok kritik. Özellikle sahur öğününü atlamak gün içinde sizi zorlayabilir ve bedeni stres altına sokabilir. Sahuru düzenli yapmak, bedeninizi kıtlık moduna sokmadan sağlıklı yağ yakımını destekleyecektir. Alışkın olduğunuz meyve tüketimine duyduğunuz özlem de çok fizyolojik bir durum. Onuncu haftadan itibaren mevsim meyvelerini planımıza dahil edeceğiz. O zamana kadar antioksidan ihtiyacımızı bitter çikolata ve kontrollü porsiyonlarla yaban mersini, çilek gibi seçeneklerle karşılamaya devam ediyoruz. Peynir tercihlerinizde de damak tadınıza uygun olarak tulum veya kaşar yerine beyaz peynir gibi alternatiflerle ilerlemek, süreci sizin için daha sürdürülebilir kılıyor.\n\nBu aşamada hem genel bir değerlendirme yapmak hem de lipödem tedavisinde çok önemli bir konuyu paylaşmak istiyorum. Artık hücresel düzeyde bir destek devreye giriyor, yani mikrobesinler. Bunlar vitamin ve mineraller gibi çok küçük miktarlarda ihtiyaç duyduğumuz ama vücutta çok büyük görevler üstlenen bileşiklerdir. Saçlarınızdaki zayıflama veya cildinizdeki kuruluk gibi bedensel sinyaller, aslında demir gibi depoların desteğe ihtiyacı olduğunu gösterir. Bu yüzden çay tüketimini biraz sınırlamak, demir emilimini artırmak adına çok faydalı olacaktır. Ayrıca D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum bu süreçte hücrelerimizin enerji santralleri olan mitokondrilerin verimli çalışması için elzemdir.\n\nBu haftaki menümüzü tam da bu mikrobesinleri doğal yollardan alabileceğiniz şekilde kurguladık. Sabahları tükettiğiniz sahanda, haşlanmış veya menemen şeklindeki yumurta çeşitleri, B12 vitamini ve selenyum açısından çok zengindir, yorgunluğu önler. Ana öğünlerdeki tepsi kebabı, balık ve tavuk seçenekleri doku onarımı için gerekli olan çinko ve kaliteli proteini sağlar. Kırmızı et günlerinde zaman zaman kuzu ciğeri tercih etmeniz, bahsettiğimiz demir depolarını doldurmak ve cilt/saç sağlığını desteklemek için harika bir hamle olacaktır.\n\nÖğünlerinize eşlik eden dereotu, roka, kırmızı lahana ve brokoli gibi sebzeler, güçlü birer magnezyum ve C vitamini kaynağıdır. Magnezyum kasları rahatlatıp lenfatik sistemin çalışmasını sağlarken, C vitamini menünüzdeki kollajen desteğiyle birleşerek cilt kalitenizi ve bağ dokunuzu güçlendirir. Yeşilliklerin üzerine ekleyeceğiniz limon ve sirke, mide asidini dengeleyerek bu kıymetli minerallerin ve demirin emilimini maksimuma çıkarır. Ara öğünlerdeki çiğ badem, fındık ve kabak çekirdeği ise çinko ve E vitamini ile hormonal dengenizi korur.\n\nLenfatik akışı içeriden bu besinlerle desteklerken, dışarıdan da manuel lenf drenaj masajı ile bu süreci taçlandırıyoruz. Videoları izleyerek yapacağınız bu hafif dokunuşlu masajlar, dokulardaki sıvının atılımını hızlandıracak ve serbest kalan toksinlerin uzaklaştırılmasına büyük destek olacaktır. Masaj ve beslenme birbirini tamamladığında, bacaklardaki ve kollardaki o hafifleme hissi çok daha kalıcı hale gelecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1434,6 +1434,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T10:37:51.902Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:22:23.288Z",
+  "sonGuncelleme": "2026-03-17T08:22:26.725Z",
   "githubKaydedildi": true
 }
