@@ -1369,24 +1369,28 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-03-22",
-      "bitis": "2026-03-28",
+      "baslangic": "2026-03-23",
+      "bitis": "2026-03-29",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYLA BİLDİRCİN 23-29 MART 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYLA BİLDİRCİN 23-29 MART 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYLA BİLDİRCİN 23-29 MART 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYLA BİLDİRCİN 23-29 MART 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYLA BİLDİRCİN 23-29 MART 6. HAFTA.pdf",
+      "kayitTarihi": "2026-03-17T08:06:37.581Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "Merhaba Ayla Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\nRamazan ayını geride bırakırken, bu süreçte oruç tuttuysanız belki ilk günlerde adaptasyonda zorluk yaşamış olabilirsiniz.   Şimdi eski öğün düzeninize ve saatlerinize dönerken, oluşturduğumuz bu beslenme yapısının günlük rutininize çok daha kolay ve akıcı bir şekilde yerleşeceğini göreceğiz gibi ifadeler eklersin.\nmesajlamalarımız:\n[16:02, 15.03.2026] Ayla Bildircin Isparta Lipödem Yp+ Danışmanlık Harun Düver Yönlendirdi: Merhaba hocam\nBu hafta yoğunluk, davetler ve stres biraz fazlaydı, birebir diyete uydun desem yalan olur, biraz onun vicdan azabını yaşıyorum.\nSon birkaç gündür de rahatsızdım, mesajınızı inceledim, ölçümlerimi gün içinde yapıp göndereceğim.\nAlt bacağım sanki biraz daha belirgin bir şekilde kalın, Üst bacağım inceldiği için mi öyle görünüyor bilemedim. Bu beni biraz üzüyor, masajın etkisiyle değişiklik olacağına inanmak istiyorum..\nVücudum beslenme düzenine adapte oldu, kaçamak yapınca mide bulantısı ve sindirim sorunu yaşıyorum haliyle..\nMasaja yarın itibariyle başlayacağım, ilginiz ve desteğiniz için teşekkür ederim🙏\n[16:54, 15.03.2026] Prof.Dr. Mustafa Saçar: Önümüzdeki hafta yeni bir sayfa açıp devam ediyoruz 💐\n[00:16, 16.03.2026] Prof.Dr. Mustafa Saçar: İyi akşamlar Ayla hanım, ölçümleriniz gayet iyi görünüyor. Vücut kitleyin endeksiinize göre kilonuz zaten yüksek değil. Ancak bölgesel incelemeler gayet iyi görünüyor.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-11T13:04:52.890Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:05:54.541Z",
+  "sonGuncelleme": "2026-03-17T08:06:37.584Z",
   "githubKaydedildi": true
 }
