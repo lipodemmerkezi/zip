@@ -1255,7 +1255,7 @@
       "pdfYolu": "pdfs/SEVCAN ERTÜRK 23-29 MART 6. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEVCAN ERTÜRK 23-29 MART 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEVCAN ERTÜRK 23-29 MART 6. HAFTA.pdf",
-      "kayitTarihi": "2026-03-17T08:15:43.619Z",
+      "kayitTarihi": "2026-03-17T08:17:40.402Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu salata",
@@ -1410,7 +1410,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sevcan Hanım, ben Dr. Mustafa. \n\nRamazan ayını geride bırakırken, beslenme alışkanlıklarımızın ve günlük rutinlerimizin yeniden şekillendiği bir döneme geçiş yapıyoruz. Bu süreçte oruç tuttuysnaız, uzun süreli açlıkların ardından çabuk doyma hissi yaşamanız, pratik çözümlerle öğünlerinizi planlamanız veya iftar davetlerinin getirdiği sosyal ortamlarda zaman zaman esneklikler yaşanması sürecin son derece doğal bir parçasıdır. Şimdi eski öğün düzeninize ve saatlerinize dönerken, oluşturduğumuz bu beslenme yapısının günlük rutininize çok daha kolay ve akıcı bir şekilde yerleşeceğini göreceğiz.\n\nBu dönemde bedensel döngülerinizin, özellikle menstrüasyon sürecinin getirdiği doğal ödem artışını da gözlemliyoruz. Vücudun su tutması ve tartıdaki değişimin yavaşlamış gibi görünmesi tamamen fizyolojik bir durumdur. Lipödem tedavisinde yağ hücrelerinden kana salınan toksinlerin temizlenmesi ve hormonal dalgalanmaların dengelenmesi belirli bir metabolik adaptasyon gerektirir. Bu ödemin vücuttan atılması genellikle bir hafta on günü bulabilir. Bu süreci sükunetle karşılayıp ana şablonumuza sadık kalmak, kalıcı incelmenin en önemli anahtarıdır.\n\nAltıncı haftamıza girerken artık programın büyük kısmı oturmaya başladı. Beslenme düzenine alıştınız, takviyeleri tanıdınız ve bedeninizdeki değişimleri fark etmeye başladınız. Bu noktada hücresel düzeyde çok önemli bir destek devreye giriyor; mikro besinler. Lipödem tedavisinde yalnızca kilo kaybı değil, bölgesel incelme, doku kalitesinde iyileşme ve kronik inflamasyonun baskılanması hedeflenir. Bu derin iyileşme, vitamin ve minerallerin mitokondrilerimizde, yani hücrelerimizin enerji santrallerinde verimli çalışmasıyla mümkündür.\n\nMenünüze eklediğimiz besinler tam olarak bu hücresel tamiratı sağlamak üzere seçildi. Kahvaltınızdaki sahanda, haşlanmış veya mantarlı omlet formundaki yumurtalar, B12 ve D vitamini açısından oldukça zengindir. B12 vitamini sinir sistemi sağlığını koruyup enerji üretiminizi desteklerken, D vitamini lipödemli dokulardaki inflamasyonu kontrol altına alır. Öğle ve akşam öğünlerinizdeki ızgara balık, tavuk güveç ve tepsi kebabı gibi seçenekler, hücresel onarım için gereken çinko ihtiyacınızı karşılar. Aynı zamanda balık ve yumurtadan aldığınız selenyum, lenfatik sistemin sağlıklı çalışmasında ve tiroit fonksiyonlarının düzenlenmesinde büyük rol oynar.\n\nSalatalarınızda bolca yer verdiğimiz roka, tere, dereotu, kırmızı pancar ve yeşil biber, içerdikleri yüksek C vitamini ile kolajen sentezini destekleyerek cilt sıkılaşmasına ve lenf damarı yapısının güçlenmesine yardımcı olur. Ara öğünlerinizdeki kabak çekirdeği, çiğ badem, fındık ve ceviz ise magnezyum depolarınızı doldurur. Magnezyum, kas kasılmalarını düzenler, uyku kalitenizi artırır ve hücresel stresi azaltır. Ayrıca her gün ara öğün olarak tükettiğiniz limonlu ve kaya tuzlu maden suyu, elektrolit dengenizi koruyarak hücre içi ve dışı sıvı dengesini sağlamaya devam ediyor.\n\nİçeriden sağladığımız bu güçlü hücresel desteği, dışarıdan manuel lenf drenaj masajı ile tamamlamaya devam ediyoruz. Masaj rutininize ayırdığınız zaman, serbestleşen toksinlerin vücuttan uzaklaştırılmasını hızlandıracak, regl döneminin getirdiği şişkinlik hissinin çok daha hızlı dağılmasını sağlayacak ve dokulardaki rahatlamayı kalıcı hale getirecektir. Beslenme ve masajın bu uyumu, mitokondrilerinizin daha verimli çalışmasını sağlayarak iyileşme sürecinizi hızlandıracaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1509,6 +1509,6 @@
   ],
   "olusturmaTarihi": "2026-02-12T17:58:52.571Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:17:34.020Z",
+  "sonGuncelleme": "2026-03-17T08:17:40.414Z",
   "githubKaydedildi": true
 }
