@@ -1298,25 +1298,28 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-03-22",
-      "bitis": "2026-03-28",
+      "baslangic": "2026-03-23",
+      "bitis": "2026-03-29",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "BÜŞRA DİRMİLLİ 23-29 MART 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "BÜŞRA DİRMİLLİ 23-29 MART 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/BÜŞRA DİRMİLLİ 23-29 MART 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BÜŞRA DİRMİLLİ 23-29 MART 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BÜŞRA DİRMİLLİ 23-29 MART 6. HAFTA.pdf",
+      "kayitTarihi": "2026-03-17T08:09:17.607Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-16T13:32:48.545Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:09:00.975Z",
+  "sonGuncelleme": "2026-03-17T08:09:17.610Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
