@@ -3236,7 +3236,7 @@
       "pdfYolu": "pdfs/HURİ KUŞANÇ 23-29 MART 12. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/HURİ KUŞANÇ 23-29 MART 12. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/HURİ KUŞANÇ 23-29 MART 12. HAFTA.pdf",
-      "kayitTarihi": "2026-03-17T08:59:59.149Z",
+      "kayitTarihi": "2026-03-17T09:01:43.413Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kaşar peynirli simit poğaça (3 adet için)",
@@ -3414,7 +3414,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Huri Hanım, ben Dr. Mustafa. Nasılsınız, umarım her şey yolundadır. \n\nPazartesi günü itibarıyla programımızda on ikinci haftaya adım atıyoruz. Bir süredir sizden güncel bir mesaj veya ölçüm tablonuzu alamadım. Hayatın olağan akışı ve koşturmacası içinde bazen bu takiplerin arka planda kalabildiğini biliyorum. Ancak bedeninizin bu sürece nasıl tepki verdiğini, aynadaki ve kıyafetlerinizdeki değişimleri duymak benim için çok değerli. Müsait olduğunuzda durumunuzla ve sürecin nasıl gittiğiyle ilgili kısa bir güncelleme yapabilirseniz süreci çok daha verimli yönetebiliriz.\n\nArtık programın sonlarına yaklaşırken, geriye dönüp baktığımızda sadece bir beslenme planı uygulamadığımızı, yepyeni bir yaşam tarzının temellerini attığımızı görüyoruz. Lipödem gibi kronik ve dirençli bir tabloda öğün yapılarını, su tüketimini ve yeme alışkanlıklarını dönüştürmek kolay bir süreç değildir. Bu yolda beslenme, lenf drenaj masajı ve egzersiz üçlüsü birbirini tamamlayan güçlü bir sistem oluşturdu. Beslenme inflamasyonu baskılarken, masaj ve egzersizler lenf yollarını uyararak bedenin kendi kendini onarma mekanizmasını harekete geçirdi.\n\nBu haftalarda tartıdaki rakamların yavaşladığını veya durakladığını gözlemleyebilirsiniz. Bu durumu bir başarısızlık değil, vücudunuzun bir toparlanma ve yeniden yapılanma molası olarak okumak gerekir. Lipödemli dokuda yıllarca biriken yağ hücreleri sadece enerji değil, aynı zamanda birer toksin deposudur. Yağ yakımı gerçekleşip hücreler küçüldükçe, içlerindeki bu toksinler dolaşıma katılır. Karaciğer ve böbreklerimizin bu atık yükünü güvenle temizleyebilmesi için vücut koruma moduna geçer ve yağ yakımını bilinçli olarak yavaşlatır. Yani bedeniniz aslında durmuyor, içsel bir temizlik yapıyor. Bu yüzden odak noktamız tartıdaki sayılar değil, kıyafetlerinizdeki bollaşma ve dokularınızdaki yumuşama olmalıdır.\n\nBu haftaki beslenme listeniz de tam olarak bu hücresel onarımı ve lenfatik sistemi desteklemek üzere kurgulandı. Menünüzde yer alan somon fileto, içerdiği güçlü Omega 3 yağ asitleriyle dokulardaki inflamasyonu hafifletirken, tiroit fonksiyonlarını düzenleyen selenyum açısından da oldukça zengindir. Tavuklu hünkar beğendi, köfte ve yumurta gibi kaliteli protein kaynaklarımız ise kas dokunuzu korurken B12 vitamini ile sinir sisteminizi destekler. \n\nÖğünlerinize eşlik eden zeytinyağlı deniz börülcesi, kıymalı karnabahar graten ve bol yeşillikli mevsim salataları vücudunuzun detoksifikasyon yükünü hafifleten kükürt ve lif kaynaklarıdır. Salatalarınıza eklediğiniz limon ve sirke, kan şekeri dengenizi korumanın yanında sindirimi rahatlatır. Sürecin başından beri kullanmaya devam ettiğiniz toz kollajen desteğinin cilt elastikiyetini artırıp dokuları sıkılaştırabilmesi için, bu taze yeşilliklerden ve çilek, mandalina gibi meyvelerden aldığınız C vitamini kilit bir rol oynamaya devam ediyor.\n\nAra öğünlerinizde yer alan çiğ badem, yüksek magnezyum içeriğiyle hem lenf dolaşımını destekleyen kaslarınızı rahatlatır hem de uyku kalitenize katkı sağlar. Nohut ekmeği, yeşil mercimekli kabak sandal ve keten tohumlu kraker gibi alternatifler ise bağırsak floranızı besleyerek bağışıklığınızı güçlü tutar.\n\nArtık edindiğiniz bu yeni alışkanlıklarla, beslenmenin bir kısıtlama değil, bedeninize duyduğunuz saygının doğal bir yansıması olduğunu biliyorsunuz. Ara sıra yaşanabilecek duraklamalara rağmen hangi yoldan ilerleyeceğinize dair elinizde güçlü bir harita var.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3515,6 +3515,6 @@
   ],
   "olusturmaTarihi": "2025-12-31T09:24:36.752Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T09:01:42.045Z",
+  "sonGuncelleme": "2026-03-17T09:01:45.695Z",
   "githubKaydedildi": true
 }
