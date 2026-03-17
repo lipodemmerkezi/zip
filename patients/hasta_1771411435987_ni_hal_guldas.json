@@ -1174,7 +1174,7 @@
       "pdfYolu": "pdfs/NİHAL GÜLDAŞ 23-29 MART 6. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NİHAL GÜLDAŞ 23-29 MART 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NİHAL GÜLDAŞ 23-29 MART 6. HAFTA.pdf",
-      "kayitTarihi": "2026-03-17T08:22:48.355Z",
+      "kayitTarihi": "2026-03-17T08:25:20.282Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu salata",
@@ -1343,7 +1343,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nihal Hanım,\n\nBedenin bazen durup dinlenmeye, tüm enerjisini iyileşmeye harcamaya ihtiyaç duyduğu zamanlar olur. Geçtiğimiz günlerde yaşadığınız enfeksiyon süreci tam olarak böyle bir dönemdi. Bu süreçte hem beslenme düzeninizin hem de takviyelerinizin aksaması son derece olağan bir durum, bedenin önceliği o an enfeksiyonla savaşmaktı. Ölçümlerinizdeki duraksama da bu yorucu sürecin, kullanılan ilaçların ve vücudun kendini korumaya almasının çok doğal bir sonucudur. Şimdi yavaş yavaş toparlandığınıza göre, bedenimize o çok sevdiği ritmi yeniden kazandırma vakti geldi. Altıncı haftamıza bu yenilenme ve arınma hissiyle adım atıyoruz.\n\nManuel lenf drenaj masajı, tam da bu toparlanma evresinde en büyük yardımcımız olacak. Hastalık sonrası vücutta biriken toksinlerin ve hücresel atıkların uzaklaştırılması, lenfatik sistemin uyarılmasıyla çok daha kolaylaşacaktır. Hafif dokunuşlarla yapacağınız bu masaj, sadece lipödemli dokulardaki ödemi çözmekle kalmayacak, aynı zamanda bağışıklık sisteminizi destekleyerek tam anlamıyla iyileşmenizi hızlandıracaktır.\n\nBu hafta beslenme planımızı kurgularken, hücresel düzeyde bir onarım başlatmayı hedefledik. Lipödem yönetiminde asıl derin iyileşme, gözle göremediğimiz o küçük ama güçlü bileşenler, yani mikro besinler sayesinde gerçekleşir. Hastalık sonrası azalan enerjinizi yerine koymak ve mitokondrilerinizi, yani hücrelerinizin enerji santrallerini yeniden canlandırmak için menünüzü bu mikro besinler açısından oldukça zengin bir yapıya kavuşturduk.\n\nMenünüzde yer alan tepsi kebabı, tavuk güveç ve fırında balık gibi kaliteli protein kaynakları, hücresel onarım ve bağışıklık düzeni için elzem olan çinko ve B12 vitamini ihtiyacınızı karşılayacak. Bu içerikler eksikliğinde hissedilen yorgunluk ve halsizliği de üzerinizden almanıza yardımcı olacaktır. Kahvaltılardaki sahanda yumurta, mantarlı omlet ve deniz ürünleri seçenekleri ise, lipödemli dokulardaki kronik inflamasyonu kontrol altına alan D vitamini ve lenfatik sistemin sağlıklı çalışmasını sağlayan güçlü bir antioksidan olan selenyum açısından en değerli kaynaklarımızdır.\n\nListeye eklediğimiz bol yeşillikler, roka, tere, brokoli ve ıspanak gibi sebzeler, hem kolajen üretimini destekleyen C vitamini depolarınızı dolduracak hem de magnezyum sağlayarak kaslarınızı rahatlatacaktır. Ara öğünlerdeki çiğ badem, kabak çekirdeği, fındık ve bitter çikolata da bu magnezyum desteğini taçlandırarak ruh halinizi ve uyku düzeninizi dengelemeye yardımcı olacaktır. \n\nİlaç yoğunluğunuz azaldığına göre, bağ dokunuzu sıkılaştıran kolajen takviyenize ve hücresel sıvı dengesini sağlayan limonlu, kaya tuzlu maden suyu rutinimize de kaldığımız yerden devam edebiliriz. Ayrıca lupin unlu waffle ve bakla unu ekmeği gibi alternatifler de sürecinize keyifli bir dokunuş yapacaktır.\n\nTartıdaki rakamlara veya ölçümlere takılmadan, bedeninizin içeride yürüttüğü bu muazzam tamirat sürecine odaklanmanızı rica ediyorum. Yeterli mikro besinleri aldıkça ve masajla dolaşımınızı destekledikçe, o beklediğimiz incelme ve hafifleme hissi çok daha kalıcı bir şekilde kendiliğinden gelecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1444,6 +1444,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T10:43:55.987Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:25:19.728Z",
+  "sonGuncelleme": "2026-03-17T08:25:22.571Z",
   "githubKaydedildi": true
 }
