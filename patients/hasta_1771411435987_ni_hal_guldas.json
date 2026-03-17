@@ -1162,10 +1162,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhaba Ni̇hal Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 5. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\nmesajlaşmamız:\n[08:45, 06.03.2026] Nihal Güldaş Denizli Lipödem Danışmanlık +yp: Merhabalar nasılsınız?\n9-15 Mart  tarihleri arasındaki listeniz afiyet olsun\nBu hafta süreciniz nasıl geçti zorlandığınız noktalar oldu mu?\nMerhaba Mustafa bey\nŞuan ağır bir grip geçiriyorum\nBaya rahatsızım\nListeye çok uyamadım\nAma dikkat de ettim\nSadece 4 gündür hiç\nYürüyemedim\nİnşallah önümüzdeki hafta telafi edeceğim\n[09:01, 06.03.2026] Prof.Dr. Mustafa Saçar: Çok geçmiş olsun Nihal Hanım. Bu süreçte sıvı alımına dikkat edelim.  Çorbalardan tüketebilirsiniz. Yürüyüş kendinizi iyi hissettiğinizde devam edebilirsiniz. Şimdilik dinlenmeye odaklanalım🌸\n[09:12, 06.03.2026] Nihal Güldaş Denizli Lipödem Danışmanlık +yp: Tm teşeklür ederim"
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-03-22",
+      "bitis": "2026-03-28",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-02-18T10:43:55.987Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-11T09:50:30.577Z",
+  "sonGuncelleme": "2026-03-17T08:22:35.348Z",
   "githubKaydedildi": true
 }
