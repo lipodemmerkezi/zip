@@ -1372,7 +1372,7 @@
       "pdfYolu": "pdfs/GÜLAY KOZAĞAÇLI 23-29 MART 6. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLAY KOZAĞAÇLI 23-29 MART 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLAY KOZAĞAÇLI 23-29 MART 6. HAFTA.pdf",
-      "kayitTarihi": "2026-03-17T08:18:17.603Z",
+      "kayitTarihi": "2026-03-17T08:20:15.314Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -1547,7 +1547,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Gülay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nSizden bir süredir haber alamadım, sürecinizin nasıl geçtiğini, bedensel ve zihinsel gözlemlerinizi gerçekten merak ediyorum. Ramazan ayını geride bırakırken, bu süreçte oruç tuttuysanız ilk günlerde adaptasyonda zorluk yaşamış olabileceğinizi tahmin ediyorum. İftar davetleri, uzun süreli açlıklar ve çevresel faktörler derken masadaki seçeneklerin cazibesi bazen zorlayıcı olmuş, ufak tefek kaçamaklar yaşanmış olabilir. Bunlar sürecin çok doğal ve insani bir parçası, lütfen bu konuda kendinize yüklenmeyin. Şimdi eski öğün düzeninize ve saatlerinize dönerken, oluşturduğumuz bu beslenme yapısının günlük rutininize çok daha kolay, akıcı ve kalıcı bir şekilde yerleşeceğini göreceğiz.\n\nPazartesi günü itibariyle programımızda altıncı haftaya adım atıyoruz. Artık beslenme düzenine alıştığınız, vücudunuzun verdiği tepkileri okumaya başladığınız bir dönemdeyiz. Lipödem tedavisinde hedefimiz sadece kilo kaybı değil, bölgesel incelme, kronik inflamasyonun baskılanması ve doku kalitesinin artmasıdır. Bu aşamada artık hücresel düzeyde bir destek devreye giriyor. Bu haftanın odak noktası, çok küçük miktarlarda ihtiyaç duyduğumuz ama vücutta çok büyük görevler üstlenen mikro besinler. \n\nHücrelerimizin enerji santralleri olan mitokondrilerin verimli çalışması, iyileşmenin hızlanması ve lenfatik sistemin rahatlaması doğrudan bu mikro besinlere bağlıdır. Bu hafta menünüzü planlarken tam olarak bu hücresel onarımı hedefledik. Listemizde yer alan kuzu güveç, köfte, balık ve yumurta çeşitleri, B12 vitamini, çinko ve selenyum açısından son derece güçlü kaynaklardır. Bu bileşenler sinir sisteminizi korur, yorgunluk hissini azaltır ve tiroit fonksiyonları ile lenfatik akışı destekleyerek yağ metabolizmasını düzenler.\n\nAra öğünlerinizde yer verdiğimiz kabak çekirdeği, çiğ badem, fındık ve ceviz gibi yağlı tohumlar, lipödem yönetiminde bizim için hayati önem taşıyan magnezyum depolarıdır. Magnezyum, kaslarınızı rahatlatır, olası krampları engeller ve uyku kalitenizi artırarak vücudun gece boyunca kendini onarmasına zemin hazırlar. Ayrıca tatlı ihtiyacınızı sağlıklı yoldan karşılayacak tahinli cevizli karışımımız ve badem unu ekmeği gibi alternatifler, insülin seviyenizi dengede tutarak duygusal yeme ataklarının önüne geçecektir.\n\nBağ dokunuzu sıkılaştırmak ve cilt elastikiyetini artırmak için düzenli olarak kullanmaya devam ettiğiniz kollajen takviyesinin vücutta tam olarak işlenebilmesi için C vitaminine ihtiyacı vardır. Menünüzdeki yoğurtlu brokoli, kıymalı lahana, lahana lazanya gibi kükürtlü sebzeler ve özellikle sirke, limon ve zeytinyağı ile tatlandırılmış yeşil salatalarımız, bu C vitamini desteğini sağlayarak kollajen sentezini maksimuma çıkarır. Ayrıca bu sebzeler, karaciğerin detoks kapasitesini artırarak dokulardan çözülen ödemin atılmasını kolaylaştırır.\n\nBu dönemde tartıdaki rakamların yavaşladığını veya sabit kaldığını görebilirsiniz. Yağ hücreleri küçülüp içlerinde hapsolmuş toksinleri ve inflamatuar sıvıları kana bıraktıkça, vücudumuz bu toksinleri seyreltmek ve kendini korumak adına geçici bir su tutulumu yaşayabilir. Bu tamamen doğal bir metabolik adaptasyon sürecidir. \n\nBu hafta size mikro besinlerle ilgili detaylı bir bilgilendirme dosyası da iletiyor olacağız. Bu içerik, hangi vitamin ve minerallerin ne işe yaradığını ve sürecinize nasıl katkı sağladığını daha net görmenize yardımcı olacaktır. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1663,6 +1663,6 @@
   ],
   "olusturmaTarihi": "2026-02-12T18:01:09.212Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:20:14.299Z",
+  "sonGuncelleme": "2026-03-17T08:20:17.397Z",
   "githubKaydedildi": true
 }
