@@ -2679,24 +2679,27 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-03-22",
-      "bitis": "2026-03-28",
+      "baslangic": "2026-03-23",
+      "bitis": "2026-03-29",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "İLKNUR ÇOLAK 23-29 MART 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "İLKNUR ÇOLAK 23-29 MART 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/İLKNUR ÇOLAK 23-29 MART 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/İLKNUR ÇOLAK 23-29 MART 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/İLKNUR ÇOLAK 23-29 MART 11. HAFTA.pdf",
+      "kayitTarihi": "2026-03-17T08:57:04.270Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-09T09:36:19.228Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:56:46.342Z",
+  "sonGuncelleme": "2026-03-17T08:57:04.275Z",
   "githubKaydedildi": true
 }
