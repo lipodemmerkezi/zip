@@ -1165,24 +1165,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-03-22",
-      "bitis": "2026-03-28",
+      "baslangic": "2026-03-23",
+      "bitis": "2026-03-29",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NİHAL GÜLDAŞ 23-29 MART 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "NİHAL GÜLDAŞ 23-29 MART 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/NİHAL GÜLDAŞ 23-29 MART 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NİHAL GÜLDAŞ 23-29 MART 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NİHAL GÜLDAŞ 23-29 MART 6. HAFTA.pdf",
+      "kayitTarihi": "2026-03-17T08:22:48.355Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-18T10:43:55.987Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:22:35.348Z",
+  "sonGuncelleme": "2026-03-17T08:22:48.360Z",
   "githubKaydedildi": true
 }
