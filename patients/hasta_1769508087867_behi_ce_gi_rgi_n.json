@@ -2275,10 +2275,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhaba Behi̇çe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\nmesajlaşmamız:\n[15:19, 07.03.2026] Prof.Dr. Mustafa Saçar: Merhaba Behiçe hanım, ölçümlerinizdeki değişim iyi görünüyor. Siz nasıl hissediyorsunuz? Kıyafetlerle bir fark başladı mı. Yorgunluk ve enerji düzeyiniz nasıl? Listelere uyum sağlayabiliyor musunuz?\n[15:24, 07.03.2026] İlhan Girgin Bursa Behice Girgin Eşi: Hocam bu hafta biraz yorgunluk var elbiseler de azıcık bir farklılık var listeye tamamen uyuyor\n[15:26, 07.03.2026] Prof.Dr. Mustafa Saçar: Tamam daha iyi olacak merak etmeyin, arada sade maden suyu ve ceviz veya fındık gibi kuruyemişler tüketebiliriz çiğ olarak. Bu da halsizliğe iyi gelir. Günlük su tüketimini 2 l’nin altına düşürmeyelim hatta biraz daha artırabiliririz"
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-03-22",
+      "bitis": "2026-03-28",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-01-27T10:01:27.867Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-11T09:56:48.218Z",
+  "sonGuncelleme": "2026-03-17T08:29:13.293Z",
   "githubKaydedildi": true
 }
