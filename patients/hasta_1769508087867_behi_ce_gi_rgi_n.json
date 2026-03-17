@@ -2278,24 +2278,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-03-22",
-      "bitis": "2026-03-28",
+      "baslangic": "2026-03-23",
+      "bitis": "2026-03-29",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "BEHİÇE GİRGİN 23-29 MART 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "BEHİÇE GİRGİN 23-29 MART 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/BEHİÇE GİRGİN 23-29 MART 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BEHİÇE GİRGİN 23-29 MART 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BEHİÇE GİRGİN 23-29 MART 9. HAFTA.pdf",
+      "kayitTarihi": "2026-03-17T08:29:26.881Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-27T10:01:27.867Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:29:13.293Z",
+  "sonGuncelleme": "2026-03-17T08:29:26.886Z",
   "githubKaydedildi": true
 }
