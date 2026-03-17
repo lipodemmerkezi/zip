@@ -281,7 +281,7 @@
       "pdfYolu": "pdfs/AYŞE BAKAR 23-29 MART 2. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYŞE BAKAR 23-29 MART 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYŞE BAKAR 23-29 MART 2. HAFTA.pdf",
-      "kayitTarihi": "2026-03-17T07:49:56.620Z",
+      "kayitTarihi": "2026-03-17T07:54:07.877Z",
       "tarifKartlar": [
         {
           "tarifAdi": "köfte",
@@ -429,7 +429,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nRamazan ayını geride bırakırken, bu süreçte ilk günlerde adaptasyonda zorluk yaşamış olabilirsiniz.   Şimdi eski öğün düzeninize ve saatlerinize dönerken, oluşturduğumuz bu beslenme yapısının günlük rutininize çok daha kolay ve akıcı bir şekilde yerleşeceğini göreceğiz. Birlikte attığımız bu küçük adımların zamanla ne kadar büyük farklar yaratabileceğini hücresel düzeyde hissetmeye başlayacağınız bir döneme geçiyoruz.\n\nLipödem kronik bir durum olduğu için hızlı çözümlerden ziyade, bedeninizi içten dışa iyileştirecek kalıcı değişiklikler hedefliyoruz. Bedenimizdeki o sessiz iltihap halini, yani inflamasyonu baskılamak en büyük önceliğimiz. Çünkü bu durumu yönetemediğimizde zamanla insülin direnci veya hormonal dengesizlikler gibi tablolarla karşılaşabiliyoruz. Bu yüzden sürecimize sadece bir kilo yönetimi olarak değil, bütüncül bir hücresel onarım dönemi olarak bakıyoruz.\n\nVücudunuzu adeta bir yağ yakma antrenmanına soktuğumuz bu dönemde, insülin dengesini korumak en güçlü silahımız. Çoğu zaman yağ yemenin kilo aldıracağı düşünülür; ancak sağlıklı yağları tek başına, yani yanında karbonhidrat olmadan aldığımızda vücut yağlanmaz, aksine yağ yakımının önü açılır. Bu hafta menünüze eklediğimiz ceviz, fındık, kabak çekirdeği, tahin ve avokado gibi sağlıklı yağ kaynakları tam da bu amaca hizmet ediyor. Güne düşük insülinle başlamak ve metabolizmanızı desteklemek için kahvaltılardaki mantarlı, sebzeli omletlerinizde kullanacağınız tereyağı hem uzun süreli tokluk sağlayacak hem de hücresel iyileşmenize zemin hazırlayacak. \n\nListemizde bolca yer alan mevsim yeşillikleri, roka ve dereotu içerdiği C vitamini ile lenfatik akışınızı rahatlatırken, salatalarınıza eklediğimiz sirke ve limon dokulardaki ödemin çözülmesine yardımcı olacak. Balık, tavuk ve kırmızı et gibi kaliteli protein kaynaklarımız hücresel yenilenmeyi sağlarken; ceviz, badem ve kabak çekirdeğinden alacağınız magnezyum, çinko ve selenyum doku onarımınızı hızlandıracak. Yumurta, lipödem yönetiminde çok ihtiyaç duyduğumuz D vitamini ve B12 açısından en temel destekçilerimizden biri olmaya devam ediyor. Ayrıca listenizde yer alan toz kollajen ve kaya tuzlu, limonlu maden suyu rutininiz, bağ dokunuzu güçlendirmeye ve yağ hücrelerinden salınan toksinlerin vücuttan atılmasına büyük katkı sağlayacak.\n\nŞu anda sabırlı ve istikrarlı ilerlemenin en değerli olduğu günlerdeyiz. Bedeninizin bu yeni düzene verdiği olumlu yanıtları zamanla çok daha net hissedeceksiniz. Tüm gelişmeleri birlikte, adım adım takip edeceğiz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -534,6 +534,6 @@
   ],
   "olusturmaTarihi": "2026-03-13T13:05:18.306Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T07:54:01.793Z",
+  "sonGuncelleme": "2026-03-17T07:54:07.887Z",
   "githubKaydedildi": true
 }
