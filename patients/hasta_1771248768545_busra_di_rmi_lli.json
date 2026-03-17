@@ -1307,7 +1307,7 @@
       "pdfYolu": "pdfs/BÜŞRA DİRMİLLİ 23-29 MART 6. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BÜŞRA DİRMİLLİ 23-29 MART 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BÜŞRA DİRMİLLİ 23-29 MART 6. HAFTA.pdf",
-      "kayitTarihi": "2026-03-17T08:09:17.607Z",
+      "kayitTarihi": "2026-03-17T08:11:03.864Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -1482,7 +1482,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Büşra Hanım, nasılsınız? Umarım her şey yolundadır. \n\nRamazan ayını geride bırakırken, yeni bir haftaya adım atıyoruz. Oruç sürecinde belki ilk günlerde bedensel adaptasyonda ufak tefek zorluklar yaşanmış olabilir. Ancak şimdi eski öğün düzeninize ve saatlerinize dönerken, oluşturduğumuz bu beslenme yapısının günlük rutininize çok daha kolay ve akıcı bir şekilde yerleşeceğini göreceğiz.\n\nSürecin bu aşamasında ölçümlerde zaman zaman duraksamalar veya ufak dalgalanmalar görmek son derece doğal bir fizyolojik tepkidir. Kadınlık hormonlarının döngüleri, stres faktörüne bağlı kortizol değişimleri veya östrojenin etkisi dokularda geçici sıvı tutulumlarına yol açabilir. Ayrıca lipödemli dokulardaki inflamasyon azaldıkça, yağ hücrelerinden serbest kalan toksinler vücuttan atılmaya çalışılırken metabolik bir adaptasyon süreci yaşanır. Bu durum kesinlikle bir yağ artışı değildir; aksine, vücudun hücresel düzeyde temizlendiğinin ve yeniden yapılandığının bir işaretidir. Sürece devam ettikçe bu sıvı dalgalanmalarının giderek azaldığını ve bedeninizin hafiflediğini fark edeceksiniz.\n\nAltıncı haftaya geçerken artık programın büyük kısmı oturmaya başladı ve hücresel düzeyde çok önemli bir destek devreye giriyor. Lipödem tedavisinde derin iyileşme, mitokondrilerde yani hücrelerimizin enerji santrallerinde gerçekleşir. Bu iyileşmeyi sağlayan anahtarlar ise mikro besinlerdir. D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum gibi vitamin ve mineraller, inflamasyonu kontrol altına almak, lenfatik sistemi çalıştırmak ve doku kalitesini artırmak için hayati öneme sahiptir.\n\nMenünüzü tam da bu hücresel onarımı destekleyecek şekilde kurguladık. Öğünlerinizde yer alan kuzu güveç, ızgara balık, köfte ve yumurta çeşitleri, içerdikleri B12, D vitamini ve selenyum ile sinir sisteminizi korurken kronik inflamasyonu baskılamaya yardımcı olur. Çiğ badem, fındık, ceviz ve kabak çekirdeği gibi yağlı tohumları menüye ekledik; çünkü bu besinler yüksek magnezyum ve çinko kapasiteleriyle kas fonksiyonlarını rahatlatır, lenfatik pompalama mekanizmasını destekler ve doku onarımını hızlandırır. \n\nKıymalı lahana, ıspanak, yoğurtlu brokoli ve taze yeşilliklerden oluşan salatalarınız ise güçlü birer C vitamini ve antioksidan kaynağıdır. C vitamini, damar yapısının güçlenmesi ve cilt sıkılaşması için elzemdir. Günlük rutinimizdeki toz kollajen desteğiyle birleştiğinde, bu antioksidanlar bağ dokunuzun toparlanmasına çok daha güçlü bir zemin hazırlar. Ara öğünlerdeki çilek, tahinli cevizli alternatifler ve ketojenik tost gibi seçenekler de kan şekerinizi dengede tutarak bu iyileşme sürecini sizin için doyurucu ve keyifli hale getirecektir.\n\nBeslenme elbette bu sürecin temel taşı, ama asıl derin iyileşme bu mikro düzeyde gerçekleşiyor. Bedeninizin bu yeni düzene verdiği hücresel yanıtları zamanla çok daha net hissedeceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1598,7 +1598,7 @@
   ],
   "olusturmaTarihi": "2026-02-16T13:32:48.545Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:10:59.924Z",
+  "sonGuncelleme": "2026-03-17T08:11:03.877Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
