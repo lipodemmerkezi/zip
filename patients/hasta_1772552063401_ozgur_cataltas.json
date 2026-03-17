@@ -752,7 +752,7 @@
       "pdfYolu": "pdfs/ÖZGÜR ÇATALTAŞ 23-29 MART 4. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÖZGÜR ÇATALTAŞ 23-29 MART 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÖZGÜR ÇATALTAŞ 23-29 MART 4. HAFTA.pdf",
-      "kayitTarihi": "2026-03-17T07:57:31.843Z",
+      "kayitTarihi": "2026-03-17T08:01:21.881Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -933,7 +933,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Özgür Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nPazartesi günü itibarıyla programımızda dördüncü haftaya adım atıyoruz. Ramazan ayını geride bırakırken, eğer bu süreçte oruç tuttuysanız ilk günlerde adaptasyon konusunda ufak zorlanmalar yaşanmış olabilir. Şimdi eski öğün düzeninize ve saatlerinize dönerken, oluşturduğumuz bu anti-inflamatuar beslenme yapısının günlük rutininize çok daha kolay ve akıcı bir şekilde yerleştiğini göreceğiz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bazen gün içinde veya hafta genelinde dalgalanmalar yaşamak, iştahın arttığını hissetmek çok doğal bir fizyolojik reflekstir. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, az yeme fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Açlık hormonu olan ghrelin seviyeleri yükseldiğinde beyne sürekli yemek zamanı geldi mesajı gider ve bu durum bizi hızlıca karbonhidratlara yöneltip planlanmamış yeme ataklarına zemin hazırlar.\n\nBiz bu döngüyü kırmak istiyoruz. Kaloriyi kısıtlamaktan ziyade, insülin dengesini koruyan ama doyurucu bir sistemle ilerliyoruz. Sağlıklı yağlar, yeterli protein ve dengeli karbonhidratlar içeren öğünler, hem sizi uzun süre tok tutar hem de metabolizmanızı destekler. Vücut enerji tasarrufuna geçmez, böylece hem kilo kaybı sürdürülebilir hale gelir hem de ruh halindeki dalgalanmaların önüne geçilmiş olur. \n\nBu doyurucu sistemin hücresel düzeydeki etkilerini yavaş yavaş hissetmeye başlıyoruz. Bacaklardaki o eski hassasiyetin, yürürken birbirine temas ettiğinde oluşan acı hissinin yerini daha rahat bir dolaşıma bırakması, ödemlerin hafiflemesi tam da hedeflediğimiz hücresel iyileşmenin işaretleridir. Sessiz inflamasyonu baskıladıkça dokularınızdaki bu rahatlama artarak devam edecektir.\n\nBu haftaki menünüzü, metabolik hızınızı artıracak ve özellikle kan değerlerinizdeki B12 vitamini ihtiyacınızı doğal yollardan karşılayacak şekilde tasarladık. Hayvansal kaynaklı proteinler, aminoasit profili açısından zengindir ve bağ dokusunun onarımı için elzemdir. Menünüzdeki köfte, somon fileto, mantarlı tavuk sote, sahanda yumurta ve hindi füme gibi kaliteli proteinler, B12 deponuzu doldururken kas dokunuzu koruyacak ve enerji seviyenizi yüksek tutacaktır. Geçtiğimiz hafta kontrollü olarak geri döndüğümüz tulum, kaşar peyniri ve ev yoğurdu gibi fermente süt ürünleri de hem B12 desteği sağlar hem de bağırsak floranızı güçlendirmeye devam eder.\n\nBunun yanında, lenfatik sisteminizi rahatlatmak için magnezyum ve potasyum kaynaklarına bolca yer verdik. Kabak sote, kıymalı karnabahar püresi, mantar, yeşil salatalar ve kabak çekirdeği, dokulardaki fazla sıvının atılmasına yardımcı olurken bacaklardaki dokunma hassasiyetini daha da azaltacaktır. Avokado, ceviz, çiğ badem ve zeytinyağı gibi sağlıklı yağlarımız ise D vitamini emilimini destekler, hormonal dengeyi sağlar. Orman meyvelerinden çilek, antioksidan kapasitesiyle hücresel stresi azaltırken, rutininizde yer alan kollajen desteğinizin bağ dokusuna daha iyi yerleşmesine ve cilt elastikiyetini artırmasına yardımcı olur. Ara öğünlerdeki limonlu ve kaya tuzlu maden suyu da elektrolit dengenizi sağlayarak lenf akışınızı destekleyecek ince bir detaydır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1041,6 +1041,6 @@
   ],
   "olusturmaTarihi": "2026-03-03T15:34:23.401Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:01:09.639Z",
+  "sonGuncelleme": "2026-03-17T08:01:21.894Z",
   "githubKaydedildi": true
 }
