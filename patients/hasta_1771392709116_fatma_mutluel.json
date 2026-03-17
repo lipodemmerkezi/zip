@@ -1275,10 +1275,27 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "ekNotlar": "Merhaba Fatma Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 5. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n[14:47, 07.03.2026] Fatma Mutluel LİPÖDEM Denizli Yp Danışmanlık: Hocam ben üç gündür kabızlık yaşıyorum ne yapayım\n[15:17, 07.03.2026] Prof.Dr. Mustafa Saçar: Merhaba Fatma hanım, kabızlık için akşam yatmadan önce iki kaşık sızma zeytinyagı içelim. Akşam iftarda salatamıza bir yemek kaşığı kadar öğütülmüş keten tohumu ekleyelim bunlar sindirim sistemini rahatlatır. Buna rağmen devam ederse ilaç önereceğim\n[15:17, 07.03.2026] Prof.Dr. Mustafa Saçar: Aynı zamanda günlük 2 litre kadar su içmemiz çok önemli. Ve yürüyüş çok önemli özellikle yemeklerden sonra yarım saat yürüyüş öneriyorum\n[15:23, 07.03.2026] Fatma Mutluel LİPÖDEM Denizli Yp Danışmanlık: Tmm hocam\nkabozlık durumu nasıl oldu vs soraım. önerilerde bulunalım"
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-03-22",
+      "bitis": "2026-03-28",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-02-18T05:31:49.116Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-11T09:43:05.204Z",
+  "sonGuncelleme": "2026-03-17T08:11:26.818Z",
   "githubKaydedildi": true
 }
