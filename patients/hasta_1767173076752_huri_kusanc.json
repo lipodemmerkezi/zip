@@ -3227,24 +3227,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-03-22",
-      "bitis": "2026-03-28",
+      "baslangic": "2026-03-23",
+      "bitis": "2026-03-29",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HURİ KUŞANÇ 23-29 MART 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "HURİ KUŞANÇ 23-29 MART 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/HURİ KUŞANÇ 23-29 MART 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/HURİ KUŞANÇ 23-29 MART 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/HURİ KUŞANÇ 23-29 MART 12. HAFTA.pdf",
+      "kayitTarihi": "2026-03-17T08:59:59.149Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2025-12-31T09:24:36.752Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:59:43.182Z",
+  "sonGuncelleme": "2026-03-17T08:59:59.153Z",
   "githubKaydedildi": true
 }
