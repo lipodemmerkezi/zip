@@ -395,24 +395,6 @@
         "type": "upload",
         "addedAt": "2026-03-18T13:21:04.688Z"
       }
-    ],
-    "2026-03-23": [
-      {
-        "name": "_Bilgilendirme_Kiraz_misir_cayi.jpeg",
-        "cleanName": "Kiraz_misir_cayi.jpeg",
-        "prefix": "_Bilgilendirme_",
-        "url": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/fix_kartlar%20/%20_Bilgilendirme_Kiraz_misir_cayi.jpeg",
-        "type": "upload",
-        "addedAt": "2026-03-18T13:27:40.021Z"
-      },
-      {
-        "name": "_Bilgilendirme_Limonlu_naneli_su.jpeg",
-        "cleanName": "Limonlu_naneli_su.jpeg",
-        "prefix": "_Bilgilendirme_",
-        "url": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/fix_kartlar%20/%20_Bilgilendirme_Limonlu_naneli_su.jpeg",
-        "type": "upload",
-        "addedAt": "2026-03-18T13:27:51.240Z"
-      }
     ]
   },
   "settings": {
