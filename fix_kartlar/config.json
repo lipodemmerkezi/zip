@@ -406,16 +406,19 @@
       "hafta_13": {
         "tarif": "EK_",
         "upload": "_HAFTALIK_BİLGİ_KARTI_"
+      },
+      "tarih_2026-03-23": {
+        "tarif": "EK_",
+        "upload": "_Bilgilendirme_"
       }
     },
     "prefixesTarif": [
-      "EK_",
-      "Ramazan_Ek_tarif___"
+      "EK_"
     ],
     "prefixesUpload": [
       "_HAFTALIK_BİLGİ_KARTI_"
     ],
     "lastUsedPrefixUpload": "_Bilgilendirme_",
-    "lastUsedPrefixTarif": "Ramazan_Ek_tarif___"
+    "lastUsedPrefixTarif": "EK_"
   }
 }
