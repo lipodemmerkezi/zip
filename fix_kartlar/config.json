@@ -437,17 +437,16 @@
       },
       "tarih_2026-03-23": {
         "tarif": "EK_",
-        "upload": "_Bitki çayı_"
+        "upload": "_Bilgilendirme_"
       }
     },
     "prefixesTarif": [
       "EK_"
     ],
     "prefixesUpload": [
-      "_HAFTALIK_BİLGİ_KARTI_",
-      "_Bitki çayı_"
+      "_HAFTALIK_BİLGİ_KARTI_"
     ],
-    "lastUsedPrefixUpload": "_Bitki çayı_",
+    "lastUsedPrefixUpload": "_Bilgilendirme_",
     "lastUsedPrefixTarif": "EK_"
   }
 }
