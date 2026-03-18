@@ -436,7 +436,7 @@
         "upload": "_HAFTALIK_BİLGİ_KARTI_"
       },
       "tarih_2026-03-23": {
-        "tarif": "_bitki_cayi",
+        "tarif": "EK_",
         "upload": "_Bilgilendirme_"
       }
     },
@@ -448,6 +448,6 @@
       "_HAFTALIK_BİLGİ_KARTI_"
     ],
     "lastUsedPrefixUpload": "_Bilgilendirme_",
-    "lastUsedPrefixTarif": "_bitki_cayi"
+    "lastUsedPrefixTarif": "EK_"
   }
 }
