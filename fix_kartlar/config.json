@@ -437,16 +437,17 @@
       },
       "tarih_2026-03-23": {
         "tarif": "EK_",
-        "upload": "_Bilgilendirme_"
+        "upload": "_bitki_cayi"
       }
     },
     "prefixesTarif": [
       "EK_"
     ],
     "prefixesUpload": [
-      "_HAFTALIK_BİLGİ_KARTI_"
+      "_HAFTALIK_BİLGİ_KARTI_",
+      "_bitki_cayi"
     ],
-    "lastUsedPrefixUpload": "_Bilgilendirme_",
+    "lastUsedPrefixUpload": "_bitki_cayi",
     "lastUsedPrefixTarif": "EK_"
   }
 }
