@@ -395,6 +395,16 @@
         "type": "upload",
         "addedAt": "2026-03-18T13:21:04.688Z"
       }
+    ],
+    "2026-03-23": [
+      {
+        "name": "_Bilgilendirme_Kiraz_m_s_r__ay_.jpeg",
+        "cleanName": "Kiraz_m_s_r__ay_.jpeg",
+        "prefix": "_Bilgilendirme_",
+        "url": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/fix_kartlar%20/%20_Bilgilendirme_Kiraz_m_s_r__ay_.jpeg",
+        "type": "upload",
+        "addedAt": "2026-03-18T13:24:17.365Z"
+      }
     ]
   },
   "settings": {
