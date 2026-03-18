@@ -367,6 +367,16 @@
         "url": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/domatesli_kabak_corbasi.jpg",
         "type": "tarif"
       }
+    ],
+    "2026-03-23": [
+      {
+        "name": "_Bitki çayı_Kiraz_m_s_r__ay_.jpeg",
+        "cleanName": "Kiraz_m_s_r__ay_.jpeg",
+        "prefix": "_Bitki çayı_",
+        "url": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/fix_kartlar%20/ _Bitki çayı_Kiraz_m_s_r__ay_.jpeg",
+        "type": "upload",
+        "addedAt": "2026-03-18T13:19:26.234Z"
+      }
     ]
   },
   "settings": {
