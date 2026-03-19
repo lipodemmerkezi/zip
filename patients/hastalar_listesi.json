@@ -1,12 +1,5 @@
 [
   {
-    "id": 1766496007546,
-    "isim": "ADİLE BİLGEN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-03-17T09:04:47.186Z"
-  },
-  {
     "id": 1767391305002,
     "isim": "assa",
     "not": "",
@@ -204,6 +197,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-02-06T06:49:58.770Z"
+  },
+  {
+    "id": 1766496007546,
+    "isim": "ADİLE BİLGEN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-03-19T05:54:02.508Z"
   },
   {
     "id": 14,
