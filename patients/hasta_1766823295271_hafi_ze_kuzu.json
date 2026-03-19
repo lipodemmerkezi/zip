@@ -2,7 +2,7 @@
   "id": 1766823295271,
   "isim": "HAFİZE KUZU",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3772,6 +3772,6 @@
   ],
   "olusturmaTarihi": "2025-12-27T08:14:55.271Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T09:11:21.695Z",
+  "sonGuncelleme": "2026-03-19T05:54:28.041Z",
   "githubKaydedildi": true
 }
