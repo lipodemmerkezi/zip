@@ -2,7 +2,7 @@
   "id": 1766496007546,
   "isim": "ADİLE BİLGEN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 2,
@@ -3804,6 +3804,6 @@
   ],
   "olusturmaTarihi": "2025-12-23T13:20:07.546Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T09:04:41.600Z",
+  "sonGuncelleme": "2026-03-19T05:53:59.309Z",
   "githubKaydedildi": true
 }
