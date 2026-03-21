@@ -49,7 +49,7 @@
   "ipLogs": [],
   "securityAlerts": [],
   "createdAt": "2025-11-30T12:11:00.085Z",
-  "updatedAt": "2026-03-21T15:32:06.837Z",
+  "updatedAt": "2026-03-21T15:32:07.987Z",
   "weeks": [
     {
       "id": 1772862679542,
@@ -4137,6 +4137,15 @@
     },
     {
       "id": 1774107125854,
+      "name": "2. Hafta",
+      "weekNumber": 2,
+      "startDate": "2026-03-16",
+      "endDate": "2026-03-22",
+      "dietType": "eliminasyonlu_ketojenik",
+      "days": []
+    },
+    {
+      "id": 1774107127488,
       "name": "2. Hafta",
       "weekNumber": 2,
       "startDate": "2026-03-16",
