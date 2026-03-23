@@ -3,9 +3,27 @@
   "isim": "TÜLİN CAN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-03-22",
+      "bitis": "2026-03-28",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-23T14:49:40.603Z",
+  "sonGuncelleme": "2026-03-23T14:49:54.173Z",
   "githubKaydedildi": true
 }
