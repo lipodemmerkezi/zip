@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
-      "kayitTarihi": "2026-03-24T11:49:08.974Z",
+      "kayitTarihi": "2026-03-24T11:56:40.693Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -112,7 +112,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "\n\nMerhaba Seher Hanım,\n\nPerşembe günü itibarıyla sürecimize adım atıyoruz. Adım adım ilerleyeceğimiz, sade ama bedeniniz için çok etkili bir yolculuk olacak. Birlikte belirli hedefler koyarak, bedeninizi dinleyerek ilerleyeceğiz. \n\nÖncelikle lipödemin doğası hakkında kısa bir pencere açmak istiyorum. Bacaklarda ve kollarda simetrik yağ birikimiyle kendini gösteren lipödem, sıklıkla obeziteyle karıştırılsa da genetik ve hormonal temelli, kronik ve iltihabi bir durumdur. Ancak doğru beslenme stratejileri ve yaklaşımlarla bu durumu yönetmek, ilerlemesini durdurmak ve geriletmek kesinlikle bizim elimizde.\n\nBu ilk adımda süt ve süt ürünlerini kısa bir süreliğine mutfağımızdan uzaklaştırıyoruz. Amacımız vücuttaki gizli gıda duyarlılıklarını dinlendirmek, dokulardaki inflamasyonu yani yangıyı azaltmak ve bağırsak floramızı güçlendirmek için temiz bir zemin hazırlamak. Süt ürünleri yerine, menünüzde de bolca göreceğiniz üzere yumurtayı temel protein kaynağımız yaptık. Sebzeli omletler, sahanda yumurta veya badem unlu krep gibi seçeneklerle hem doyurucu hem de onarıcı bir yapı oluşturduk. Yumurta; A, D ve B12 vitaminleri ile selenyum ve kolin gibi lipödem sürecinde doku onarımını destekleyen muazzam mikro besinler içerir. İlerleyen haftalarda süt ürünleri kontrollü olarak geri döndüğünde yumurta tüketimimiz de doğal olarak dengelenecektir.\n\nMenünüze eklediğimiz balık, zeytinyağlı sebze yemekleri, patlıcan musakka ve bol yeşillikli salatalar tamamen lenfatik sistemi destekleyecek şekilde seçildi. Salatalarınıza ekleyeceğiniz sirke ve limon, kan şekerini dengelerken lenf akışını rahatlatacaktır. Tahin, ceviz, badem ve fındık gibi sağlıklı yağlar ise hücre zarlarını koruyup kan dolaşımını destekleyen magnezyum açısından oldukça zengindir. \n\nBu döneme özel olarak takviye tarafında sizin için küçük bir düzenleme yaptık. Standart destekler yerine Asist kullanımını uygun gördük; bu sayede vücudun antioksidan kapasitesini artırarak ödem atımını ve hücresel temizliği çok daha güçlü bir şekilde destekleyeceğiz. Ayrıca temin etmenizi istediğimiz kollajeni de günlük rutininize dahil ettik. Kollajen, bağ dokusunu güçlendirerek lipödemli bölgelerdeki cilt kalitesini artıracak ve dolaşıma içeriden çok büyük bir destek verecektir.\n\nSürecimizi takip ederken tartıdaki rakamlardan ziyade bedeninizin vereceği tepkilere, yani incelmeye odaklanacağız. Bu nedenle her iki haftada bir, pazar günleri bel, kalça ve bacak çevresi ölçümlerinizi almanızı rica ediyorum. Bu değişimleri not etmeniz, yolculuğumuzu çok daha net görmemizi sağlayacak. Günlük su tüketiminizi artırmayı da lütfen ihmal etmeyin.\n\nBaşlangıçlar bazen adaptasyon gerektirebilir ancak çok kısa süre içinde bedeninizdeki o hafiflemeyi hissedeceksiniz. Bu süreci küçük ama sağlam adımlarla birlikte yöneteceğiz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -184,6 +184,6 @@
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-24T11:51:57.904Z",
+  "sonGuncelleme": "2026-03-24T11:56:40.727Z",
   "githubKaydedildi": true
 }
