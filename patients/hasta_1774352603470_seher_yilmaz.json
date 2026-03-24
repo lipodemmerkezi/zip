@@ -6,7 +6,7 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-03-26",
+      "baslangic": "2026-03-23",
       "bitis": "2026-03-29",
       "aciklama": "",
       "pdf": null,
@@ -16,17 +16,121 @@
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
       "kayitTarihi": "2026-03-24T11:49:08.974Z",
-      "tarifKartlar": [],
-      "tarifler": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "tahin ekmeği (1 dilim)",
+          "kartResmi": "tahin_ekmegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tahin_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kıymalı taze fasulye / kabak yemeği",
+          "kartResmi": "kiymali_taze_fasulye.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_taze_fasulye.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı taze fasulye / kabak yemeği",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "sulu et kızartması",
+          "kartResmi": "sulu_et_kizartmasi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/sulu_et_kizartmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli kaşık salatası",
+          "kartResmi": "cevizli_kasik_salatasi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/cevizli_kasik_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "patlıcan musakka (150 gr kıyma ile)",
+          "kartResmi": "patlican_musakka.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/patlican_musakka.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "seher yilmaz",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ) ya da yarım",
+        "hafta",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon ile)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "tahin ekmeği (1 dilim)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kıymalı taze fasulye / kabak yemeği",
+        "mevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 tatlı kaşığı",
+        "tahin ekmeği (1 dilim)",
+        "kollajen (1 ölçek 5 gram)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (5 adet)",
+        "tahin ekmeği (1 dilim)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ile)",
+        "bitter çikolata (2 kare)",
+        "akşam (tercihen hava kararınca)",
+        "sulu et kızartması",
+        "cevizli kaşık salatası",
+        "tahin ekmeği (1 dilim)",
+        "fındık (20 adet)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı",
+        "kısık ateşte arkalı önlü pişirin.)",
+        "hindi füme (2 dilim)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararmadan önce)",
+        "patlıcan musakka (150 gr kıyma ile)",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı",
+        "tahin ekmeği (1 dilim)",
+        "kollajen (1 ölçek 10 gram)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
+        "yemeklerinize ve salatalara seviyorsanız sarımsak ekleyebilirsiniz.",
+        "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
+        "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
+      ],
       "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
-      "manuelKartlar": []
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "tahin ekmeği (1 dilim)",
+        "kıymalı taze fasulye / kabak yemeği",
+        "tahin ekmeği (1 dilim)",
+        "tahin ekmeği (1 dilim)",
+        "sulu et kızartması",
+        "cevizli kaşık salatası",
+        "tahin ekmeği (1 dilim)",
+        "patlıcan musakka (150 gr kıyma ile)",
+        "tahin ekmeği (1 dilim)"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-24T11:49:08.975Z",
+  "sonGuncelleme": "2026-03-24T11:49:12.544Z",
   "githubKaydedildi": true
 }
