@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-03-22",
-      "bitis": "2026-03-28",
+      "baslangic": "2026-03-26",
+      "bitis": "2026-03-29",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEHER YILMAZ 26-29 MART 1. HAFTA.pdf",
+      "kayitTarihi": "2026-03-24T11:49:08.974Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-24T11:44:44.001Z",
+  "sonGuncelleme": "2026-03-24T11:49:08.975Z",
   "githubKaydedildi": true
 }
