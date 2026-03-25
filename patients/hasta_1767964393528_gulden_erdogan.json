@@ -3155,24 +3155,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-03-29",
-      "bitis": "2026-04-04",
+      "baslangic": "2026-03-30",
+      "bitis": "2026-04-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GÜLDEN ERDOĞAN 30 MART -5 NİSAN 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "GÜLDEN ERDOĞAN 30 MART -5 NİSAN 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/GÜLDEN ERDOĞAN 30 MART -5 NİSAN 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLDEN ERDOĞAN 30 MART -5 NİSAN 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLDEN ERDOĞAN 30 MART -5 NİSAN 12. HAFTA.pdf",
+      "kayitTarihi": "2026-03-25T13:17:51.072Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-09T13:13:13.528Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-25T13:17:31.017Z",
+  "sonGuncelleme": "2026-03-25T13:17:51.075Z",
   "githubKaydedildi": true
 }
