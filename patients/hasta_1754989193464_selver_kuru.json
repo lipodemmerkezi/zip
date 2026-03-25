@@ -8701,25 +8701,28 @@
     },
     {
       "haftaNo": 34,
-      "baslangic": "2026-03-29",
-      "bitis": "2026-04-04",
+      "baslangic": "2026-03-30",
+      "bitis": "2026-04-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SELVER KURU 30 MART -5 NİSAN 34. HAFTA.pdf",
+      "pdfOrijinalIsim": "SELVER KURU 30 MART -5 NİSAN 34. HAFTA.pdf",
+      "pdfYolu": "pdfs/SELVER KURU 30 MART -5 NİSAN 34. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SELVER KURU 30 MART -5 NİSAN 34. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SELVER KURU 30 MART -5 NİSAN 34. HAFTA.pdf",
+      "kayitTarihi": "2026-03-25T13:11:10.091Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2025-08-12T08:59:53.464Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-25T13:10:40.130Z",
+  "sonGuncelleme": "2026-03-25T13:11:10.099Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
