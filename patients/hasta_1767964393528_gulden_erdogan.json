@@ -3152,10 +3152,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhaba Gülden Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 11. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n[08:46, 07.03.2026] Prof.Dr. Mustafa Saçar: Merhaba Gülden hanım, ölçümleriniz başlangıçtan itibaren oldukça iyi seyrediyor. Alt beden incelmesi gayet başarılı. Siz nasıl hissediyorsunuz? Kıyafetlerdeki değişim nasıl? Genel sağlık durumunuz ve enerji düzeyiniz nasıl?, Lenf drenaj masajı için yeterli zaman ayırabiliyor muyuz?\n[10:20, 07.03.2026] Gülden Erdoğan Lipödem Denizli Yp+danışmanlık 3 AY: Merhaba enerji düzeyim güzel mesajlarımı da yapıyorum kendimi iyi hissediyorum sağ olun İyi günler\nyeni ölçmü gönderirse apzar günü değerlendireiblecğeimizi vs anlat. süreci sor."
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-03-29",
+      "bitis": "2026-04-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-01-09T13:13:13.528Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-17T08:56:04.412Z",
+  "sonGuncelleme": "2026-03-25T13:17:31.017Z",
   "githubKaydedildi": true
 }
