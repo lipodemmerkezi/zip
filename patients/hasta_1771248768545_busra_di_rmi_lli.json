@@ -1761,7 +1761,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
-      "gptMesaj": "",
+      "gptMesaj": "\nMerhaba Büşra Hanım,\n\nBedeninizin yavaş yavaş yeni ritmine uyum sağladığı, dokularınızdaki o sertliğin yerini yumuşamaya bıraktığı çok kıymetli bir döneme giriyoruz. Bacaklarınızdaki bu hafifleme ve yumuşama hissi, içerideki inflamasyonun azaldığının ve hapsolmuş sıvıların artık serbest kalmaya başladığının en net fizyolojik işaretidir. Bu çözülme sürecini en verimli şekilde yönetmek için manuel lenf drenaj masajına düzenli olarak devam etmeniz tam da bu aşamada büyük bir önem taşıyor. Serbest kalan toksinlerin ve sıvıların vücuttan uzaklaştırılması, masajın lenfatik sistemi uyarıcı etkisiyle çok daha akıcı hale gelecektir.\n\nBu hafta itibarıyla, sürecin başından beri hayatınızda olan takviyelerin vücudunuzda nasıl bir iş bölümü yaptığını biraz daha detaylandırmak istiyorum. Boswellia serrata ve kurkumin, lipödemli dokulardaki o sessiz iltihaplanmayı baskılayarak ağrı ve sertlik hissini içeriden onarır. Koenzim Q10 hücrelerimizin enerji santrallerini destekleyip yavaşlayan yağ çözülme sürecine ivme kazandırırken, astaksantin ve resveratrol damar yapısını koruyup lenf sisteminin taşıma kapasitesini artırır. Bromelain ise ananastan elde edilen doğal bir enzim olarak, tam da şu an bacaklarınızda hissettiğiniz o yumuşama sürecini destekleyerek sıkışmış dokuları daha geçirgen hale getirir. Günlük rutininizde yer alan kollajen desteğiniz de, incelme süreciyle birlikte cilt elastikiyetini koruyarak sarkmaların önüne geçmek için bu ekibin en önemli parçalarından biri olmaya devam ediyor.\n\nBeslenme tarafında da bu hücresel iyileşmeyi destekleyecek güçlü bir yapı oluşturduk. Menünüzdeki kuzu güveç, fırın balık, köfte ve kebap gibi kaliteli proteinler, içerdikleri selenyum ve B12 vitamini ile doku onarımını sürdürüyor. Gün içinde tüketeceğiniz kabak çekirdeği, çiğ badem, ceviz ve fındık gibi yağlı tohumlar, yüksek magnezyum ve çinko kapasiteleriyle kas fonksiyonlarınızı rahatlatarak masajın etkisini içeriden destekliyor. Özellikle magnezyum, lenfatik pompalama mekanizması için kritik bir mineraldir. Ispanak, lahana, karnabahar ve bol yeşillikli salatalarınız ise güçlü birer C vitamini kaynağı olarak kollajen sentezini uyarır ve karaciğerin detoks yükünü hafifletir. Ev yapımı turşu ve peynir çeşitlerimizle de bağırsak floranızı beslemeye devam ediyoruz.\n\nSürecin bu haftalarında, bedensel değişimlerle birlikte bazen duygusal yeme eğilimleri veya tatlı istekleri yüzeye çıkabilir. Menünüzde yer alan ketojenik tost, lor ekmeği, browni kurabiye ve tahinli cevizli alternatifler, kan şekerinizi aniden dalgalandırmadan size keyifli seçenekler sunmak için eklendi. Fizyolojik açlığı doğru yağ ve proteinlerle yönettiğimizde, duygusal dalgalanmaların yeme davranışına dönüşmesini çok daha rahat kontrol edebiliyoruz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1870,12 +1870,13 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
-      ]
+      ],
+      "ekNotlar": "BACAKLARINDA YUMUŞAMALAR OLMUŞ. MASAJI DÜZENLİ YAPMASINI ÖNERELİM.\nMerhaba Büşra Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-02-16T13:32:48.545Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T09:54:18.719Z",
+  "sonGuncelleme": "2026-03-26T09:57:48.515Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
