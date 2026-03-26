@@ -1594,7 +1594,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "\n\nMerhaba Sema Hanım, nasılsınız? Umarım her şey yolundadır.\n\nAltıncı haftaya geçerken artık programın büyük kısmının oturduğunu, beslenme düzenine alıştığınızı ve sürecin akışına uyum sağladığınızı biliyorum. Geçtiğimiz hafta hayatınıza dahil ettiğimiz manuel lenf drenaj masajlarının nasıl gittiğini de merak ediyorum doğrusu. Bu noktada hem genel bir değerlendirme yapmak hem de hücresel düzeyde devreye giren çok önemli bir konuyu sizinle paylaşmak istiyorum, mikrobesinlerin lipödem tedavisindeki rolü.\n\nLipödem tedavisinde yalnızca tartıdaki rakamlar değil, bölgesel incelme, kıyafetlerinizin bollaşması ve doku kalitesindeki iyileşme asıl göstergelerimizdir. Bu derin iyileşmeyi sağlamak için vitamin ve mineraller gibi küçük miktarlarda ihtiyaç duyduğumuz ama mitokondrilerimizde, yani hücrelerimizin enerji santrallerinde devasa görevler üstlenen bileşiklere odaklanıyoruz. Bu haftaki menünüzü tam da bu hücresel onarımı, antiinflamatuar etkiyi ve kan dolaşımını destekleyecek şekilde kurguladık.\n\nMenünüzde yer alan dana bonfile, fırın balık, tavuk güveç, tepsi kebabı ve çeşitli formlarda tüketeceğiniz yumurtalar B12 vitamini, selenyum ve D vitamini açısından çok güçlü kaynaklardır. Bu besinler sinir sistemi sağlığınızı korurken, kronik inflamasyonu yatıştırır ve lipödemli dokulardaki hücresel yenilenmeyi hızlandırır. Beden yeterli proteini ve bu değerli vitaminleri aldığında, iyileşme süreci çok daha kalıcı hale gelir.\n\nÖğünlerinize eklediğimiz kabak çekirdeği, çiğ badem, fındık, tahin ve cevizli browni kek gibi sağlıklı yağ ve tohumlar, magnezyum ve çinko depolarınızı doldurmak için listedeler. Çinko, hücresel onarım ve yağ metabolizmasında rol oynarken, magnezyum kaslarınızı rahatlatıp uyku düzeninizi destekler. Aynı zamanda magnezyum, dışarıdan uyguladığınız lenf masajının etkisini içeriden artırarak lenfatik dolaşımı çok daha akışkan hale getirir.\n\nBolca tüketeceğiniz roka, tere, dereotu, brokoli ve köz biber salatası gibi sebzeler ise yüksek C vitamini içerikleriyle vücudun kolajen üretimini tetikler. Rutin olarak kullanmaya devam ettiğiniz toz kollajen takviyesi ile bu doğal C vitamini kaynakları birleştiğinde, damar yapınız güçlenir, cilt elastikiyetiniz artar ve dokulardaki sıkılaşma hızlanır.\n\nBu hafta tüketeceğiniz her bir besin, vücuttaki sessiz iltihabı baskılamak ve lenfatik sistemi rahatlatmak üzere özel olarak seçildi. Bu antiinflamatuar yapı, bölgesel ölçülerde istediğimiz ilerlemeyi kaydetmemiz ve dolaşım sistemini desteklememiz için en büyük yardımcımız olacak. Yeterli mikrobesin alındığında hücreler daha verimli çalışır, enerji üretimi artar ve kendinizi çok daha zinde hissedersiniz. Altıncı haftadan itibaren artık bu derin katmana daha bilinçli yaklaşmak, süreci çok daha etkili hale getirecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1690,11 +1690,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "ldm nasıl gidiyor?\nprogram uyumu ve takipleri iyi\nMerhaba Sema Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-02-21T09:40:27.630Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T08:31:05.644Z",
+  "sonGuncelleme": "2026-03-26T08:57:34.512Z",
   "githubKaydedildi": true
 }
