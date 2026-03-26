@@ -1110,7 +1110,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "\nMerhaba Merve Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nSürecimizde dördüncü haftaya adım atıyoruz. Mezura ölçümlerinizde yakaladığımız o istikrarlı ilerleme ve bölgesel incelme, bedeninize doğru yakıtı verdiğimizin en net göstergesi. Bu düzene devam ettiğimiz sürece, içerideki hücresel onarımın dışarıya çok daha belirgin yansıdığını göreceğiz. Artık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nLipödem ve bölgesel incelme sürecinde sıkça düşülen bir yanılgı vardır; az yemenin başarı getireceğine inanmak. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Uzun süreli açlık ya da yetersiz enerji alımı durumunda açlık hormonu olan ghrelin devreye girer ve beyne yemek zamanı geldi mesajı gönderir. Bu sinyaller bizi hızlıca karbonhidratlara yönlendirir. Çok az yemek dışarıdan bakıldığında kontrollü gibi görünse de içeride metabolizmayı yavaşlatır, vücut enerji tasarrufuna geçer ve motivasyon kayıpları başlar. Bizim amacımız kalorileri kısmak değil, insülin dengesini korurken bedeni içeriden tam anlamıyla doyurmaktır.\n\nBu haftaki menünüzde yer alan somon, köfte, mantarlı tavuk sote ve hindi füme gibi kaliteli hayvansal proteinler tam da bu amaca hizmet ediyor. Hayvansal proteinler, aminoasit profili açısından çok zengindir; kas ve eklem sağlığınızı korurken bağışıklığınızı destekler ve lipödemli dokunun onarımı için gereken temel yapıtaşlarını sunar. Enerji kaynağı olarak bu proteinleri avokado, ceviz, çiğ badem ve kabak çekirdeği gibi sağlıklı yağlarla destekledik. Bu kombinasyon hem sizi uzun süre tok tutacak hem de magnezyum ve selenyum ihtiyacınızı doğal yollardan karşılayarak doku esnekliğinizi artıracaktır.\n\nGeçtiğimiz hafta hayatınıza kontrollü bir şekilde yeniden dahil ettiğimiz tulum peyniri, kaşar ve ev yoğurdu gibi süt ürünleri, bağırsak floranızı desteklemeye devam ediyor. Bu noktada rutininize eklediğimiz prebiyotiklere başlayıp başlamadığınızı da sormak isterim; zira bağırsak sağlığı, iştah kontrolü ve ödemin çözülmesi için sürecimizin temel taşlarından biridir. Menünüzdeki yeşillikler, limon ve sirke ile hazırladığınız salatalar, C vitamini açısından zengin yapılarıyla aldığınız kollajenin emilimini maksimuma çıkaracak ve bağ dokunuzun toparlanmasını hızlandıracaktır. Ketojenik pizza ve lupin unlu poğaça gibi alternatifler de bu süreçte kan şekerinizi dalgalandırmadan keyifli öğünler yapmanızı sağlayacak.\n\nGün içinde tükettiğiniz kaya tuzlu ve limonlu maden suyu, hücre içi mineral dengenizi koruyarak lenfatik dolaşımınızı rahatlatmayı sürdürecek. Bedeninizi doğru yakıtla, tam doyarak ve metabolizmayı hiç yavaşlatmadan beslediğimiz bu yapının size ne kadar iyi geldiğini gün geçtikçe daha net hissedeceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\n",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1211,11 +1211,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "ölçümleri iyi. devam ettiği sürece daha iyi sonuçlar göreceğiz.\nprebiyotiklere başlamış mı soralım.\nMerhaba Merve Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-03-04T14:24:15.861Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T08:20:06.671Z",
+  "sonGuncelleme": "2026-03-26T08:23:13.698Z",
   "githubKaydedildi": true
 }
