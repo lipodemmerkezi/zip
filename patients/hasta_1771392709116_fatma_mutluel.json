@@ -1586,7 +1586,7 @@
       "pdfYolu": "pdfs/FATMA MUTLUEL 30 MART -5 NİSAN 7. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA MUTLUEL 30 MART -5 NİSAN 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA MUTLUEL 30 MART -5 NİSAN 7. HAFTA.pdf",
-      "kayitTarihi": "2026-03-26T05:35:40.411Z",
+      "kayitTarihi": "2026-03-26T10:03:41.170Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kaşar peynirli simit poğaça (3 adet için)",
@@ -1747,7 +1747,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "\nMerhaba Fatma Hanım,\n\nSürecimizin yedinci haftasına adım atarken, içsel enerjinizin ve motivasyonunuzun bu denli yüksek olması sürecin en değerli yansımalarından biri. Bedeninizin yeni düzene uyum sağladığını, hücresel düzeyde rahatladığını hissetmek ve bu pozitif ruh halini koruduğunuzu bilmek, doğru adımlarla ilerlediğimizin en güzel kanıtı. Bu olumlu gidişatı somut verilerle de takip edebilmek adına, bu hafta güncel ölçümlerinizi bizimle paylaşmanızı rica ediyorum. Mezura sonuçlarındaki değişimler, dokulardaki inflamasyonun ne ölçüde azaldığını ve lenfatik sistemin ne kadar rahatladığını bize çok net gösterecektir.\n\nBu haftaki beslenme planınızı, bölgesel incelme hedeflerinize ve lenfatik sisteminizin ihtiyaçlarına doğrudan yanıt verecek şekilde yapılandırdık. Menünüzdeki kuzu güveç, ızgara balık, köfte ve adana kebap gibi kaliteli protein kaynakları, doku onarımını sağlarken metabolizma hızınızı canlı tutacak. Özellikle balık ve cevizden gelen selenyum ile Omega 3 yağ asitleri, lipödemli dokulardaki hassasiyeti ve ödemi hafifletmede en büyük yardımcılarımızdan. Ara öğünlerdeki çiğ badem, fındık ve kabak çekirdeği ise magnezyum ve çinko depolarınızı doldurarak kaslarınızı rahatlatacak, lenf akışını destekleyecektir.\n\nYeşilliklerinizi sirke, limon ve zeytinyağı üçlüsüyle tüketme alışkanlığınız, mide asidini dengeleyerek hayvansal gıdalardan aldığımız demir, B12 gibi hayati mikro besinlerin emilimini en üst düzeye çıkarıyor. Aynı zamanda çilek ve bol limonlu roka salatası gibi C vitamini kaynakları, menünüzdeki toz kollajen ile birleştiğinde cilt elastikiyetini artırarak incelme sürecinde dokuların sıkılaşmasına zemin hazırlıyor. \n\nBesinlerden aldığımız bu güçlü desteğin yanı sıra, programın başından beri hayatınızda olan takviyelerin lipödem tedavisindeki sessiz ama derin etkilerinden de bahsetmek istiyorum. Belki bu liste başta biraz uzun gelmiş olabilir ancak her birinin dokularınızda çok özel bir görevi var. Örneğin Boswellia ve Kurkumin, vücuttaki o sessiz iltihabı baskılayarak ağrı ve sertlik hissini azaltır. Hafifleyen dokular ödemini çok daha rahat bırakır. Koenzim Q10 hücrelerinizin enerji santrallerini çalıştırırken, Astaksantin ve Resveratrol damar sağlığınızı koruyup lenf sisteminin taşıma kapasitesini artırır. Ananas özü olan Bromelain ise sertleşmiş dokuların çözülmesine ve geçirgenliğinin artmasına destek olur. Beslenme, masaj ve bu takviyeler bir araya geldiğinde, iyileşme içeriden dışarıya kalıcı bir hale dönüşür.\n\nBu hücresel dengeyi kurdukça, bedenin sadece fiziksel değil, ruhsal olarak da doyuma ulaştığını fark edeceksiniz. Kan şekerindeki dalgalanmaların azalması, geçmişte veya stresli anlarda yaşanabilen duygusal yeme ataklarının da kendiliğinden sönümlenmesini sağlar. Menünüzdeki tahinli cevizli karışım, browni kurabiye veya ketojenik tost gibi doyurucu alternatifler, insülin dengenizi koruyarak sizi duygusal açlıktan uzak tutar ve tokluk hissini uzun saatlere yayar. \n\nBedeninizi dinlemeye ve bu güzel enerjinizi korumaya devam edin. Güncel ölçümlerinizi bekliyor olacağım.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1861,6 +1861,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T05:31:49.116Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T10:03:38.744Z",
+  "sonGuncelleme": "2026-03-26T10:03:41.598Z",
   "githubKaydedildi": true
 }
