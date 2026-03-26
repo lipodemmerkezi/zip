@@ -1442,7 +1442,7 @@
       "pdfYolu": "pdfs/HATİCE KANA 30 MART -5 NİSAN 7. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/HATİCE KANA 30 MART -5 NİSAN 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/HATİCE KANA 30 MART -5 NİSAN 7. HAFTA.pdf",
-      "kayitTarihi": "2026-03-26T05:36:47.603Z",
+      "kayitTarihi": "2026-03-26T10:23:28.055Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1622,7 +1622,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\nMerhaba Hatice Hanım, nasılsınız? Umarım iyisinizdir. \n\nBayram telaşı ve tatil ritmi derken rutinin biraz dışına çıkmak, günlük koşturmaca içinde bazı uygulamaları aksatmak son derece doğal bir durumdur. Masajlara ara vermiş olmanız sürecimizi kesinlikle geriye götürmez, bu konuda içiniz rahat olsun. Sadece takvimimizi biraz esneterek, masaj süresini uzatıp kaldığımız yerden aynı özenle devam edeceğiz. Bu vesileyle güncel ölçümlerinizi de rica edeyim, bedeninizdeki değişimi rakamlarla da takip etmek yol haritamızı her zaman daha da netleştirecektir.\n\nYedinci haftamıza girerken artık beslenme düzeninize bedeninizin büyük ölçüde uyum sağladığını biliyoruz. Bu dönemde, sürecin başından beri hayatımızda olan takviyelerin lipödemli dokuda arka planda nasıl çalıştığını biraz daha yakından konuşalım istiyorum. Boswellia serrata ve kurkumin gibi bitkisel özler, vücutta sessizce süren inflamasyonu baskılayarak ağrıya ve sertliğe yol açan süreçleri sakinleştirir. Bromelain ise sertleşmiş dokuların geçirgenliğini artırarak ödemin çözülmesine destek olur. Masajlarınıza yeniden başladığınızda, bu takviyelerin dokuları nasıl yumuşattığını daha iyi hissedeceksiniz.\n\nHücrelerimizin enerji yakıtı olan koenzim Q10 ve damar sağlığını destekleyen resveratrol, yağ dokusundaki çözülme sürecini verimli hale getirir. Cilt elastikiyetini artırmak için doğadaki en güçlü antioksidanlardan astaksantin ve menünüzde de yer alan kollajen tozunu kullanıyoruz. Lipödem sürecinde bölgesel incelmeler yaşandıkça ciltte oluşabilecek boşlukları toparlamak için kollajen çok kıymetli bir destektir.\n\nBu haftaki menümüzü de bu hücresel iyileşmeyi destekleyecek mikro besinlerle donattık. Öğünlerinize eşlik edecek dereotu, roka, marul, kırmızı lahana ve kırmızı pancardan oluşan mevsim salatalarımız, içerdikleri yüksek C vitamini ile kollajen emilimini artırır. Bu yeşilliklerin üzerine ekleyeceğiniz sirke ve limon, mide asidini dengeleyerek hem sindirimi rahatlatır hem de magnezyum gibi minerallerin vücuda kazandırılmasını sağlar. Magnezyum, lenfatik akışın düzenlenmesinde ve kasların rahatlamasında kilit rol oynar. \n\nKahvaltılarımızda yer alan lupin unlu poğaça veya haşhaş ezmesi ekmeğiyle hazırlayacağınız ketojenik tost, sizi gün boyu tok tutacak sağlıklı alternatiflerdir. Ana öğünlerdeki fırın balık, tavuk köftesi veya Urfa kebap gibi seçenekler, doku onarımı için elzem olan çinko ve selenyumu sağlar. Balıktan alacağınız Omega 3 yağ asitleri, lipödemli dokudaki hassasiyeti içeriden onarır. Ev yapımı organik turşu ve tulum peyniri gibi fermente gıdalar ise bağırsak floranızı güçlendirmeye devam ederek sistemik inflamasyonu azaltır.\n\nBazen tatil dönüşleri veya rutinden sapmalar, duygusal yeme eğilimlerini tetikleyebilir. Bedenin alıştığı düzenden çıkması iştah dalgalanmalarına yol açarsa, bunu fizyolojik bir tepki olarak kabul edip suçluluk hissetmeden bir sonraki öğünde dengeyi kurmak en büyük başarımızdır. Tatlı ihtiyacını doğal yoldan karşılamak ve kan şekerinizi dengelemek için menünüze eklediğimiz tahin, ezilmiş ceviz ve tarçın karışımı bu anlarda size çok yardımcı olacaktır. Çiğ badem ve avokado gibi sağlıklı yağ kaynakları da hücrelerinizi koruyarak tokluk sürenizi uzatacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1723,6 +1723,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T10:37:51.902Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T10:23:21.067Z",
+  "sonGuncelleme": "2026-03-26T10:23:28.068Z",
   "githubKaydedildi": true
 }
