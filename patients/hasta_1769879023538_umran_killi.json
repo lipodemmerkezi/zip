@@ -2081,24 +2081,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-03-29",
-      "bitis": "2026-04-04",
+      "baslangic": "2026-03-30",
+      "bitis": "2026-04-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÜMRAN KILLI 30 MART -5 NİSAN 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÜMRAN KILLI 30 MART -5 NİSAN 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÜMRAN KILLI 30 MART -5 NİSAN 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÜMRAN KILLI 30 MART -5 NİSAN 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÜMRAN KILLI 30 MART -5 NİSAN 9. HAFTA.pdf",
+      "kayitTarihi": "2026-03-26T05:29:36.682Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-31T17:03:43.538Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T05:26:45.615Z",
+  "sonGuncelleme": "2026-03-26T05:29:36.687Z",
   "githubKaydedildi": true
 }
