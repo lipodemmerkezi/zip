@@ -166,7 +166,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Tülin Hanım,\n\nPazartesi günü itibarıyla bedeninizi daha iyi anlayacağımız, birlikte adım adım ilerleyeceğimiz ve bölgesel hedeflerimize odaklanacağımız yeni bir döneme başlıyoruz. \n\nBildiğiniz gibi lipödem sadece basit bir kilo problemi değil, genetik ve hormonal etkenlerin rol oynadığı, lenfatik sistemi de yakından ilgilendiren kronik bir inflamasyon durumudur. Bu nedenle klasik diyet mantığından çıkarak, vücudunuzdaki yangıyı azaltacak, lenf akışınızı destekleyecek ve bölgesel incelmeyi tetikleyecek özel bir beslenme kurgusu oluşturduk.\n\nBu ilk aşamada, vücudunuzdaki gizli hassasiyetleri gözlemlemek ve bağırsak floranızı rahatlatmak adına süt ve süt ürünlerini kısa bir süreliğine menümüzden çıkarıyoruz. Üçüncü haftamızdan itibaren bu gıdaları kontrollü bir şekilde yeniden düzenimize dahil edeceğiz. Bu süreçte en büyük destekçimiz ve temel protein kaynağımız yumurta olacak. Menemen, badem unlu krep, sahanda veya kavurmalı yumurta gibi alternatiflerle güne güçlü ve tok tutan bir başlangıç yapmanızı planladık. \n\nYumurta sadece harika bir protein kaynağı olmakla kalmaz; aynı zamanda D vitamini, B12, selenyum ve kolin gibi lipödem tedavisinde doku onarımı için kritik rol oynayan mikro besinler açısından oldukça zengindir. Öğle ve akşam yemeklerinizde yer alan mantarlı tavuk sote, kuzu güveç, balık ve köfte gibi kaliteli proteinler ise kas kaybını önlerken yağ yakım mekanizmalarınızı destekleyecek.\n\nMenünüzdeki avokado, ceviz, çiğ badem, kabak çekirdeği ve zeytinyağı gibi sağlıklı yağlar, hücre zarı sağlığımız ve ödemin vücuttan atılması için çok değerli. Özellikle magnezyum ve çinko açısından zengin olan bu kuruyemişler, gün içindeki enerji dalgalanmalarını ve tatlı isteklerini doğal yollarla dengeler. Bolca yer verdiğimiz roka, maydanoz, kırmızı lahana, pancar ve turp gibi yeşillikler, içerdikleri yüksek C vitamini ve antioksidanlarla lenfatik sisteminizin temizlenmesine yardımcı olacak. Ara öğünlerdeki orman meyveleri ve bitter çikolata hem ruhunuza iyi gelecek hem de hücrelerinizi koruyacak. Maden suyuna ekleyeceğimiz kaya tuzu ve limon ise hücresel hidrasyonu sağlayarak ödem atımını hızlandıracak. Ayrıca listenizdeki kollajen desteği, bağ dokunuzu içeriden güçlendirerek bölgesel sıkılaşma sürecinize büyük katkı sağlayacaktır.\n\nBu ilk haftalarda, dolaşımı desteklemek ve doku onarımını hızlandırmak amacıyla bazı takviyelerden de faydalanıyoruz. Vücudunuzun bu yeni düzene alışırken ihtiyaç duyduğu desteği bu şekilde sağlamış olacağız. Sürecin takibi için de tartıdaki rakamlardan ziyade bedeninizdeki değişime odaklanacağız. Her iki haftada bir pazar günleri bel, kalça ve bacak çevrenizi ölçüp not almanızı rica ediyorum. Asıl başarıyı ve değişimi bu bölgesel incelmelerde göreceğiz.\n\nBaşlangıçlar bazen alışma süreci gerektirebilir, bu durum son derece doğaldır. Ancak su tüketiminizi yüksek tutarak ve bu besinlerin iyileştirici gücüne güvenerek kısa süre içinde bedeninizdeki o hafiflemeyi hissetmeye başlayacaksınız. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -280,11 +280,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "PAZARTESİ 1. HAFTAYA BAŞLIYORUZ.\nMerhaba Tüli̇n Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T08:04:39.757Z",
+  "sonGuncelleme": "2026-03-26T08:06:00.169Z",
   "githubKaydedildi": true
 }
