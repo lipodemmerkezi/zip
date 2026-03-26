@@ -1698,7 +1698,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1799,6 +1799,6 @@
   ],
   "olusturmaTarihi": "2026-02-12T17:58:52.571Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T05:31:36.855Z",
+  "sonGuncelleme": "2026-03-26T10:27:22.072Z",
   "githubKaydedildi": true
 }
