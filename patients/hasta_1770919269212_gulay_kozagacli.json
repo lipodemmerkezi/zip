@@ -1671,7 +1671,7 @@
       "pdfYolu": "pdfs/GÜLAY KOZAĞAÇLI 30 MART -5 NİSAN 7. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLAY KOZAĞAÇLI 30 MART -5 NİSAN 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLAY KOZAĞAÇLI 30 MART -5 NİSAN 7. HAFTA.pdf",
-      "kayitTarihi": "2026-03-26T05:33:49.147Z",
+      "kayitTarihi": "2026-03-26T10:20:43.375Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lor ekmeği (1 dilim)",
@@ -1827,7 +1827,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "\n\nMerhaba Gülay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım haftaya dinlenmiş ve huzurlu bir başlangıç yapmışsınızdır. Vücudunuzun bu yeni beslenme ritmine büyük ölçüde uyum sağladığı, alışkanlıkların hücresel düzeyde yerleşmeye başladığı bir döneme giriyoruz. \n\nBu adaptasyon sürecinde zaman zaman bacaklarda veya dokularda hassasiyet hissedilmesi son derece fizyolojik bir durumdur. Tam da bu noktada, kasları rahatlatmak ve hücresel stresi yönetmek için rutininize dahil ettiğimiz magnezyum desteği çok mühim bir rol oynuyor. Bu desteğin bedensel rahatlamanıza ve ağrı yönetiminize olan etkisini yakından takip edeceğiz. Ayrıca bu dönemde iştah dalgalanmaları veya duygusal yeme eğilimleri belirebilir, bu çok insani bir reflekstir. Menünüze eklediğimiz tahinli cevizli karışım ve browni kurabiye gibi sağlıklı alternatifler, kan şekerinizi dengede tutarak bu tür duygusal yeme ataklarının önüne geçmek için tasarlandı.\n\nSürecin başından beri vücudunuzu içeriden desteklemek adına bazı takviyelerden faydalanıyoruz. Belki bu isimler başta biraz karmaşık gelmiş olabilir ancak her birinin lipödemli dokuda üstlendiği çok özel bir görev var. Örneğin, Boswellia serrata vücuttaki sessiz inflamasyonu baskılayarak ağrı ve sertliğe yol açan mikroskobik iltihapları sakinleştirir. Koenzim Q10 hücrelerimizin enerji santrallerini çalıştırır, yağ dokusundaki çözülmeyi verimli hale getirir. Zerdeçal ekstresi olan kurkumin ve doğadaki en güçlü antioksidanlardan astaksantin, dokulardaki şişkinliği hafifletirken lenf sisteminin taşıma kapasitesini artırır. Ananas özü bromelain sertleşmiş dokuların geçirgenliğini artırıp ödemi çözerken, resveratrol damar sağlığınızı korur. Listemizde de yer alan ve düzenli kullandığınız kollajen ise, incelen bölgelerde sarkmaların önüne geçerek bağ dokunuzu toparlar.\n\nBu haftaki menümüzü de bu hücresel onarımı destekleyecek mikro besinlerle donattık. Kahvaltılarınızdaki sucuklu yumurta, menemen veya sahanda yumurta seçenekleri, D vitamini ve selenyum açısından zengin yapılarıyla bağ dokunuzu güçlendirecek. Akşam öğünlerindeki kuzu güveç, balık ve kebap gibi kaliteli protein kaynakları, kas kaybını önlerken B12 ve çinko depolarınızı doldurarak yorgunluk hissini azaltacak. Ara öğünlerdeki kabak çekirdeği, fındık ve çiğ badem, az önce bahsettiğimiz magnezyum ihtiyacınızı bitkisel yoldan da destekleyerek ödem atılımını kolaylaştıracak.\n\nKıymalı lahana, karnabahar mantı ve ıspanak gibi kükürtlü sebzeler karaciğerin detoks yükünü hafifletir. Bu sebzeleri ve yeşil salatalarınızı tüketirken üzerine eklediğimiz sirke ve limon, içerdikleri C vitamini ile aldığınız kollajenin vücutta tam olarak emilmesini ve sentezlenmesini sağlayacaktır. Tüm bu yapı, dışarıdan aldığımız takviyelerle içeriden yediğimiz gıdaların birbirine kenetlenerek iyileşmeyi hızlandırması için kurgulandı. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1941,6 +1941,6 @@
   ],
   "olusturmaTarihi": "2026-02-12T18:01:09.212Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T10:17:57.158Z",
+  "sonGuncelleme": "2026-03-26T10:20:43.388Z",
   "githubKaydedildi": true
 }
