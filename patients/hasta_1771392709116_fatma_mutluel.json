@@ -1747,7 +1747,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1860,6 +1860,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T05:31:49.116Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-26T05:35:40.422Z",
+  "sonGuncelleme": "2026-03-26T09:58:02.916Z",
   "githubKaydedildi": true
 }
