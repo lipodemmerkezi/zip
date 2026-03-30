@@ -2332,20 +2332,22 @@
       "bitis": "2026-05-31",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NEDRET_SACAR_25 Mayıs _ 31 Mayıs___9. hafta.pdf",
+      "pdfOrijinalIsim": "NEDRET_SACAR_25 Mayıs _ 31 Mayıs___9. hafta.pdf",
+      "pdfYolu": "pdfs/NEDRET_SACAR_25 Mayıs _ 31 Mayıs___9. hafta.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDRET_SACAR_25 Mayıs _ 31 Mayıs___9. hafta.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDRET_SACAR_25 Mayıs _ 31 Mayıs___9. hafta.pdf",
+      "kayitTarihi": "2026-03-30T08:34:15.025Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-30T08:34:09.223Z",
+  "sonGuncelleme": "2026-03-30T08:34:15.026Z",
   "githubKaydedildi": true
 }
