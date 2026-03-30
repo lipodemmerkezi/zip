@@ -895,24 +895,26 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NEDRET_SACAR_20 Nisan _ 26 Nisan___4. hafta.pdf",
+      "pdfOrijinalIsim": "NEDRET_SACAR_20 Nisan _ 26 Nisan___4. hafta.pdf",
+      "pdfYolu": "pdfs/NEDRET_SACAR_20 Nisan _ 26 Nisan___4. hafta.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDRET_SACAR_20 Nisan _ 26 Nisan___4. hafta.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDRET_SACAR_20 Nisan _ 26 Nisan___4. hafta.pdf",
+      "kayitTarihi": "2026-03-30T08:31:10.084Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-30T08:30:49.669Z",
+  "sonGuncelleme": "2026-03-30T08:31:10.085Z",
   "githubKaydedildi": true
 }
