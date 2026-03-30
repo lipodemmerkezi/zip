@@ -2246,10 +2246,27 @@
         "haşhaş ezmesi ekmeği (1 dilim)",
         "urfa / adana kebap 150 gram (1 porsiyon)"
       ]
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-05-24",
+      "bitis": "2026-05-30",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-30T08:34:01.465Z",
+  "sonGuncelleme": "2026-03-30T08:34:05.693Z",
   "githubKaydedildi": true
 }
