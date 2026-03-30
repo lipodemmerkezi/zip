@@ -3,9 +3,27 @@
   "isim": "NEDRET SAÇAR",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-03-29",
+      "bitis": "2026-04-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-30T07:49:51.919Z",
+  "sonGuncelleme": "2026-03-30T07:50:13.541Z",
   "githubKaydedildi": true
 }
