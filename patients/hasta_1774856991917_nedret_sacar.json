@@ -1937,10 +1937,27 @@
         "haşhaş ezmesi ekmeği (1 dilim)",
         "lahana lazanya"
       ]
+    },
+    {
+      "haftaNo": 8,
+      "baslangic": "2026-05-17",
+      "bitis": "2026-05-23",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-30T08:32:49.915Z",
+  "sonGuncelleme": "2026-03-30T08:32:53.416Z",
   "githubKaydedildi": true
 }
