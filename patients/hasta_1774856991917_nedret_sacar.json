@@ -530,10 +530,27 @@
         "cevizli kaşık salatası",
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem"
       ]
+    },
+    {
+      "haftaNo": 3,
+      "baslangic": "2026-04-12",
+      "bitis": "2026-04-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-30T08:09:23.208Z",
+  "sonGuncelleme": "2026-03-30T08:09:26.474Z",
   "githubKaydedildi": true
 }
