@@ -341,10 +341,27 @@
         "i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "ekNotlar": "Merhaba Nedret Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Bugün programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 2,
+      "baslangic": "2026-04-05",
+      "bitis": "2026-04-11",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-03-30T07:52:41.664Z",
+  "sonGuncelleme": "2026-03-30T08:08:59.665Z",
   "githubKaydedildi": true
 }
