@@ -819,20 +819,23 @@
       "bitis": "2026-04-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE BAKAR 6-12 NİSAN 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE BAKAR 6-12 NİSAN 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE BAKAR 6-12 NİSAN 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYŞE BAKAR 6-12 NİSAN 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYŞE BAKAR 6-12 NİSAN 4. HAFTA.pdf",
+      "kayitTarihi": "2026-04-01T07:33:11.369Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-13T13:05:18.306Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T07:32:52.558Z",
+  "sonGuncelleme": "2026-04-01T07:33:11.371Z",
   "githubKaydedildi": true
 }
