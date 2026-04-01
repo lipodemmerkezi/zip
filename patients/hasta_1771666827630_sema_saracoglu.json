@@ -1701,24 +1701,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-04-05",
-      "bitis": "2026-04-11",
+      "baslangic": "2026-04-06",
+      "bitis": "2026-04-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEMA SARAÇOĞLU 6-12 NİSAN 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEMA SARAÇOĞLU 6-12 NİSAN 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEMA SARAÇOĞLU 6-12 NİSAN 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEMA SARAÇOĞLU 6-12 NİSAN 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEMA SARAÇOĞLU 6-12 NİSAN 7. HAFTA.pdf",
+      "kayitTarihi": "2026-04-01T08:27:43.229Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-21T09:40:27.630Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T08:06:58.460Z",
+  "sonGuncelleme": "2026-04-01T08:27:43.231Z",
   "githubKaydedildi": true
 }
