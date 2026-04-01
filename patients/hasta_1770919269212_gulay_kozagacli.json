@@ -1949,7 +1949,7 @@
       "pdfYolu": "pdfs/GÜLAY KOZAĞAÇLI 6-12 NİSAN 8. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLAY KOZAĞAÇLI 6-12 NİSAN 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLAY KOZAĞAÇLI 6-12 NİSAN 8. HAFTA.pdf",
-      "kayitTarihi": "2026-04-01T09:37:15.983Z",
+      "kayitTarihi": "2026-04-01T09:40:47.436Z",
       "tarifKartlar": [
         {
           "tarifAdi": "pita ekmeği (1 adet)",
@@ -2134,7 +2134,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Gülay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nSekizinci haftamıza adım atarken, sürecin fizyolojik dinamiklerinin iyice oturduğu ve bedeninizin bu yeni düzene adapte olduğu bir evredeyiz. Bu dönemde tartıdaki rakamların zaman zaman duraksadığını veya yavaşladığını gözlemleyebiliriz. Bu durum sizi endişelendirmesin, zira bu son derece doğal bir metabolik adaptasyon sürecidir. Yağ hücreleri küçülüp içlerinde uzun süredir hapsolmuş toksinleri ve inflamatuar sıvıları kana bıraktıkça, vücudumuz bu toksinleri seyreltmek ve sistemi korumak adına geçici bir su tutulumu yaşayabilir. Önemli olan bu noktada sürece uyumla devam etmek ve asıl değişimin hücresel boyutta, bölgesel incelme ve dokulardaki iyileşmeyle gerçekleştiğini bilmektir.\n\nBu hafta beslenme yapımızda sadece ne yediğimize değil, hangi sırayla yediğimize de odaklanıyoruz. Aynı tabaktaki yiyecekleri farklı sıralamayla tüketmek, vücudun insülin yanıtını tamamen değiştirebilir. İnsülin, lipödemli dokularda yağ hücrelerinin büyümesini tetikleyen temel hormondur. Bu yüzden öğünlerimize mutlaka sirke, limon ve zeytinyağı ile tatlandırılmış mevsim yeşillikleri veya köz biber salatası gibi lifli gıdalarla başlıyoruz. Lifler, bağırsaklarda bir bariyer oluşturarak karbonhidratların kana karışmasını geciktirir ve insülinin yavaş salgılanmasını sağlar. Ardından köfte, balık, kuzu güveç veya peynir çeşitleri gibi protein kaynaklarına geçiş yapıyoruz. Protein tokluk hissini pekiştirirken kan şekerini dengeler. Zeytinyağlı sebzeler, kıymalı ıspanak gibi yağlı içerikleri daha sonra, pita ekmeği gibi karbonhidrat barındıran seçenekleri ise her zaman öğünün en sonuna bırakıyoruz.\n\nYemeklere oturmadan hemen önce yarım bardak suya ekleyeceğiniz bir yemek kaşığı sirke, özellikle elma sirkesi, karbonhidrat emilimini yavaşlatarak insülin kontrolünde bize çok güçlü bir destek sunacaktır. Mide hassasiyetiniz yoksa bunu günde bir veya iki ana öğünden önce, diş minenizi korumak adına cam pipetle tüketebilirsiniz. Ayrıca yemeklerin ardından yapacağınız on beş yirmi dakikalık kısa süreli hareketler, örneğin evin içinde ufak bir tur atmak veya hafif bir ev işi yapmak, yükselen kan şekerini doğrudan kas hücrelerine taşıyarak yağlanmayı önler. Bu küçük alışkanlık, lipödem yönetiminde insülin dengesini korumak için çok değerlidir.\n\nMenünüzde yer alan kuzu güveç, ızgara balık ve kebap gibi kaliteli hayvansal proteinler, B12 vitamini ve çinko depolarınızı doldurarak yorgunluğu önlerken lenfatik akışı destekler. Sabahları tüketeceğiniz tereyağlı haşlanmış yumurta, kuru soğanlı cevizli lor kavurması ve peynir çeşitleri, D vitamini ve selenyum açısından zengin yapılarıyla bağ dokunuzu onarmaya devam ediyor. Ara öğünlerdeki fındık ve ceviz, hücresel stresi yönetmek ve kasları rahatlatmak için ihtiyaç duyduğumuz magnezyumu sağlarken, ödem atılımını da kolaylaştırır.\n\nDüzenli olarak kullandığınız toz kollajenin dokulardaki onarım gücünü artırmak için C vitaminine ihtiyacımız var. Susamlı brüksel lahanası, enginar veya karnabahar mantısı gibi kükürtlü sebzeler ile bol limonlu yeşil salatalarımız, bu C vitamini desteğini sağlayarak kollajen sentezini maksimuma çıkarır. Ayrıca bu sebzeler, karaciğerin detoks kapasitesini artırarak az önce bahsettiğimiz, yağ hücrelerinden çözülen toksinlerin vücuttan güvenle uzaklaştırılmasını sağlar. San Sebastian cheesecake ve badem unlu krep gibi alternatifleri de tatlı ve hamur işi ihtiyacınızı kan şekerinizi sarsmadan, hücresel iyileşmeyi kesintiye uğratmadan karşılamak için planımıza ekledik.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2243,6 +2243,6 @@
   ],
   "olusturmaTarihi": "2026-02-12T18:01:09.212Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T09:40:45.372Z",
+  "sonGuncelleme": "2026-04-01T09:40:47.455Z",
   "githubKaydedildi": true
 }
