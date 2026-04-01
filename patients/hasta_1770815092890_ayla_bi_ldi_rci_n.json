@@ -1925,24 +1925,27 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-04-05",
-      "bitis": "2026-04-11",
+      "baslangic": "2026-04-06",
+      "bitis": "2026-04-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYLA BİLDİRCİN 6-12 NİSAN 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYLA BİLDİRCİN 6-12 NİSAN 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYLA BİLDİRCİN 6-12 NİSAN 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYLA BİLDİRCİN 6-12 NİSAN 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYLA BİLDİRCİN 6-12 NİSAN 8. HAFTA.pdf",
+      "kayitTarihi": "2026-04-01T10:41:14.897Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-11T13:04:52.890Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T10:40:55.565Z",
+  "sonGuncelleme": "2026-04-01T10:41:14.900Z",
   "githubKaydedildi": true
 }
