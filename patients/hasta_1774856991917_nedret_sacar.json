@@ -3499,7 +3499,7 @@
       "pdfYolu": "pdfs/NEDRET_SACAR_22 Haziran _ 28 Haziran___13. hafta.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDRET_SACAR_22 Haziran _ 28 Haziran___13. hafta.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDRET_SACAR_22 Haziran _ 28 Haziran___13. hafta.pdf",
-      "kayitTarihi": "2026-03-30T08:36:42.474Z",
+      "kayitTarihi": "2026-04-01T06:35:58.864Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -3692,7 +3692,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -3795,6 +3795,6 @@
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T06:35:45.039Z",
+  "sonGuncelleme": "2026-04-01T06:35:58.880Z",
   "githubKaydedildi": true
 }
