@@ -294,7 +294,7 @@
       "pdfYolu": "pdfs/TÜLİN CAN 6-12 NİSAN 2. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/TÜLİN CAN 6-12 NİSAN 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/TÜLİN CAN 6-12 NİSAN 2. HAFTA.pdf",
-      "kayitTarihi": "2026-04-01T07:19:42.159Z",
+      "kayitTarihi": "2026-04-01T07:21:47.313Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -423,7 +423,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Tülin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 2. haftaya başlıyoruz\n\nBedenimizi yeniden yapılandırdığımız ve hücresel düzeyde iyileşmeyi hedeflediğimiz sürecimizin ikinci haftasına adım atıyoruz. Henüz yolun çok başındayız ama attığınız bu küçük adımların zamanla ne kadar büyük farklar yaratabileceğini birlikte göreceğiz. Lipödem kronik bir durum olduğu için hızlı çözümlerden ziyade kalıcı ve köklü değişiklikler inşa etmeye odaklanıyoruz. Bu nedenle sabırlı ve istikrarlı ilerlemek çok önemli.\n\nBu haftayla birlikte vücudunuzda bazı küçük farklılıklar hissetmeye başlayabilirsiniz. Asıl amacımız sadece dışarıdan görünen bir değişim değil, içerideki inflamasyonu, yani o sessiz yangıyı söndürmektir. Çünkü bu yangıyı kontrol altına almazsak, zamanla insülin direnci veya tiroit problemleri gibi başka durumlar da tabloya eklenebilir. Bu sürece sadece bir kilo yönetimi olarak değil, lenfatik sisteminizi ve kan dolaşımınızı destekleyen bütüncül bir sağlık yatırımı olarak bakıyoruz. \n\nİlk dört haftalık planımızda önceliğimiz tamamen beslenme üzerine kurulu. Şu anda bedeninizi adeta bir yağ yakma antrenmanına sokmuş durumdayız. Menünüzde yer alan zeytin, çiğ badem, ceviz, zeytinyağı ve yumurtanıza eklediğimiz tereyağı gibi sağlıklı yağ kaynakları tam da bu amaca hizmet ediyor. Yağ yemenin kilo aldıracağına dair yaygın bir inanış olsa da, sağlıklı yağları karbonhidratsız aldığımızda vücut yağlanmaz. Asıl sorun, insülin hormonunun sık ve yüksek seviyede salgılanmasıdır. Bu yüzden güne düşük insülinle başlamak ve bu dengeyi gün boyu korumak, yağ yakımının önünü açan en önemli anahtardır.\n\nBu hafta menünüze eklediğimiz balık, ciğer, kuzu güveç ve hindi füme gibi kaliteli protein kaynakları, kas dokunuzu korurken lenfatik akışınızı destekleyecek güçlü yapı taşlarıdır. Özellikle ciğer ve balık, lipödem yönetiminde doku onarımı için kritik olan B12 vitamini, selenyum ve omega 3 açısından oldukça zengindir. Öğünlerinize eşlik eden kırmızı lahana, pancar, turp ve bol yeşillik içeren salatalarınız, içerdikleri yüksek C vitamini ve antioksidanlarla kan dolaşımınızı rahatlatıp ödem atımını hızlandıracak şekilde kurgulandı. Yeşilliklerinize eklediğimiz limon ve sirke de hem sindirimi kolaylaştıracak hem de kan şekeri dengenize katkı sağlayacaktır.\n\nAra öğünlerinizde yer verdiğimiz çilek ve bitter çikolata gibi küçük dokunuşlar, hem magnezyum ihtiyacınızı karşılayarak olası enerji dalgalanmalarını doğal yollarla dengeleyecek hem de hücrelerinizi koruyacaktır. Düzenli olarak kullandığınız kollajen desteğiniz de bağ dokunuzu içeriden onarmaya devam ediyor. Bedeninizin bu yeni düzene uyum sağlarken gösterdiği reaksiyonları ve bölgesel ölçülerinizdeki iyileşmeleri zamanla çok daha net hissedeceğiz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -526,6 +526,6 @@
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T07:21:43.942Z",
+  "sonGuncelleme": "2026-04-01T07:21:47.327Z",
   "githubKaydedildi": true
 }
