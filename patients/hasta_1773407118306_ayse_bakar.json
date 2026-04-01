@@ -824,7 +824,7 @@
       "pdfYolu": "pdfs/AYŞE BAKAR 6-12 NİSAN 4. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYŞE BAKAR 6-12 NİSAN 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYŞE BAKAR 6-12 NİSAN 4. HAFTA.pdf",
-      "kayitTarihi": "2026-04-01T07:33:11.369Z",
+      "kayitTarihi": "2026-04-01T07:37:03.071Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -1006,7 +1006,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nMerhaba Ayşe Hanım,\n\nDördüncü haftaya ulaştık. Artık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bir düzen ancak zamanla ve tekrarla yerleşiyor, bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz.\n\nBaşlangıç ölçümlerinizdeki o olumlu ilerleme, bedeninizin bu yeni düzene ne kadar iyi yanıt verdiğini gösteriyor. Akşam öğünlerinizin saat olarak biraz geçe kalması durumunu dengelemek adına bu hafta ufak bir strateji değişikliği yapıyoruz. Öğle öğününüzü gün içinde biraz daha ileri bir saate (Örneğin 13:00 -14:00 e) kaydırarak hem açlık süremizi ideal bir aralığa çekeceğiz hem de akşam saatlerindeki sindirim yükünü hafifletmiş olacağız. \n\nBu hafta sizinle proteinlerin, özellikle de hayvansal proteinlerin öneminden bahsetmek istiyorum. Lipödem veya kilo yönetimi sürecinde yapılan en büyük hatalardan biri, sadece az yiyerek başarıya ulaşılacağına inanmaktır. Oysa kaloriyi ciddi şekilde kısıtlamak, dışarıdan kontrollü görünse de içeride metabolizmayı yavaşlatır. Vücut enerji tasarrufuna geçer, ısı üretimi düşer ve bir süre sonra yorgunluk hissi başlar. Uzun süreli açlıklarda açlık hormonu olan ghrelin devreye girerek beyne güçlü sinyaller gönderir, bu da bizi karbonhidratlara yönlendirebilir.\n\nBiz bu döngüyü kırmak için kaloriyi kısıtlamaktan ziyade insülin dengesini koruyan, doyurucu bir sistemle ilerliyoruz. Listemizde yer alan köfte, somon, hindi füme, tavuk ve yumurta gibi kaliteli hayvansal proteinler, aminoasit profili açısından zengindir. Kas ve bağ dokusu onarımı, bağışıklık sisteminin güçlü kalması için bu kaynaklara ihtiyacımız var. Yeterli protein almadığımızda, vücut enerji için kas dokusunu kullanabilir ve bu durum istemediğimiz bir kas kaybına yol açabilir.\n\nMenünüzde bu hafta avokadolu omlet, mantarlı tavuk sote, fırında sebzeli peynirli güveç, patlıcan kebabı ve ketojenik pizza gibi hem doyurucu hem de hücresel onarımı destekleyen alternatifler oluşturduk. Geçtiğimiz hafta listemize kontrollü bir şekilde geri dönen tulum ve kaşar peyniri gibi süt ürünlerini, ev yapımı yoğurt ile birlikte bu hafta da dengeli bir şekilde kullanmaya devam ediyoruz. Peynir, yoğurt ve yumurtadan aldığımız D vitamini ve B12, metabolik dengenizi korumada bize büyük destek sağlıyor.\n\nSağlıklı yağlar, insülin dengesini koruyarak yağ yakımının önünü açar. Listemize eklediğimiz ceviz, çiğ badem, kabak çekirdeği, tahin ve avokado içerdikleri magnezyum, çinko ve selenyum ile doku iyileşmesini hızlandırıyor. Roka, dereotu, kırmızı lahana ve marul gibi yeşillikler ise yüksek C vitamini içerikleriyle lenfatik akışınızı rahatlatıp ödemin çözülmesine yardımcı oluyor.\n\nÖğünlerinize limon, sirke ve zeytinyağı eklenmiş yeşilliklerle başlamak, kan şekerinizin yavaş yükselmesini sağlayarak insülin dengenizi korumaya devam edecek. Ayrıca rutininizin ayrılmaz bir parçası olan toz kollajen bağ dokunuzu güçlendirirken, ara öğünlerdeki kaya tuzlu ve limonlu maden suyu, hücresel temizlik sırasında yağ hücrelerinden açığa çıkan toksinlerin vücuttan atılmasına büyük katkı sunuyor. Menünüzdeki ev yapımı turşu ile de bağırsak floramızı destekleyerek hücresel inflamasyonu baskılıyoruz.\n\nHem besin içeriği açısından zengin hem de porsiyon olarak sizi doyuran bu sistemle ilerledikçe, bedeninizin ne kadar güçlendiğini daha net hissedeceksiniz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1115,6 +1115,6 @@
   ],
   "olusturmaTarihi": "2026-03-13T13:05:18.306Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T07:36:59.926Z",
+  "sonGuncelleme": "2026-04-01T07:37:03.084Z",
   "githubKaydedildi": true
 }
