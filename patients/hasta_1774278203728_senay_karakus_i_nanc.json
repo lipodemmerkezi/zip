@@ -481,7 +481,7 @@
       "pdfYolu": "pdfs/ŞENAY KARAKUŞ İNANÇ 6-12 NİSAN 3. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ŞENAY KARAKUŞ İNANÇ 6-12 NİSAN 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ŞENAY KARAKUŞ İNANÇ 6-12 NİSAN 3. HAFTA.pdf",
-      "kayitTarihi": "2026-04-01T07:39:04.822Z",
+      "kayitTarihi": "2026-04-01T07:43:01.564Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabaklı peynirli muffin",
@@ -643,7 +643,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Şenay Hanım,\n\nUmarım keyifli ve dinlendirici bir tatil geçirmişsinizdir. Tatil dönüşü bedenimizi dinlemeye ve ona iyi bakmaya kaldığımız yerden, yeni bir aşamaya geçerek devam ediyoruz. Artık programın ilk adımlarını geride bırakmaya başladık. Bu hafta itibarıyla beslenme listenizde kontrollü şekilde süt ürünlerine yeniden yer veriyoruz. İlk iki haftalık eliminasyon süreci, sindirim sisteminizi rahatlatmak ve bağırsak florasında istenmeyen bakteri ve mantarların yoğunluğunu azaltmak için önemliydi. Şimdi ise bu temelin üzerine sağlıklı bir yapı inşa ediyoruz.\n\nÇarşamba günü itibarıyla prebiyotik takviyelerine de başlıyoruz. Bağırsak florası, yani mikrobiyota dediğimiz sistem aslında vücudun görünmeyen ama en güçlü sistemlerinden biridir. Doğru besinlerle ve prebiyotiklerle desteklenen bu faydalı bakteriler, bağışıklık sistemini güçlendirir, inflamasyonu azaltır ve hatta ruh halimizi bile dengeler. Lipödem gibi kronik inflamatuar hastalıklarda bağırsak sağlığına odaklanmak bu yüzden çok kritik. Sindirim sisteminizin dengesi iyileştikçe, tatlı isteği veya sürekli bir şey yeme ihtiyacı gibi durumların da azaldığını hissedeceksiniz.\n\nSüt ürünlerini listeye tekrar alırken kontrollü ilerliyoruz. Yumurta miktarını biraz azaltıp, gün içinde bir yumurta yerine yaklaşık otuz gram kadar tulum veya kaşar peyniri gibi değişimlerle menünüzü zenginleştirdik. Ayrıca borani gibi yoğurtlu lezzetler ve peynirli kabak muffinler de listemize eklendi. Böylece hem çeşitlilik artıyor hem de süreci daha sürdürülebilir hale getiriyoruz.\n\nBu haftaki menünüz, lipödemi yönetmede kritik olan lenfatik sistemi desteklemek ve bölgesel incelmeyi sağlamak amacıyla antiinflamatuar özelliklere sahip besinlerden oluşturuldu. Somon, çupra, levrek gibi balıklar ve ceviz, badem, kabak çekirdeği gibi sağlıklı yağlardan aldığımız Omega üç ve çinko, dokulardaki yangıyı hafifletir. Ispanak, pazı ve bol yeşillikli salatalarımız C vitamini ve magnezyum açısından çok zengindir. Magnezyum, kasların rahatlaması, lenf akışının hızlanması ve hücresel stresin azalması için elzemdir. Menünüzdeki yumurtalı öğünler ise D vitamini ve selenyum içerikleriyle hücresel onarımı doğrudan destekliyor.\n\nÖğünlerinizde sirke ve limon ilaveli mevsim yeşilliklerine bolca yer verdik. Yemeğe bu sirkeli salatalarla başlamak, kan şekerini dengede tutmak ve insülin salınımını kontrol altına almak için harika bir yöntemdir. Yeme sıralamasında önce lifli yeşillikleri, ardından proteinleri ve en son karbonhidrat kaynaklarını tüketmek, sindirimi rahatlatarak bağırsak florasına da büyük bir destek sağlayacaktır.\n\nSürecin bu aşamasında doku onarımını hızlandırmak adına kolajen kullanımına devam ediyoruz. Toz kolajen, cildin elastikiyetini artırıp bağ dokusunu güçlendirerek cilt altı dokusunun toparlanmasına yardımcı oluyor. Ara öğünlerdeki kaya tuzlu ve limonlu maden suyu ise mineral dengenizi koruyarak sıvı dengesini sağlayacak ve hücresel düzeyde ferahlama yaratacaktır.\n\nBu hafta, bağırsak sağlığını destekleyen her küçük adımın bedeninizdeki değişimi hızlandıracağı bir dönem.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -754,6 +754,6 @@
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T07:42:59.521Z",
+  "sonGuncelleme": "2026-04-01T07:43:04.162Z",
   "githubKaydedildi": true
 }
