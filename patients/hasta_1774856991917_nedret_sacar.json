@@ -353,7 +353,7 @@
       "pdfYolu": "pdfs/NEDRET_SACAR_6 Nisan _ 12 Nisan___2. hafta.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDRET_SACAR_6 Nisan _ 12 Nisan___2. hafta.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDRET_SACAR_6 Nisan _ 12 Nisan___2. hafta.pdf",
-      "kayitTarihi": "2026-03-30T08:29:56.576Z",
+      "kayitTarihi": "2026-04-01T06:35:42.160Z",
       "tarifKartlar": [
         {
           "tarifAdi": "köfte",
@@ -512,7 +512,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nProgramımızın ikinci haftasına geçiyoruz. Henüz yolun çok başındayız ama attığınız bu küçük adımların zamanla ne kadar büyük ve kalıcı farklar yaratabileceğini birlikte göreceğiz. Amacımız sadece hızlıca kilo vermek değil; içeride, yani hücresel düzeyde başlayan iyileşmeleri destekleyerek bedeninizi gerçek anlamda sağlığına kavuşturmak. Bu nedenle sabırlı ve istikrarlı ilerlemek sürecin en önemli anahtarıdır.\n\nİlk haftalarda önceliğimiz tamamen beslenme üzerine yoğunlaşarak vücudunuzu yormadan doğru bir zemin hazırlamak. Bu hafta sizin için oluşturduğumuz menüde sağlıklı yağlara ve kaliteli proteinlere ağırlık verdik. Gün içinde tüketeceğiniz ceviz, fındık, kabak çekirdeği ve avokado gibi besinler, içerdikleri magnezyum ve çinko sayesinde hem hücresel enerjinizi artıracak hem de tokluk sürenizi uzatacaktır. Pek çok kişi yağ yemenin kilo aldıracağını düşünebilir. Ancak gerçek şu ki; sağlıklı yağları, yanında karbonhidrat olmadan tükettiğinizde vücut yağlanmaz. Asıl sorun, unlu ve şekerli gıdaların insülin hormonunu sık ve yüksek seviyede salgılatmasıdır. Bizim bu süreçte yaptığımız her seçim, insülin dengenizi korumak ve vücudunuzu adeta bir yağ yakma antrenmanına sokmak için tasarlandı.\n\nListemizde yer alan balık, kırmızı et ve yumurta gibi kaliteli protein kaynakları, hücre yenilenmesi için ihtiyaç duyduğunuz selenyum ve amino asit desteğini sağlayacaktır. Öğünlerinize eşlik edecek roka, maydanoz, dereotu gibi taze mevsim yeşillikleri ise zeytinyağı ve limonla buluştuğunda, yüksek C vitamini kapasiteleriyle bağışıklığınızı güçlendirecek ve metabolizmanızı canlandıracaktır.\n\nKilo verme sürecinde zaman zaman duygusal açlık veya tatlı krizleri yaşanması son derece doğaldır. Özellikle günün yorgunluğuyla birlikte bu tür hisler ortaya çıkabilir. Bu durumları yumuşak bir şekilde yönetebilmek adına menünüze yaban mersini, çilek gibi antioksidan deposu meyveler ve küçük porsiyonlarda bitter çikolata ekledik. Ayrıca ara öğünlerinizde tüketeceğiniz, içine bir tutam kaya tuzu ve limon damlatılmış maden suyu, vücudunuzun mineral dengesini sağlayarak yalancı açlık krizlerinin önüne geçmenize büyük ölçüde yardımcı olacaktır. \n\nBeslenme planımıza sadık kalırken, günlük rutininize ekleyeceğiniz düzenli ve hafif tempolu yürüyüşler bu sürecin en güzel tamamlayıcısıdır. Yürüyüş yapmak sadece kalori harcatmaz; aynı zamanda dokularınızın oksijenlenmesini artırarak yağ yakım sürecini hızlandırır. Düzenli hareketin kas, kemik ve kıkırdak dokusunu iyileştirici, onarıcı etkileri vardır. Üstelik açık havada yapılan bir yürüyüş, zihni boşaltarak duygusal yeme eğilimini azaltmada harika bir psikolojik destektir.\n\nBedeninizin bu yeni düzene uyum sağlama sürecini küçük ama sağlam adımlarla birlikte yönetmeye devam edeceğiz. \n\n",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -3795,6 +3795,6 @@
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T06:35:39.278Z",
+  "sonGuncelleme": "2026-04-01T06:35:42.177Z",
   "githubKaydedildi": true
 }
