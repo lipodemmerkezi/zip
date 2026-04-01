@@ -1216,24 +1216,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-04-05",
-      "bitis": "2026-04-11",
+      "baslangic": "2026-04-06",
+      "bitis": "2026-04-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MERVE KARAKAYA 6-12 NİSAN 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "MERVE KARAKAYA 6-12 NİSAN 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/MERVE KARAKAYA 6-12 NİSAN 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/MERVE KARAKAYA 6-12 NİSAN 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/MERVE KARAKAYA 6-12 NİSAN 5. HAFTA.pdf",
+      "kayitTarihi": "2026-04-01T07:45:55.965Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-04T14:24:15.861Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T07:45:34.433Z",
+  "sonGuncelleme": "2026-04-01T07:45:55.969Z",
   "githubKaydedildi": true
 }
