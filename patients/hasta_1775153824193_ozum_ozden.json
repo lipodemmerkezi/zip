@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/ÖZÜM ÖZDEN 3-12 NİSAN 1. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÖZÜM ÖZDEN 3-12 NİSAN 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÖZÜM ÖZDEN 3-12 NİSAN 1. HAFTA.pdf",
-      "kayitTarihi": "2026-04-02T18:17:35.922Z",
+      "kayitTarihi": "2026-04-02T18:25:32.065Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -192,7 +192,7 @@
         "haşhaş ezmesi ekmeği yerine 1 adet yumurta, 3 adet ceviz ya da 10 adet çiğ badem ekleyebilirsiniz."
       ],
       "gptMesaj": "Merhaba sevgili Özüm, Ben Dr. Mustafa. \n\nSürecimize adım atarken şimdi ıolduğu gibi zaman zaman bilgilendirme mesajları göndereceğim. Amacım bu süreci içselleştirmen ve daha sonra yaşam tarzı haline getirebilmen için bir kılavuz hazırlamak. Bu hafta, bedenimizi tanıyacağımız, sade ama oldukça etkili adımlarla ilerleyeceğimiz bir dönemin başlangıcı. \n\nÖncelikle üzerinde durduğumuz durumun doğasını anlamak süreci çok daha rahat yönetmemizi sağlar. Lipödem, sıklıkla lenfödem veya kilo problemiyle karıştırılsa da aslında genetik ve hormonal temelleri olan, kronik iltihabi bir durumdur. Amacımız, beslenmenin gücünü kullanarak bu iltihaplanmayı, yani inflamasyonu baskılamak ve lenfatik sisteminizi desteklemektir. Doğru ve bedeninize saygılı bir yaklaşımla bu sürecin ilerlemesini durdurmak, hatta bölgesel incelmelerle gerileme sağlamak kesinlikle mümkün.\n\nBu hafta, menünü oluştururken özellikle süt ve süt ürünlerini kısa bir süreliğine dışarıda bıraktık. Bunun temel nedeni, gizli gıda duyarlılıklarının bedeninize olan etkisini gözlemlemek ve vücuttaki inflamasyon yükünü hafifletmek. Üçüncü haftadan itibaren bu grubu kontrollü bir şekilde tekrar hayatınıza dahil edeceğiz. Bu dönemde protein ihtiyacınızı karşılamak ve doku yapınızı korumak için yumurta en büyük yardımcımız olacak. Yumurta sadece mükemmel bir protein kaynağı değil, aynı zamanda lipödem yönetiminde çok ihtiyaç duyduğumuz A, D, B12 vitaminleri, selenyum ve kolin açısından da eşsiz bir depodur.\n\nBu anlamda listendeki besinleri de bölgesel incelme ve lenfatik destek hedefine uygun şekilde seçtik. Örneğin, öğünlerinizde bolca yer alan roka, dereotu, kırmızı lahana ve diğer yeşil yapraklı sebzeler, içerdikleri C vitamini ve antioksidanlarla doku onarımını hızlandırır. Balık, ceviz ve zeytinyağı gibi sağlıklı yağlar, vücuttaki ödemi çözmede kilit rol oynayan hücresel destekleyicilerdir. Çiğ badem ve kabak çekirdeği ise magnezyum ve çinko açısından zengindir; kaslarınızı rahatlatır ve kan dolaşımınızı destekler. \n\nListeye eklediğimiz ev yapımı organik turşu, ilerleyen haftalarda başlayacağımız bağırsak florasını güçlendirme adımları için şimdiden çok sağlam zemin hazırlıyor. Beslenmenize dahil ettiğimiz kollajen desteği doku esnekliğinizi artırırken, kaya tuzu ve limonlu maden suyu karışımınız da hücre içi sıvı dengenizi koruyup ödem atmanızı kolaylaştıracaktır.\n\nBu ilk haftalarda dolaşımı desteklemek, ödemi azaltmak ve doku onarımını hızlandırmak amacıyla planladığımız takviyeler de bedeninize içten bir destek sunacak. Bizim için asıl başarı tartıdaki rakamlar değil, bölgesel incelmedir. Bu yüzden her iki haftada bir, pazar günleri bel, kalça ve bacak çevresi gibi bölgelerden ölçüm almanızı rica ediyorum. Bedeninizdeki değişimi mezura ile çok daha net takip edeceğiz.\n\nProgramın başları her zaman bedenin yeni bir düzene alışma evresidir. Günlük su tüketiminizi artırarak bu süreci çok daha akıcı hale getirebilirsiniz. Kısa süre içinde bedeninizdeki o hafifleme hissini fark etmeye başlayacaksınız. \n\nHer zaman bize ulaşabilirsin. Süreç boyunca gözlemlerini ve yorumlarını da gönderebilirsin. ",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": true,
       "tabBaslik": "1. Hafta",
       "tabTarih": "04/03 - 04/12",
@@ -340,6 +340,6 @@
   ],
   "olusturmaTarihi": "2026-04-02T18:17:04.193Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-02T18:25:27.179Z",
+  "sonGuncelleme": "2026-04-02T18:25:32.079Z",
   "githubKaydedildi": true
 }
