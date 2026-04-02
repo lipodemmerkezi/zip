@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-03-29",
-      "bitis": "2026-04-04",
+      "baslangic": "2026-04-03",
+      "bitis": "2026-04-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZÜM ÖZDEN 3-12 NİSAN 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZÜM ÖZDEN 3-12 NİSAN 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZÜM ÖZDEN 3-12 NİSAN 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÖZÜM ÖZDEN 3-12 NİSAN 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÖZÜM ÖZDEN 3-12 NİSAN 1. HAFTA.pdf",
+      "kayitTarihi": "2026-04-02T18:17:35.922Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "04/03 - 04/12",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-02T18:17:04.193Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-02T18:17:24.083Z",
+  "sonGuncelleme": "2026-04-02T18:17:35.923Z",
   "githubKaydedildi": true
 }
