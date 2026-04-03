@@ -2,7 +2,7 @@
   "id": 1767964393528,
   "isim": "GÜLDEN ERDOĞAN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3760,6 +3760,6 @@
   ],
   "olusturmaTarihi": "2026-01-09T13:13:13.528Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T06:44:49.919Z",
+  "sonGuncelleme": "2026-04-03T14:04:45.323Z",
   "githubKaydedildi": true
 }
