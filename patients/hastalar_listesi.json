@@ -72,13 +72,6 @@
     "sonGuncelleme": "2026-04-01T09:40:50.117Z"
   },
   {
-    "id": 1767964393528,
-    "isim": "GÜLDEN ERDOĞAN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-04-01T06:44:52.545Z"
-  },
-  {
     "id": 1771411071902,
     "isim": "HATİCE KANA",
     "not": "",
@@ -530,6 +523,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-01-09T13:19:21.452Z"
+  },
+  {
+    "id": 1767964393528,
+    "isim": "GÜLDEN ERDOĞAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-04-03T14:04:49.071Z"
   },
   {
     "id": "gulden_ugur",
