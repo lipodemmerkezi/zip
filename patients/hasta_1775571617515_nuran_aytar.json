@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-04-05",
-      "bitis": "2026-04-11",
+      "baslangic": "2026-04-09",
+      "bitis": "2026-04-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NURAN AYTAR 9-12 NİSAN 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "NURAN AYTAR 9-12 NİSAN 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/NURAN AYTAR 9-12 NİSAN 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NURAN AYTAR 9-12 NİSAN 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NURAN AYTAR 9-12 NİSAN 1. HAFTA.pdf",
+      "kayitTarihi": "2026-04-07T14:20:48.806Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-07T14:20:17.515Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-07T14:20:32.185Z",
+  "sonGuncelleme": "2026-04-07T14:20:48.807Z",
   "githubKaydedildi": true
 }
