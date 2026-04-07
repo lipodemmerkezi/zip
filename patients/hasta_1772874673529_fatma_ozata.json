@@ -1409,24 +1409,26 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-07",
+      "bitis": "2026-04-07",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMA ÖZATA - 6. hafta pdf.pdf",
+      "pdfOrijinalIsim": "FATMA ÖZATA - 6. hafta pdf.pdf",
+      "pdfYolu": "pdfs/FATMA ÖZATA - 6. hafta pdf.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA ÖZATA - 6. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA ÖZATA - 6. hafta pdf.pdf",
+      "kayitTarihi": "2026-04-07T05:42:22.804Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-07T09:11:13.529Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-07T05:41:42.363Z",
+  "sonGuncelleme": "2026-04-07T05:42:22.806Z",
   "githubKaydedildi": true
 }
