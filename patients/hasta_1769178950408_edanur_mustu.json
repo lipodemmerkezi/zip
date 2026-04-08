@@ -3564,7 +3564,7 @@
       "pdfYolu": "pdfs/EDANUR MUŞTU 13-19 NİSAN 12. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/EDANUR MUŞTU 13-19 NİSAN 12. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/EDANUR MUŞTU 13-19 NİSAN 12. HAFTA.pdf",
-      "kayitTarihi": "2026-04-08T06:52:51.734Z",
+      "kayitTarihi": "2026-04-08T06:55:47.989Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabaklı ve havuçlu tost",
@@ -3743,7 +3743,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\nMerhaba Edanur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nBirlikte yürüttüğümüz bu yolculukta on ikinci haftaya ulaştık. Bu hafta aslında sadece bir bitiş değil, edindiğiniz yeni alışkanlıklarla ömür boyu sürecek bir başlangıcın da eşiği. Biliyorum, son günlerde sınav yoğunluğunuz ve stresiniz sebebiyle rutininizde bazı aksaklıklar yaşandı. Hayatın akışı içinde odağımızın farklı yönlere kayması, yorgunluk hissetmemiz veya planların dışına çıkmamız çok insani durumlardır. Biz makine değiliz. Önemli olan bu kısa sapmaları bir başarısızlık olarak görmek değil, rotamızı hatırlayıp kaldığımız yerden sakinlikle yola devam edebilmektir. Düşseniz de tekrar kalkmayı bildiğiniz sürece yoldan çıkmış sayılmazsınız.\n\nBu üç aylık süreçte beslenmenizi, su tüketiminizi, yeme sıralamanızı, masaj ve egzersiz rutinlerinizi hayatınızın doğal bir parçası haline getirmek için çok sağlam bir temel attık. Lipödem gibi kronik bir durum bir günde oluşmadı, yıllar içinde gelişen ve derinleşen bir tablo bu. Dolayısıyla bağ dokusunun yeniden yapılanması, lenf sisteminin onarılması ve inflamasyonun gerileyerek dışarıdan fark edilir hale gelmesi zaman ister. Bedenin içsel dönüşümü tamamlandığında dışa yansımalar çok daha kalıcı olacaktır.\n\nBu haftaki menünüzü de tam olarak bu içsel onarımı ve bölgesel incelme hedeflerinizi destekleyecek şekilde planladık. Sınav döneminin getirdiği zihinsel yorgunluğu ve olası duygusal yeme eğilimlerini dengelemek adına menünüze elmalı tart kek, orman meyveli muhallebi, maydanozlu poğaça ve tahinli cevizli tatlı alternatifleri ekledik. Bu seçenekler, kısıtlanmışlık hissini ortadan kaldırırken insülin dengenizi korumanıza yardımcı olacaktır.\n\nHücresel onarımın devamlılığı için mikro besinlerin gücünden faydalanmaya devam ediyoruz. Listenizdeki ızgara balık, menemen ve kavurmalı yumurta gibi öğünler, lenfatik sistemin sağlıklı çalışmasını destekleyen ve lipödemli dokulardaki inflamasyonu baskılayan D vitamini ile selenyum açısından oldukça zengindir. Urfa kebap, tavuklu nohut ve sahanda yumurta gibi protein kaynakları ise doku onarımını hızlandıran B12 vitamini ve çinko depolarınızı dolduracaktır.\n\nSürecin başından beri hayatınızda olan masaj ve egzersiz rutinlerinin kaslarınızda yarattığı ihtiyacı karşılamak ve dolaşımınızı rahatlatmak için menünüzdeki çiğ badem, ceviz ve kabak çekirdeği magnezyum açısından en büyük destekçiniz olacak. Ayrıca rutininizdeki toz kollajenin bağ dokunuza tam anlamıyla tutunabilmesi ve cildinizdeki sıkılaşmanın artması için C vitaminine ihtiyacımız var. Bol limonlu yeşillikleriniz, kivi, susamlı brüksel lahanası ve cevizli köz biber mezesi bu sentezi sağlayacak anahtarlardır. Ev yapımı turşu, pazı sarması ve lahana lazanya gibi sebze ağırlıklı seçimlerimiz de bağırsak floranızı güçlendirerek toksin atım sürecine büyük katkı sunacak.\n\nLipödem tamamen bitmiş, kapatılmış bir dosya gibi düşünülmemelidir. Eğer çok gevşersek ve uzun süre düzeni bırakırsak tablo eskiye dönebilir. Ancak artık elinizde çok güçlü bir harita var. Ne yapacağınızı, bedeninizi nasıl toparlayacağınızı biliyorsunuz. Şimdi sizi küçük bir iç değerlendirmeye davet ediyorum. İlk başladığınız güne göre bugünkü halinizi nasıl tanımlarsınız, bedensel değişim dışında ruhsal olarak nasıl hissediyorsunuz ve hangi alışkanlıkları kalıcı hale getirdiğinizi düşünüyorsunuz. Bu sorulara vereceğiniz cevaplar, bundan sonraki esnek ama kontrollü yolculuğunuzda size yön gösterecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3852,6 +3852,6 @@
   ],
   "olusturmaTarihi": "2026-01-23T14:35:50.408Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T06:55:39.301Z",
+  "sonGuncelleme": "2026-04-08T06:55:48.004Z",
   "githubKaydedildi": true
 }
