@@ -3004,24 +3004,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-13",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ŞENGÜL ATAKUL 13-19 NİSAN 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "ŞENGÜL ATAKUL 13-19 NİSAN 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/ŞENGÜL ATAKUL 13-19 NİSAN 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ŞENGÜL ATAKUL 13-19 NİSAN 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ŞENGÜL ATAKUL 13-19 NİSAN 12. HAFTA.pdf",
+      "kayitTarihi": "2026-04-08T06:56:50.645Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-24T07:57:13.390Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T06:56:12.082Z",
+  "sonGuncelleme": "2026-04-08T06:56:50.649Z",
   "githubKaydedildi": true
 }
