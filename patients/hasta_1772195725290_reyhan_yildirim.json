@@ -1529,24 +1529,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-13",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "REYHAN YILDIRIM 13-19 NİSAN 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "REYHAN YILDIRIM  13-19 NİSAN 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/REYHAN YILDIRIM 13-19 NİSAN 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/REYHAN YILDIRIM 13-19 NİSAN 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/REYHAN YILDIRIM 13-19 NİSAN 7. HAFTA.pdf",
+      "kayitTarihi": "2026-04-08T14:40:46.942Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-27T12:35:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T14:39:32.922Z",
+  "sonGuncelleme": "2026-04-08T14:40:46.945Z",
   "githubKaydedildi": true
 }
