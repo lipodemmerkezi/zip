@@ -2003,24 +2003,28 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-13",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HATİCE KANA 13-19 NİSAN 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "HATİCE KANA 13-19 NİSAN 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/HATİCE KANA 13-19 NİSAN 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/HATİCE KANA 13-19 NİSAN 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/HATİCE KANA 13-19 NİSAN 9. HAFTA.pdf",
+      "kayitTarihi": "2026-04-08T14:24:43.188Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "PROGRAMDAN MUTLU MOTİVE. EGZERSİZLERE BAŞLIYORUZ.\nMerhaba Hati̇ce Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 9. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-18T10:37:51.902Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T14:17:34.775Z",
+  "sonGuncelleme": "2026-04-08T14:24:43.192Z",
   "githubKaydedildi": true
 }
