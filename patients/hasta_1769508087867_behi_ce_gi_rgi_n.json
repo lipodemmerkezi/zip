@@ -3288,24 +3288,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-13",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "BEHİÇE GİRGİN 13-19 NİSAN 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "BEHİÇE GİRGİN 13-19 NİSAN 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/BEHİÇE GİRGİN 13-19 NİSAN 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BEHİÇE GİRGİN 13-19 NİSAN 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BEHİÇE GİRGİN 13-19 NİSAN 12. HAFTA.pdf",
+      "kayitTarihi": "2026-04-08T07:07:34.393Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-27T10:01:27.867Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T07:06:54.589Z",
+  "sonGuncelleme": "2026-04-08T07:07:34.396Z",
   "githubKaydedildi": true
 }
