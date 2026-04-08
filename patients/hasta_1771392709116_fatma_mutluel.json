@@ -2162,24 +2162,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-13",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMA MUTLUEL 13-19 NİSAN 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "FATMA MUTLUEL 13-19 NİSAN 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/FATMA MUTLUEL 13-19 NİSAN 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA MUTLUEL 13-19 NİSAN 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA MUTLUEL 13-19 NİSAN 9. HAFTA.pdf",
+      "kayitTarihi": "2026-04-08T09:44:36.086Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-18T05:31:49.116Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T09:44:16.283Z",
+  "sonGuncelleme": "2026-04-08T09:44:36.091Z",
   "githubKaydedildi": true
 }
