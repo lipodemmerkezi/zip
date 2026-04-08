@@ -2671,7 +2671,7 @@
       "pdfYolu": "pdfs/ÜMRAN KILLI 13-19 NİSAN 11. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÜMRAN KILLI 13-19 NİSAN 11. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÜMRAN KILLI 13-19 NİSAN 11. HAFTA.pdf",
-      "kayitTarihi": "2026-04-08T06:49:35.598Z",
+      "kayitTarihi": "2026-04-08T06:51:20.516Z",
       "tarifKartlar": [
         {
           "tarifAdi": "starbucks kurabiye",
@@ -2859,7 +2859,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nMerhaba Ümran Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nSon haftalarda sizden pek haber alamadım, umarım hayatın koşturmacası veya günlük stresler sizi çok yormuyordur. Bazen yoğun dönemlerde kendi içimize dönebilir veya iletişime ara verebiliriz, bu son derece doğal bir durum. Sürecinizin kendi rutini içinde devam ettiğini umuyor ve her zaman yanınızda olduğumuzu, sizi buradan takip ettiğimizi bilmenizi istiyorum.\n\nBugün itibarıyla sürecimizde yepyeni bir sayfaya geçiyoruz. Bugüne kadar beslenme, masaj ve hareketle bedeninizi hücresel düzeyde onarmaya odaklandık. Artık fiziksel değişimlerin yanı sıra yeme davranışlarımızın duygusal yönüne de biraz daha yakından bakma zamanı geldi. Çünkü lipödem yalnızca fiziksel bir tablo değil, taşıdığı yük nedeniyle psikolojik olarak da zorlayıcı bir sürece dönüşebiliyor.\n\nZaman zaman aniden bastıran tatlı isteği, bir şey yeme ihtiyacı ya da durup dururken buzdolabını açma gibi durumlar yaşıyor olabilirsiniz. Bu duygulara eşlik eden açlık çoğu zaman gerçek bir fiziksel açlık değil, duygusal ya da hedonik açlık dediğimiz bir durumdur. Günlük stres, yorgunluk, can sıkıntısı veya duygusal olarak zorlandığınız bir anda beynimiz bizi hızlıca ödül getiren, genellikle karbonhidrat ağırlıklı yiyeceklere yönlendirir. Bunun sebebi, bu yiyeceklerin beyindeki haz hormonunu artırmasıdır. Geçici bir rahatlama sağlar ama uzun vadede bedeni yorar.\n\nİşte bu haftaki beslenme listenizi tam da bu mekanizmayı yönetecek şekilde kurguladık. Menünüzde göreceğiniz Starbucks kurabiye, waffle, hurma veya elma, ayva, mandalina gibi seçenekler, bu duygusal dalgalanmaları güvenle ve vücudunuza zarar vermeden yönetmeniz için eklendi. Duygusal yeme krizlerinde en etkili yöntem önceden hazırlıklı olmaktır. Bu tarz tarifleri hazırlayıp elinizin altında bulundurmanız, kriz anlarında düşünmeden sağlıklı olana yönelmenizi sağlar.\n\nListenizdeki besinler aynı zamanda lipödem tedavisinin temel taşı olan antiinflamatuar etkiyi ve hücresel iyileşmeyi de desteklemeye devam ediyor. Sabahları tükettiğiniz avokadolu omlet, tulum peyniri ve sahanda yumurta gibi seçenekler, hücresel enerjinizi yüksek tutan ve kemik sağlığınızı destekleyen çok güçlü D vitamini ve B12 kaynaklarıdır. Öğünlerinizdeki sulu et kızartması, tavuklu tepsi kebabı ve cevizden aldığımız çinko ve selenyum, dokulardaki mikroskobik iltihaplanmayı baskılayarak lenf akışınızı rahatlatır. \n\nÖzellikle mevsim salatalarınızda bolca kullandığımız maydanoz, kırmızı lahana, kırmızı pancar ve limon muazzam birer C vitamini deposudur. C vitamini, rutininizde bulunan toz kollajen ile birleştiğinde cilt elastikiyetini artırır ve bağ dokunuzun sıkılaşmasını sağlar. Borani, susamlı ıspanaklı omlet, çiğ badem ve fındıktan aldığımız magnezyum ise kaslarınızı rahatlatarak egzersiz ve günlük hareketlerinizde lenfatik sistemin pompalama gücünü artırır. Yemeklerinizin yanında tükettiğiniz ev yapımı turşu ile de bağırsak floramızı korumaya devam ediyoruz.\n\nLipödemli bireylerde duygusal yük sıklıkla daha fazladır. Uzun süre çözümü olmadığı düşünülen bir tabloyla baş etmek kolay değildir. Bu yüzden kriz anlarını doğal görmek ve kendinize anlayışla yaklaşmak çok kıymetli. Dilerseniz bu hafta küçük bir defter edinin ve yeme atağı hissettiğinizde o an ne hissettiğinizi, ne yemek istediğinizi birkaç satır yazın. Bu küçük farkındalık adımı, süreci çok daha rahat yönetmenizi sağlayacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2964,6 +2964,6 @@
   ],
   "olusturmaTarihi": "2026-01-31T17:03:43.538Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T06:51:19.024Z",
+  "sonGuncelleme": "2026-04-08T06:51:20.532Z",
   "githubKaydedildi": true
 }
