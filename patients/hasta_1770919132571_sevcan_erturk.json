@@ -2071,24 +2071,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-13",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEVCAN ERTÜRK 13-19 NİSAN 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEVCAN ERTÜRK 13-19 NİSAN 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEVCAN ERTÜRK 13-19 NİSAN 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEVCAN ERTÜRK 13-19 NİSAN 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEVCAN ERTÜRK 13-19 NİSAN 9. HAFTA.pdf",
+      "kayitTarihi": "2026-04-08T09:11:21.594Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-12T17:58:52.571Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T09:08:12.838Z",
+  "sonGuncelleme": "2026-04-08T09:11:21.597Z",
   "githubKaydedildi": true
 }
