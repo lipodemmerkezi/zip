@@ -623,7 +623,7 @@
       "pdfYolu": "pdfs/NEDRET_SACAR_13 Nisan _ 19 Nisan___3. hafta.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDRET_SACAR_13 Nisan _ 19 Nisan___3. hafta.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDRET_SACAR_13 Nisan _ 19 Nisan___3. hafta.pdf",
-      "kayitTarihi": "2026-03-30T08:30:27.781Z",
+      "kayitTarihi": "2026-04-08T06:10:56.438Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -791,7 +791,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nedret Hanım,\n\nSürecimizde yeni bir aşamaya geçiyoruz. İlk iki haftalık dinlenme dönemini geride bırakarak bedeniniz için kalıcı bir denge kurmaya başlıyoruz. İlk adımlar, sindirim sisteminizi rahatlatmak ve bağırsak floranızdaki istenmeyen misafirlerin yoğunluğunu azaltmak için harika bir zemin hazırladı. Şimdi bu temelin üzerine sağlıklı bir yapı inşa ediyoruz. Bu hafta itibarıyla beslenme listenize kontrollü bir şekilde süt ürünlerini, özellikle tulum ve kaşar peynirini dahil ettik. Peynir miktarını artırırken, yumurta tüketiminizi biraz dengeleyerek menünüze çeşitlilik kattık.\n\nBağırsak floramız, yani mikrobiyota, aslında vücudumuzun görünmeyen ama kilo verme sürecini en çok etkileyen gücüdür. Doğru besinlerle desteklenen faydalı bakteriler sadece sindirimi düzenlemekle kalmaz; aynı zamanda iştah kontrolünü sağlar, inflamasyonu azaltır ve ruh halimizi doğrudan etkiler. Bağırsak sağlığınız iyileştikçe, gün içinde aniden bastıran tatlı krizlerinin veya sürekli bir şeyler atıştırma ihtiyacının kendiliğinden hafiflediğini fark edeceksiniz.\n\nMenünüzdeki yiyecekler tam da bu iyileşmeyi destekleyecek şekilde seçildi. Somon, çupra, kuzu güveç ve sulu köfte gibi kaliteli protein kaynakları, hücre yenilenmesi ve metabolizma hızınız için kritik olan selenyum ve B12 vitamini ihtiyacınızı karşılayacak. Roka, maydanoz, brokoli ve avokado gibi taze sebzeler ise içerdikleri yüksek C vitamini ve lif sayesinde sindiriminizi rahatlatıp tokluk sürenizi uzatacak. Badem, ceviz ve fındıktan aldığınız magnezyum ile çinko da hücresel enerjinizi artırarak yorgunluk hissinin önüne geçecek. \n\nBu dönemde kan şekerini dengede tutmak çok önemli. Öğünlerinize başlarken önce yeşilliklerinizi ve salatanızı tüketmek, ardından protein ve sağlıklı yağlara geçmek insülin salınımını yavaşlatacaktır. Salatalarınıza ekleyeceğiniz sirke ve limon da bu dengeye harika bir destek sağlar. \n\nKilo verme yolculuğunda zaman zaman duygusal olarak bir şeyler yeme ihtiyacı hissetmek son derece doğaldır. Özellikle yorucu bir günün ardından bu tür hisler ortaya çıkabilir. Bu anları yumuşakça yönetebilmek için menünüze yaban mersini, çilek ve küçük porsiyonlarda bitter çikolata ekledik. Ayrıca ara öğünlerde tüketeceğiniz, içine bir tutam kaya tuzu ve limon damlatılmış maden suyu, vücudunuzun mineral dengesini koruyarak yalancı açlık krizlerini önlemede en büyük yardımcınız olacak.\n\nBeslenme planımıza sadık kalırken, günlük rutininize ekleyeceğiniz düzenli ve hafif tempolu yürüyüşlerin gücünü de hatırlatmak isterim. Yürüyüş yapmak sadece kalori harcamak anlamına gelmez; dokularınızın oksijenlenmesini artırarak yağ yakımını hücresel düzeyde hızlandırır. Aynı zamanda kas, kemik ve kıkırdak dokularınız üzerinde iyileştirici, onarıcı bir etki yaratır. Açık havada atacağınız adımlar, zihninizi boşaltarak duygusal yeme eğilimini azaltmada size çok iyi gelecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -3796,6 +3796,6 @@
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T06:10:46.447Z",
+  "sonGuncelleme": "2026-04-08T06:10:56.455Z",
   "githubKaydedildi": true
 }
