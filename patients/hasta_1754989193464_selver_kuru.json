@@ -9236,7 +9236,7 @@
       "pdfYolu": "pdfs/SELVER KURU 13-19 NİSAN 36. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SELVER KURU 13-19 NİSAN 36. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SELVER KURU 13-19 NİSAN 36. HAFTA.pdf",
-      "kayitTarihi": "2026-04-08T06:04:33.670Z",
+      "kayitTarihi": "2026-04-08T06:06:08.990Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabak dizme",
@@ -9428,7 +9428,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Selver Hanım, nasılsınız? Umarım sağlığınız ve keyfiniz yerindedir. \n\nGeçtiğimiz hafta sizden haber alamadık, hayatın olağan akışı içinde bazen yoğunluklar olabiliyor veya sürece odaklanmakta dalgalanmalar yaşanabiliyor. Program uyumunuzun nasıl gittiğini, sizi zorlayan bir durum olup olmadığını bilmek, bu yolu size en uygun şekilde örmemiz ve bedeninizi doğru yönlendirmemiz için çok değerli. Biz kaldığımız yerden, metabolizmanızı destekleyecek adımları atmaya devam ediyoruz.\n\nBu haftaki beslenme planınızı, lipödem yönetiminde kritik bir öneme sahip olan lenfatik sistemi destekleyecek ve kan dolaşımını rahatlatacak güçlü bir antiinflamatuar zemin üzerine kurduk. Menünüzde yer alan fırında balık, kuzu güveç, et sote ve tavuk pirzola gibi kaliteli protein kaynakları, doku onarımını sağlarken kas bütünlüğünüzü koruyarak metabolizmanızı canlı tutar. Protein dengesi, ödemin bağ dokusuna yerleşmesini önlemek ve yağ yakımını sürekli kılmak adına en temel stratejilerimizden biridir.\n\nSebze seçimlerimizde karaciğerin detoksifikasyon kapasitesini artıran ve sistemik yangıyı düşüren alternatiflere yöneldik. Zeytinyağlı deniz börülcesi, yerelmalı brokoli salatası, kabak dizme ve yeşil fasulye gibi kükürt ve lif açısından zengin besinler, vücuttaki toksinlerin atılımını kolaylaştırır. Toksin yükü azaldıkça lenfatik akışınız hızlanır, bu da bölgesel incelmenin önündeki hücresel engelleri kaldırır. Sindirim sisteminizi ve bağırsak floranızı korumak adına ev yoğurdu ve organik turşu ile de bu döngüyü destekliyoruz.\n\nTüketeceğiniz bol yeşillik, roka, dereotu ve kivinin içerdiği yüksek C vitamini, rutininizdeki toz kollajenin bağ dokusunu sıkılaştırması için ihtiyaç duyduğu hücresel ortamı hazırlar. Öğünlerinize eklediğimiz sirke ve limon detayları, hem kan şekerinizi dengeleyerek insülin dalgalanmalarını önler hem de sindirimi rahatlatarak şişkinlik hissini azaltır. Ara öğünlerinizi süsleyen çiğ badem, fındık ve ceviz ise sürecin gizli kahramanlarıdır. Bu yağlı tohumlardan alacağınız magnezyum bacaklardaki hassasiyeti yatıştırıp olası krampları engellerken, çinko ve selenyum hücresel yenilenmeyi hızlandırır.\n\nSürecin psikolojik konforunu sağlamak ve kısıtlanmışlık hissi yaşamadan yola devam etmeniz için lorlu zeytinli poğaça, karabuğday ekmeği, ıspanaklı muffin ve browni kurabiye gibi alternatifleri planınıza dahil ettik. Tahin ve cevizle hazırlayıp üzerine tarçın serptiğimiz o küçük dokunuş da kan şekerinizi sarsmadan damak zevkinize hitap edecek şekilde düzenlendi.\n\nBedeninize sunduğunuz bu temiz ve onarıcı yaklaşımla dolaşımınızın çok daha rahatlayacağına eminim. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -9539,7 +9539,7 @@
   ],
   "olusturmaTarihi": "2025-08-12T08:59:53.464Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T06:06:06.564Z",
+  "sonGuncelleme": "2026-04-08T06:06:12.090Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
