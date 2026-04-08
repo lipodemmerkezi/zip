@@ -1538,7 +1538,7 @@
       "pdfYolu": "pdfs/REYHAN YILDIRIM 13-19 NİSAN 7. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/REYHAN YILDIRIM 13-19 NİSAN 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/REYHAN YILDIRIM 13-19 NİSAN 7. HAFTA.pdf",
-      "kayitTarihi": "2026-04-08T14:40:46.942Z",
+      "kayitTarihi": "2026-04-08T14:43:39.695Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1724,7 +1724,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\nMerhaba Reyhan Hanım, umarım her şey yolundadır. \n\nBirlikte yürüttüğümüz bu süreçte yedinci adımı atarken, bedeninizin yeni düzenine büyük ölçüde uyum sağladığını ve kendi ritmini bulduğunu hissediyoruz. Geçtiğimiz haftalarda hayatınıza kattığımız manuel lenf drenaj masajlarının dokularınızdaki o rahatlatıcı etkisini deneyimlemeye başlamanız çok kıymetli. Masaj rutininizi biraz daha yoğunlaştırma ve sıklaştırma yönündeki adımınız, tam da bu aşamada lenfatik akışınızı güçlendirecek ve dokulardaki yumuşamayı daha da hızlandıracak çok doğru bir hamle olacaktır.\n\nSiz dışarıdan masajla dokulara bu yoğun desteği verirken, biz de içeriden sürecin başından beri kullandığınız takviyelerle bu onarımı derinleştiriyoruz. Başlangıçta bu takviye listesi size biraz uzun gelmiş olabilir ancak her birinin lipödemli dokuda çok özel bir görevi var. Örneğin Boswellia serrata ve kurkumin, vücuttaki o sessiz yangıyı yani inflamasyonu baskılayarak ağrı ve sertliklerin hafiflemesine yardımcı oluyor. Bromelain, yoğunlaştırdığınız masajla birlikte sıkışmış dokuların geçirgenliğini artırıp ödemin çözülmesini sağlarken, koenzim Q10 hücrelerimizin enerji santrallerine yakıt taşıyor. Resveratrol damar sağlığınızı koruyor, astaksantin ve başından beri rutininizde yer alan kolajen ise incelme sürecinde cildinizin sıkılaşmasına ve bağ dokunuzun toparlanmasına büyük katkı sağlıyor. Bu takviyeler, doğru beslenme ve masajla birleştiğinde bedeninizi içeriden tamir eden güçlü birer yardımcıdır.\n\nBu haftaki beslenme kurgumuzu da tam olarak bu hücresel tamiratı destekleyecek şekilde oluşturduk. Menünüzde yer alan fırında balık, et sote ve tavuk köftesi gibi kaliteli hayvansal proteinler, tiroid fonksiyonlarınız ve lenfatik onarım için hayati önem taşıyan selenyum ve B12 vitamini ihtiyacınızı karşılıyor. Sabahları tulum, kaşar peyniri, zeytin ve haşhaş ezmesi ekmeği ile yapacağınız kahvaltılar veya ketojenik tost alternatifleri, tokluk sürenizi uzatırken D vitamini emiliminizi destekliyor. D vitamininin dokulardaki yangıyı sakinleştirmedeki rolü bizim için çok değerli.\n\nAna yemeklerinizin yanında bolca yer verdiğimiz sirke ve limonlu roka, dereotu, maydanoz gibi yeşillikler ile cevizli kaşık salatası, içerdikleri yüksek C vitamini sayesinde hem proteinlerdeki demirin emilimini artırıyor hem de vücudunuzun kendi kolajen üretimini tetikliyor. Ara öğünlerdeki çiğ badem ve ceviz ise magnezyum depolarınızı doldurarak artırdığınız masaj rutininizde kaslarınızı ekstra rahatlatacak ve ödem atımını çok daha akıcı hale getirecektir.\n\nSürecin bu aşamalarında bedensel hafiflemenin yanı sıra zihinsel bir dinginlik de inşa ediyoruz. Bazen yeme eylemi sadece fiziksel bir açlığı gidermek için değil, duygusal bir ihtiyacı veya stresi yatıştırmak için de devreye girebilir. Ancak menünüzdeki ev yapımı organik turşu, beşamel soslu karnabahar ve cevizli biber yoğurtlaması gibi bağırsak floranızı besleyen seçenekler sayesinde, bağırsak ve beyin arasındaki iletişim çok daha sağlıklı bir zemine oturuyor. İnsülin seviyeniz dengede kaldıkça ve hücreleriniz mikro besinlerle gerçek anlamda doydukça, duygusal yeme ataklarının veya ani tatlı isteklerinin yerini çok daha sakin ve kontrollü bir ruh haline bıraktığını fark edeceksiniz. Tahin, ceviz ve tarçınla hazırladığımız o küçük dokunuşlar da bu dengeyi keyifle korumanıza yardımcı olacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1825,6 +1825,6 @@
   ],
   "olusturmaTarihi": "2026-02-27T12:35:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T14:43:38.672Z",
+  "sonGuncelleme": "2026-04-08T14:43:42.324Z",
   "githubKaydedildi": true
 }
