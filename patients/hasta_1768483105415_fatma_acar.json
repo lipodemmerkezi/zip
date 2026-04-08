@@ -3285,17 +3285,200 @@
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA ACAR 13-19 NİSAN 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA ACAR 13-19 NİSAN 13. HAFTA.pdf",
       "kayitTarihi": "2026-04-08T06:13:11.974Z",
-      "tarifKartlar": [],
-      "tarifler": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "hindistancevizi unlu ispanaklı muffin",
+          "kartResmi": "hindistancevizi_unlu_ispanakli_muffin.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hindistancevizi_unlu_ispanakli_muffin.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "alinazik kebabı",
+          "kartResmi": "alinazik_kebabi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/alinazik_kebabi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırında sebzeli peynirli güveç",
+          "kartResmi": "firinda_sebzeli_peynirli_guvec.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/firinda_sebzeli_peynirli_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "susamlı omlet",
+          "kartResmi": "susamli_omlet.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/susamli_omlet.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı karnabahar graten",
+          "kartResmi": "kiymali_karnabahar_graten.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_karnabahar_graten.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu kabak mezesi",
+          "kartResmi": "yogurtlu_kabak_mezesi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/yogurtlu_kabak_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kabak dizme",
+          "kartResmi": "kabak_dizme.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kabak_dizme.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu brüksel lahanası",
+          "kartResmi": "yogurtlu_bruksel_lahanasi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/yogurtlu_bruksel_lahanasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "sebzeli ya da ıspanaklı muffin",
+          "kartResmi": "sebzeli_muffin.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/sebzeli_muffin.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "sebzeli ya da ıspanaklı muffin",
+          "kartResmi": "ispanakli_muffin.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/ispanakli_muffin.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kuzu ya da tavuk güveç",
+          "kartResmi": "kuzu_guvec.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kuzu_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kuzu ya da tavuk güveç",
+          "kartResmi": "tavuk_guvec.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuk_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "cevizli browni kek",
+          "kartResmi": "cevizli_browni_kek.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/cevizli_browni_kek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "pazı sarması",
+          "kartResmi": "pazi_sarmasi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/pazi_sarmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli köz biber mezesi",
+          "kartResmi": "cevizli_koz_biber_mezesi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/cevizli_koz_biber_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "fatma acar / 13-19 ni̇san 2026",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "hindistancevizi unlu ispanaklı muffin",
+        "tulum / kaşar peyniri (30 gram)",
+        "yeşillikler (dereotu, maydanoz,marul + sirke ve limon i̇le)",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "alinazik kebabı",
+        "mevsim salata (marul, dereotu, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 tatlı kaşığı zeytinyağı)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (5 adet)",
+        "beyaz peynir",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal maydanoz, 4-5 dal tere, 2 adet küçük yeşil biber+ limon",
+        "yulaflı ve lor peynirli ekmek",
+        "akşam (tercihen hava kararınca)",
+        "yarım su bardağı nohut + 100 gr tavuk ya da kırmızı et ile nohut yemeği",
+        "fırında sebzeli peynirli güveç",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "susamlı omlet",
+        "yeşillikler (dereotu, maydanoz,marul,sirke ve limon ile)",
+        "yulaflı ve lor peynirli ekmek",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kıymalı karnabahar graten",
+        "yoğurtlu kabak mezesi",
+        "kabak çekirdeği (1 avuç)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "tulum / kaşar peyniri (30 gram)",
+        "salatalık (orta boy) ,cherry domates (2 adet), 4-5 yaprak marul, 4-5 dal tere, 2 adet küçük yeşil biber",
+        "yulaflı ve lor peynirli ekmek",
+        "akşam (tercihen hava kararınca)",
+        "kabak dizme",
+        "yoğurtlu brüksel lahanası",
+        "waffle",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sebzeli ya da ıspanaklı muffin",
+        "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal maydanoz, 4-5 dal tere, 2 adet küçük yeşil biber",
+        "közlenmiş kapya biber ( 50 gr)",
+        "çiğ badem (10 adet)",
+        "elma (100 gram, orta boy) ya da yarım portakal",
+        "akşam (tercihen hava kararınca)",
+        "kuzu ya da tavuk güveç",
+        "mevsim salata (marul, dereotu, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 tatlı kaşığı zeytinyağı)",
+        "cevizli browni kek",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tulum / kaşar peyniri (60 gram)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, maydanoz, marul, sirke, limon+1 yemek kaşığı zeytinyağı ile)",
+        "yulaflı ve lor peynirli ekmek",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "elma ya da yarım mandalina",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "yeşillikler (dereotu, maydanoz,marul,sirke,limon ile)",
+        "zeytin (10 adet)",
+        "yulaflı ve lor peynirli ekmek",
+        "akşam (tercihen hava kararınca)",
+        "pazı sarması",
+        "cevizli köz biber mezesi",
+        "kabak çekirdeği (1 avuç)",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
       "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
-      "manuelKartlar": []
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "hindistancevizi unlu ispanaklı muffin",
+        "alinazik kebabı",
+        "fırında sebzeli peynirli güveç",
+        "susamlı omlet",
+        "kıymalı karnabahar graten",
+        "yoğurtlu kabak mezesi",
+        "kabak dizme",
+        "yoğurtlu brüksel lahanası",
+        "sebzeli ya da ıspanaklı muffin",
+        "kuzu ya da tavuk güveç",
+        "cevizli browni kek",
+        "pazı sarması",
+        "cevizli köz biber mezesi"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-01-15T13:18:25.415Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T06:13:11.979Z",
+  "sonGuncelleme": "2026-04-08T06:13:19.900Z",
   "githubKaydedildi": true
 }
