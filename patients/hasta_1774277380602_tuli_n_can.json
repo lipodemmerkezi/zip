@@ -540,7 +540,7 @@
       "pdfYolu": "pdfs/TÜLİN CAN 13-19 NİSAN 3. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/TÜLİN CAN 13-19 NİSAN 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/TÜLİN CAN 13-19 NİSAN 3. HAFTA.pdf",
-      "kayitTarihi": "2026-04-09T05:39:54.206Z",
+      "kayitTarihi": "2026-04-09T05:41:50.301Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabaklı peynirli muffin",
@@ -720,7 +720,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Tülin Hanım,\n\nSürecimizdeki ilk adımları geride bırakırken, bedeninizi daha iyi anladığımız ve yeni bir denge inşa ettiğimiz üçüncü haftamıza ulaştık. Sürece olan uyumunuzun, içinizdeki o güzel motivasyonun ve programdan aldığınız keyfin yüksek olduğunu bilmek, adımlarımızı çok daha sağlam atmamızı sağlıyor.\n\nİlk iki haftalık eliminasyon sürecimiz, sindirim sisteminizi rahatlatmak ve bağırsak florasında istenmeyen mikroorganizmaların yoğunluğunu azaltmak için çok değerli bir temeldi. Şimdi bu temelin üzerine sağlıklı bir yapı kurmaya başlıyoruz. Bu hafta itibarıyla beslenme listemizde kontrollü bir şekilde süt ürünlerine yeniden yer veriyoruz. Yumurta miktarını biraz azaltarak, gün içinde yaklaşık 30 gram kadar tulum veya kaşar peyniri gibi sindirimi daha kolay seçeneklerle değişimler yapıyoruz. Kabaklı peynirli muffinler, badem unlu poğaçalar ve yoğurtlu ıspanak (borani) gibi alternatiflerle hem menümüzü çeşitlendiriyor hem de fermente gıdaların gücünü kullanıyoruz.\n\nBağırsak florası, yani mikrobiyota, vücudumuzun görünmeyen ama en güçlü sistemlerinden biridir. Lipödem gibi kronik inflamatuar durumlarda bağırsak sağlığına odaklanmak sürecin kalbidir. Çünkü doğru besinlerle desteklenen faydalı bakteriler, bağışıklık sistemini güçlendirir, vücuttaki o sessiz yangıyı azaltır ve ruh halimizi doğrudan etkiler. Bu hafta düzenimize eklediğimiz prebiyotik takviyeler ve besin içerikleriyle bağırsak floranızı güçlendirmeyi hedefliyoruz. Bu sistem oturdukça sindirim dengenizin iyileştiğini, tatlı isteği veya sürekli bir şeyler atıştırma ihtiyacının kendiliğinden azaldığını fark edeceksiniz.\n\nMenünüz, lipödem yönetiminde kritik olan lenfatik sistemi desteklemek ve bölgesel incelmeyi tetiklemek üzere özel olarak kurgulandı. Somon, fırın balık ve kuzu ciğeri gibi kaliteli protein kaynakları, doku onarımı için elzem olan selenyum, B12 vitamini ve Omega 3 açısından çok zengindir. Öğünlerinize eşlik eden kabak çekirdeği, çiğ badem, ceviz ve bitter çikolata hem sağlıklı yağ ihtiyacınızı karşılayacak hem de içerdikleri yüksek magnezyum ve çinko ile gün içindeki enerji dalgalanmalarını doğal yollarla dengeleyecektir.\n\nMevsim yeşillikleri, roka, maydanoz ve dereotu gibi C vitamini depolarını bolca kullanıyoruz. Bu noktada küçük ama çok etkili bir detayı hatırlatmak isterim; öğünlerinize önce bu yeşilliklerle, yani salatayla başlamak ve salatalarınıza mutlaka elma sirkesi ile limon eklemek, kan şekeri dengenizi korumanın ve sindirimi kolaylaştırmanın en güzel yoludur. Sirke, insülin salınımını yumuşatarak yağ yakım mekanizmalarına büyük destek olur.\n\nAra öğünlerinizde yer alan maden suyuna eklediğimiz kaya tuzu ve limon, hücresel hidrasyonu sağlayarak lenf akışınızı ve ödem atımını hızlandırmaya devam edecek. Düzenli olarak kullandığınız kollajen desteğiniz de bağ dokunuzu onararak bölgesel sıkılaşma sürecinize içeriden katkı sağlamayı sürdürüyor.\n\nBağırsak sağlığını destekleyen her küçük adımın bedeninizdeki değişimi hızlandıracağı bir dönemdeyiz. Her zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -831,6 +831,6 @@
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-09T05:41:48.005Z",
+  "sonGuncelleme": "2026-04-09T05:41:52.585Z",
   "githubKaydedildi": true
 }
