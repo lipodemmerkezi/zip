@@ -245,9 +245,15 @@
         },
         {
           "tarifAdi": "kıymalı kabak / kıymalı taze fasulye",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı kabak / kıymalı taze fasulye",
           "kartResmi": "kiymali_taze_fasulye.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_taze_fasulye.jpg",
-          "eslesmeTuru": "tam eşleşme"
+          "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "patlıcan kebabı",
@@ -750,10 +756,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "tatildeydi. nasıl gidiyor bu süreçte?\nçarşamba günü prebiyotiklere başlayacağız.\nMerhaba Şenay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-04-12",
+      "bitis": "2026-04-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-01T07:43:09.032Z",
+  "sonGuncelleme": "2026-04-09T05:33:40.359Z",
   "githubKaydedildi": true
 }
