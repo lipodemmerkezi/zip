@@ -751,24 +751,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-13",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEHER YILMAZ 13-19 NİSAN 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEHER YILMAZ 13-19 NİSAN 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEHER YILMAZ 13-19 NİSAN 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEHER YILMAZ 13-19 NİSAN 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEHER YILMAZ 13-19 NİSAN 4. HAFTA.pdf",
+      "kayitTarihi": "2026-04-09T05:37:34.572Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-09T05:37:14.714Z",
+  "sonGuncelleme": "2026-04-09T05:37:34.574Z",
   "githubKaydedildi": true
 }
