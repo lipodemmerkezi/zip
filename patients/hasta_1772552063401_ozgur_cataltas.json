@@ -1585,24 +1585,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-13",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZGÜR ÇATALTAŞ 13-19 NİSAN 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZGÜR ÇATALTAŞ 13-19 NİSAN 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZGÜR ÇATALTAŞ 13-19 NİSAN 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÖZGÜR ÇATALTAŞ 13-19 NİSAN 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÖZGÜR ÇATALTAŞ 13-19 NİSAN 7. HAFTA.pdf",
+      "kayitTarihi": "2026-04-09T05:24:41.069Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-03T15:34:23.401Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-09T05:23:40.019Z",
+  "sonGuncelleme": "2026-04-09T05:24:41.072Z",
   "githubKaydedildi": true
 }
