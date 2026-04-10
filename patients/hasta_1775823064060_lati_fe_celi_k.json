@@ -530,24 +530,26 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-04-12",
-      "bitis": "2026-04-18",
+      "baslangic": "2026-04-10",
+      "bitis": "2026-04-10",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "LATİFE ÇELİK - 3. hafta pdf.pdf",
+      "pdfOrijinalIsim": "LATİFE ÇELİK - 3. hafta pdf.pdf",
+      "pdfYolu": "pdfs/LATİFE ÇELİK - 3. hafta pdf.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/LATİFE ÇELİK - 3. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/LATİFE ÇELİK - 3. hafta pdf.pdf",
+      "kayitTarihi": "2026-04-10T12:12:48.966Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T12:11:04.060Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-10T12:12:36.057Z",
+  "sonGuncelleme": "2026-04-10T12:12:48.967Z",
   "githubKaydedildi": true
 }
