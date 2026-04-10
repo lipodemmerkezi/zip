@@ -2,7 +2,7 @@
   "id": 1768483105415,
   "isim": "FATMA ACAR",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3545,6 +3545,6 @@
   ],
   "olusturmaTarihi": "2026-01-15T13:18:25.415Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T06:48:36.637Z",
+  "sonGuncelleme": "2026-04-10T12:38:41.863Z",
   "githubKaydedildi": true
 }
