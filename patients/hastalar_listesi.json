@@ -51,13 +51,6 @@
     "sonGuncelleme": "2026-04-08T06:55:50.820Z"
   },
   {
-    "id": 1768483105415,
-    "isim": "FATMA ACAR",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-04-08T06:48:42.470Z"
-  },
-  {
     "id": 1771392709116,
     "isim": "FATMA MUTLUEL",
     "not": "",
@@ -472,6 +465,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-11-06T13:45:41.025Z"
+  },
+  {
+    "id": 1768483105415,
+    "isim": "FATMA ACAR",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-04-10T12:38:44.834Z"
   },
   {
     "id": 1765463655006,
