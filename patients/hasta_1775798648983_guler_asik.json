@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-04-05",
-      "bitis": "2026-04-11",
+      "baslangic": "2026-04-11",
+      "bitis": "2026-04-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GÜLER AŞIK 11-19 NİSAN 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "GÜLER AŞIK 11-19 NİSAN 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/GÜLER AŞIK 11-19 NİSAN 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLER AŞIK 11-19 NİSAN 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLER AŞIK 11-19 NİSAN 1. HAFTA.pdf",
+      "kayitTarihi": "2026-04-10T05:26:05.815Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "04/11 - 04/19",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-10T05:24:18.225Z",
+  "sonGuncelleme": "2026-04-10T05:26:05.817Z",
   "githubKaydedildi": true
 }
