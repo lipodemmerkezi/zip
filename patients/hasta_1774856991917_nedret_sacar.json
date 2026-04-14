@@ -906,7 +906,7 @@
       "pdfYolu": "pdfs/NEDRET_SACAR_20 Nisan _ 26 Nisan___4. hafta.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDRET_SACAR_20 Nisan _ 26 Nisan___4. hafta.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDRET_SACAR_20 Nisan _ 26 Nisan___4. hafta.pdf",
-      "kayitTarihi": "2026-03-30T08:31:10.084Z",
+      "kayitTarihi": "2026-04-14T06:12:55.355Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -1083,7 +1083,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nMerhaba Nedret Hanım,\n\nBeslenme düzenimizde dördüncü haftaya adım atıyoruz. Artık bedeninize sunduğunuz bu yeni sisteme çok daha fazla alıştığınızı, bazı alışkanlıkların yavaş yavaş günlük rutininizin doğal bir parçası haline geldiğini tahmin ediyorum. Bir düzen ancak zamanla ve tekrarla yerleşir, biz de şu an tam olarak bu kalıcı temeli inşa ediyoruz.\n\nKilo yönetimi sürecinde en sık düşülen yanılgılardan biri, az yemenin bizi başarıya götüreceğine inanmaktır. Sadece porsiyonları küçültmek ve açlığı bastırmaya çalışmak, günün sonunda yorgunluk, isteksizlik ve aniden bastıran tatlı krizleri olarak bize geri döner. Bunun arkasında vücudumuzun açlık sinyalini yöneten ghrelin hormonu yatar. Vücut yeterli enerjiyi alamadığında beynimize sürekli yemek yeme mesajı gönderir ve bu durum genellikle karbonhidratlara yönelmemizle sonuçlanır. Çok az yemek, dışarıdan kontrollü görünse de içeride metabolizmayı yavaşlatır; vücut enerji tasarrufuna geçer, ısı üretimi düşer ve bir süre sonra motivasyon kayıpları başlar. Bizim amacımız kalorileri kısmak değil, hücrelerinizi gerçekten doyurarak insülin dengesini korumaktır.\n\nBu hafta menünüzde özellikle hayvansal proteinlerin gücünden faydalanacağımız bir yapı oluşturduk. Somon, köfte, mantarlı tavuk sote, hindi füme ve yumurta gibi kaliteli protein kaynakları, kas ve eklem sağlığınızı korurken, bağışıklık sisteminizi güçlü tutmak için ihtiyacınız olan aminoasitleri, selenyum ve B12 vitaminini sağlar. Vücudumuz yapı taşlarını eksiksiz aldığında, kendi enerjisini çok daha verimli kullanır ve kas kaybı gibi istenmeyen durumların önüne geçilmiş olur. Geçtiğimiz hafta menümüze yavaş yavaş geri dönen tulum ve kaşar peyniri gibi süt ürünleri ile ev yoğurdu da artık beslenmenizin doğal bir parçası olarak bu protein ve kalsiyum desteğini sürdürüyor.\n\nSağlıklı yağlar da bu doyum hissinin en büyük destekçisidir. Avokado, ceviz, çiğ badem, kabak çekirdeği ve tahin gibi kaynaklardan aldığınız magnezyum ve çinko, hücresel enerjinizi artırır. Bu sağlıklı yağları; roka, dereotu, beyaz lahana, patlıcan ve kabak gibi yüksek C vitamini ve lif içeren sebzelerle birleştirdiğimizde, tokluk süreniz uzar ve sindirim sisteminiz rahatlar. Öğünlerinize sirke ve zeytinyağı ekleyerek kan şekeri dengenizi çok daha sağlam bir zemine oturtmuş oluyoruz.\n\nGün içinde veya akşam saatlerinde zaman zaman duygusal yeme isteği ya da tatlı krizleri yaşanması son derece insani bir durumdur. Bu anları yumuşakça yönetebilmek için menünüze eklediğimiz çilek gibi antioksidan meyveler ve ara öğünlerinizde tüketeceğiniz, içine bir tutam kaya tuzu ile limon damlatılmış maden suyu, vücudunuzun mineral dengesini koruyarak yalancı açlık sinyallerini susturmanıza büyük ölçüde yardımcı olacaktır. \n\nBeslenmeyle içeriden kurduğumuz bu güçlü yapıyı dışarıdan desteklemenin en güzel yolu ise düzenli ve hafif tempolu yürüyüşlerdir. Yürüyüş yapmak sadece kalori harcatmaz; dokularınızın oksijenlenmesini artırır, kas, kemik ve kıkırdak dokularınız üzerinde onarıcı ve iyileştirici bir etki yaratır. Üstelik açık havada atacağınız adımlar, zihninizi dinlendirerek duygusal açlık ataklarını yönetmenizde size harika bir psikolojik kalkan sağlar.\n\nHer hafta bedeninizin bu sisteme ne kadar güzel yanıt verdiğini daha net hissedeceksiniz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -3797,6 +3797,6 @@
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-14T06:12:52.815Z",
+  "sonGuncelleme": "2026-04-14T06:12:55.928Z",
   "githubKaydedildi": true
 }
