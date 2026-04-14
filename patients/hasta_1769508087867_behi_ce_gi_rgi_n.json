@@ -3354,6 +3354,12 @@
           "eslesmeTuru": "ardışık eşleşme"
         },
         {
+          "tarifAdi": "waffle",
+          "kartResmi": "waffle.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/waffle.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "maydanozlu poğaça",
           "kartResmi": "maydanozlu_pogaca.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/maydanozlu_pogaca.jpg",
@@ -3496,6 +3502,7 @@
         "yoğurtlu yeşil mercimek salatası",
         "cevizli karabuğday ekmeği",
         "kıymalı karnabahar püresi",
+        "waffle",
         "maydanozlu poğaça",
         "tavuk köftesi",
         "kaşarlı kabak graten",
@@ -3549,7 +3556,6 @@
         "elma veya 5 adet çilek (100 gr)",
         "akşam (tercihen hava kararınca)",
         "yeşil salata (marul, dereotu, roka, kırmızı lahana,sirke, limon ve 1 tatlı kaşığı zeytinyağı ile)",
-        "waffle",
         "toz kollajen 1 ölçek",
         "cuma",
         "öğle (tercihen saat 12:00 civarında)",
@@ -3588,10 +3594,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "program uyumu iyi. az kilo verdiğiiçin üzülüyor. önemli olan yavaş ve kalıcı olması. motivasyon yazısı oluşturalım.\nMerhaba Behi̇çe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 12. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-04-19",
+      "bitis": "2026-04-25",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-01-27T10:01:27.867Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-08T07:11:47.593Z",
+  "sonGuncelleme": "2026-04-14T12:23:28.524Z",
   "githubKaydedildi": true
 }
