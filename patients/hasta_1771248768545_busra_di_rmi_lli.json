@@ -2694,7 +2694,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "\nMerhaba Büşra Hanım, nasılsınız? Umarım her şey yolundadır. \n\nOnuncu haftamıza adım atarken, sürecin başından beri koruduğunuz o içsel odaklanma ve hücresel düzeyde aldığımız incelme yanıtları, bedeninizin yeni düzene ne kadar güçlü bir şekilde adapte olduğunu gösteriyor. Bedeninizdeki bu daralma ve hafifleme, lipödemli dokulardaki inflamasyonun azaldığının en net fizyolojik işaretidir. Bu hafta sizinle birlikte, bu güzel ivmeyi koruyarak çok önemli bir geçiş yapıyoruz. Ketojenik beslenmeye bir süreliğine ara veriyor, artık daha esnek ama hücresel iyileşmeyi desteklemeye devam eden düşük karbonhidratlı, yani LowCarb beslenme fazına geçiyoruz.\n\nKetojenik dönem, özellikle ilk başlarda dokulardaki yangıyı ve ödemi azaltmak için çok güçlü bir araçtı. Ancak kronik bir tabloyu yönetirken en önemli unsur sürdürülebilirliktir. Vücudun dengesini koruyabilmesi ve sosyal yaşantıda psikolojik olarak esneklik kazanabilmeniz için bu tür geçişlere ihtiyaç duyarız. LowCarb düzeni hala karbonhidrat kısıtlıdır ancak ketozis seviyesinde değildir. Yani artık menünüzde karabuğday unuyla hazırlanmış ekmekler, elma veya mandalina gibi mevsim meyveleri ve hurma gibi doğal kaynaklara da yer vereceğimiz daha geniş bir yelpaze sunuyor. \n\nKetojenik dönemde edindiğimiz alışkanlıklar ve tarif kartları artık sizin için kıymetli birer arşiv niteliğinde. Şimdi bu arşivin yanına LowCarb dönemi örneklerini ekliyoruz. İlerleyen zamanlarda bu iki düzeni dönüşümlü kullanarak hem insülin dengesini koruyacak hem de çok daha rahat bir akış içinde olacaksınız. Bu esneklik, kendinizi sınırlanmış değil, tamamen dengede hissetmenizi sağlayacak.\n\nBu haftaki menünüzü tam da bu esnekliğe ve hücresel onarıma uygun şekilde kurguladık. Öğünlerinizde yer alan kuzu güveç, ciğer kavurma, fırın balık, tavuk ve kebap gibi kaliteli proteinler, içerdikleri B12, D vitamini ve selenyum ile doku onarımını sürdürüyor. Ara öğünlerdeki çiğ badem, fındık ve ceviz, yüksek magnezyum ve çinko kapasiteleriyle kas fonksiyonlarınızı rahatlatarak lenfatik akışa içeriden destek veriyor. Ispanaklı veya pazılı tava böreği, zeytinyağlı taze fasulye, deniz börülcesi, közlenmiş patlıcan ve bol yeşillikli salatalarınız ise güçlü birer C vitamini kaynağıdır. C vitamini, günlük rutininizde yer almaya devam eden kollajen desteği ile birlikte çalışarak bağ dokusunu güçlendirir ve incelme sürecindeki cilt sıkılaşmasını maksimuma çıkarır. Ev yapımı turşu ve peynir çeşitlerimizle de bağırsak floranızı beslemeye devam ediyoruz.\n\nBu yeni beslenme yapısında, insülin dalgalanmasını kontrol altında tutmak için yeme sıralaması stratejimizi uygulamaya devam etmemiz çok önemli. Öğünlerinize öncelikle lif kaynağı olan mevsim yeşillikleri veya sebze yemekleriyle başlamanız, bağırsaklarda bir bariyer oluşturarak karbonhidrat emilimini yavaşlatacaktır. Ardından protein grubuna geçebilir, karabuğday ekmeği veya browni kurabiye gibi karbonhidratlı seçenekleri ise mutlaka öğünün en sonuna bırakabilirsiniz. İnsülin kontrolünü bir adım daha ileri taşımak için ana öğünlere başlamadan hemen önce suya karıştıracağınız sirke de, içerdiği asetik asit sayesinde çok daha dengeli bir tokluk sağlayacaktır.\n\nÖnümüzdeki günlerde hem bu yeni beslenme düzeniyle devam edecek hem de kazanımlarınızı koruyarak daha esnek bir yaşam ritmine alışmaya başlayacaksınız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -2805,12 +2805,13 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "ölçümleri iyi. motivasyonu iyi. low carb a geçiyoruz.\nMerhaba Büşra Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 10. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-02-16T13:32:48.545Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-14T14:10:44.841Z",
+  "sonGuncelleme": "2026-04-14T14:17:46.388Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
