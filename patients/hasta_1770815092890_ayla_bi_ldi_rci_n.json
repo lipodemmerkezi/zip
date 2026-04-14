@@ -2451,24 +2451,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYLA BİLDİRCİN 20-26 NİSAN 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYLA BİLDİRCİN 20-26 NİSAN 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYLA BİLDİRCİN 20-26 NİSAN 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYLA BİLDİRCİN 20-26 NİSAN 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYLA BİLDİRCİN 20-26 NİSAN 10. HAFTA.pdf",
+      "kayitTarihi": "2026-04-14T12:33:55.110Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-11T13:04:52.890Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-14T12:33:26.941Z",
+  "sonGuncelleme": "2026-04-14T12:33:55.114Z",
   "githubKaydedildi": true
 }
