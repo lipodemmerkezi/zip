@@ -195,24 +195,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERPİL KAYA 20-26 NİSAN 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERPİL KAYA 20-26 NİSAN 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERPİL KAYA 20-26 NİSAN 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SERPİL KAYA 20-26 NİSAN 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SERPİL KAYA 20-26 NİSAN 2. HAFTA.pdf",
+      "kayitTarihi": "2026-04-14T13:53:06.555Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-14T13:04:40.065Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-14T13:52:35.173Z",
+  "sonGuncelleme": "2026-04-14T13:53:06.557Z",
   "githubKaydedildi": true
 }
