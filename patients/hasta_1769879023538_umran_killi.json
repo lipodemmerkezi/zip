@@ -2740,6 +2740,12 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
+          "tarifAdi": "waffle",
+          "kartResmi": "waffle.jpg",
+          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/waffle.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "pazı sarması",
           "kartResmi": "pazi_sarmasi.jpg",
           "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/pazi_sarmasi.jpg",
@@ -2878,6 +2884,7 @@
         "biber dolması (lor & yumurta dolgulu)",
         "karabuğday ekmeği 1 dilim 25 gr",
         "sulu et kızartması",
+        "waffle",
         "pazı sarması",
         "karabuğday ekmeği 1 dilim 25 gr",
         "susamlı ispanaklı omlet",
@@ -2926,7 +2933,6 @@
         "karabuğday ekmeği 1 dilim 25 gr",
         "akşam (tercihen hava kararınca)",
         "mevsim salata (marul, maydanoz, kırmızı lahana, yarım turp, yarım kırmızı pancar +1 yemek kaşığı zeytinyağı)",
-        "waffle",
         "cuma",
         "öğle (tercihen saat 12:00 civarında)",
         "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
@@ -2963,24 +2969,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÜMRAN KILLI 20-26 NİSAN 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÜMRAN KILLI 20-26 NİSAN 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÜMRAN KILLI 20-26 NİSAN 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÜMRAN KILLI 20-26 NİSAN 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÜMRAN KILLI 20-26 NİSAN 12. HAFTA.pdf",
+      "kayitTarihi": "2026-04-14T06:13:23.105Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-31T17:03:43.538Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-14T06:13:03.125Z",
+  "sonGuncelleme": "2026-04-14T06:13:23.109Z",
   "githubKaydedildi": true
 }
