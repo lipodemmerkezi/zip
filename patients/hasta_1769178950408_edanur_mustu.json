@@ -3851,24 +3851,27 @@
     },
     {
       "haftaNo": 13,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "EDANUR MUŞTU 20-26 NİSAN 13. HAFTA.pdf",
+      "pdfOrijinalIsim": "EDANUR MUŞTU 20-26 NİSAN 13. HAFTA.pdf",
+      "pdfYolu": "pdfs/EDANUR MUŞTU 20-26 NİSAN 13. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/EDANUR MUŞTU 20-26 NİSAN 13. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/EDANUR MUŞTU 20-26 NİSAN 13. HAFTA.pdf",
+      "kayitTarihi": "2026-04-14T06:24:32.707Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-23T14:35:50.408Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-14T06:24:10.101Z",
+  "sonGuncelleme": "2026-04-14T06:24:32.712Z",
   "githubKaydedildi": true
 }
