@@ -65,13 +65,6 @@
     "sonGuncelleme": "2026-04-08T09:50:57.751Z"
   },
   {
-    "id": 1776259815574,
-    "isim": "FATMA VAROL",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-04-15T13:47:18.100Z"
-  },
-  {
     "id": 1770919269212,
     "isim": "GÜLAY KOZAĞAÇLI",
     "not": "",
@@ -515,6 +508,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-04-07T05:44:17.082Z"
+  },
+  {
+    "id": 1776259815574,
+    "isim": "FATMA VAROL",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-04-15T13:53:52.252Z"
   },
   {
     "id": "fi_gen_tezman",
