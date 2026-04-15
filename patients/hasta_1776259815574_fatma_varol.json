@@ -255,24 +255,26 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-04-20",
-      "bitis": "2026-04-26",
+      "baslangic": "2026-04-15",
+      "bitis": "2026-04-15",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMA VAROL - 2. hafta pdf.pdf",
+      "pdfOrijinalIsim": "FATMA VAROL - 2. hafta pdf.pdf",
+      "pdfYolu": "pdfs/FATMA VAROL - 2. hafta pdf.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA VAROL - 2. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA VAROL - 2. hafta pdf.pdf",
+      "kayitTarihi": "2026-04-15T13:47:06.786Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-15T13:30:15.574Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-15T13:46:55.508Z",
+  "sonGuncelleme": "2026-04-15T13:47:06.787Z",
   "githubKaydedildi": true
 }
