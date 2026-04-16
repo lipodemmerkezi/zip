@@ -2275,24 +2275,28 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NİHAL GÜLDAŞ 20-26 NİSAN 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "NİHAL GÜLDAŞ 20-26 NİSAN 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/NİHAL GÜLDAŞ 20-26 NİSAN 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NİHAL GÜLDAŞ 20-26 NİSAN 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NİHAL GÜLDAŞ 20-26 NİSAN 10. HAFTA.pdf",
+      "kayitTarihi": "2026-04-16T07:31:38.424Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "lw carb a geçiyoruz. ölçümleri iyi. egzersizlere başlayabilmiş mi?\nMerhaba Ni̇hal Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 10. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-18T10:43:55.987Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-16T07:13:41.151Z",
+  "sonGuncelleme": "2026-04-16T07:31:38.428Z",
   "githubKaydedildi": true
 }
