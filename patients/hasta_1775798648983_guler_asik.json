@@ -368,7 +368,7 @@
       "pdfYolu": "pdfs/GÜLER AŞIK 20-26 NİSAN 2. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLER AŞIK 20-26 NİSAN 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLER AŞIK 20-26 NİSAN 2. HAFTA.pdf",
-      "kayitTarihi": "2026-04-16T09:27:56.542Z",
+      "kayitTarihi": "2026-04-16T09:33:10.771Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -503,7 +503,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Güler Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nProgramımızın ikinci haftasına adım atıyoruz. Henüz yolun çok başındayız ama attığınız bu küçük adımların zamanla ne kadar büyük farklar yaratabileceğini birlikte göreceğiz. Lipödem kronik bir durum olduğu için hızlı çözümlerden ziyade kalıcı ve hücresel düzeyde iyileşmeler hedefliyoruz. Bu nedenle sabırlı ve istikrarlı ilerlemek sürecin en kıymetli parçası.\n\nBu haftayla birlikte vücudunuzda bazı küçük değişiklikler hissetmeye başlayabilirsiniz. Asıl amacımız sadece dışarıdan görünen farklar değil, içerideki o sessiz iltihap halini, yani inflamasyonu baskılamak. Eğer bu inflamasyonu kontrol altına almazsak, zamanla insülin direnci veya hormonal dengesizlikler gibi durumlar ortaya çıkabilir. Bu yüzden sürecimize sadece kilo yönetimi olarak değil, bölgesel incelmeyi ve lenfatik sistemi destekleyen bütüncül bir sağlık yaklaşımıyla devam ediyoruz.\n\nİlk haftalarda önceliğimiz tamamen beslenme üzerine yoğunlaşmak. Vücudunuzu adeta bir yağ yakma antrenmanına sokmuş durumdayız. Bu süreçte insülin hormonunu dengede tutmak çok kritik. Menünüzde yer alan zeytin, ceviz, badem, tereyağı ve zeytinyağı gibi sağlıklı yağlar tam da bu işe yarıyor. Sağlıklı yağlar insülini neredeyse hiç yükseltmez, bu da vücudun kendi yağ depolarını, özellikle de o bölgesel lipödem yağlarını yakmasının önünü açar. Yağ yemenin kilo aldıracağı düşüncesi yaygındır ama asıl yağlanmayı tetikleyen şey, sık ve yüksek seviyede salgılanan insülindir. Bu hafta kahvaltılarda yumurtanızın üzerine eklediğimiz tereyağı, güne düşük insülinle başlamak ve hücresel onarımı başlatmak için harika bir yoldur.\n\nBu hafta sizin için hazırlanan menüye baktığımda, tam da lenfatik sisteminizi destekleyecek ve kan dolaşımınızı rahatlatacak güçlü bir yapı oluşturduğumuzu söyleyebilirim. Öğle ve akşam öğünlerinizde yer verdiğimiz kıymalı taze fasulye, patlıcan kebabı, balık ve kuzu güveç gibi kaliteli proteinler kas dokunuzu korurken, yanlarındaki rengarenk mevsim salataları işin antioksidan kısmını üstleniyor. Kırmızı pancar, kırmızı lahana, turp ve yeşilliklerden oluşan salatalarınız, C vitamini ve magnezyum açısından oldukça zengindir. Bu mikro besinler, lipödemli dokulardaki oksidatif stresi azaltmak ve dolaşımı hızlandırmak için çok değerlidir.\n\nBalık tüketiminiz, omega 3 ve selenyum desteğiyle iltihap karşıtı etkiyi zirveye taşıyacak. Ara öğünlerdeki çiğ badem ve ceviz, magnezyum ve çinko depolarınızı doldurarak ödem atımını kolaylaştıracak. Ayrıca toz kolajen kullanımına devam ediyoruz; bu destek bağ dokunuzu onararak cilt elastikiyetinizi artırma görevini sessizce sürdürüyor. Tatlı ihtiyacınızı dengelemek için listemizde yer alan çilek ve bitter çikolata da hem keyifli hem de antioksidan kapasitesi yüksek seçenekler olarak size eşlik edecek.\n\nBağırsak floranızı güçlendirmek ve inflamasyonu sakinleştirmek adına süt ürünlerine verdiğimiz kısa molaya bu hafta da devam ediyoruz. Vücudunuzun bu sadeleşmeye ne kadar güzel tepki verdiğini zamanla daha net hissedeceksiniz. Önümüzdeki haftalarda bu grubu yeniden ve kontrollü bir şekilde planımıza dahil edeceğiz. \n\nVücudunuzu dinlemeye, hücresel temizliği desteklemek için su tüketiminize özen göstermeye devam edin. Bu süreci ne kadar istikrarlı sürdürürseniz, lipödemle ilgili kazanımlarınız o kadar belirgin olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -606,6 +606,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-16T09:33:07.531Z",
+  "sonGuncelleme": "2026-04-16T09:33:10.776Z",
   "githubKaydedildi": true
 }
