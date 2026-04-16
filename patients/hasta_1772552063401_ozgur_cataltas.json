@@ -1873,24 +1873,28 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZGÜR ÇATALTAŞ 20-26 NİSAN 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZGÜR ÇATALTAŞ 20-26 NİSAN 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZGÜR ÇATALTAŞ 20-26 NİSAN 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÖZGÜR ÇATALTAŞ 20-26 NİSAN 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÖZGÜR ÇATALTAŞ 20-26 NİSAN 8. HAFTA.pdf",
+      "kayitTarihi": "2026-04-16T07:56:42.778Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "ölçümlerinde duraksama olduğu için haftada 2 gün tek öğün önerdik. nasıl zorlanmış mı?\nmerhaba Özgür Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-03T15:34:23.401Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-16T07:55:24.212Z",
+  "sonGuncelleme": "2026-04-16T07:56:42.782Z",
   "githubKaydedildi": true
 }
