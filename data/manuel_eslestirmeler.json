@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "sonGuncelleme": "2026-04-16T06:33:24.292Z",
+  "sonGuncelleme": "2026-04-16T14:19:22.650Z",
   "eslestirmeler": {
     "tavuklukabakmakarna": {
       "orijinalMetin": "tavuklu kabak makarna",
@@ -1410,14 +1410,6 @@
         "kerevizli_cokertme_kebabi.jpg"
       ],
       "eklemeTarihi": "2026-01-10T07:53:29.468Z"
-    },
-    "kiymali kabak kiymali taze fasulye": {
-      "orijinalMetin": "kıymalı kabak / kıymalı taze fasulye",
-      "kartlar": [
-        "kiymali_kabak_yemegi.jpg",
-        "kiymali_taze_fasulye.jpg"
-      ],
-      "eklemeTarihi": "2026-04-04T09:05:20.846Z"
     }
   }
 }
