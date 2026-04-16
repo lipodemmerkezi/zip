@@ -839,7 +839,7 @@
       "pdfYolu": "pdfs/TÜLİN CAN 20-26 NİSAN 4. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/TÜLİN CAN 20-26 NİSAN 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/TÜLİN CAN 20-26 NİSAN 4. HAFTA.pdf",
-      "kayitTarihi": "2026-04-16T08:09:50.582Z",
+      "kayitTarihi": "2026-04-16T08:11:37.857Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -1019,7 +1019,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Tülin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nYeni beslenme düzeninize artık çok daha fazla alıştığınızı ve birçok davranışın yavaş yavaş oturmaya başladığını hissediyorum. Bedeninizin bu sisteme verdiği olumlu tepkiler ve bölgesel ölçümlerinizdeki o güzel iyileşmeler, sürecin ne kadar doğru ilerlediğini bize net bir şekilde gösteriyor. İçinizdeki bu yüksek motivasyonla bedeninizi strese sokmadan, kalıcı ve yapısal kazanımlar elde etmeye devam ediyoruz. \n\nLipödem ve bölgesel incelme süreçlerinde sıkça düşülen bir yanılgı vardır, az yemenin başarı getireceğine inanmak. Oysa sadece porsiyonları azaltmak çoğu zaman sürdürülemez bir yoldur. Kaloriyi aşırı kısıtlamak dışarıdan kontrollü görünse de içeride metabolizmayı yavaşlatır, vücudu enerji tasarrufuna geçirir ve ısı üretimi düşer. Uzun süreli açlıklar veya yetersiz enerji alımı, açlık hormonu olan ghrelin seviyelerini yükselterek beyne sürekli yemek zamanı geldi mesajı gönderir. Bu da ani tatlı veya karbonhidrat krizlerine yol açabilir. Biz bu döngüyü kırmak istiyoruz. Amacımız kaloriyi kısıtlamaktan ziyade, insülin dengesini koruyan doyurucu bir sistemle metabolizmanızı canlı tutmaktır.\n\nBu hafta menünüzde yer alan somon, köfte, mantarlı tavuk sote, hindi füme ve sahanda yumurta gibi hayvansal protein kaynaklarımız, kas dokunuzu korurken bağışıklığınızı güçlü tutacak temel yapı taşlarıdır. Özellikle somon, yumurta ve et grubu, lipödem tedavisinde doku onarımı için elzem olan selenyum, D vitamini, B12 ve Omega 3 açısından harika kaynaklardır. Eğer enerji ve yapı taşı olarak bu kaynakları yeterli almazsak, vücut ihtiyacını karşılamak için kas dokusunu kullanabilir. Bu yüzden doyurucu porsiyonlarla ilerlemek çok kıymetli.\n\nGeçtiğimiz hafta kontrollü bir şekilde yeniden düzenimize dahil ettiğimiz süt ürünlerine bu hafta tulum peyniri, kaşar, ev yoğurdu ve lorlu poğaça gibi alternatiflerle devam ediyoruz. Bu gıdalar ve menünüzdeki ev yapımı organik turşu, bağırsak floranızı destekleyerek vücuttaki o sessiz yangıyı içeriden söndürmeye yardımcı oluyor. Enerji kaynağı olarak kullandığımız avokado, ceviz, çiğ badem, kabak çekirdeği ve tahin gibi sağlıklı yağlar ise içerdikleri yüksek magnezyum ve çinko ile gün içindeki enerjinizi dengede tutacak, hücresel bütünlüğünüzü koruyacaktır.\n\nÖğünlerinizi renklendiren roka, kırmızı lahana, kabak, karnabahar ve patlıcan gibi sebzeler, yüksek C vitamini ve antioksidan kapasiteleriyle lenfatik sisteminizi temizleyip ödem atımını kolaylaştıracak. Yemeklerinize başlarken yeşilliklerinize eklediğiniz sirke ve limon detayını sürdürmek, insülin salınımını yumuşatmanın ve sindirimi rahatlatmanın en pratik yoludur. Ara öğünlerdeki çilek hem ruhunuza iyi gelecek hem de hücrelerinizi koruyacaktır. \n\nMaden suyuna eklediğimiz kaya tuzu ve limon ile hücresel hidrasyonu sağlamaya, lenf akışınızı hızlandırmaya devam ediyoruz. Düzenli kullandığınız kollajen desteğiniz de bağ dokunuzu içeriden sıkılaştırarak bu sürece güçlü bir şekilde eşlik ediyor. Vücudunuzun kendi enerjisini düzenlemesine izin verdikçe, hem besin içeriği açısından zengin hem de porsiyon olarak sizi doyuran bu sistemin size ne kadar iyi geldiğini çok daha net göreceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1125,6 +1125,6 @@
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-16T08:11:35.602Z",
+  "sonGuncelleme": "2026-04-16T08:11:38.409Z",
   "githubKaydedildi": true
 }
