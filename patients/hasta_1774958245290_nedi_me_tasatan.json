@@ -703,7 +703,7 @@
       "pdfYolu": "pdfs/NEDİME TAŞATAN 20-26 NİSAN 4. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDİME TAŞATAN 20-26 NİSAN 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDİME TAŞATAN 20-26 NİSAN 4. HAFTA.pdf",
-      "kayitTarihi": "2026-04-16T08:21:58.858Z",
+      "kayitTarihi": "2026-04-16T08:24:19.227Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -852,7 +852,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nedime Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nBedeninizin yeni beslenme dinamiğine adapte olmaya başladığı, alışkanlıkların yavaş yavaş oturduğu bir döneme giriyoruz. Özellikle o ilk günlerde hissettiğiniz baş ağrılarının geride kalması, metabolizmanızın bu hücresel düzeydeki değişime uyum sağladığının ve enerjiyi artık doğru kaynaklardan aldığının çok doğal bir işaretidir. \n\nDördüncü haftamızda beslenme alışkanlıklarınızla ilgili daha yapısal kazanımlar elde etmeye odaklanıyoruz. Lipödem yönetiminde ya da bölgesel incelme süreçlerinde yapılan en büyük hatalardan biri, az yemenin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, bedeni strese sokan ve sürdürülemeyen bir yoldur. Uzun süreli açlık hissiyle açlık hormonu olan ghrelin devreye girer ve beyne çok güçlü yemek yeme sinyalleri gönderir. Bu da günün sonunda karbonhidratlara yönelme eğilimini artırır. Çok az yemek dışarıdan kontrollü gibi görünse de, içeride metabolizmayı yavaşlatır, vücut enerji tasarrufuna geçer, ısı üretimi düşer ve motivasyon kaybı yaşanır.\n\nBiz bu döngüyü kırmak için porsiyon kısıtlamaktan ziyade, insülin dengesini koruyan ve sizi gerçekten hücresel düzeyde doyuran bir sistemle ilerliyoruz. Bu hafta menünüzde hayvansal proteinlere, özellikle somon, köfte, tavuk güveç ve yumurtaya geniş yer ayırdık. Hayvansal kaynaklı proteinler, lipödem dokusunun onarımı, kas ve eklem sağlığının korunması için ihtiyaç duyduğumuz esansiyel aminoasitleri sağlar. Yeterli protein ve sağlıklı yağ almadığımızda vücut enerjiyi kaslardan çekebilir, bu da istemediğimiz bir durumdur. Ayrıca geçtiğimiz hafta yeniden menümüze dahil ettiğimiz tulum, kaşar peyniri ve ev yoğurdu gibi süt ürünleriyle kalsiyum dengemizi de desteklemeye devam ediyoruz.\n\nÖğünlerinizdeki avokado, ceviz, çiğ badem ve kabak çekirdeği, lipödemin yarattığı hücresel stresi yönetmede kilit rol oynayan magnezyum, çinko ve selenyum açısından gerçek birer hazinedir. Magnezyum, lenfatik dolaşımı rahatlatarak bacaklardaki gerginliği hafifletirken, selenyum tiroid fonksiyonlarını korur. Somon ve zeytinyağından alacağınız sağlıklı yağlar insülini dalgalandırmadan size uzun süreli tokluk sağlar. Karnabahar, enginar mantısı ve bol sirkeli, limonlu roka salatalarınız ise karaciğerin toksin atım kapasitesini artıran C vitamini depolarıdır. Gün içinde tükettiğiniz kaya tuzlu ve limonlu maden suyunuz, hücre içi mineral dengenizi koruyarak ödem atımını kolaylaştıran en büyük yardımcılarımızdan olmaya devam ediyor.\n\nSürecin bu aşamasında bedeninizin verdiği tepkileri rakamsal olarak da değerlendirmek isterim. Müsait olduğunuzda bel, kalça ve bacak çevresi ölçümlerinizi alarak benimle paylaşırsanız, bölgesel incelme durumumuzu birlikte gözden geçirebiliriz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -945,6 +945,6 @@
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-16T08:24:17.093Z",
+  "sonGuncelleme": "2026-04-16T08:24:19.234Z",
   "githubKaydedildi": true
 }
