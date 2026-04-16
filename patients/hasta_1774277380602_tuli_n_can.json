@@ -830,24 +830,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "TÜLİN CAN 20-26 NİSAN 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "TÜLİN CAN 20-26 NİSAN 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/TÜLİN CAN 20-26 NİSAN 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/TÜLİN CAN 20-26 NİSAN 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/TÜLİN CAN 20-26 NİSAN 4. HAFTA.pdf",
+      "kayitTarihi": "2026-04-16T08:09:50.582Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-16T08:09:34.035Z",
+  "sonGuncelleme": "2026-04-16T08:09:50.585Z",
   "githubKaydedildi": true
 }
