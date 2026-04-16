@@ -694,24 +694,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NEDİME TAŞATAN 20-26 NİSAN 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "NEDİME TAŞATAN 20-26 NİSAN 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/NEDİME TAŞATAN 20-26 NİSAN 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDİME TAŞATAN 20-26 NİSAN 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDİME TAŞATAN 20-26 NİSAN 4. HAFTA.pdf",
+      "kayitTarihi": "2026-04-16T08:21:58.858Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-16T08:21:42.480Z",
+  "sonGuncelleme": "2026-04-16T08:21:58.860Z",
   "githubKaydedildi": true
 }
