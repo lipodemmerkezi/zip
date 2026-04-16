@@ -2264,24 +2264,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-04-19",
-      "bitis": "2026-04-25",
+      "baslangic": "2026-04-20",
+      "bitis": "2026-04-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HATİCE KANA 20-26 NİSAN 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "HATİCE KANA 20-26 NİSAN 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/HATİCE KANA 20-26 NİSAN 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/HATİCE KANA 20-26 NİSAN 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/HATİCE KANA 20-26 NİSAN 10. HAFTA.pdf",
+      "kayitTarihi": "2026-04-16T06:52:32.693Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-18T10:37:51.902Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-16T06:48:52.070Z",
+  "sonGuncelleme": "2026-04-16T06:52:32.697Z",
   "githubKaydedildi": true
 }
