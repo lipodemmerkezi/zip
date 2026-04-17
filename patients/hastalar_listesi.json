@@ -79,13 +79,6 @@
     "sonGuncelleme": "2026-04-16T07:01:54.046Z"
   },
   {
-    "id": 1769416152265,
-    "isim": "HATİCE SÜMER",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-04-14T12:22:55.236Z"
-  },
-  {
     "id": 1772634255861,
     "isim": "MERVE KARAKAYA",
     "not": "",
@@ -659,6 +652,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-02-27T06:47:04.835Z"
+  },
+  {
+    "id": 1769416152265,
+    "isim": "HATİCE SÜMER",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-04-17T07:21:04.723Z"
   },
   {
     "id": 28,
