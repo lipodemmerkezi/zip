@@ -1,6 +1,6 @@
 {
   "version": "3.0",
-  "lastUpdated": "2026-04-17T20:53:59.019Z",
+  "lastUpdated": "2026-04-17T20:56:30.332Z",
   "categories": [
     {
       "name": "KAHVALTI",
@@ -4321,6 +4321,33 @@
             "omlet",
             "yumurta"
           ],
+          "compatibilityTags": [],
+          "incompatibilityTags": [],
+          "seasonRange": "[1,12]"
+        },
+        {
+          "name": "fırında domates soslu sebze kızartması (1 kabak, 3 yeşil biber, 1 adet orta boy patlıcan + üzerine 1 adet domates ve 1 diş",
+          "category": "ÖĞLEN",
+          "calories": 234,
+          "protein": 9,
+          "carbs": 18,
+          "fat": 14,
+          "multiplier": 1,
+          "role": "sideDish",
+          "minQuantity": 1,
+          "maxQuantity": 1,
+          "step": 1,
+          "mealType": [],
+          "dietTypes": [
+            "ketojenik"
+          ],
+          "keto": true,
+          "lowcarb": true,
+          "portionFixed": false,
+          "fillerLunch": false,
+          "fillerDinner": false,
+          "isReversedSeason": false,
+          "tags": [],
           "compatibilityTags": [],
           "incompatibilityTags": [],
           "seasonRange": "[1,12]"
