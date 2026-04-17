@@ -177,13 +177,6 @@
     "sonGuncelleme": "2026-04-16T08:21:32.525Z"
   },
   {
-    "id": 1769241433390,
-    "isim": "ŞENGÜL ATAKUL",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-04-14T06:43:42.389Z"
-  },
-  {
     "id": 1774277380602,
     "isim": "TÜLİN CAN",
     "not": "",
@@ -896,6 +889,13 @@
     "arsiv": true,
     "sonGuncelleme": "2025-10-10T05:59:26.227Z",
     "telefonAranacak": false
+  },
+  {
+    "id": 1769241433390,
+    "isim": "ŞENGÜL ATAKUL",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-04-17T07:21:20.688Z"
   },
   {
     "id": "tuba_atas",
