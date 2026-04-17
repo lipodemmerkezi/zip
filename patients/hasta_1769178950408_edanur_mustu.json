@@ -2,7 +2,7 @@
   "id": 1769178950408,
   "isim": "EDANUR MUŞTU",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4183,6 +4183,6 @@
   ],
   "olusturmaTarihi": "2026-01-23T14:35:50.408Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-14T06:27:54.768Z",
+  "sonGuncelleme": "2026-04-17T07:20:20.283Z",
   "githubKaydedildi": true
 }
