@@ -420,106 +420,104 @@
         {
           "date": "2025-12-22",
           "gunAdi": "Pazartesi",
-          "templateId": "day_1762245262446_4p4lp2gsh",
-          "templateName": "Menü 1",
+          "templateId": "day_1762943043757_yl2v6cb84",
+          "templateName": "Menü 762",
           "meals": [
             {
               "ogunAdi": "öğle",
               "originalTitle": "öğle (tercihen saat 12:00 civarında)",
               "yemekler": [
                 {
-                  "foodName": "ketojenik tost (2 ince dilim haşhaş ezmesi ekmeği arasına 2 dilim hindi füme, yeşillikler, domates)",
-                  "originalText": "ketojenik tost (2 ince dilim haşhaş ezmesi ekmeği arasına 2 dilim hindi füme, yeşillikler, domates)",
+                  "foodName": "patlıcan tost",
+                  "originalText": "patlıcan tost",
                   "eslesenYemek": {
-                    "name": "ketojenik tost (haşhaş ezmesi ekmeği + kaşar + hindi füme)",
-                    "originalName": "Ketojenik Tost (Haşhaş Ezmesi Ekmeği + Kaşar + Hindi Füme)",
-                    "calories": 236,
-                    "protein": 18,
-                    "carbs": 5,
-                    "fat": 16,
-                    "category": "TOSTLAR",
+                    "name": "patlıcan tost",
+                    "originalName": "Patlıcan Tost",
+                    "calories": 140,
+                    "protein": 6,
+                    "carbs": 2,
+                    "fat": 12,
+                    "category": "ÖĞLEN",
                     "tags": [
-                      "sucuk",
-                      "haşhaş",
-                      "kaşar",
-                      "hindi",
+                      "patlıcan",
+                      "tost",
                       "keto",
                       "ekmek",
-                      "börek",
                       "et",
-                      "yumurta"
+                      "peynir",
+                      "muffin",
+                      "hindi"
                     ]
                   },
-                  "calories": 236,
-                  "protein": 18,
-                  "carbs": 5,
-                  "fat": 16
+                  "calories": 140,
+                  "protein": 6,
+                  "carbs": 2,
+                  "fat": 12
                 },
                 {
-                  "foodName": "ceviz (5 adet)",
-                  "originalText": "ceviz (5 adet)",
+                  "foodName": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 yaprak marul + 2 adet küçük yeşil biber",
+                  "originalText": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 yaprak marul + 2 adet küçük yeşil biber",
                   "eslesenYemek": {
-                    "name": "ceviz (5 adet)",
-                    "originalName": "Ceviz (5 adet)",
-                    "calories": 146,
-                    "protein": 4,
-                    "carbs": 1,
-                    "fat": 14,
-                    "category": "KURUYEMİŞLER",
-                    "tags": [
-                      "ceviz",
-                      "kuruyemiş",
-                      "keto"
-                    ]
-                  },
-                  "calories": 146,
-                  "protein": 4,
-                  "carbs": 1,
-                  "fat": 14
-                },
-                {
-                  "foodName": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
-                  "originalText": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
-                  "eslesenYemek": {
-                    "name": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
-                    "originalName": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
-                    "calories": 146,
-                    "protein": 3,
-                    "carbs": 2,
+                    "name": "roka salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+                    "originalName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+                    "calories": 150,
+                    "protein": 2,
+                    "carbs": 4,
                     "fat": 14,
                     "category": "SALATALAR",
                     "tags": [
-                      "zeytin",
                       "roka",
+                      "turp",
                       "zeytinyağı",
-                      "keto",
-                      "salata"
+                      "keto"
                     ]
                   },
-                  "calories": 146,
-                  "protein": 3,
-                  "carbs": 2,
+                  "calories": 150,
+                  "protein": 2,
+                  "carbs": 4,
                   "fat": 14
                 },
                 {
-                  "foodName": "zeytin (10 adet)",
-                  "originalText": "zeytin (10 adet)",
+                  "foodName": "lupin unlu ekmek (1 dilim)",
+                  "originalText": "lupin unlu ekmek (1 dilim)",
                   "eslesenYemek": {
-                    "name": "zeytin (10 adet)",
-                    "originalName": "Zeytin (10 adet)",
-                    "calories": 80,
-                    "protein": 1,
+                    "name": "lupin unlu ekmek (1 dilim)",
+                    "originalName": "lupin unlu ekmek (1 dilim)",
+                    "calories": 47,
+                    "protein": 4,
                     "carbs": 1,
-                    "fat": 8,
-                    "category": "ÖĞLEN",
+                    "fat": 3,
+                    "category": "EKMEKLER",
                     "tags": [
-                      "zeytin"
+                      "ekmek",
+                      "lupin"
                     ]
                   },
-                  "calories": 80,
-                  "protein": 1,
+                  "calories": 47,
+                  "protein": 4,
                   "carbs": 1,
-                  "fat": 8
+                  "fat": 3
+                },
+                {
+                  "foodName": "çiğ badem (10 adet)",
+                  "originalText": "çiğ badem (10 adet)",
+                  "eslesenYemek": {
+                    "name": "10 adet çiğ badem",
+                    "originalName": "10 adet Çiğ Badem",
+                    "calories": 70,
+                    "protein": 2,
+                    "carbs": 2,
+                    "fat": 6,
+                    "category": "KURUYEMİŞLER",
+                    "tags": [
+                      "badem",
+                      "keto"
+                    ]
+                  },
+                  "calories": 70,
+                  "protein": 2,
+                  "carbs": 2,
+                  "fat": 6
                 }
               ]
             },
@@ -528,101 +526,98 @@
               "originalTitle": "akşam (tercihen hava kararınca)",
               "yemekler": [
                 {
-                  "foodName": "köfte",
-                  "originalText": "köfte",
+                  "foodName": "kuzu ya da tavuk güveç",
+                  "originalText": "kuzu ya da tavuk güveç",
                   "eslesenYemek": {
-                    "name": "köfte",
-                    "originalName": "Köfte",
-                    "calories": 242,
-                    "protein": 20,
-                    "carbs": 0,
+                    "name": "kuzu ya da tavuk güveç",
+                    "originalName": "kuzu ya da tavuk güveç",
+                    "calories": 298,
+                    "protein": 28,
+                    "carbs": 6,
                     "fat": 18,
                     "category": "AKŞAM",
                     "tags": [
-                      "keto",
                       "et"
                     ]
                   },
-                  "calories": 242,
-                  "protein": 20,
-                  "carbs": 0,
+                  "calories": 298,
+                  "protein": 28,
+                  "carbs": 6,
                   "fat": 18
                 },
                 {
-                  "foodName": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
-                  "originalText": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+                  "foodName": "göçmen salatası",
+                  "originalText": "göçmen salatası",
                   "eslesenYemek": {
-                    "name": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
-                    "originalName": "Yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
-                    "calories": 146,
-                    "protein": 3,
-                    "carbs": 2,
-                    "fat": 14,
+                    "name": "göçmen salatası",
+                    "originalName": "Göçmen Salatası",
+                    "calories": 312,
+                    "protein": 12,
+                    "carbs": 12,
+                    "fat": 24,
                     "category": "SALATALAR",
                     "tags": [
-                      "zeytin",
-                      "roka",
-                      "marul",
-                      "zeytinyağı",
-                      "keto",
-                      "salata"
+                      "peynir",
+                      "salata",
+                      "domates",
+                      "salatalık"
                     ]
                   },
-                  "calories": 146,
-                  "protein": 3,
-                  "carbs": 2,
-                  "fat": 14
+                  "calories": 312,
+                  "protein": 12,
+                  "carbs": 12,
+                  "fat": 24
                 },
                 {
-                  "foodName": "fındık (20 adet)",
-                  "originalText": "fındık (20 adet)",
+                  "foodName": "lupin unlu kek (1 dilim için)",
+                  "originalText": "lupin unlu kek (1 dilim için)",
                   "eslesenYemek": {
-                    "name": "fındık (20 adet)",
-                    "originalName": "fındık (20 adet)",
-                    "calories": 128,
-                    "protein": 3,
-                    "carbs": 2,
-                    "fat": 12,
-                    "category": "KURUYEMİŞLER",
+                    "name": "lupin unlu kek",
+                    "originalName": "Lupin Unlu Kek",
+                    "calories": 30,
+                    "protein": 2,
+                    "carbs": 1,
+                    "fat": 2,
+                    "category": "TATLILAR",
                     "tags": [
-                      "fındık",
-                      "kuruyemiş"
-                    ]
-                  },
-                  "calories": 128,
-                  "protein": 3,
-                  "carbs": 2,
-                  "fat": 12
-                },
-                {
-                  "foodName": "kollajen (1 ölçek 10 gram)",
-                  "originalText": "kollajen (1 ölçek 10 gram)",
-                  "eslesenYemek": {
-                    "name": "kollajen (1 ölçek 10 gram)",
-                    "originalName": "Kollajen (1 ölçek 10 gram)",
-                    "calories": 40,
-                    "protein": 10,
-                    "carbs": 0,
-                    "fat": 0,
-                    "category": "KOLLAJEN",
-                    "tags": [
-                      "kollajen",
+                      "lupin",
+                      "kek",
                       "keto"
                     ]
                   },
-                  "calories": 40,
-                  "protein": 10,
-                  "carbs": 0,
-                  "fat": 0
+                  "calories": 30,
+                  "protein": 2,
+                  "carbs": 1,
+                  "fat": 2
+                },
+                {
+                  "foodName": "turşu (organik, ev yapımı)",
+                  "originalText": "turşu (organik, ev yapımı)",
+                  "eslesenYemek": {
+                    "name": "turşu (organik, ev yapımı)",
+                    "originalName": "turşu (organik, ev yapımı)",
+                    "calories": 275,
+                    "protein": 4,
+                    "carbs": 4,
+                    "fat": 27,
+                    "category": "DİĞER",
+                    "tags": [
+                      "turşu"
+                    ]
+                  },
+                  "calories": 275,
+                  "protein": 4,
+                  "carbs": 4,
+                  "fat": 27
                 }
               ]
             }
           ],
           "totalMacros": {
-            "kalori": 1164,
-            "protein": 62,
-            "karb": 13,
-            "yag": 96
+            "kalori": 1322,
+            "protein": 60,
+            "karb": 32,
+            "yag": 106
           },
           "ogunler": [
             {
@@ -630,98 +625,96 @@
               "originalTitle": "öğle (tercihen saat 12:00 civarında)",
               "yemekler": [
                 {
-                  "foodName": "ketojenik tost (2 ince dilim haşhaş ezmesi ekmeği arasına 2 dilim hindi füme, yeşillikler, domates)",
-                  "originalText": "ketojenik tost (2 ince dilim haşhaş ezmesi ekmeği arasına 2 dilim hindi füme, yeşillikler, domates)",
+                  "foodName": "patlıcan tost",
+                  "originalText": "patlıcan tost",
                   "eslesenYemek": {
-                    "name": "ketojenik tost (haşhaş ezmesi ekmeği + kaşar + hindi füme)",
-                    "originalName": "Ketojenik Tost (Haşhaş Ezmesi Ekmeği + Kaşar + Hindi Füme)",
-                    "calories": 236,
-                    "protein": 18,
-                    "carbs": 5,
-                    "fat": 16,
-                    "category": "TOSTLAR",
+                    "name": "patlıcan tost",
+                    "originalName": "Patlıcan Tost",
+                    "calories": 140,
+                    "protein": 6,
+                    "carbs": 2,
+                    "fat": 12,
+                    "category": "ÖĞLEN",
                     "tags": [
-                      "sucuk",
-                      "haşhaş",
-                      "kaşar",
-                      "hindi",
+                      "patlıcan",
+                      "tost",
                       "keto",
                       "ekmek",
-                      "börek",
                       "et",
-                      "yumurta"
+                      "peynir",
+                      "muffin",
+                      "hindi"
                     ]
                   },
-                  "calories": 236,
-                  "protein": 18,
-                  "carbs": 5,
-                  "fat": 16
+                  "calories": 140,
+                  "protein": 6,
+                  "carbs": 2,
+                  "fat": 12
                 },
                 {
-                  "foodName": "ceviz (5 adet)",
-                  "originalText": "ceviz (5 adet)",
+                  "foodName": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 yaprak marul + 2 adet küçük yeşil biber",
+                  "originalText": "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 yaprak marul + 2 adet küçük yeşil biber",
                   "eslesenYemek": {
-                    "name": "ceviz (5 adet)",
-                    "originalName": "Ceviz (5 adet)",
-                    "calories": 146,
-                    "protein": 4,
-                    "carbs": 1,
-                    "fat": 14,
-                    "category": "KURUYEMİŞLER",
-                    "tags": [
-                      "ceviz",
-                      "kuruyemiş",
-                      "keto"
-                    ]
-                  },
-                  "calories": 146,
-                  "protein": 4,
-                  "carbs": 1,
-                  "fat": 14
-                },
-                {
-                  "foodName": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
-                  "originalText": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
-                  "eslesenYemek": {
-                    "name": "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
-                    "originalName": "Mevsim Yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
-                    "calories": 146,
-                    "protein": 3,
-                    "carbs": 2,
+                    "name": "roka salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+                    "originalName": "Roka Salatası (yarım bağ roka, 5 fındık turp, 3 cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı)",
+                    "calories": 150,
+                    "protein": 2,
+                    "carbs": 4,
                     "fat": 14,
                     "category": "SALATALAR",
                     "tags": [
-                      "zeytin",
                       "roka",
+                      "turp",
                       "zeytinyağı",
-                      "keto",
-                      "salata"
+                      "keto"
                     ]
                   },
-                  "calories": 146,
-                  "protein": 3,
-                  "carbs": 2,
+                  "calories": 150,
+                  "protein": 2,
+                  "carbs": 4,
                   "fat": 14
                 },
                 {
-                  "foodName": "zeytin (10 adet)",
-                  "originalText": "zeytin (10 adet)",
+                  "foodName": "lupin unlu ekmek (1 dilim)",
+                  "originalText": "lupin unlu ekmek (1 dilim)",
                   "eslesenYemek": {
-                    "name": "zeytin (10 adet)",
-                    "originalName": "Zeytin (10 adet)",
-                    "calories": 80,
-                    "protein": 1,
+                    "name": "lupin unlu ekmek (1 dilim)",
+                    "originalName": "lupin unlu ekmek (1 dilim)",
+                    "calories": 47,
+                    "protein": 4,
                     "carbs": 1,
-                    "fat": 8,
-                    "category": "ÖĞLEN",
+                    "fat": 3,
+                    "category": "EKMEKLER",
                     "tags": [
-                      "zeytin"
+                      "ekmek",
+                      "lupin"
                     ]
                   },
-                  "calories": 80,
-                  "protein": 1,
+                  "calories": 47,
+                  "protein": 4,
                   "carbs": 1,
-                  "fat": 8
+                  "fat": 3
+                },
+                {
+                  "foodName": "çiğ badem (10 adet)",
+                  "originalText": "çiğ badem (10 adet)",
+                  "eslesenYemek": {
+                    "name": "10 adet çiğ badem",
+                    "originalName": "10 adet Çiğ Badem",
+                    "calories": 70,
+                    "protein": 2,
+                    "carbs": 2,
+                    "fat": 6,
+                    "category": "KURUYEMİŞLER",
+                    "tags": [
+                      "badem",
+                      "keto"
+                    ]
+                  },
+                  "calories": 70,
+                  "protein": 2,
+                  "carbs": 2,
+                  "fat": 6
                 }
               ]
             },
@@ -730,96 +723,94 @@
               "originalTitle": "akşam (tercihen hava kararınca)",
               "yemekler": [
                 {
-                  "foodName": "köfte",
-                  "originalText": "köfte",
+                  "foodName": "kuzu ya da tavuk güveç",
+                  "originalText": "kuzu ya da tavuk güveç",
                   "eslesenYemek": {
-                    "name": "köfte",
-                    "originalName": "Köfte",
-                    "calories": 242,
-                    "protein": 20,
-                    "carbs": 0,
+                    "name": "kuzu ya da tavuk güveç",
+                    "originalName": "kuzu ya da tavuk güveç",
+                    "calories": 298,
+                    "protein": 28,
+                    "carbs": 6,
                     "fat": 18,
                     "category": "AKŞAM",
                     "tags": [
-                      "keto",
                       "et"
                     ]
                   },
-                  "calories": 242,
-                  "protein": 20,
-                  "carbs": 0,
+                  "calories": 298,
+                  "protein": 28,
+                  "carbs": 6,
                   "fat": 18
                 },
                 {
-                  "foodName": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
-                  "originalText": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+                  "foodName": "göçmen salatası",
+                  "originalText": "göçmen salatası",
                   "eslesenYemek": {
-                    "name": "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
-                    "originalName": "Yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
-                    "calories": 146,
-                    "protein": 3,
-                    "carbs": 2,
-                    "fat": 14,
+                    "name": "göçmen salatası",
+                    "originalName": "Göçmen Salatası",
+                    "calories": 312,
+                    "protein": 12,
+                    "carbs": 12,
+                    "fat": 24,
                     "category": "SALATALAR",
                     "tags": [
-                      "zeytin",
-                      "roka",
-                      "marul",
-                      "zeytinyağı",
-                      "keto",
-                      "salata"
+                      "peynir",
+                      "salata",
+                      "domates",
+                      "salatalık"
                     ]
                   },
-                  "calories": 146,
-                  "protein": 3,
-                  "carbs": 2,
-                  "fat": 14
+                  "calories": 312,
+                  "protein": 12,
+                  "carbs": 12,
+                  "fat": 24
                 },
                 {
-                  "foodName": "fındık (20 adet)",
-                  "originalText": "fındık (20 adet)",
+                  "foodName": "lupin unlu kek (1 dilim için)",
+                  "originalText": "lupin unlu kek (1 dilim için)",
                   "eslesenYemek": {
-                    "name": "fındık (20 adet)",
-                    "originalName": "fındık (20 adet)",
-                    "calories": 128,
-                    "protein": 3,
-                    "carbs": 2,
-                    "fat": 12,
-                    "category": "KURUYEMİŞLER",
+                    "name": "lupin unlu kek",
+                    "originalName": "Lupin Unlu Kek",
+                    "calories": 30,
+                    "protein": 2,
+                    "carbs": 1,
+                    "fat": 2,
+                    "category": "TATLILAR",
                     "tags": [
-                      "fındık",
-                      "kuruyemiş"
-                    ]
-                  },
-                  "calories": 128,
-                  "protein": 3,
-                  "carbs": 2,
-                  "fat": 12
-                },
-                {
-                  "foodName": "kollajen (1 ölçek 10 gram)",
-                  "originalText": "kollajen (1 ölçek 10 gram)",
-                  "eslesenYemek": {
-                    "name": "kollajen (1 ölçek 10 gram)",
-                    "originalName": "Kollajen (1 ölçek 10 gram)",
-                    "calories": 40,
-                    "protein": 10,
-                    "carbs": 0,
-                    "fat": 0,
-                    "category": "KOLLAJEN",
-                    "tags": [
-                      "kollajen",
+                      "lupin",
+                      "kek",
                       "keto"
                     ]
                   },
-                  "calories": 40,
-                  "protein": 10,
-                  "carbs": 0,
-                  "fat": 0
+                  "calories": 30,
+                  "protein": 2,
+                  "carbs": 1,
+                  "fat": 2
+                },
+                {
+                  "foodName": "turşu (organik, ev yapımı)",
+                  "originalText": "turşu (organik, ev yapımı)",
+                  "eslesenYemek": {
+                    "name": "turşu (organik, ev yapımı)",
+                    "originalName": "turşu (organik, ev yapımı)",
+                    "calories": 275,
+                    "protein": 4,
+                    "carbs": 4,
+                    "fat": 27,
+                    "category": "DİĞER",
+                    "tags": [
+                      "turşu"
+                    ]
+                  },
+                  "calories": 275,
+                  "protein": 4,
+                  "carbs": 4,
+                  "fat": 27
                 }
               ]
             }
-          ]
+          ],
+          "refreshIndex": 1
         },
         {
           "date": "2025-12-23",
@@ -3041,7 +3032,7 @@
   "status": "active",
   "sessionDays": 365,
   "maxDevices": 10,
-  "updatedAt": "2026-04-17T20:53:16.004Z",
+  "updatedAt": "2026-04-17T20:53:20.061Z",
   "devices": [
     {
       "deviceId": "device_da2b63ff-abd3-4057-9b73-62398071dcc2",
