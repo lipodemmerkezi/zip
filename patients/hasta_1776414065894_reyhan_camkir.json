@@ -3,9 +3,27 @@
   "isim": "REYHAN ÇAMKIR",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-04-12",
+      "bitis": "2026-04-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-04-17T08:21:05.894Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-17T08:21:05.894Z",
+  "sonGuncelleme": "2026-04-17T08:21:16.403Z",
   "githubKaydedildi": true
 }
