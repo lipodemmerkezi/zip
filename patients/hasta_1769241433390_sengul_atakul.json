@@ -2,7 +2,7 @@
   "id": 1769241433390,
   "isim": "ŞENGÜL ATAKUL",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3559,6 +3559,6 @@
   ],
   "olusturmaTarihi": "2026-01-24T07:57:13.390Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-14T06:43:39.793Z",
+  "sonGuncelleme": "2026-04-17T07:21:17.388Z",
   "githubKaydedildi": true
 }
