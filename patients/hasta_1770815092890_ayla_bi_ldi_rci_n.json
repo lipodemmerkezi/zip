@@ -2769,24 +2769,28 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYLA BİLDİRCİN 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYLA BİLDİRCİN 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYLA BİLDİRCİN 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYLA BİLDİRCİN 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYLA BİLDİRCİN 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "kayitTarihi": "2026-04-22T06:51:16.327Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "ÖLÇÜMLERİ İY. MOTİVASYONUNU BOZMADAN DEVAM ETMESİNİ ÖNERELİM.\nMerhaba Ayla Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 11. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-11T13:04:52.890Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-22T06:47:27.547Z",
+  "sonGuncelleme": "2026-04-22T06:51:16.331Z",
   "githubKaydedildi": true
 }
