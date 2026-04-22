@@ -3258,24 +3258,27 @@
     },
     {
       "haftaNo": 13,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÜMRAN KILLI 27 NİSAN -3 MAYIS 13. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÜMRAN KILLI 27 NİSAN -3 MAYIS 13. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÜMRAN KILLI 27 NİSAN -3 MAYIS 13. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ÜMRAN KILLI 27 NİSAN -3 MAYIS 13. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ÜMRAN KILLI 27 NİSAN -3 MAYIS 13. HAFTA.pdf",
+      "kayitTarihi": "2026-04-22T06:33:16.859Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-01-31T17:03:43.538Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-22T06:32:55.255Z",
+  "sonGuncelleme": "2026-04-22T06:33:16.862Z",
   "githubKaydedildi": true
 }
