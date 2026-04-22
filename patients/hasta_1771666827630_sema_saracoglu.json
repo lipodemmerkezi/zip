@@ -2539,24 +2539,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEMA SARAÇOĞLU 27 NİSAN -3 MAYIS 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEMA SARAÇOĞLU 27 NİSAN -3 MAYIS 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEMA SARAÇOĞLU 27 NİSAN -3 MAYIS 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/SEMA SARAÇOĞLU 27 NİSAN -3 MAYIS 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/SEMA SARAÇOĞLU 27 NİSAN -3 MAYIS 10. HAFTA.pdf",
+      "kayitTarihi": "2026-04-22T11:06:35.807Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-21T09:40:27.630Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-22T11:06:12.152Z",
+  "sonGuncelleme": "2026-04-22T11:06:35.811Z",
   "githubKaydedildi": true
 }
