@@ -2795,24 +2795,27 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMA MUTLUEL 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "FATMA MUTLUEL 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/FATMA MUTLUEL 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/FATMA MUTLUEL 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/FATMA MUTLUEL 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
+      "kayitTarihi": "2026-04-22T07:27:46.799Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-18T05:31:49.116Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-22T07:26:27.882Z",
+  "sonGuncelleme": "2026-04-22T07:27:46.802Z",
   "githubKaydedildi": true
 }
