@@ -3921,7 +3921,7 @@
       "pdfYolu": "pdfs/BEHİÇE GİRGİN 27 NİSAN -3 MAYIS 14. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BEHİÇE GİRGİN 27 NİSAN -3 MAYIS 14. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BEHİÇE GİRGİN 27 NİSAN -3 MAYIS 14. HAFTA.pdf",
-      "kayitTarihi": "2026-04-22T06:40:25.388Z",
+      "kayitTarihi": "2026-04-22T06:43:08.683Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabaklı peynirli muffin",
@@ -4120,7 +4120,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nMerhaba Behiçe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nPazartesi günü itibariyle programımızda on dördüncü haftaya adım atıyoruz. Birlikte yürüttüğümüz bu sürecin son haftasına girerken, aslında bir bitişten ziyade, kazandığınız bu yeni ve sağlıklı alışkanlıkları kalıcı bir yaşam tarzına dönüştüreceğiniz yepyeni bir dönemin kapısını aralıyoruz. Bu hafta tamamlandığında, bundan sonraki süreçte kendi rotanızı güvenle çizebilmeniz için size özel hazırladığımız bir devam listesi ileteceğiz. Bugüne kadar ilmek ilmek işlediğimiz hücresel onarımın ve lenfatik rahatlamanın korunması, bu sürdürülebilir yapıyı hayatınıza ne kadar entegre ettiğinize bağlı olacak.\n\nBu haftanın menüsünü, lipödem yönetimi ve bölgesel incelme hedeflerimiz doğrultusunda, vücudunuzun antiinflamatuar dengesini en üst seviyede tutacak şekilde kurguladık. Listenizde yer alan ızgara balık, kuzu kavurma, tavuk ve köfte gibi kaliteli hayvansal proteinler, doku onarımı için elzem olan B12 vitamini ve selenyum depolarınızı doldurmaya devam ediyor. Özellikle selenyum, lenfatik sisteminizin sağlıklı çalışması ve serbest dolaşıma çıkan ödemin vücuttan uzaklaştırılması için çok güçlü bir antioksidandır. Öğünlerinize eklediğimiz ev yapımı organik turşu ise bağırsak floranızı destekleyerek sistemik inflamasyonu içeriden baskılamaya yardımcı olacak çok değerli bir probiyotik kaynağıdır.\n\nAra öğünlerinizde yer verdiğimiz ceviz, fındık ve kabak çekirdeği gibi sağlıklı yağ kaynakları, içerdikleri yüksek magnezyum ve çinko ile hem sinir sisteminizi yatıştıracak hem de dokularınızın ihtiyaç duyduğu esnekliği sağlayacaktır. Rutininizin bir parçası olan toz kollajen kullanımına aynı titizlikle devam ediyoruz. Cildinizin sıkılaşması ve incelme sürecinde elastikiyetini koruması için kollajenin doğrudan hedef dokulara ulaşması gerekir. Listenizdeki semizotu, roka, dereotu, enginar ve avokadolu salatalardan, ayrıca elma ve çağla gibi taze meyvelerden alacağınız C vitamini, bu kollajenin işlenmesi için anahtar rol üstleniyor.\n\nBeslenme düzenimizde oluşturduğumuz yeme sıralaması kuralı bu son haftamızda ve sonrasındaki devam sürecinde en büyük koruyucunuz olacak. Öğünlerinize her zaman yeşillikler ve zeytinyağlı salatalarla başlamak, ardından proteinlere geçmek ve yulaf ekmeği gibi karbonhidratları en sona bırakmak, insülin hormonunun ani yükselişini engelleyerek lipödemli dokuların uyarılmasının önüne geçer. Salatalarınıza ekleyeceğiniz sirke ve limon da mide boşalımını yavaşlatarak bu insülin kontrolüne muazzam bir destek sağlar.\n\nSürecin bu aşamalarında, tartıdaki rakamların yavaşladığını veya sabit kaldığını gözlemleyebilirsiniz. Yağ hücreleri küçülüp yıkıldıkça, içlerinde uzun süredir hapsolmuş toksinler kana karışır ve vücudunuz bunları temizlemek için ekstra bir mesai harcar. Yaşadığınız bu metabolik adaptasyon, içerideki iyileşmenin durduğunu değil, aksine dokularınızın hücresel bazda çok daha derinlemesine yeniden yapılandığını gösterir. Bu yüzden tartıdaki rakamlardan ziyade, bedeninizdeki hafifleme hissine ve kıyafetlerinizdeki değişime odaklanmak çok daha anlamlıdır.\n\nMenünüzde yer alan waffle, cevizli browni kek, lupin unlu poğaça ve lahmacun gibi alternatifleri, diyet psikolojisinin getirdiği o katı kurallardan uzaklaşmanız ve duygusal yeme ataklarının önüne geçmeniz için planladık. Bu tür sağlıklı ve esnek alternatifler, sürecin sosyal hayata uyumunu kolaylaştırır ve uzun vadede motivasyonunuzu korumanızı sağlar.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -4246,6 +4246,6 @@
   ],
   "olusturmaTarihi": "2026-01-27T10:01:27.867Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-22T06:43:05.513Z",
+  "sonGuncelleme": "2026-04-22T06:43:08.705Z",
   "githubKaydedildi": true
 }
