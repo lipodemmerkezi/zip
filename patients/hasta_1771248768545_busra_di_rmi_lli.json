@@ -2819,7 +2819,7 @@
       "pdfYolu": "pdfs/BÜŞRA DİRMİLLİ 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/BÜŞRA DİRMİLLİ 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/BÜŞRA DİRMİLLİ 27 NİSAN -3 MAYIS 11. HAFTA.pdf",
-      "kayitTarihi": "2026-04-22T07:18:41.436Z",
+      "kayitTarihi": "2026-04-22T07:25:56.578Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
@@ -3025,7 +3025,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nMerhaba Büşra Hanım, umarım keyifli ve huzurlu bir dönem geçiriyorsunuzdur. Sürecin bu noktasına kadar gösterdiğiniz uyum ve programa olan bağlılığınız, bedeninizin hücresel düzeyde verdiği olumlu yanıtlarla kendini açıkça gösteriyor.\n\nBu döneme girerken, bedensel adaptasyonun bir parçası olarak ölçümlerde zaman zaman yavaşlamalar yaşanması son derece doğal bir fizyolojik mekanizmadır. Lipödemli dokulardaki inflamasyon azaldıkça, yağ hücrelerinden serbest kalan toksinler vücuttan atılmaya çalışılırken metabolik bir adaptasyon süreci yaşanır. Bu durum kesinlikle bir duraklama değil, aksine vücudun hücresel düzeyde temizlendiğinin ve yeni dengesini inşa ettiğinin bir işaretidir.\n\nFiziksel değişimlerin yanı sıra yeme davranışlarımızın duygusal yönüne de biraz daha yakından bakma zamanı geldi. Lipödem yalnızca fiziksel bir tablo değil, psikolojik olarak da yönetilmesi gereken bir süreçtir. Zaman zaman tatlı isteği ya da durup dururken bir şeyler yeme ihtiyacı hissedebilirsiniz. Bu duygulara eşlik eden açlık çoğu zaman gerçek bir fiziksel açlık değil, yorgunluk, günlük stres veya can sıkıntısı gibi durumların tetiklediği duygusal açlıktır. Bu anlarda beynimiz hızlıca ödül getiren yiyeceklere yönelerek dopamin salgısını artırmak ister. Geçici bir rahatlama sağlasa da sonrasında kontrol kaybı hissi yaratabilir.\n\nBu krizleri yönetmenin en etkili yolu önceden hazırlıklı olmaktır. Menünüzde yer alan browni kurabiye, badem unlu poğaça veya lupin unlu alternatifleri hazırlayıp elinizin altında bulundurmanız, bu anlarda güvenle tüketebileceğiniz seçenekler yaratır. Ulaşılması kolay sağlıklı alternatiflerin varlığı sizi hem fiziksel hem de ruhsal olarak rahatlatır. İsterseniz bu dönemde küçük bir duygusal yeme günlüğü tutarak, kriz anlarında ne hissettiğinizi ve ne yemek istediğinizi not edebilirsiniz. Bu süreçte hatasız olmanız gerekmiyor, kendinize anlayışla yaklaşmanız en kıymetlisi.\n\nBu hafta menünüze sürecin sürdürülebilirliğini destekleyecek yeni dokunuşlar yaptık. Artık beslenme yapımızda yeşil mercimek köftesi ve nohut yemeği gibi bakliyatlara da yer veriyoruz. Ayrıca havalar ısınırken serinletici ve keyifli bir alternatif olarak dondurmayı da listemize dahil ettik. Bu esneklikler, sürecin bir diyetten ziyade kalıcı bir yaşam biçimine dönüşmesine yardımcı olacaktır.\n\nHücresel onarımı destekleyen mikro besinler de menünüzün temelini oluşturmaya devam ediyor. Öğünlerinizdeki fırın balık, tavuk pirzola, patlıcan kebabı ve sulu köfte gibi kaliteli proteinler, içerdikleri selenyum ve B12 vitamini ile doku onarımını sürdürüyor. Mantarlı omletinizden aldığımız D vitamini inflamasyonu baskılarken, fındık, ceviz ve çiğ badem yüksek magnezyum ve çinko kapasiteleriyle kas fonksiyonlarınızı rahatlatıp lenfatik sisteme içeriden destek veriyor. Semizotu, elmalı pancar salatası ve bol yeşillikler ise güçlü birer C vitamini kaynağıdır. C vitamini, günlük rutininizde yer alan kollajen desteği ile birlikte çalışarak bağ dokusunu güçlendirir ve cilt sıkılaşmasını destekler.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3144,7 +3144,7 @@
   ],
   "olusturmaTarihi": "2026-02-16T13:32:48.545Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-22T07:25:54.388Z",
+  "sonGuncelleme": "2026-04-22T07:25:57.836Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
