@@ -263,24 +263,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "REYHAN ÇAMKIR 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "REYHAN ÇAMKIR 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/REYHAN ÇAMKIR 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/REYHAN ÇAMKIR 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/REYHAN ÇAMKIR 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "kayitTarihi": "2026-04-23T06:20:19.590Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-17T08:21:05.894Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-23T06:20:01.522Z",
+  "sonGuncelleme": "2026-04-23T06:20:19.592Z",
   "githubKaydedildi": true
 }
