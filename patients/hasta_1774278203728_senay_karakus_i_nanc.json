@@ -1325,24 +1325,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ŞENAY KARAKUŞ İNANÇ 27 NİSAN -3 MAYIS 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "ŞENAY KARAKUŞ İNANÇ 27 NİSAN -3 MAYIS 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/ŞENAY KARAKUŞ İNANÇ 27 NİSAN -3 MAYIS 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ŞENAY KARAKUŞ İNANÇ 27 NİSAN -3 MAYIS 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ŞENAY KARAKUŞ İNANÇ 27 NİSAN -3 MAYIS 6. HAFTA.pdf",
+      "kayitTarihi": "2026-04-23T06:31:10.258Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-23T06:30:51.684Z",
+  "sonGuncelleme": "2026-04-23T06:31:10.260Z",
   "githubKaydedildi": true
 }
