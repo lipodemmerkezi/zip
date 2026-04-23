@@ -499,7 +499,7 @@
       "pdfYolu": "pdfs/AYŞE BALCI 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYŞE BALCI 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYŞE BALCI 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-04-23T06:19:29.225Z",
+      "kayitTarihi": "2026-04-23T06:20:10.938Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -625,7 +625,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nBedeninizi dinlendirdiğimiz ve hücresel düzeyde onarıma başladığımız ilk iki haftalık eliminasyon sürecini geride bırakıyoruz. Artık attığımız bu sağlam temelin üzerine yeni ve sürdürülebilir bir yapı inşa etme zamanı geldi. \n\nBu hafta itibarıyla beslenme düzenimizde önemli bir adım atıyor ve süt ürünlerini kontrollü bir şekilde menünüze yeniden dahil ediyoruz. Menünüze eklediğimiz tulum ve kaşar peyniri gibi fermente, sindirimi daha kolay seçeneklerle başlıyoruz. İlk haftalardaki o kısa mola, bağırsak floranızdaki istenmeyen mikroorganizmaların azalmasını ve sindirim sisteminizin rahatlamasını sağladı. Bağırsak florası, yani mikrobiyota, lipödem yönetiminde inflamasyonu baskılayan en büyük gücümüzdür. Faydalı bakterilerimiz ne kadar çeşitli ve güçlü olursa, bağışıklık sistemimiz o kadar desteklenir, iştah kontrolümüz kolaylaşır ve tatlıya olan eğilimimiz kendiliğinden azalır.\n\nBu faydalı bakterileri beslemek ve mikrobiyotayı güçlendirmek için ev yapımı organik turşuyu da öğünlerimize entegre ettik. Süt ürünlerinin dönüşüyle birlikte yumurta miktarını da doğal bir dengeye oturtuyoruz. Mantarlı omlet, sahanda yumurta ve peynir çeşitleri, doku onarımı için çok değerli olan B12 ve D vitamini ihtiyacınızı karşılarken; rutininizdeki çiğ badem ve ceviz, içerdikleri magnezyum ve selenyum ile kan dolaşımınızı rahatlatıp ödemin atılmasına destek olmaya devam edecek.\n\nÖğle ve akşam öğünlerinizde yer alan ıspanaklı tavuk dolması, fırın balık, köfte ve lahmacun gibi seçenekler, kas yapınızı korumak için gereken kaliteli proteini ve çinkoyu sağlar. Bu proteinlere eşlik eden roka, dereotu, maydanoz ve kırmızı lahana gibi mevsim yeşillikleri bizim için sadece birer salata değil. Yüksek C vitamini içerikleriyle lenf sıvısının temizlenmesinde ve halihazırda kullanmaya devam ettiğiniz kollajenin vücutta işlenip bağ dokusunu onarmasında kilit rol oynarlar. Ara öğünlerdeki yaban mersini ve çilek gibi orman meyveleri de bu antioksidan etkiyi keyifli bir şekilde destekleyecek.\n\nBu hafta sindirimi ve insülin dengesini daha da iyileştirmek için yeme sıralamasına odaklanıyoruz. Öğünlerinize başlarken önce zeytinyağı, limon ve elma sirkesi eklenmiş yeşilliklerinizi tüketmek, ardından ana yemeğe geçmek harika bir stratejidir. Sirke ve lifli yeşillikler, kan şekerinin yavaş yükselmesini sağlayarak insülini dengede tutar; bu da vücudun enerji kaynağı olarak lipödemli dokulardaki yağları kullanmasını kolaylaştırır.\n\nHücre içi sıvı dengenizi korumak ve elektrolit ihtiyacınızı karşılamak için kaya tuzu ve limonlu maden suyunuzu ihmal etmemeniz sürecin akıcılığı için çok önemli. Bağırsak sağlığınızı destekleyen bu yeni adımların bedeninizdeki o hafifleme hissini nasıl artırdığını zamanla çok daha net hissedeceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -725,6 +725,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T12:43:18.883Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-23T06:20:08.231Z",
+  "sonGuncelleme": "2026-04-23T06:20:13.332Z",
   "githubKaydedildi": true
 }
