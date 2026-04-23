@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/EMEL ARICI 24 NİSAN -3 MAYIS 1. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/EMEL ARICI 24 NİSAN -3 MAYIS 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/EMEL ARICI 24 NİSAN -3 MAYIS 1. HAFTA.pdf",
-      "kayitTarihi": "2026-04-23T07:13:47.433Z",
+      "kayitTarihi": "2026-04-23T08:57:00.483Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -195,7 +195,7 @@
         "haşhaş ezmesi ekmeği yerine 1 adet yumurta, 3 adet ceviz ya da 10 adet çiğ badem ekleyebilirsiniz."
       ],
       "gptMesaj": "Merhaba Emel Hanım,\n\nYeniden birlikte bir yola çıkıyoruz. Sizinle daha önce de bir geçmişimiz olduğu için sürecin dinamiklerine ve bedeninize neyin iyi geldiğine aşinasınız. İş hayatınızın yoğunluğunun zaman zaman sizi zorladığını biliyorum, bu yüzden planımızı günlük temponuza en uyumlu olacak şekilde, pratik ama bir o kadar da etkili adımlarla yöneteceğiz. Cuma günü itibarıyla ilk günümüze adım atıyoruz. \n\nLipödem, bildiğiniz gibi sadece basit bir kilo problemi değil; genetik ve hormonal kökenli, kronik iltihabi bir durumdur. Bu hastalıkta amacımız sadece kalori saymak değil, vücuttaki inflamasyonu yani o içsel yangıyı söndürmek ve lenfatik sistemi rahatlatmaktır. Bedeninizi doğru besinlerle desteklediğimizde ilerlemenin durduğunu, hatta gerilemenin başladığını birlikte göreceğiz.\n\nBu hafta itibarıyla süt ve süt ürünlerini kısa bir süreliğine menümüzden çıkarıyoruz. Amacımız gizli gıda duyarlılıklarının etkisini gözlemlemek, vücuttaki inflamasyon kaynaklarını azaltmak ve bağırsak florasını güçlendirmek için temiz bir zemin hazırlamak. Üçüncü haftadan itibaren bu ürünleri kontrollü olarak tekrar konuşacağız. \n\nBu dönemde protein ihtiyacımızı en kaliteli kaynaklardan biri olan yumurtadan karşılayacağız. Menünüzdeki menemen, mantarlı omlet, sucuklu yumurta veya yumurta salatası gibi alternatifler, lipödem yönetiminde çok kıymetli olan A, D, B12 vitaminleri, selenyum ve kolin gibi mikro besinleri vücudunuza sağlayacak. İlerleyen haftalarda süt ürünleri listeye döndükçe yumurta miktarını doğal olarak dengeleyeceğiz.\n\nMenünüze eklediğimiz karnabahar pankek, badem unlu krep, kıymalı patlıcan kapama gibi seçenekler hem sizi tok tutacak hem de kan dolaşımınızı destekleyecektir. Özellikle ceviz, çiğ badem, zeytin ve zeytinyağı gibi sağlıklı yağlar hücresel düzeyde iyileşme sağlarken; roka, dereotu, maydanoz gibi yeşil yapraklı sebzeler ve sirkeli salatalar magnezyum ve C vitamini açısından zengin yapılarıyla bağ dokunuzu güçlendirecek. Listenizde yer alan kollajen desteği de tam olarak bu bağ dokusunu onarmak, ödemi azaltmak ve cildin toparlanmasına katkıda bulunmak için rutinimize dahil edildi. Gün içinde tüketeceğiniz kaya tuzlu ve limonlu maden suyu ise ödem atımını kolaylaştırıp mineral dengenizi korumanıza yardımcı olacaktır.\n\nSüreci takip ederken tartıdaki rakamlardan ziyade bedensel değişime odaklanacağız. İki haftada bir pazar günleri bel, kalça ve bacak çevresi ölçümlerinizi almanızı rica edeceğim. Bedeninizdeki o hafiflemeyi ve incelmeyi hissetmek en doğru yol göstericimiz olacak. Günlük su tüketiminizi yüksek tutmayı lütfen ihmal etmeyin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": true,
       "tabBaslik": "1. Hafta",
       "tabTarih": "04/24 - 05/03",
@@ -350,6 +350,6 @@
   ],
   "olusturmaTarihi": "2026-04-23T06:50:57.688Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-23T08:56:58.040Z",
+  "sonGuncelleme": "2026-04-23T08:57:02.904Z",
   "githubKaydedildi": true
 }
