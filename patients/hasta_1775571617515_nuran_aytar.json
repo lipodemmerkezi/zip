@@ -708,24 +708,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NURAN AYTAR 27 NİSAN -3 MAYIS 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "NURAN AYTAR 27 NİSAN -3 MAYIS 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/NURAN AYTAR 27 NİSAN -3 MAYIS 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NURAN AYTAR 27 NİSAN -3 MAYIS 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NURAN AYTAR 27 NİSAN -3 MAYIS 4. HAFTA.pdf",
+      "kayitTarihi": "2026-04-23T06:24:23.348Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-07T14:20:17.515Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-23T06:24:05.153Z",
+  "sonGuncelleme": "2026-04-23T06:24:23.350Z",
   "githubKaydedildi": true
 }
