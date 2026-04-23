@@ -608,7 +608,7 @@
       "pdfYolu": "pdfs/GÜLER AŞIK 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/GÜLER AŞIK 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/GÜLER AŞIK 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-04-23T06:22:28.325Z",
+      "kayitTarihi": "2026-04-23T06:29:16.066Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabaklı peynirli muffin",
@@ -788,7 +788,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "GÜLER AŞIK\n\nMerhaba Güler Hanım,\n\nProgramımızın ilk adımlarını geride bıraktık ve bedeninizin temel ihtiyaçlarını anlamaya başladığımız yeni bir aşamaya geçiyoruz. İlk iki haftalık eliminasyon sürecimiz, sindirim sisteminizi dinlendirmek ve hücresel düzeydeki o sessiz inflamasyonu sakinleştirmek için çok değerli bir zemindi. Şimdi bu sağlam temelin üzerine, bağırsak floranızı güçlendirecek yeni yapı taşları ekliyoruz.\n\nBu hafta itibarıyla beslenme planınıza kontrollü bir şekilde süt ürünlerini yeniden dahil ediyoruz. Listemizde göreceğiniz tulum ve kaşar peyniri, yoğurtlu ıspanak borani gibi seçeneklerle ilerliyoruz. Bu değişime paralel olarak, gün içindeki yumurta miktarımızı biraz daha sadeleştirdik ve peynir çeşitleriyle bir denge kurduk. Amacımız, bağırsak mikrobiyotası dediğimiz o muazzam sistemi faydalı bakterilerle desteklemek. Bağırsak floramız sadece sindirimi değil, bağışıklığımızı, lipödemin temelini oluşturan iltihabi süreçleri ve hatta ruh halimizi doğrudan yönetir. Bu düzene uygun besin içerikleri ve probiyotik desteklerle birlikte, tatlı isteğinizin veya anlık yeme ihtiyaçlarınızın giderek daha da azaldığını fark edebilirsiniz.\n\nMenünüzü lipödemin doğasına uygun, lenfatik dolaşımınızı rahatlatacak şekilde kurguladık. Öğünlerinizde yer alan somon, fırın balık ve kuzu ciğeri gibi kaliteli proteinler, kas dokunuzu korumanın ötesinde B12, D vitamini, selenyum ve Omega 3 açısından çok güçlü kaynaklardır. Bu mikro besinler, dokulardaki ödemin çözülmesi ve iltihabın baskılanması için adeta birer onarım işçisi gibi çalışır. Ispanak, pazı, roka ve mevsim yeşillikleriyle C vitamini depolarınızı doldururken, menünüzdeki kabak çekirdeği, çiğ badem ve ceviz sayesinde dolaşımınızı destekleyen magnezyum ve çinko ihtiyacınızı karşılıyoruz.\n\nBu hafta rutinimize eklediğimiz ve özellikle dikkat etmenizi istediğim çok önemli bir konu var, o da yeme sıralaması. Öğünlerinize başlarken önce sirke ve limonla tatlandırdığımız mevsim yeşilliklerini tüketmek, ardından protein ve sağlıklı yağlara geçmek insülin salınımını çok daha yumuşak bir hale getirir. İnsülini ne kadar dengede tutarsak, vücudumuz bölgesel lipödem yağlarını enerji olarak kullanmaya o kadar istekli olur. Listemizdeki yeşilliklerin üzerine eklediğiniz sirke, bu dengeyi sağlamada en büyük yardımcılarınızdan biri olacak.\n\nGün içinde tükettiğiniz limonlu ve kaya sade maden suyu rutininize hücresel sıvı dengesi ve ödem atımı için devam ediyoruz. Aynı şekilde, bağ dokunuzu içeriden destekleyen kollajen kullanımınızı da sürdürüyoruz. Tatlı ihtiyacınızı dengelemek adına yaban mersini, çilek ve bitter çikolata gibi antioksidan kapasitesi yüksek seçenekler bu hafta da size keyifle eşlik edecek.\n\nBedeninizdeki hafiflemeyi ve sindirim sisteminizdeki rahatlamayı hissettikçe, attığımız bu adımların kalıcı bir sağlığa dönüştüğünü daha net göreceksiniz. Su tüketiminize özen göstermeye ve bedeninizi dinlemeye devam edin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -899,6 +899,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-23T06:29:12.220Z",
+  "sonGuncelleme": "2026-04-23T06:29:16.072Z",
   "githubKaydedildi": true
 }
