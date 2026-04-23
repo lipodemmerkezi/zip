@@ -490,24 +490,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE BALCI 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE BALCI  27 NİSAN -3 MAYIS 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE BALCI 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/AYŞE BALCI 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/AYŞE BALCI 27 NİSAN -3 MAYIS 3. HAFTA.pdf",
+      "kayitTarihi": "2026-04-23T06:19:29.225Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T12:43:18.883Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-23T06:19:15.066Z",
+  "sonGuncelleme": "2026-04-23T06:19:29.227Z",
   "githubKaydedildi": true
 }
