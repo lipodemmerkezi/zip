@@ -281,24 +281,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-04-26",
-      "bitis": "2026-05-02",
+      "baslangic": "2026-04-27",
+      "bitis": "2026-05-03",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MENU_PDF_MELTEM ŞENER 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "MENU_PDF_MELTEM ŞENER 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/MENU_PDF_MELTEM ŞENER 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/MENU_PDF_MELTEM ŞENER 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/MENU_PDF_MELTEM ŞENER 27 NİSAN -3 MAYIS 2. HAFTA.pdf",
+      "kayitTarihi": "2026-04-24T06:19:05.030Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-18T18:33:10.028Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-24T06:18:46.094Z",
+  "sonGuncelleme": "2026-04-24T06:19:05.031Z",
   "githubKaydedildi": true
 }
