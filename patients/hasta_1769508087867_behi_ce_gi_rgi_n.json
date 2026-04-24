@@ -2,7 +2,7 @@
   "id": 1769508087867,
   "isim": "BEHİÇE GİRGİN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4246,6 +4246,6 @@
   ],
   "olusturmaTarihi": "2026-01-27T10:01:27.867Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-22T06:43:08.705Z",
+  "sonGuncelleme": "2026-04-24T06:24:12.987Z",
   "githubKaydedildi": true
 }
