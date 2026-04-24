@@ -2,7 +2,7 @@
   "id": 1769879023538,
   "isim": "ÜMRAN KILLI",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3525,6 +3525,6 @@
   ],
   "olusturmaTarihi": "2026-01-31T17:03:43.538Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-22T06:38:36.671Z",
+  "sonGuncelleme": "2026-04-24T06:24:56.874Z",
   "githubKaydedildi": true
 }
