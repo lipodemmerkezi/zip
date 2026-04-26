@@ -1549,7 +1549,7 @@
           style="width:100%; margin-bottom:5px; padding:6px; font-size:11px; border:1px solid #ddd; border-radius:3px;"
           oninput="saveTokenToStorage()">
         <input type="text" id="githubRepo" placeholder="GitHub Repo (owner/repo)"
-          value="mustafasacar35/lipodem-takip-paneli"
+          value="lipodemmerkezi/zip"
           style="width:100%; margin-bottom:5px; padding:6px; font-size:11px; border:1px solid #ddd; border-radius:3px;">
         <button onclick="testGitHubToken()"
           style="width:100%; margin-bottom:5px; padding:6px; font-size:11px; background:#17a2b8; color:white; border:none; border-radius:3px; cursor:pointer;">🔍
@@ -1565,7 +1565,7 @@
         <button onclick="toggleVeritabaniConsole()"
           style="width:100%; margin-bottom:5px; padding:6px; font-size:11px; background:#20c997; color:white; border:none; border-radius:3px; cursor:pointer;">📊
           Yemekler Veritabanı</button>
-        <button onclick="window.location.href='https://mustafasacar35.github.io/kart_hazirlayici/'"
+        <button onclick="window.location.href='https://lipodemmerkezi.github.io/kart_hazirlayici/'"
           style="width:100%; margin-bottom:5px; padding:6px; font-size:11px; background:#5b1e6b; color:white; border:none; border-radius:3px; cursor:pointer;">🤖
           AI Kart Oluştur</button>
         <button onclick="yeniKartFormGoster()"
@@ -4465,7 +4465,7 @@
     async function loadPublicGitHubData() {
       try {
         console.log('📥 Public manuel eşleştirmeler yükleniyor...');
-        const manuelUrl = 'https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/data/manuel_eslestirmeler.json';
+        const manuelUrl = 'https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/manuel_eslestirmeler.json';
 
         try {
           const manuelResp = await fetch(manuelUrl + `?t=${new Date().getTime()}`);
@@ -4485,7 +4485,7 @@
         }
 
         console.log('📥 Public yasak kuralları yükleniyor...');
-        const yasakUrl = 'https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/data/eslesmeme_kurallari.json';
+        const yasakUrl = 'https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/eslesmeme_kurallari.json';
 
         try {
           const yasakResp = await fetch(yasakUrl + `?t=${new Date().getTime()}`);
@@ -4602,8 +4602,8 @@
           return [];
         }
 
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
         const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/patients/hastalar_listesi.json?t=${new Date().getTime()}`, {
           headers: { 'Authorization': `token ${token}` }
         });
@@ -4660,8 +4660,8 @@
       }
 
       try {
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
 
         // UTF-8 için doğru encoding
         const content = encodeUTF8ToBase64(hastaListesi);
@@ -4803,8 +4803,8 @@
       try {
         console.log('📤 PDF GitHub\'a yükleniyor:', file.name);
 
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
 
         // Güvenli dosya adı oluştur (sadece problemli karakterleri temizle)
         const guvenliDosyaAdi = file.name
@@ -4917,8 +4917,8 @@
       if (!token) return;
 
       try {
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
 
         // README.md dosyası ile klasör oluştur
         const content = btoa(`# Hasta Dosyaları
@@ -4970,8 +4970,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         if (!token) return false; // Token yoksa sessizce çık (local storage zaten güncel)
 
         const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
-        const owner = githubSettings.owner || 'mustafasacar35';
-        const repo = githubSettings.repo || 'lipodem-takip-paneli';
+        const owner = githubSettings.owner || 'lipodemmerkezi';
+        const repo = githubSettings.repo || 'zip';
         const branch = githubSettings.branch || 'main';
 
         // Dosya adı oluştur - generateFileName ile tutarlılık sağla
@@ -5403,8 +5403,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         return;
       }
 
-      const owner = 'mustafasacar35';
-      const repo = 'lipodem-takip-paneli';
+      const owner = 'lipodemmerkezi';
+      const repo = 'zip';
       const path = 'data/eslesmeme_kurallari.json';
       const branch = 'main';
 
@@ -5477,8 +5477,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         return;
       }
 
-      const owner = 'mustafasacar35';
-      const repo = 'lipodem-takip-paneli';
+      const owner = 'lipodemmerkezi';
+      const repo = 'zip';
       const path = 'data/eslesmeme_kurallari.json';
       const branch = 'main';
 
@@ -6315,8 +6315,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         return { ok: false, reason: 'token-missing' };
       }
 
-      const owner = 'mustafasacar35';
-      const repo = 'lipodem-takip-paneli';
+      const owner = 'lipodemmerkezi';
+      const repo = 'zip';
       const path = 'data/manuel_eslestirmeler.json';
       const branch = 'main';
 
@@ -6396,8 +6396,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         return { ok: false, reason: 'token-missing' };
       }
 
-      const owner = 'mustafasacar35';
-      const repo = 'lipodem-takip-paneli';
+      const owner = 'lipodemmerkezi';
+      const repo = 'zip';
       const path = 'data/eslesmeme_kurallari.json';
       const branch = 'main';
 
@@ -6489,8 +6489,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
       // Kaydetme başladı işaretini koy
       gitHubKaydetmeDevamEdiyor = true;
 
-      const owner = 'mustafasacar35';
-      const repo = 'lipodem-takip-paneli';
+      const owner = 'lipodemmerkezi';
+      const repo = 'zip';
       const path = 'data/manuel_eslestirmeler.json';
       const branch = 'main';
 
@@ -6624,8 +6624,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         return;
       }
 
-      const owner = 'mustafasacar35';
-      const repo = 'lipodem-takip-paneli';
+      const owner = 'lipodemmerkezi';
+      const repo = 'zip';
       const path = 'data/manuel_eslestirmeler.json';
       const branch = 'main';
 
@@ -6888,8 +6888,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         return;
       }
 
-      const owner = 'mustafasacar35';
-      const repo = 'lipodem-takip-paneli';
+      const owner = 'lipodemmerkezi';
+      const repo = 'zip';
       const branch = 'main';
 
       try {
@@ -7134,8 +7134,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
       try {
         const token = document.getElementById('githubToken').value.trim();
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
 
         const response = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/tarifler/list.json`, {
           headers: { 'Authorization': `token ${token}` }
@@ -7358,7 +7358,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         console.log('🔄 List.json temizliği başlatıldı...');
 
         // Önce list.json'u al
-        const response = await fetch('https://api.github.com/repos/mustafasacar35/lipodem-takip-paneli/contents/tarifler/list.json', {
+        const response = await fetch('https://api.github.com/repos/lipodemmerkezi/zip/contents/tarifler/list.json', {
           headers: {
             'Authorization': `token ${token}`,
             'Accept': 'application/vnd.github.v3+json'
@@ -7405,7 +7405,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         statusGoster(`${removedCount} dosya temizleniyor...`, 'info');
 
         // Güncellenmiş list.json'u gönder
-        const updateResponse = await fetch('https://api.github.com/repos/mustafasacar35/lipodem-takip-paneli/contents/tarifler/list.json', {
+        const updateResponse = await fetch('https://api.github.com/repos/lipodemmerkezi/zip/contents/tarifler/list.json', {
           method: 'PUT',
           headers: {
             'Authorization': `token ${token}`,
@@ -7498,8 +7498,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
       try {
         duzenlemeStatusGoster('Kart düzenleniyor...', 'info');
 
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
 
         // 1. Eski kartı sil (eğer ad değiştiyse)
         if (normalizeEdilmisAd !== seciliDuzenleKart) {
@@ -7822,8 +7822,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
           reader.readAsDataURL(dosya);
         });
 
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
         const branch = 'main';
 
         statusGoster('Görsel GitHub\'a yükleniyor...', 'info');
@@ -7983,12 +7983,12 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
       }
 
       if (!repoValue || !repoValue.includes('/')) {
-        repoValue = 'mustafasacar35/lipodem-takip-paneli';
+        repoValue = 'lipodemmerkezi/zip';
       }
 
       const parts = repoValue.split('/');
       const owner = parts[0];
-      const repo = parts.slice(1).join('/') || 'lipodem-takip-paneli';
+      const repo = parts.slice(1).join('/') || 'zip';
       const branch = 'main';
 
       const pagesBase = `https://${owner}.github.io/${repo}`;
@@ -8722,7 +8722,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
               for (const dosyaAdi of dosyaAdlari) {
                 try {
-                  const response = await fetch(`https://api.github.com/repos/mustafasacar35/lipodem-takip-paneli/contents/patients/${dosyaAdi}?t=${new Date().getTime()}`, {
+                  const response = await fetch(`https://api.github.com/repos/lipodemmerkezi/zip/contents/patients/${dosyaAdi}?t=${new Date().getTime()}`, {
                     headers: { 'Authorization': `token ${token}` }
                   });
 
@@ -9020,8 +9020,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         console.log('👤 Yeni sistemde hasta seçiliyor:', hastaBilgi.isim);
         console.log('  GitHub\'dan hasta bilgileri alınıyor:', hastaBilgi.isim);
 
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
 
         // Dosya adı alternatifleri dene
         const dosyaAdlari = [
@@ -9582,8 +9582,8 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         console.log(`🗑️ ${seciliHasta.isim} hasta kaydı siliniyor...`);
 
         // GitHub'dan hasta dosyasını sil
-        const owner = 'mustafasacar35';
-        const repo = 'lipodem-takip-paneli';
+        const owner = 'lipodemmerkezi';
+        const repo = 'zip';
         const token = document.getElementById('githubToken').value.trim();
 
         if (!token) {
@@ -15128,7 +15128,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         const repoElement = document.getElementById('githubRepo');
 
         const GITHUB_TOKEN = tokenElement ? tokenElement.value.trim() : '';
-        const GITHUB_REPO = repoElement ? repoElement.value.trim() || 'mustafasacar35/lipodem-takip-paneli' : 'mustafasacar35/lipodem-takip-paneli';
+        const GITHUB_REPO = repoElement ? repoElement.value.trim() || 'lipodemmerkezi/zip' : 'lipodemmerkezi/zip';
 
         if (!GITHUB_TOKEN) {
           console.warn('⚠️ GitHub token bulunamadı');
@@ -17411,7 +17411,7 @@ ${mesajlar.join('\n')}
             const repoElement = document.getElementById('githubRepo');
 
             const GITHUB_TOKEN = tokenElement ? tokenElement.value.trim() : '';
-            const GITHUB_REPO = repoElement ? repoElement.value.trim() || 'mustafasacar35/lipodem-takip-paneli' : 'mustafasacar35/lipodem-takip-paneli';
+            const GITHUB_REPO = repoElement ? repoElement.value.trim() || 'lipodemmerkezi/zip' : 'lipodemmerkezi/zip';
 
             if (!GITHUB_TOKEN) {
               alert('GitHub token ayarlanmamış. Lütfen önce GitHub token\'ınızı girin.');
@@ -17544,7 +17544,7 @@ ${mesajlar.join('\n')}
                     } else {
                       // Standart raw format ile dene
                       const encodedFileName = encodeURIComponent(pdfFileName);
-                      pdfUrl = `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/${encodedFileName}`;
+                      pdfUrl = `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/${encodedFileName}`;
                     }
 
                     console.log(`  PDF URL: ${pdfUrl}`);
@@ -18536,8 +18536,8 @@ ${mesajlar.join('\n')}
 
     // list.json'u GitHub'a kaydet (Veritabanı için)
     async function veritabaniListJsonKaydet(token) {
-      const owner = 'mustafasacar35';
-      const repo = 'lipodem-takip-paneli';
+      const owner = 'lipodemmerkezi';
+      const repo = 'zip';
       const branch = 'main';
 
       // Mevcut list.json'u al
@@ -19727,8 +19727,8 @@ ${mesajlar.join('\n')}
 
         // GitHub repo bilgilerini al
         const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
-        const owner = githubSettings.owner || 'mustafasacar35';
-        const repo = githubSettings.repo || 'lipodem-takip-paneli';
+        const owner = githubSettings.owner || 'lipodemmerkezi';
+        const repo = githubSettings.repo || 'zip';
         const branch = githubSettings.branch || 'main';
 
         console.log('Promptlar yükleniyor:', { owner, repo, branch, hasToken: !!token });
@@ -20163,8 +20163,8 @@ ${mesajlar.join('\n')}
 
         // GitHub repo bilgilerini al
         const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
-        const owner = githubSettings.owner || 'mustafasacar35';
-        const repo = githubSettings.repo || 'lipodem-takip-paneli';
+        const owner = githubSettings.owner || 'lipodemmerkezi';
+        const repo = githubSettings.repo || 'zip';
         const fileName = tip === 'genel' ? 'genel_promptlar.json' : 'haftalik_promptlar.json';
         const filePath = `promptlar/${fileName}`;
 
@@ -20389,8 +20389,8 @@ ${mesajlar.join('\n')}
 
         // GitHub repo bilgilerini al
         const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
-        const owner = githubSettings.owner || 'mustafasacar35';
-        const repo = githubSettings.repo || 'lipodem-takip-paneli';
+        const owner = githubSettings.owner || 'lipodemmerkezi';
+        const repo = githubSettings.repo || 'zip';
         const branch = githubSettings.branch || 'main';
 
         console.log('GitHub ayarları:', { owner, repo, branch, tokenLength: token.length });
@@ -20862,8 +20862,8 @@ Style Requirements:
       if (!confirmLoad) return;
 
       const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
-      const owner = githubSettings.owner || 'mustafasacar35';
-      const repo = githubSettings.repo || 'lipodem-takip-paneli';
+      const owner = githubSettings.owner || 'lipodemmerkezi';
+      const repo = githubSettings.repo || 'zip';
 
       // ... fetch logic ...
       // Implementation omitted for brevity, logic exists in manualLoadPromptlarFromGithub
@@ -20897,8 +20897,8 @@ Style Requirements:
 
         // GitHub repo bilgilerini al
         const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
-        const owner = githubSettings.owner || 'mustafasacar35';
-        const repo = githubSettings.repo || 'lipodem-takip-paneli';
+        const owner = githubSettings.owner || 'lipodemmerkezi';
+        const repo = githubSettings.repo || 'zip';
         const branch = githubSettings.branch || 'main';
         const filePath = 'promptlar/genel_promptlar.json';
 
@@ -23984,8 +23984,8 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
         if (!token) return;
 
         const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
-        const owner = githubSettings.owner || 'mustafasacar35';
-        const repo = githubSettings.repo || 'lipodem-takip-paneli';
+        const owner = githubSettings.owner || 'lipodemmerkezi';
+        const repo = githubSettings.repo || 'zip';
         const branch = githubSettings.branch || 'main';
         const path = 'promptlar/visual_blacklist.json';
 
@@ -24216,7 +24216,7 @@ SADECE malzemeleri listele, başka bir şey yazma.`;
 
             if (!cardUrl && card.kartResmi) {
               // tarifler klasöründen bul
-              cardUrl = `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/${card.kartResmi}`;
+              cardUrl = `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/${card.kartResmi}`;
             }
 
             console.log(`🔍 Tarif kartı ${i + 1}:`, {
@@ -24913,8 +24913,8 @@ METİN:
             return;
           }
 
-          const owner = githubSettings.owner || 'mustafasacar35';
-          const repo = githubSettings.repo || 'lipodem-takip-paneli';
+          const owner = githubSettings.owner || 'lipodemmerkezi';
+          const repo = githubSettings.repo || 'zip';
           const branch = githubSettings.branch || 'main';
 
           // Dosya yolu: patients/hasta_{id}_{slug}.json
@@ -25717,8 +25717,8 @@ METİN:
 
         // GitHub ayarları
         const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
-        const owner = githubSettings.owner || 'mustafasacar35';
-        const repo = githubSettings.repo || 'lipodem-takip-paneli';
+        const owner = githubSettings.owner || 'lipodemmerkezi';
+        const repo = githubSettings.repo || 'zip';
         const branch = githubSettings.branch || 'main';
 
         // Dosya yolu: patient_images/{slug}/week_{week}.png
@@ -26353,8 +26353,8 @@ IMPORTANT RULES:
           return;
         }
 
-        const owner = (JSON.parse(localStorage.getItem('githubSettings') || '{}').owner) || 'mustafasacar35';
-        const repo = (JSON.parse(localStorage.getItem('githubSettings') || '{}').repo) || 'lipodem-takip-paneli';
+        const owner = (JSON.parse(localStorage.getItem('githubSettings') || '{}').owner) || 'lipodemmerkezi';
+        const repo = (JSON.parse(localStorage.getItem('githubSettings') || '{}').repo) || 'zip';
         const path = 'fix_kartlar/config.json';
         const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2))));
 
@@ -26394,8 +26394,8 @@ IMPORTANT RULES:
     async function fixKartGithubYukle() {
       try {
         const token = localStorage.getItem('github_api_token') || (JSON.parse(localStorage.getItem('githubSettings') || '{}').token);
-        const owner = (JSON.parse(localStorage.getItem('githubSettings') || '{}').owner) || 'mustafasacar35';
-        const repo = (JSON.parse(localStorage.getItem('githubSettings') || '{}').repo) || 'lipodem-takip-paneli';
+        const owner = (JSON.parse(localStorage.getItem('githubSettings') || '{}').owner) || 'lipodemmerkezi';
+        const repo = (JSON.parse(localStorage.getItem('githubSettings') || '{}').repo) || 'zip';
         const path = 'fix_kartlar/config.json';
 
         // Token varsa API ile (SHA alabilmek için)
@@ -26804,7 +26804,7 @@ IMPORTANT RULES:
       const ts = Date.now(); // Cache busting
 
       try {
-        const response = await fetch(`https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/list.json?t=${ts}`);
+        const response = await fetch(`https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/list.json?t=${ts}`);
         if (response.ok) {
           const data = await response.json();
           // Hem string hem object formatını destekle
@@ -26823,7 +26823,7 @@ IMPORTANT RULES:
 
             return {
               name: name,
-              url: `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/${name}`,
+              url: `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/${name}`,
               tags: tags
             };
           }).filter(Boolean);
@@ -26833,7 +26833,7 @@ IMPORTANT RULES:
         console.warn('⚠️ Tarif listesi yüklenemedi:', e);
         // Fallback: GitHub API ile dene
         try {
-          const response = await fetch('https://api.github.com/repos/mustafasacar35/lipodem-takip-paneli/contents/tarifler');
+          const response = await fetch('https://api.github.com/repos/lipodemmerkezi/zip/contents/tarifler');
           if (response.ok) {
             const files = await response.json();
             fixKartTarifListesi = files
@@ -27270,8 +27270,8 @@ IMPORTANT RULES:
           reader.readAsDataURL(file);
         });
 
-        const owner = (JSON.parse(localStorage.getItem('githubSettings') || '{}').owner) || 'mustafasacar35';
-        const repo = (JSON.parse(localStorage.getItem('githubSettings') || '{}').repo) || 'lipodem-takip-paneli';
+        const owner = (JSON.parse(localStorage.getItem('githubSettings') || '{}').owner) || 'lipodemmerkezi';
+        const repo = (JSON.parse(localStorage.getItem('githubSettings') || '{}').repo) || 'zip';
         const path = `fix_kartlar / ${finalName} `;
 
         // Önce SHA kontrol
