@@ -358,7 +358,7 @@
       "pdfYolu": "pdfs/EMEL ARICI 4-10 MAYIS 2. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/EMEL ARICI 4-10 MAYIS 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/EMEL ARICI 4-10 MAYIS 2. HAFTA.pdf",
-      "kayitTarihi": "2026-04-27T07:14:58.531Z",
+      "kayitTarihi": "2026-04-27T07:19:49.884Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -516,7 +516,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "\n\nMerhaba Emel Hanım,\n\nProgramımızın ikinci haftasına adım atıyoruz. İlk günlerin adaptasyon sürecini geride bırakırken, attığınız bu küçük ama istikrarlı adımların zamanla bedeninizde ne kadar büyük farklar yaratacağını birlikte gözlemleyeceğiz. Lipödem kronik bir durum olduğu için acele etmeden, kalıcı ve hücresel düzeyde bir iyileşme hedefliyoruz. Bu süreçte atılan her adım, sadece tartıdaki rakamları değil, içerideki iyileşmeyi de destekliyor.\n\nBu dönemde önceliğimiz vücuttaki sessiz iltihabı, yani inflamasyonu baskılamak ve insülin dengesini korumak. Çoğu zaman yağ yemenin kilo aldıracağı düşünülür; ancak asıl sorun, karbonhidratlar sebebiyle sık ve yüksek seviyede salgılanan insülin hormonudur. Bizim menümüzde yer alan zeytin, zeytinyağı, ceviz, badem gibi sağlıklı yağlar insülini neredeyse hiç yükseltmez. Bu sayede bedeninizi adeta bir yağ yakma antrenmanına sokmuş oluyoruz. Güne düşük insülinle başlamak bu sürecin anahtarıdır. Sabahları kurşun geçirmez kahve içmek veya listenizdeki zeytin, ceviz gibi alternatiflerle güne başlamak tam da bu yağ yakımının önünü açmak için planlandı.\n\nBu haftaki beslenme planınıza baktığımda, lipödem yönetiminde ve bölgesel incelmede elimizi çok güçlendirecek seçimler görüyorum. Lenfatik sisteminizi rahatlatmak ve kan dolaşımınızı desteklemek için antiinflamatuar özellikteki gıdaları ön planda tuttuk. Örneğin ıspanaklı kıymalı yumurta, mantarlı tavuk sote, fırınlanmış sebzeler veya zeytinyağlı bakla gibi öğünler hem uzun süreli tokluk sağlayacak hem de bağ dokunuzu onaracak. Yumurtadan aldığımız A, D ve B12 vitaminleri hücresel yenilenmeyi sağlarken, kabak çekirdeği, ceviz ve taze yeşilliklerden (roka, maydanoz, dereotu) gelen magnezyum, selenyum ve çinko, ödemin atılmasına büyük katkı sunacak. Semizotu salatası ve mevsim yeşillikleriyle alacağınız C vitamini ve antioksidanlar, lenf yollarındaki tıkanıklıkları açmada çok değerlidir. \n\nSüt ürünlerini menümüzden uzak tuttuğumuz bu eliminasyon döneminde, bağırsak floranızın temizlenmesi için harika bir zemin hazırlamaya devam ediyoruz. Önümüzdeki hafta bu konuyu yeniden konuşacak ve listemize yavaş yavaş geri dönüşlerini planlayacağız. Geçen hafta başladığımız kollajen desteği de rutinimizde yerini koruyor; çünkü cildin toparlanması ve lipödemli dokunun esnekliğini kazanması için bu yapı taşlarına düzenli olarak ihtiyacımız var. Ayrıca tatlı ihtiyacınızı dengelemek ve ruhunuzu beslemek adına menünüze eklediğimiz bitter çikolata, tatlı pankek ve orman meyveleri (çilek, yaban mersini), polifenol içerikleriyle hem hücrelerinizi koruyacak hem de sürecin keyifli geçmesini sağlayacak.\n\nGün içinde içtiğiniz kaya tuzlu ve limonlu maden suyu, hücre içi mineral dengenizi koruyarak sıvı tutulumunu engellemeye devam edecektir. Bedeninizin bu yeni düzene verdiği hücresel tepkileri, o hafifleme hissini ve bölgesel incelmeleri yakından takip edeceğiz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -620,6 +620,6 @@
   ],
   "olusturmaTarihi": "2026-04-23T06:50:57.688Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-27T07:19:49.730Z",
+  "sonGuncelleme": "2026-04-27T07:19:53.963Z",
   "githubKaydedildi": true
 }
