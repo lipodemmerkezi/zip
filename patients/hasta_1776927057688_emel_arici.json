@@ -516,7 +516,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "🤖 Gemini analiz ediyor, lütfen bekleyin...",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -620,6 +620,6 @@
   ],
   "olusturmaTarihi": "2026-04-23T06:50:57.688Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-27T07:14:58.543Z",
+  "sonGuncelleme": "2026-04-27T07:16:46.030Z",
   "githubKaydedildi": true
 }
