@@ -358,7 +358,7 @@
       "pdfYolu": "pdfs/EMEL ARICI 4-10 MAYIS 2. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/EMEL ARICI 4-10 MAYIS 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/EMEL ARICI 4-10 MAYIS 2. HAFTA.pdf",
-      "kayitTarihi": "2026-04-23T09:46:41.505Z",
+      "kayitTarihi": "2026-04-27T07:14:58.531Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -515,8 +515,8 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "🤖 Gemini analiz ediyor, lütfen bekleyin...",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -614,11 +614,12 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
-      ]
+      ],
+      "ekNotlar": "Merhaba Emel Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 2. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-04-23T06:50:57.688Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-27T07:04:00.993Z",
+  "sonGuncelleme": "2026-04-27T07:14:58.543Z",
   "githubKaydedildi": true
 }
