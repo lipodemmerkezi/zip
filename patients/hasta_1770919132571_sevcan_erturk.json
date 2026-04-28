@@ -2990,24 +2990,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-05-03",
-      "bitis": "2026-05-09",
+      "baslangic": "2026-05-04",
+      "bitis": "2026-05-10",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEVCAN ERTÜRK 4-10 MAYIS 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEVCAN ERTÜRK 4-10 MAYIS 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEVCAN ERTÜRK 4-10 MAYIS 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVCAN ERTÜRK 4-10 MAYIS 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVCAN ERTÜRK 4-10 MAYIS 12. HAFTA.pdf",
+      "kayitTarihi": "2026-04-28T07:00:21.753Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-12T17:58:52.571Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-28T07:00:04.758Z",
+  "sonGuncelleme": "2026-04-28T07:00:21.758Z",
   "githubKaydedildi": true
 }
