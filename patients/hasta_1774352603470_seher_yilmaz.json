@@ -1622,24 +1622,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-05-03",
-      "bitis": "2026-05-09",
+      "baslangic": "2026-05-04",
+      "bitis": "2026-05-10",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEHER YILMAZ 4-10 MAYIS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEHER YILMAZ 4-10 MAYIS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEHER YILMAZ 4-10 MAYIS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEHER YILMAZ 4-10 MAYIS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEHER YILMAZ 4-10 MAYIS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-04-29T06:54:22.878Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-29T06:54:06.022Z",
+  "sonGuncelleme": "2026-04-29T06:54:22.882Z",
   "githubKaydedildi": true
 }
