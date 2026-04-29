@@ -907,7 +907,7 @@
       "pdfYolu": "pdfs/GÜLER AŞIK 4-10 MAYIS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÜLER AŞIK 4-10 MAYIS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÜLER AŞIK 4-10 MAYIS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-04-29T07:34:07.306Z",
+      "kayitTarihi": "2026-04-29T07:36:17.259Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -1093,7 +1093,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Güler Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nYeni beslenme düzeninize daha çok alıştığınızı ve bedeninizin bu sisteme uyum sağlamaya başladığını tahmin ettiğim bir döneme giriyoruz. Dördüncü haftamızda artık alışkanlıklarımızın yavaş yavaş yapısal bir temele oturduğunu göreceğiz. Ölçümlerinizdeki o istikrarlı ilerleme ve bedeninizdeki incelme, aslında içeride kurduğumuz bu hücresel dengenin dışa yansıyan en net hali. \n\nBu hafta sizinle proteinlerin, özellikle de hayvansal kaynaklı proteinlerin bedenimizdeki o sessiz ama güçlü işlevlerinden bahsetmek istiyorum. Lipödem veya kilo yönetimi süreçlerinde sıklıkla düşülen bir yanılgı vardır; porsiyonları iyice küçültüp az yiyerek başarıya ulaşılacağı sanılır. Oysa sadece az yemek, çoğu zaman sürdürülebilir bir yol değildir. Vücudumuz enerji için sağlıklı yağları ve yapıtaşlarını korumak için yeterli proteini bulamadığında, enerji ihtiyacını kas dokusundan karşılamaya çalışır. Bu durum kas kaybına, bağışıklığın zayıflamasına ve genel bir yorgunluk hissine yol açabilir. \n\nUzun süreli açlıklar veya yetersiz enerji alımı, vücudun açlık sinyalini yöneten ghrelin hormonunu devreye sokar. Bu hormon beyne sürekli yemek yeme mesajı gönderir ve günün sonunda karbonhidratlara veya tatlılara yönelme eğilimi doğurur. Çok az yemek dışarıdan kontrollü bir çaba gibi görünse de, içeride metabolizmayı yavaşlatır. Vücut enerji tasarrufuna geçer, ısı üretimi düşer, eller ve ayaklar üşümeye başlar, ruh halinde dalgalanmalar görülür. Bizim amacımız kalorileri kısmak değil, insülin dengesini koruyan, sizi gerçekten doyuran ve lipödemli dokulardaki inflamasyonu baskılayan bir düzen inşa etmektir.\n\nBu haftaki beslenme planınıza baktığımda, tam da bu doyurucu ve metabolizmayı destekleyici yapıyı görüyorum. Öğünlerinizdeki somon, köfte, mantarlı tavuk sote, hindi füme ve yumurta gibi kaliteli hayvansal proteinler kas dokunuzu korurken, doku onarımı için elzem olan B12, D vitamini ve selenyum ihtiyaçlarınızı güçlü bir şekilde karşılıyor. Özellikle somonun içerdiği Omega 3, lipödemli bölgelerdeki iltihaplanmayı dindirmede en büyük yardımcılarımızdan biridir. Geçtiğimiz hafta yeniden tanıştığımız tulum, kaşar peyniri ve ev yoğurdu gibi süt ürünlerine, bağırsak floramızı faydalı bakterilerle desteklemek adına bu hafta da devam ediyoruz.\n\nMenünüzdeki roka, dereotu, kırmızı lahana ve kabak gibi sebzelerle C vitamini depolarınızı doldurarak lenfatik sisteminizin yükünü hafifletiyoruz. Ara öğünlerinize ve salatalarınıza eklediğimiz ceviz, çiğ badem ve kabak çekirdeği ise dolaşımınızı destekleyen, ödem atımını kolaylaştıran magnezyum ve çinko açısından çok değerli kaynaklardır. Zeytinyağı, avokado ve tahin gibi sağlıklı yağlar, insülininizi dalgalandırmadan size uzun süreli tokluk sağlayacak ve vücudun kendi yağ depolarını kullanmasına izin verecektir. Ayrıca lupin unlu poğaça, ketojenik pizza ve tavuklu kabak noodle gibi alternatiflerle sürecin hem keyifli hem de damak tadınıza uygun geçmesini hedefledik.\n\nBağ dokunuzu içeriden onarmaya ve cilt elastikiyetinizi artırmaya yardımcı olan kollajen kullanımımıza ara vermeden devam ediyoruz. Gün içindeki limonlu ve kaya tuzlu maden suyu rutininiz de hücre içi sıvı dengesini sağlayarak lenfatik drenajı destekleme görevini sessizce sürdürüyor. Sirke ve limonla tatlandırılmış yeşilliklerinizi ana yemeklerden önce tüketme alışkanlığınız, insülin salınımını yumuşatmada yine devrede olacak.\n\nHem besin içeriği açısından zengin hem de porsiyon olarak sizi doyuran bu sistemle ilerledikçe, bedeninizin kendi enerjisini ne kadar güzel düzenlediğini daha net fark edeceksiniz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1199,6 +1199,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-29T07:36:14.645Z",
+  "sonGuncelleme": "2026-04-29T07:36:17.794Z",
   "githubKaydedildi": true
 }
