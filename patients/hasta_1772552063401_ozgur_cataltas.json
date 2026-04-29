@@ -2421,24 +2421,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-05-03",
-      "bitis": "2026-05-09",
+      "baslangic": "2026-05-04",
+      "bitis": "2026-05-10",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZGÜR ÇATALTAŞ 4-10 MAYIS 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZGÜR ÇATALTAŞ 4-10 MAYIS 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZGÜR ÇATALTAŞ 4-10 MAYIS 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZGÜR ÇATALTAŞ 4-10 MAYIS 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZGÜR ÇATALTAŞ 4-10 MAYIS 10. HAFTA.pdf",
+      "kayitTarihi": "2026-04-29T06:37:18.311Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-03T15:34:23.401Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-29T06:36:57.921Z",
+  "sonGuncelleme": "2026-04-29T06:37:18.316Z",
   "githubKaydedildi": true
 }
