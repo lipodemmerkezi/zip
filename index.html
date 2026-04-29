@@ -6171,7 +6171,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                             manuelEslestirmeSil(anahtar);
                         });
 
-                        console.log('✅ Event listener\'lar eklendi, anahtar:', anahtar);
+                        // console.log('✅ Event listener\'lar eklendi, anahtar:', anahtar);
                     } else {
                         console.error('❌ Butonlar bulunamadı!', { duzenleBtn, silBtn });
                     }
@@ -8984,7 +8984,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                                 window.telefonDurumOverride[hastaIdKey] = true;
                             }
                         } catch (_) { }
-                        console.log(`🔎 Sidebar render - ${hasta.hastaIsim}: telefonAranacak=${telefonIconGorunecek} (ID: ${hasta.id})`);
+                        // console.log(`🔎 Sidebar render - ${hasta.hastaIsim}: telefonAranacak=${telefonIconGorunecek} (ID: ${hasta.id})`);
 
                         if (telefonIconGorunecek) {
                             const telefonSpan = document.createElement('span');
