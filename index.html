@@ -8717,14 +8717,15 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                 persistTelefonFlagBackup(window.telefonBilgileriYedek);
 
                 // Eksik olanları GitHub listesiyle arka planda eşitle (sadece 1 kez)
-                try {
+                // [PERFORMANS GÜNCELLEMESİ] - Kullanılmayan telefon eşitlemesi sayfa açılışını hızlandırmak için iptal edildi.
+                /* try {
                     if (!window._telefonFlagsReconciled) {
                         await reconcileTelefonFlagsWithGitHub(window.telefonBilgileriYedek, githubTelefonHaritasiTam, yuklenmisList);
                         window._telefonFlagsReconciled = true;
                     }
                 } catch (reconcileErr) {
                     console.warn('📞 Telefon flag reconcile uyarısı:', reconcileErr?.message || reconcileErr);
-                }
+                } */
 
                 console.log('📞 Telefon bilgileri GitHub kaynaklı yenilendi:', Object.keys(window.telefonBilgileriYedek).length, 'hasta');
 
@@ -8769,57 +8770,9 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
                     // localStorage'da bulunamadıysa GitHub'dan dene (opsiyonel ve sadece yedek)
                     if (!hastaDetayiBulundu && hasta.id) {
-                        try {
-                            const dosyaAdlari = [
-                                generateFileName({ id: hasta.id, isim: hasta.isim }),
-                                generateFileName({ isim: hasta.isim })
-                            ];
-
-                            for (const dosyaAdi of dosyaAdlari) {
-                                try {
-                                    const response = await fetch(`https://api.github.com/repos/lipodemmerkezi/zip/contents/patients/${dosyaAdi}?t=${new Date().getTime()}`, {
-                                        headers: { 'Authorization': `token ${token}` }
-                                    });
-
-                                    if (response.ok) {
-                                        const data = await response.json();
-                                        const hastaDetay = JSON.parse(decodeBase64UTF8(data.content));
-                                        if (hastaDetay.haftalar && hastaDetay.haftalar.length > 0) {
-                                            const haftaNumaralari = hastaDetay.haftalar.map(h => h.haftaNo || h.hafta || 0);
-                                            const githubMaxHafta = Math.max(...haftaNumaralari);
-
-                                            // ⚠️ UYARI: GitHub verisi localStorage'ı geçersiz kılmasın
-                                            // Sadece localStorage boşsa GitHub verisini kullan
-                                            maxHafta = githubMaxHafta;
-                                            hastaDetayiBulundu = true;
-
-                                            // ⚡ YENİ: GitHub'dan yüklenen hastayı hastalar array'ine de ekle (SADECE MEMORY'DE - localStorage'a kaydetme!)
-                                            const arrayIndexHasta = hastalar.findIndex(h => h && h.id === hasta.id);
-                                            if (arrayIndexHasta === -1) {
-                                                // Henüz yok, ekle (sadece memory'e)
-                                                hastalar.push(hastaDetay);
-                                                console.log(`✅ GitHub'dan yüklenen hasta hastalar array'ine eklendi (memory): ${hastaIsim}`);
-                                            } else {
-                                                // Var ama güncel değil, güncelle (sadece memory'de)
-                                                hastalar[arrayIndexHasta] = hastaDetay;
-                                                console.log(`✅ GitHub'dan yüklenen hasta ile hastalar array'i güncellendi (memory): ${hastaIsim}`);
-                                            }
-                                            // ❌ saveToStorage() KALDIRILDI - Sayfa yüklenirken localStorage dolmasın!
-
-                                            console.log(`📊 Hasta ${hastaIsim} - GitHub'dan yedek hafta bilgisi alındı: maxHafta=${githubMaxHafta}, haftalar: [${haftaNumaralari.join(', ')}]`);
-                                            break;
-                                        }
-                                    } else if (response.status === 404) {
-                                        // Hasta dosyası bulunamadı, diğer dosya adlarını dene
-                                        continue;
-                                    }
-                                } catch (e) {
-                                    // Sessizce geç
-                                }
-                            }
-                        } catch (e) {
-                            // Sessizce geç
-                        }
+                        // [PERFORMANS GÜNCELLEMESİ] - Sayfa açılışını hızlandırmak ve API limitini (404 / connection reset) doldurmamak için, 
+                        // hastaların detay JSON'ları sidebar render edilirken otomatik olarak GitHub'dan ÇEKİLMEYECEKTİR.
+                        // Sadece hasta tıklandığında yüklenecektir.
                     }
 
                     const hastaIdKey = normalizeIdKey(hasta.id);
@@ -17681,6 +17634,12 @@ ${mesajlar.join('\n')}
                                             // Standart raw format ile dene
                                             const encodedFileName = encodeURIComponent(pdfFileName);
                                             pdfUrl = `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/${encodedFileName}`;
+                                        }
+
+                                        // Eski repo adresini yenisiyle değiştir
+                                        if (pdfUrl) {
+                                            pdfUrl = pdfUrl.replace('mustafasacar35/lipodem-takip-paneli', 'lipodemmerkezi/zip');
+                                            pdfUrl = pdfUrl.replace('mustafasacar35.github.io/lipodem-takip-paneli', 'lipodemmerkezi.github.io/zip');
                                         }
 
                                         console.log(`  PDF URL: ${pdfUrl}`);
