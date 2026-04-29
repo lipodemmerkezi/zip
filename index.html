@@ -8752,64 +8752,105 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                 console.log(`📊 Yeni sistem hasta sayıları: Aktif=${aktifSayisi}, Arşiv=${arsivSayisi}, Toplam=${yuklenmisList.length}`);
 
                 // Filtreleme ve hasta hafta verilerini analiz etme
-                const hastalarVeriAnaliziIle = await Promise.all(filtreliHastalar.map(async (hasta) => {
-                    const hastaIsim = hasta.isim || hasta.ad || 'Bilinmeyen Hasta';
+                // [PERFORMANS GÜNCELLEMESİ] API Limiti ve ERR_CONNECTION_RESET hatasını önlemek için 
+                // istekleri 3'erli gruplar (chunks) halinde yapıyoruz.
+                const hastalarVeriAnaliziIle = [];
+                const chunkSize = 3;
+                for (let i = 0; i < filtreliHastalar.length; i += chunkSize) {
+                    const chunk = filtreliHastalar.slice(i, i + chunkSize);
+                    const chunkResults = await Promise.all(chunk.map(async (hasta) => {
+                        const hastaIsim = hasta.isim || hasta.ad || 'Bilinmeyen Hasta';
 
-                    // En büyük hafta sayısını bul - sadece localStorage'a bak (güvenilir kaynak)
-                    let maxHafta = 0;
-                    let hastaDetayiBulundu = false;
+                        // En büyük hafta sayısını bul - sadece localStorage'a bak (güvenilir kaynak)
+                        let maxHafta = 0;
+                        let hastaDetayiBulundu = false;
 
-                    // Önce localStorage'dan kontrol et (ÖNCELIK: localStorage)
-                    const localHasta = hastalar.find(h => h && h.id === hasta.id);
-                    if (localHasta && localHasta.haftalar && localHasta.haftalar.length > 0) {
-                        const haftaNumaralari = localHasta.haftalar.map(h => h.haftaNo || h.hafta || 0);
-                        maxHafta = Math.max(...haftaNumaralari);
-                        hastaDetayiBulundu = true;
-                        console.log(`📊 Hasta ${hastaIsim} - localStorage'dan hafta bilgisi alındı: maxHafta=${maxHafta}, haftalar: [${haftaNumaralari.join(', ')}]`);
-                    }
-
-                    // localStorage'da bulunamadıysa GitHub'dan dene (opsiyonel ve sadece yedek)
-                    if (!hastaDetayiBulundu && hasta.id) {
-                        // [PERFORMANS GÜNCELLEMESİ] - Sayfa açılışını hızlandırmak ve API limitini (404 / connection reset) doldurmamak için, 
-                        // hastaların detay JSON'ları sidebar render edilirken otomatik olarak GitHub'dan ÇEKİLMEYECEKTİR.
-                        // Sadece hasta tıklandığında yüklenecektir.
-                    }
-
-                    const hastaIdKey = normalizeIdKey(hasta.id);
-                    const githubTelefonTrue = Boolean(githubTelefonHaritasiTam && githubTelefonHaritasiTam[hastaIdKey]);
-                    const localTelefonTrue = Boolean(localBackupMap && localBackupMap[hastaIdKey]);
-                    const pendingTelefonTrue = Boolean(pendingMap && pendingMap[hastaIdKey]);
-                    // Telefon bilgisi: GitHub öncelikli, ardından local/pending fallback
-                    let telefonAranacak = githubTelefonTrue || localTelefonTrue || pendingTelefonTrue;
-                    if (Object.prototype.hasOwnProperty.call(window.telefonDurumOverride, hastaIdKey)) {
-                        telefonAranacak = Boolean(window.telefonDurumOverride[hastaIdKey]);
-                    } else {
-                        window.telefonDurumOverride[hastaIdKey] = telefonAranacak;
-                    }
-                    console.log(`🔍 Telefon kontrolü (${hastaIsim}):`, {
-                        'githubTamHarita': githubTelefonTrue,
-                        'localBackup': localTelefonTrue,
-                        'pending': pendingTelefonTrue,
-                        'eskiHasta.telefonAranacak': hasta.telefonAranacak,
-                        'localHasta?.telefonAranacak': localHasta?.telefonAranacak
-                    });
-
-                    // Hasta kaydını güncel telefon bilgisiyle senkronla
-                    hasta.telefonAranacak = telefonAranacak;
-
-                    return {
-                        ...hasta,
-                        maxHafta: maxHafta,
-                        hastaIsim: hastaIsim,
-                        hastaDetayiBulundu: hastaDetayiBulundu,
-                        telefonAranacak: telefonAranacak,
-                        telefonKaynakBilgisi: {
-                            github: githubTelefonTrue,
-                            localBackup: localTelefonTrue,
-                            pending: pendingTelefonTrue
+                        // Önce localStorage'dan kontrol et (ÖNCELIK: localStorage)
+                        const localHasta = hastalar.find(h => h && h.id === hasta.id);
+                        if (localHasta && localHasta.haftalar && localHasta.haftalar.length > 0) {
+                            const haftaNumaralari = localHasta.haftalar.map(h => h.haftaNo || h.hafta || 0);
+                            maxHafta = Math.max(...haftaNumaralari);
+                            hastaDetayiBulundu = true;
+                            console.log(`📊 Hasta ${hastaIsim} - localStorage'dan hafta bilgisi alındı: maxHafta=${maxHafta}, haftalar: [${haftaNumaralari.join(', ')}]`);
                         }
-                    };
-                }));
+
+                        // localStorage'da bulunamadıysa GitHub'dan dene (opsiyonel ve sadece yedek)
+                        if (!hastaDetayiBulundu && hasta.id) {
+                            try {
+                                const dosyaAdlari = [
+                                    generateFileName({ id: hasta.id, isim: hasta.isim }),
+                                    generateFileName({ isim: hasta.isim })
+                                ];
+
+                                for (const dosyaAdi of dosyaAdlari) {
+                                    try {
+                                        const response = await fetch(`https://api.github.com/repos/lipodemmerkezi/zip/contents/patients/${dosyaAdi}?t=${new Date().getTime()}`, {
+                                            headers: { 'Authorization': `token ${token}` }
+                                        });
+
+                                        if (response.ok) {
+                                            const data = await response.json();
+                                            const hastaDetay = JSON.parse(decodeBase64UTF8(data.content));
+                                            if (hastaDetay.haftalar && hastaDetay.haftalar.length > 0) {
+                                                const haftaNumaralari = hastaDetay.haftalar.map(h => h.haftaNo || h.hafta || 0);
+                                                const githubMaxHafta = Math.max(...haftaNumaralari);
+
+                                                maxHafta = githubMaxHafta;
+                                                hastaDetayiBulundu = true;
+
+                                                // YENİ: GitHub'dan yüklenen hastayı hastalar array'ine de ekle (SADECE MEMORY'DE)
+                                                const arrayIndexHasta = hastalar.findIndex(h => h && h.id === hasta.id);
+                                                if (arrayIndexHasta === -1) {
+                                                    hastalar.push(hastaDetay);
+                                                } else {
+                                                    hastalar[arrayIndexHasta] = hastaDetay;
+                                                }
+
+                                                console.log(`📊 Hasta ${hastaIsim} - GitHub'dan yedek hafta bilgisi alındı: maxHafta=${githubMaxHafta}`);
+                                                break;
+                                            }
+                                        } else if (response.status === 404) {
+                                            continue;
+                                        }
+                                    } catch (e) {
+                                        // Sessizce geç
+                                    }
+                                }
+                            } catch (e) {
+                                // Sessizce geç
+                            }
+                        }
+
+                        const hastaIdKey = normalizeIdKey(hasta.id);
+                        const githubTelefonTrue = Boolean(githubTelefonHaritasiTam && githubTelefonHaritasiTam[hastaIdKey]);
+                        const localTelefonTrue = Boolean(localBackupMap && localBackupMap[hastaIdKey]);
+                        const pendingTelefonTrue = Boolean(pendingMap && pendingMap[hastaIdKey]);
+                        // Telefon bilgisi: GitHub öncelikli, ardından local/pending fallback
+                        let telefonAranacak = githubTelefonTrue || localTelefonTrue || pendingTelefonTrue;
+                        if (Object.prototype.hasOwnProperty.call(window.telefonDurumOverride, hastaIdKey)) {
+                            telefonAranacak = Boolean(window.telefonDurumOverride[hastaIdKey]);
+                        } else {
+                            window.telefonDurumOverride[hastaIdKey] = telefonAranacak;
+                        }
+
+                        // Hasta kaydını güncel telefon bilgisiyle senkronla
+                        hasta.telefonAranacak = telefonAranacak;
+
+                        return {
+                            ...hasta,
+                            maxHafta: maxHafta,
+                            hastaIsim: hastaIsim,
+                            hastaDetayiBulundu: hastaDetayiBulundu,
+                            telefonAranacak: telefonAranacak,
+                            telefonKaynakBilgisi: {
+                                github: githubTelefonTrue,
+                                localBackup: localTelefonTrue,
+                                pending: pendingTelefonTrue
+                            }
+                        };
+                    }));
+                    hastalarVeriAnaliziIle.push(...chunkResults);
+                }
 
                 // En büyük hafta numarasına göre sırala, aynı hafta numarası olanlarda alfabetik
                 // En büyük hafta numarasına ve ARŞİV durumuna göre sırala
