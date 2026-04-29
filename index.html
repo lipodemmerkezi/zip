@@ -17824,6 +17824,7 @@ ${mesajlar.join('\n')}
                                                 let kartUrl = fixKart.url || '';
                                                 kartUrl = kartUrl.replace('mustafasacar35.github.io/lipodem-takip-paneli', 'lipodemmerkezi.github.io/zip');
                                                 kartUrl = kartUrl.replace('mustafasacar35/lipodem-takip-paneli', 'lipodemmerkezi/zip');
+                                                kartUrl = kartUrl.replace(/%20/g, '');
                                                 let response = await resilientFetch(kartUrl);
 
                                                 // 2. Eğer bulunamazsa klasör listesinden (githubFilesCache) bak
@@ -17874,7 +17875,7 @@ ${mesajlar.join('\n')}
 
                                 // GPT mesajını ekle
                                 if (enBuyukHafta.gptMesaj && enBuyukHafta.gptMesaj.trim()) {
-                                    anaZip.file(`${hastaKlasorAdi}/GPT_MESAJI.txt`, enBuyukHafta.gptMesaj.trim());
+                                    anaZip.file(`${hastaKlasorAdi}/${hastaKlasorAdi}_haftalik_mesaj.txt`, enBuyukHafta.gptMesaj.trim());
                                 }
 
                                 // Lenf masajı planını ekle (5. hafta için)
