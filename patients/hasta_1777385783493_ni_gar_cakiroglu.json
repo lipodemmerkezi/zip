@@ -36,6 +36,12 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
+          "tarifAdi": "soslu antrikot",
+          "kartResmi": "soslu_antrikot.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/soslu_antrikot.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "domatesli kabak çorbası",
           "kartResmi": "domatesli_kabak_corbasi.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/domatesli_kabak_corbasi.jpg",
@@ -115,6 +121,7 @@
         "tahin ekmeği (1 dilim)",
         "kıymalı ıspanak / lahana yemeği",
         "tahin ekmeği (1 dilim)",
+        "soslu antrikot",
         "tahin ekmeği (1 dilim)",
         "domatesli kabak çorbası",
         "mantarlı tavuk sote"
@@ -150,7 +157,6 @@
         "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal tere, limon ve sirke ile)",
         "bitter çikolata (2 kare)",
         "akşam (tercihen hava kararınca)",
-        "soslu antrikot",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
         "fındık (20 adet)",
         "kollajen (1 ölçek 10 gram)",
@@ -172,10 +178,27 @@
         "adet cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "ekNotlar": "PERŞEMBE GÜNÜ PROGRAMA BAŞLIYORUZ. SAFRA KESESİ OPERE OLDUĞU İÇİN TAKVİYELERDEN CURCUMİN EKLEMEYECEĞİZ.\nMerhaba Ni̇gar Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 2,
+      "baslangic": "2026-05-03",
+      "bitis": "2026-05-09",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-28T14:46:48.403Z",
+  "sonGuncelleme": "2026-04-29T07:51:02.130Z",
   "githubKaydedildi": true
 }
