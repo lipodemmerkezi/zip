@@ -1586,24 +1586,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-05-03",
-      "bitis": "2026-05-09",
+      "baslangic": "2026-05-04",
+      "bitis": "2026-05-10",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ŞENAY KARAKUŞ İNANÇ 4-10 MAYIS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "ŞENAY KARAKUŞ İNANÇ 4-10 MAYIS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/ŞENAY KARAKUŞ İNANÇ 4-10 MAYIS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞENAY KARAKUŞ İNANÇ 4-10 MAYIS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞENAY KARAKUŞ İNANÇ 4-10 MAYIS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-04-29T06:57:39.174Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-29T06:57:10.780Z",
+  "sonGuncelleme": "2026-04-29T06:57:39.177Z",
   "githubKaydedildi": true
 }
