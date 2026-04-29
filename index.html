@@ -15288,7 +15288,18 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                         const url = img.src;
                         const name = img.title || img.alt || `eslesen_kart_${fileCount + 1}.jpg`;
                         const response = await fetch(url);
+
+                        if (!response.ok) {
+                            console.warn(`⚠️ Eşleşen kart bulunamadı (HTTP ${response.status}):`, url);
+                            continue;
+                        }
+
                         const blob = await response.blob();
+                        if (blob.type.includes('html')) {
+                            console.warn(`⚠️ Geçersiz dosya tipi (HTML) tespit edildi, kart atlanıyor:`, name);
+                            continue;
+                        }
+
                         zip.file(name, blob);  // Ana dizine ekle
                         fileCount++;
                         console.log('✅ Eşleşen kart eklendi:', name);
@@ -15303,7 +15314,13 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                     for (let manuelKart of hafta.manuelKartlar) {
                         try {
                             const response = await fetch(manuelKart.data);
+                            if (!response.ok) {
+                                console.warn(`⚠️ Manuel kart bulunamadı (HTTP ${response.status}):`, manuelKart.name);
+                                continue;
+                            }
                             const blob = await response.blob();
+                            if (blob.type.includes('html')) continue;
+
                             const manuelName = `MANUEL_${manuelKart.name}`;
                             zip.file(manuelName, blob);  // Ana dizine ekle, MANUEL_ prefix ile
                             fileCount++;
@@ -15358,8 +15375,34 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                                 continue;
                             }
                             try {
-                                const response = await fetch(fixKart.url);
+                                // Akıllı indirme: 404 alırsa alternatif yolları dene
+                                let response = await fetch(fixKart.url);
+
+                                // Eğer 404 alırsak alternatif (boşluklu/boşluksuz) varyasyonları dene
+                                if (!response.ok && fixKart.url.includes('fix_kartlar')) {
+                                    const variations = [
+                                        fixKart.url.replace('fix_kartlar%20/%20', 'fix_kartlar/'), // Boşlukları temizle
+                                        fixKart.url.replace('fix_kartlar/', 'fix_kartlar%20/'),     // Sadece klasör boşluğu
+                                        fixKart.url.replace('fix_kartlar/', 'fix_kartlar%20/%20'),   // Çift boşluk
+                                        fixKart.url.replace('fix_kartlar/', 'fix_kartlar%20/%20'),   // Tekrar
+                                        fixKart.url.replace('/_Bilgilendirme', '/ _Bilgilendirme'),  // Dosya önü boşluğu
+                                    ];
+                                    for (let altUrl of variations) {
+                                        if (response.ok) break;
+                                        response = await fetch(altUrl);
+                                    }
+                                }
+
+                                if (!response.ok) {
+                                    console.warn(`⚠️ Ek kart bulunamadı (HTTP ${response.status}):`, fixKart.url);
+                                    continue;
+                                }
+
                                 const blob = await response.blob();
+                                if (blob.type.includes('html')) {
+                                    console.warn('⚠️ Hata sayfası (HTML) tespit edildi, kart atlanıyor:', fixKart.name);
+                                    continue;
+                                }
                                 // Per-card prefix: kartın geldiği context'in prefix'ini kullan
                                 const db = getFixKartData();
                                 let cardPrefixTarif = db.settings?.lastUsedPrefixTarif || 'EK_';
@@ -27370,7 +27413,7 @@ IMPORTANT RULES:
 
                 const owner = (JSON.parse(localStorage.getItem('githubSettings') || '{}').owner) || 'lipodemmerkezi';
                 const repo = (JSON.parse(localStorage.getItem('githubSettings') || '{}').repo) || 'zip';
-                const path = `fix_kartlar / ${finalName} `;
+                const path = `fix_kartlar/${finalName}`;
 
                 // Önce SHA kontrol
                 let sha = undefined;
