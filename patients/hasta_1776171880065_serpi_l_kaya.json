@@ -710,24 +710,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-05-03",
-      "bitis": "2026-05-09",
+      "baslangic": "2026-05-04",
+      "bitis": "2026-05-10",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERPİL KAYA 4-10 MAYIS 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERPİL KAYA 4-10 MAYIS 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERPİL KAYA 4-10 MAYIS 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERPİL KAYA 4-10 MAYIS 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERPİL KAYA 4-10 MAYIS 4. HAFTA.pdf",
+      "kayitTarihi": "2026-04-29T07:39:44.347Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-14T13:04:40.065Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-29T07:39:26.299Z",
+  "sonGuncelleme": "2026-04-29T07:39:44.350Z",
   "githubKaydedildi": true
 }
