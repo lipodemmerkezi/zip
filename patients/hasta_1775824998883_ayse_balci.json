@@ -733,7 +733,7 @@
       "pdfYolu": "pdfs/AYŞE BALCI 4-10 MAYIS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE BALCI 4-10 MAYIS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE BALCI 4-10 MAYIS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-04-30T11:29:30.453Z",
+      "kayitTarihi": "2026-04-30T11:30:37.021Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -910,7 +910,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nYeni bir haftaya daha adım atıyoruz. Bedeninizin bu yeni düzene adapte olmaya başladığını, aldığımız o güzel ölçüm sonuçlarından da net bir şekilde görebiliyoruz. Bedeninizdeki bu incelme, içerideki inflamasyonun azaldığının ve hücresel onarımın doğru yolda olduğunun en güzel kanıtı. Artık beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz, çünkü kalıcı bir düzen ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle özellikle hayvansal proteinlerin sürecimizdeki kritik rolünden bahsetmek istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en yaygın hatalardan biri, porsiyonları iyice küçültüp az yiyerek başarıya ulaşılacağına inanmaktır. Oysa sadece az yemeye çalışmak, açlık hormonu olan ghrelin seviyelerini yükseltir ve beynin sürekli yemek arayışına girmesine neden olur. Bu durum günün sonunda yorgunluk, isteksizlik ve genellikle karbonhidratlara yönelme ataklarıyla sonuçlanır. Eğer vücudumuz ihtiyacı olan proteini alamazsa, enerji için kas dokusunu kullanmaya başlar. Bu da metabolizmanın yavaşlamasına, ısının düşüp ellerin ayakların üşümesine ve motivasyonun kaybolmasına yol açar.\n\nBiz bu döngüyü kırmak için kaloriyi kısıtlamak yerine, insülin dengesini koruyan ve sizi gerçekten doyuran bir yapı oluşturduk. Bu haftaki menünüze baktığınızda somon, köfte, tavuk güveç ve yumurta gibi çok değerli hayvansal protein kaynaklarına yer verdiğimizi göreceksiniz. Bu besinler kas yapınızı korurken, içerdikleri çinko ve B12 vitamini ile doku onarımını destekler. Sabahları tüketeceğiniz avokadolu omlet veya tereyağlı sahanda yumurta, güne düşük insülinle başlamanızı sağlayarak vücudunuzun enerji kaynağı olarak depolanmış yağlara, özellikle de lipödemli dokulardaki yağlara yönelmesine izin verir.\n\nGeçtiğimiz hafta menünüze tekrar dahil ettiğimiz tulum ve kaşar peyniri gibi fermente süt ürünleri, kalsiyum ve D vitamini desteğiyle hücresel dengenize katkı sağlamaya devam ediyor. Öğünlerinize eşlik eden ceviz ve çiğ badem, içerdikleri magnezyum ve selenyum ile kan dolaşımınızı rahatlatıp ödem atımını kolaylaştırırken; roka, dereotu ve kırmızı lahana gibi yeşillikler yüksek C vitamini kapasiteleriyle lenfatik sistemin temizlenmesinde görev alıyor. Rutininizin bir parçası haline gelen kollajen desteğiniz de, C vitamini zengini bu yeşilliklerle birleştiğinde bağ dokunuzu içeriden onarmaya ve cilt elastikiyetinizi artırmaya çok daha verimli bir şekilde devam edecektir.\n\nHücre içi sıvı dengenizi koruyan kaya tuzu ve limonlu maden suyu alışkanlığınızı bu hafta da sürdürüyoruz. Ayrıca menünüze eklediğimiz lupin unlu poğaça, haşhaş ezmesi ekmeği ve dondurma gibi alternatiflerle sürecin keyifli yanlarını da canlı tutmayı hedefledik. Bu arada, sizin için hazırlanan bu atıştırmalık tariflerden deneme fırsatınız oldu mu, damak tadınıza uydu mu merak ediyorum.\n\nÇok az yiyerek bedeni strese sokmak yerine, onu doğru besinlerle doyurarak iyileştirdiğimiz bu sistemin size ne kadar iyi geldiğini her geçen gün daha net göreceksiniz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1007,6 +1007,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T12:43:18.883Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-30T11:29:50.629Z",
+  "sonGuncelleme": "2026-04-30T11:30:37.035Z",
   "githubKaydedildi": true
 }
