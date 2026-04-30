@@ -827,7 +827,7 @@
       "pdfYolu": "pdfs/MEHTAP YIĞIN - 4. hafta pdf.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MEHTAP YIĞIN - 4. hafta pdf.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MEHTAP YIĞIN - 4. hafta pdf.pdf",
-      "kayitTarihi": "2026-04-30T11:12:55.695Z",
+      "kayitTarihi": "2026-04-30T11:25:42.574Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -1013,7 +1013,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -1117,6 +1117,6 @@
   ],
   "olusturmaTarihi": "2026-04-30T11:10:30.812Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-30T11:16:28.423Z",
+  "sonGuncelleme": "2026-04-30T11:25:42.587Z",
   "githubKaydedildi": true
 }
