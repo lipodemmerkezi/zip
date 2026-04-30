@@ -79,13 +79,6 @@
     "sonGuncelleme": "2026-04-29T06:26:54.404Z"
   },
   {
-    "id": 1777547430812,
-    "isim": "MEHTAP YIĞIN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-04-30T11:13:05.952Z"
-  },
-  {
     "id": 1776537190028,
     "isim": "MELTEM ŞENER",
     "not": "",
@@ -739,6 +732,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-04-10T12:42:45.442Z"
+  },
+  {
+    "id": 1777547430812,
+    "isim": "MEHTAP YIĞIN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-04-30T11:16:30.645Z"
   },
   {
     "id": 1756392741234,
