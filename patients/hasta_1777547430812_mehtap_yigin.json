@@ -521,24 +521,26 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-05-03",
-      "bitis": "2026-05-09",
+      "baslangic": "2026-04-30",
+      "bitis": "2026-04-30",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MEHTAP YIĞIN - 3. hafta pdf.pdf",
+      "pdfOrijinalIsim": "MEHTAP YIĞIN - 3. hafta pdf.pdf",
+      "pdfYolu": "pdfs/MEHTAP YIĞIN - 3. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MEHTAP YIĞIN - 3. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MEHTAP YIĞIN - 3. hafta pdf.pdf",
+      "kayitTarihi": "2026-04-30T11:12:20.342Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-30T11:10:30.812Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-30T11:12:06.357Z",
+  "sonGuncelleme": "2026-04-30T11:12:20.344Z",
   "githubKaydedildi": true
 }
