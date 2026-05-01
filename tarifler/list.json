@@ -40,6 +40,10 @@
     "tags": []
   },
   {
+    "name": "badem_ezmeli_dondurma.jpg",
+    "tags": []
+  },
+  {
     "name": "badem_unlu_dere_otlu_pogaca.jpg",
     "tags": []
   },
@@ -285,6 +289,10 @@
   },
   {
     "name": "dondurma.jpg",
+    "tags": []
+  },
+  {
+    "name": "ebegumeci_sarmasi.jpg",
     "tags": []
   },
   {
@@ -887,6 +895,10 @@
     "tags": []
   },
   {
+    "name": "kremali_parmesanli_lokum.jpg",
+    "tags": []
+  },
+  {
     "name": "kuruyemisli_keto_toplari.jpg",
     "tags": []
   },
@@ -896,6 +908,10 @@
   },
   {
     "name": "kuskonmazli_izgara_somon.jpg",
+    "tags": []
+  },
+  {
+    "name": "kuymak.jpg",
     "tags": []
   },
   {
@@ -976,6 +992,10 @@
   },
   {
     "name": "mantar_soslu_kofte.jpg",
+    "tags": []
+  },
+  {
+    "name": "mantarli_et_sote.jpg",
     "tags": []
   },
   {
@@ -1183,6 +1203,10 @@
     "tags": []
   },
   {
+    "name": "sebzeli_et_tava.jpg",
+    "tags": []
+  },
+  {
     "name": "sebzeli_karnabahar_pilavi.jpg",
     "tags": []
   },
@@ -1204,6 +1228,10 @@
   },
   {
     "name": "somonlu_roka_ve_avokado_salatasi.jpg",
+    "tags": []
+  },
+  {
+    "name": "soslu_antrikot.jpg",
     "tags": []
   },
   {
@@ -1248,6 +1276,10 @@
   },
   {
     "name": "tahinli_kurabiye.jpg",
+    "tags": []
+  },
+  {
+    "name": "tahinli_patlicanli_borek.jpg",
     "tags": []
   },
   {
@@ -1564,34 +1596,6 @@
   },
   {
     "name": "zeytinyagli_yerelmasi.jpg",
-    "tags": []
-  },
-  {
-    "file": "badem_ezmeli_dondurma.jpg",
-    "tags": []
-  },
-  {
-    "file": "kremali_parmesanli_lokum.jpg",
-    "tags": []
-  },
-  {
-    "file": "kuymak.jpg",
-    "tags": []
-  },
-  {
-    "file": "mantarli_et_sote.jpg",
-    "tags": []
-  },
-  {
-    "file": "sebzeli_et_tava.jpg",
-    "tags": []
-  },
-  {
-    "file": "soslu_antrikot.jpg",
-    "tags": []
-  },
-  {
-    "file": "tahinli_patlicanli_borek.jpg",
     "tags": []
   }
 ]
