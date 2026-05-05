@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/RABİA YILDIRIM 7-10 MAYIS 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RABİA YILDIRIM 7-10 MAYIS 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RABİA YILDIRIM 7-10 MAYIS 1. HAFTA.pdf",
-      "kayitTarihi": "2026-05-05T05:57:19.678Z",
+      "kayitTarihi": "2026-05-05T05:57:50.848Z",
       "tarifKartlar": [
         {
           "tarifAdi": "zeytinyağlı bakla",
@@ -106,7 +106,7 @@
         "adet cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -176,6 +176,6 @@
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-05T05:57:31.100Z",
+  "sonGuncelleme": "2026-05-05T05:57:50.861Z",
   "githubKaydedildi": true
 }
