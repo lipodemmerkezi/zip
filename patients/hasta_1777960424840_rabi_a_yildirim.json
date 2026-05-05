@@ -3,9 +3,27 @@
   "isim": "RABİA YILDIRIM",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-05-03",
+      "bitis": "2026-05-09",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-05T05:53:44.840Z",
+  "sonGuncelleme": "2026-05-05T05:54:22.626Z",
   "githubKaydedildi": true
 }
