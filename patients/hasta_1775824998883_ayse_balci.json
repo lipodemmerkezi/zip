@@ -1006,24 +1006,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-05-10",
-      "bitis": "2026-05-16",
+      "baslangic": "2026-05-11",
+      "bitis": "2026-05-17",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE BALCI 11-17 MAYIS 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE BALCI  11-17 MAYIS 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE BALCI 11-17 MAYIS 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE BALCI 11-17 MAYIS 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE BALCI 11-17 MAYIS 5. HAFTA.pdf",
+      "kayitTarihi": "2026-05-06T10:52:54.209Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T12:43:18.883Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T10:52:24.409Z",
+  "sonGuncelleme": "2026-05-06T10:52:54.212Z",
   "githubKaydedildi": true
 }
