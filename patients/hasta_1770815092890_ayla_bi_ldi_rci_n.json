@@ -3380,7 +3380,7 @@
       "pdfYolu": "pdfs/AYLA BİLDİRCİN 11-17 MAYIS 13. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYLA BİLDİRCİN 11-17 MAYIS 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYLA BİLDİRCİN 11-17 MAYIS 13. HAFTA.pdf",
-      "kayitTarihi": "2026-05-06T14:46:51.244Z",
+      "kayitTarihi": "2026-05-06T14:48:26.950Z",
       "tarifKartlar": [
         {
           "tarifAdi": "hindistancevizi unlu ispanaklı muffin",
@@ -3561,7 +3561,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayla Hanım, umarım iyisinizdir. Pazartesi günü itibarıyla programımızda on üçüncü haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Bu besinler, antiinflamatuar özellikleri ve kan dolaşımını desteklemesi nedeniyle seçilmiştir. Lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. \n\nGeçtiğimiz hafta, verdiğiniz geri bildirimler beni çok mutlu etti. Özellikle psikolojik olarak kendinizi toparlamış olmanız ve edindiğiniz alışkanlıkların faydasını görmek, bu sürecin en önemli hedeflerinden biriydi. Bedeninizde yaşadığınız değişikliklerin yanı sıra, ruh halinizdeki iyileşme de oldukça değerli bir kazanım. Bu bütüncül iyileşme, sadece fiziksel değil, aynı zamanda duygusal sağlığınızı da pekiştiriyor. \n\nBu hafta menünüzde yer alan besinlerin, hem enerji seviyenizi artıracağı hem de hücresel onarım sürecinize katkıda bulunacağına inanıyorum. Örneğin, hindistancevizi unlu ıspanaklı muffinler, sağlıklı yağlar ve lif açısından zengin oldukları için hem lezzetli hem de doyurucu bir seçenek. Ayrıca, menünüzdeki zeytin, beyaz peynir, yeşillikler ve yoğurtlu semizotu salatası gibi besinler, hem sindirim sisteminizi destekleyecek hem de lenfatik akışınıza olumlu katkı sağlayacaktır. \n\nYemeklerinizde yer alan cevizli browni kek ve diğer sağlıklı tatlı alternatifler, tatlı isteğinizi karşılamada güvenli seçenekler sunarak, ruh halinizi dengelemeye yardımcı olacaktır. Beslenme planımızın temellerini oluşturduğumuz bu süreçte, bu tür sağlıklı alternatiflerin el altında bulunması oldukça önemlidir.\n\nUnutmayın ki, bu süreçte yavaş ve istikrarlı ilerleyiş, bedeninizi yeniden yapılandırma sürecinin doğal bir parçasıdır. Herhangi bir dalgalanma veya yavaşlama olduğunda, bu durumun geçici olduğunu ve vücudunuzun kendini yeniden yapılandırdığını hatırlamak önemlidir. \n\nSizden yine güncel ölçümlerinizi rica edeceğim; bu, süreçteki ilerlemenizi takip etmemize ve gerekli ayarlamaları yapmamıza yardımcı olacaktır. Ayrıca, duygusal yeme ile ilgili yaşadığınız durumları da gözlemlemeye devam edin. Bu konudaki farkındalığınız, sürecin ruhsal yükünü hafifletmenize yardımcı olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum. \n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3658,6 +3658,6 @@
   ],
   "olusturmaTarihi": "2026-02-11T13:04:52.890Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:48:20.187Z",
+  "sonGuncelleme": "2026-05-06T14:48:26.970Z",
   "githubKaydedildi": true
 }
