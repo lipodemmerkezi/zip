@@ -1879,7 +1879,7 @@
       "pdfYolu": "pdfs/ŞENAY KARAKUŞ İNANÇ 11-17 MAYIS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞENAY KARAKUŞ İNANÇ 11-17 MAYIS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞENAY KARAKUŞ İNANÇ 11-17 MAYIS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-05-06T13:38:29.394Z",
+      "kayitTarihi": "2026-05-06T13:40:25.168Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unlu lor ekmeği",
@@ -2082,7 +2082,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Şenay Hanım, \n\nSekizinci haftaya adım atarken, sürecin bu aşamasında gösterdiğiniz özen ve uyum için sizi kutlamak istiyorum. Artık sadece ne yediğimiz değil, aynı zamanda ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir aşamaya geçiyoruz. Yemek sıralaması, insülin düzeylerini dengelemek ve tokluk süresini uzatmak açısından kritik bir rol oynuyor. Bu, lipödem tedavisinde de önemli bir etki yaratıyor, çünkü insülin, yağ hücrelerinin büyümesini tetikleyen en güçlü hormonlardan biridir.\n\nBu hafta önerilen beslenme listesine baktığımda, antiinflamatuar özelliklere sahip yiyeceklerin yer aldığını görüyorum. Örneğin, yoğurtlu salatalık mezesi, zeytinyağlı taze börülce ve semizotu salatası gibi sağlıklı seçenekler, lenfatik sistemi desteklerken aynı zamanda kilo vermenize de yardımcı olacaktır. \n\nYemek sıralamanızı aşağıdaki gibi düzenlemenizi öneriyorum:\n1. Önce lifli gıdalar: Salata ve semizotu salatası ile başlayarak, bağırsaklarınıza sağlıklı bir başlangıç yapın. Bu, karbonhidratların kana karışmasını geciktirerek insülinin yavaş salınmasına yardımcı olur. \n2. Ardından protein grubu: Fırında tavuk pirzola veya köfte gibi protein kaynaklarını tüketmek, tokluk hissinizi artıracaktır.\n3. Yağlı içerikler: Zeytinyağlı sebze yemekleri ve fındık gibi sağlıklı yağlar bu aşamada eklenebilir.\n4. En sona karbonhidratlar (varsa): Eğer patlıcan musakka veya menemen gibi karbonhidratlı bir yiyecek varsa, bunları öğünün en sonuna bırakmanız insülin tepkisini azaltacaktır.\n\nBu hafta menünüzdeki sirke ve limon, yemeğe oturmadan önce bir yemek kaşığı kadar su ile karıştırarak içmeniz, insülin kontrolü açısından çok daha etkili olacaktır. Özellikle elma sirkesi, karbonhidratların emilimini yavaşlatarak dengeli bir kan şekeri tepkisi sağlar.\n\nAyrıca, yemek sonrasında 15-20 dakikalık bir yürüyüş yapmanız, yükselen kan şekerinin insülin bağımsız olarak kas hücrelerine taşınmasına yardımcı olacaktır. Bu küçük alışkanlık, uzun vadede insülin dengenizi korumanıza ve kilo kontrolünü kolaylaştırmanıza katkı sağlar.\n\nSonuç olarak, bu haftaki beslenme planınızda yer alan her detayın, lipödem sürecindeki olumlu etkilerini zamanla daha net bir şekilde hissedeceksiniz. Unutmayın, yemeğinizi nasıl yediğiniz, ne yediğiniz kadar önemlidir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2188,6 +2188,6 @@
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:40:22.099Z",
+  "sonGuncelleme": "2026-05-06T13:40:25.186Z",
   "githubKaydedildi": true
 }
