@@ -2757,10 +2757,27 @@
       "tarifler": [],
       "gptMesaj": "",
       "kilitli": false
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-05-16",
+      "bitis": "2026-05-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-03T15:34:23.401Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:54:25.536Z",
+  "sonGuncelleme": "2026-05-06T13:54:28.711Z",
   "githubKaydedildi": true
 }
