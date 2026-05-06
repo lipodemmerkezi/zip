@@ -1903,24 +1903,28 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-05-10",
-      "bitis": "2026-05-16",
+      "baslangic": "2026-05-11",
+      "bitis": "2026-05-17",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEHER YILMAZ 11-17 MAYIS 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEHER YILMAZ 11-17 MAYIS 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEHER YILMAZ 11-17 MAYIS 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEHER YILMAZ 11-17 MAYIS 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEHER YILMAZ 11-17 MAYIS 8. HAFTA.pdf",
+      "kayitTarihi": "2026-05-06T13:41:55.626Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "Merhaba Seher Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir. zaman zama sorduğu sorularla süreci yakından takip ettiğini görüyoruz. bu şeilde ilerledikçe kalıcı değişikliklerin sağlanamasını daha kolay olacağını v anlat. motive edeilm.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:40:50.266Z",
+  "sonGuncelleme": "2026-05-06T13:41:55.631Z",
   "githubKaydedildi": true
 }
