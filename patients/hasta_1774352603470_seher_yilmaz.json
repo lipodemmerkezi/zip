@@ -2101,7 +2101,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "lupin unlu ekmek yerine 1 adet yumurta, 10 adet çiğ badem ya da çeyrek avokado tüketebilirsiniz."
       ],
-      "gptMesaj": "Merhaba Seher Hanım,\n\nSekizinci haftaya ulaştık. Bu aşamaya kadar geldiğiniz için sizi tebrik ediyorum. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir döneme girmiş bulunuyoruz. Yemek sıralaması, özellikle insülin düzeylerini dengelemek, tokluk süresini uzatmak ve kan şekerinin hızlı yükselmesini önlemek açısından son derece önemli. Bu da doğrudan lipödemli dokular üzerinde olumlu etkiler yaratır.\n\nBu hafta, doğru yeme sıralamasının önemine odaklanıyoruz. Öğünlerinize başlarken önce lifli gıdalarla, ardından protein kaynaklarıyla ve en son karbonhidratlarla devam etmek, insülin salınımını yavaşlatarak lipödem yönetiminde büyük fayda sağlayacaktır. Salata ve zeytinyağlı sebzelerle başlayarak bağırsaklarınızda bir bariyer oluşturacak ve karbonhidratların kana karışmasını geciktireceksiniz. Özellikle sirkenin yemeklerden önce tüketilmesi, insülin kontrolü açısından oldukça etkili bir yöntemdir.\n\nMenünüze baktığımda, bu hafta lipödem ve bölgesel incelme hedefleriniz doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Hindistancevizi unlu ispanaklı muffin, zeytin, mevsim yeşillikleri ve fındık gibi besinler, antiinflamatuar özellikleri ve kan dolaşımını destekleyici etkileriyle dikkat çekiyor. Ayrıca, haftanın yemek listesinde yer alan ızgara veya fırında balık, D vitamini ve selenyum açısından zengin bir kaynak olarak, lipödemli dokunun onarımında kritik rol oynamaktadır.\n\nBu hafta, beslenme düzeninizin yanı sıra, yeme sıralamasına dikkat ederek vücudunuzun nasıl güzel yanıt verdiğini gözlemleyeceksiniz. Bu değişimlerin, hem fiziksel hem de ruhsal açıdan kendinizi daha iyi hissetmenize katkı sağlayacağını umuyorum. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum. \n\nSevgilerle,  \nDr. Mustafa",
+      "gptMesaj": "",
       "kilitli": false,
       "ekNotlar": "Merhaba Seher Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir. zaman zama sorduğu sorularla süreci yakından takip ettiğini görüyoruz. bu şeilde ilerledikçe kalıcı değişikliklerin sağlanamasını daha kolay olacağını v anlat. motive edeilm.",
       "ozelTabFormat": false,
@@ -2208,6 +2208,6 @@
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:42:30.879Z",
+  "sonGuncelleme": "2026-05-06T13:42:34.203Z",
   "githubKaydedildi": true
 }
