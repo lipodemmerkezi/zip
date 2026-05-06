@@ -3505,7 +3505,7 @@
       "pdfYolu": "pdfs/GÜLAY KOZAĞAÇLI 11-17 MAYIS 13. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÜLAY KOZAĞAÇLI 11-17 MAYIS 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÜLAY KOZAĞAÇLI 11-17 MAYIS 13. HAFTA.pdf",
-      "kayitTarihi": "2026-05-06T14:38:46.173Z",
+      "kayitTarihi": "2026-05-06T14:41:08.116Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -3726,7 +3726,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Gülay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 13. haftaya başlıyoruz. Bu hafta, lipödem ve bölgesel incelme hedeflerimiz doğrultusunda özenle hazırlanmış bir beslenme listesi ile karşınızdayız. Seçtiğimiz yiyecekler, antiinflamatuar özellikleri ve kan dolaşımını destekleyici etkileri ile öne çıkıyor. Bu besinler, lipödem yönetiminde kritik öneme sahip lenfatik sistemi desteklerken, aynı zamanda kilo verme sürecinize de katkıda bulunacaktır. \n\nSüreç boyunca elde ettiğiniz ilerlemeyi gözlemlemek, motivasyonunuzu artıracak önemli bir faktör. Belirtmiş olduğunuz gibi, sürecinizin iyi gittiğini ve kilo kaybı yaşadığınızı duymak beni çok sevindiriyor. Bu tür olumlu dönüşler, birlikte yürüdüğümüz yolda ne kadar etkili adımlar attığımızı gösteriyor. \n\nMenünüzde yer alan besinlerin bazıları, özellikle mikro besinler açısından zengin. Örneğin, sabahları tüketeceğiniz haşlanmış yumurta ve peynir çeşitleri, hem D vitamini hem de selenyum açısından zengin olmalarıyla bağ dokunuzu onarmaya yardımcı olacaktır. Ara öğünlerdeki çiğ badem ve fındık gibi seçenekler ise, magnezyum ihtiyacınızı karşılayarak ödem atılımını destekleyecektir. \n\nAyrıca, düzenli kullandığınız toz kollajenin etkisini artırmak için menünüzde bolca C vitamini içeren sebzeler ve salatalar yer alıyor. Bu, hem kollajen sentezini artıracak hem de karaciğerinizin detoks kapasitesini destekleyecektir. Bu sebeple, yeşil salatalarınızı bol limon ve sirke ile tatlandırmayı ihmal etmeyin; bu, hem sindirim sisteminize hem de insülin dengenize fayda sağlayacaktır.\n\nUnutmayın ki, bu süreçte bazen motivasyon kaybı yaşamak doğal. Önemli olan, bu dönemlerde kendinize nazik yaklaşmak ve önceden hazırladığınız sağlıklı atıştırmalıklara yönelmektir. Gözlemlediğiniz bu küçük değişimler ve ilerlemeler, sizi hedeflerinize ulaştıracak olan büyük adımlardır. \n\nHer zaman olduğu gibi, bu süreçte bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3835,6 +3835,6 @@
   ],
   "olusturmaTarihi": "2026-02-12T18:01:09.212Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:41:00.385Z",
+  "sonGuncelleme": "2026-05-06T14:41:08.134Z",
   "githubKaydedildi": true
 }
