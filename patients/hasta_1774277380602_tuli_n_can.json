@@ -1688,24 +1688,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-05-10",
-      "bitis": "2026-05-16",
+      "baslangic": "2026-05-11",
+      "bitis": "2026-05-17",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "TÜLİN CAN 11-17 MAYIS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "TÜLİN CAN 11-17 MAYIS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/TÜLİN CAN 11-17 MAYIS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/TÜLİN CAN 11-17 MAYIS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/TÜLİN CAN 11-17 MAYIS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-05-06T13:44:06.633Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:43:51.910Z",
+  "sonGuncelleme": "2026-05-06T13:44:06.637Z",
   "githubKaydedildi": true
 }
