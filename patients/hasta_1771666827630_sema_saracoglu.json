@@ -3144,24 +3144,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-05-10",
-      "bitis": "2026-05-16",
+      "baslangic": "2026-05-11",
+      "bitis": "2026-05-17",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEMA SARAÇOĞLU 11-17 MAYIS 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEMA SARAÇOĞLU 11-17 MAYIS 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEMA SARAÇOĞLU 11-17 MAYIS 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEMA SARAÇOĞLU 11-17 MAYIS 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEMA SARAÇOĞLU 11-17 MAYIS 12. HAFTA.pdf",
+      "kayitTarihi": "2026-05-06T14:21:27.435Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-21T09:40:27.630Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:21:09.396Z",
+  "sonGuncelleme": "2026-05-06T14:21:27.441Z",
   "githubKaydedildi": true
 }
