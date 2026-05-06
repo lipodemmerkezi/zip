@@ -1487,7 +1487,7 @@
       "pdfYolu": "pdfs/NEDİME TAŞATAN 11-17 MAYIS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NEDİME TAŞATAN 11-17 MAYIS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NEDİME TAŞATAN 11-17 MAYIS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-05-06T13:34:20.763Z",
+      "kayitTarihi": null,
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1770,6 +1770,6 @@
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:37:09.425Z",
+  "sonGuncelleme": "2026-05-06T13:37:13.973Z",
   "githubKaydedildi": true
 }
