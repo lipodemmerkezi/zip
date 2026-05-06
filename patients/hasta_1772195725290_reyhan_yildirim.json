@@ -2674,24 +2674,28 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-05-10",
-      "bitis": "2026-05-16",
+      "baslangic": "2026-05-11",
+      "bitis": "2026-05-17",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "REYHAN YILDIRIM 11-17 MAYIS 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "REYHAN YILDIRIM 11-17 MAYIS 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/REYHAN YILDIRIM 11-17 MAYIS 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/REYHAN YILDIRIM 11-17 MAYIS 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/REYHAN YILDIRIM 11-17 MAYIS 11. HAFTA.pdf",
+      "kayitTarihi": "2026-05-06T14:19:36.633Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "Merhaba Reyhan Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 11. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\ngeçen hafta mesajlaşmamız şöyleydi:\n[09:46, 01.05.2026] Reyhan Yıldırım Denizli Lipödem Yp+Danışmanlık: Teşekkür ederim hocam sizler nasılsınız? Bu haftam çok güzel geçti fazlasıyla tokluk hissi yaşadım.\n[09:47, 01.05.2026] Reyhan Yıldırım Denizli Lipödem Yp+Danışmanlık: Hocam biz bu hafta 2 gün il dışında olacağız onu nasıl yapabilirim dışarda yersem yine sağlıklı şeyler ızgara tarzında yemem problem olur mu?\nMerhaba Reyhan hanım, dışardayken ızgara salata meze şeklinde devam edebiliriz. Kahvaltıda ise yumurta, kuruyemiş, peynir, zeytin, zeytinyagı ve tereyağı şeklinde devam edebiliriz. Bu ekmek Uygundur içerik olarak tüketebilirsiniz",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-27T12:35:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:18:21.579Z",
+  "sonGuncelleme": "2026-05-06T14:19:36.640Z",
   "githubKaydedildi": true
 }
