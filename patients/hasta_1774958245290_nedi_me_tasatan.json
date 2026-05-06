@@ -1487,7 +1487,7 @@
       "pdfYolu": "pdfs/NEDİME TAŞATAN 11-17 MAYIS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NEDİME TAŞATAN 11-17 MAYIS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NEDİME TAŞATAN 11-17 MAYIS 7. HAFTA.pdf",
-      "kayitTarihi": null,
+      "kayitTarihi": "2026-05-06T13:37:19.137Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1668,7 +1668,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nedime Hanım,\n\nNasılsınız? Umarım herşey yolundadır. Pazratesi günü itibariyle yedinci haftaya geçiyoruz. Bu dönemde, beslenme düzeninizin büyük ölçüde oturduğunu gözlemliyorum. Vücudunuzun bu yeni ritme uyum sağlaması, ilerlemenizin keyif verici bir göstergesi. Bu hafta, lipödem tedavisinde kullandığımız takviyelerin önemini daha yakından inceleyeceğiz.\n\nBelirttiğiniz gibi, ölçümlerinizdeki olumlu gelişmeler ve hissettiğiniz hafiflik, doğru yolda olduğunuzu gösteriyor. Bu süreçte yaptığınız masajların etkisini de unutmamak gerek; bu tür uygulamalar, lenfatik sistemi uyarmak ve ödemin atılmasına yardımcı olmak adına oldukça faydalıdır. \n\nBeslenme listenize baktığımda, lipödem ve bölgesel incelme hedeflerinizi destekleyecek birçok besin yer aldığını görüyorum. Örneğin, menünüzdeki zeytin, yeşillikler ve ceviz, hem antiinflamatuar özellikleriyle hem de besleyici içerikleriyle önemli roller üstleniyor. Özellikle yeşil salatalarınıza eklediğiniz sirke ve limon, sindiriminizi kolaylaştırarak kan şekerindeki dalgalanmaları önlemeye yardımcı olacaktır.\n\nBu hafta, özellikle takviyelerin etkilerini daha bilinçli bir şekilde kullanmanızı öneriyorum. Örneğin, Boswellia serrata ve kurkumin gibi bileşenler inflamasyonu azaltma konusunda etkili olurken, koenzim Q10 hücrelerinizin enerji üretimini destekleyecektir. Bunların yanı sıra, C vitamini açısından zengin besinler tüketmek, kolajen sentezini artırarak cilt elastikiyetinizi destekleyecektir. \n\nAyrıca, menünüzdeki avokado ve rokalı salata, sağlıklı yağlar ve antioksidanlar açısından zengin bir seçenek. Bunun yanı sıra, tavuk köftesi ve ızgara balık gibi protein kaynakları, doku onarımını desteklemek için oldukça önemlidir. Tüm bu besinleri düzenli olarak tüketmeye özen gösterdiğinizde, hem kilo kaybınız devam edecek hem de cildinizdeki sıkılaşmayı gözlemleyebileceksiniz.\n\nUnutmayın, bu takviyeler ve besinler mucize değildir. Ancak doğru bir beslenme düzeni ve uygulamalarla birlikte kullanıldığında, sürecinizi hızlandırabilir ve kalıcı sonuçlar almanıza yardımcı olabilir. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1770,6 +1770,6 @@
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:37:13.973Z",
+  "sonGuncelleme": "2026-05-06T13:37:19.154Z",
   "githubKaydedildi": true
 }
