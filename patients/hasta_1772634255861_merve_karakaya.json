@@ -2640,7 +2640,7 @@
       "pdfYolu": "pdfs/MERVE KARAKAYA 11-17 MAYIS 10. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERVE KARAKAYA 11-17 MAYIS 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERVE KARAKAYA 11-17 MAYIS 10. HAFTA.pdf",
-      "kayitTarihi": "2026-05-06T13:51:55.298Z",
+      "kayitTarihi": "2026-05-06T13:54:08.242Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2838,7 +2838,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\nMerhaba Merve Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 10. haftaya başlıyoruz. Sürecinizle ilgili gözlemlerinizi ve ruh halinizi merak ediyorum. Son zamanlarda sizden pek haber alamadım ve bu durumun sizi nasıl etkilediğini bilmek benim için önemli. Manuel lenf drenaj masajlarına zaman ayırabiliyor musunuz? Süreçteki ilerlemenizi daha iyi değerlendirebilmek için güncel mezura ölçümlerinizi de paylaşırsanız sevinirim.\n\nBu hafta, düşük karbonhidratlı (LowCarb) beslenmeye geçiş yapıyoruz. Ketojenik dönemde edindiğimiz alışkanlıkları bir arşiv olarak kullanarak, daha esnek ama hâlâ kontrollü bir düzen oluşturacağız. Beslenme listenizde yer alan fırında kabaklı börek, somonlu roka ve avokado salatası gibi besinler, hem antiinflamatuar özellikleri hem de kan dolaşımını destekleyici etkileri ile lipödem yönetiminde oldukça faydalı. \n\nÖzellikle menünüzdeki çiğ badem ve fındık gibi kuruyemişler, magnezyum açısından zengin olup kasların rahatlamasına yardımcı olacaktır. Ayrıca, menemen ve mantarlı omlet gibi D vitamini ve selenyum kaynağı olan yiyecekler, bağışıklık sisteminizi destekleyerek genel sağlığınıza katkı sağlayacaktır. \n\nBu geçiş süreci, sadece bedeninizi değil, aynı zamanda zihninizi de rahatlatacak. Lipödem yönetiminde sürdürülebilirlik çok önemli olduğu için, bu yeni düzene zamanla alışacağınızı düşünüyorum. \n\nHer zaman olduğu gibi, süreçle ilgili gözlemlerinizi ve yorumlarınızı benimle paylaşmaktan çekinmeyin. Size destek olmaktan mutluluk duyarım.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2950,6 +2950,6 @@
   ],
   "olusturmaTarihi": "2026-03-04T14:24:15.861Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:54:02.926Z",
+  "sonGuncelleme": "2026-05-06T13:54:08.261Z",
   "githubKaydedildi": true
 }
