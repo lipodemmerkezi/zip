@@ -3509,28 +3509,12 @@
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
-    },
-    {
-      "haftaNo": 14,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
-      "aciklama": "",
-      "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
-      "tarifKartlar": [],
-      "tarifler": [],
-      "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false
     }
   ],
   "olusturmaTarihi": "2026-02-12T18:01:09.212Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:38:22.636Z",
+  "sonGuncelleme": "2026-05-06T14:38:40.534Z",
   "githubKaydedildi": true
 }
