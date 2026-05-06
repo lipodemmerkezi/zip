@@ -3200,7 +3200,7 @@
       "pdfYolu": "pdfs/NİHAL GÜLDAŞ 11-17 MAYIS 13. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİHAL GÜLDAŞ 11-17 MAYIS 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİHAL GÜLDAŞ 11-17 MAYIS 13. HAFTA.pdf",
-      "kayitTarihi": "2026-05-06T14:23:53.923Z",
+      "kayitTarihi": "2026-05-06T14:25:31.110Z",
       "tarifKartlar": [
         {
           "tarifAdi": "hindistancevizi unlu ispanaklı muffin",
@@ -3365,7 +3365,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nihal Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nPazartesi günü itibarıyla programımızda on üçüncü haftaya başlıyoruz. Bu hafta, hem birlikte geçirdiğimiz süreci değerlendirme hem de yeni bir başlangıcın eşiğinde olduğumuzu hatırlatma zamanı. 12 haftada birçok kazanım elde ettik ve bu süreçte yalnızca beslenme alışkanlıklarınızı değiştirmekle kalmadık; aynı zamanda yaşam tarzınıza ve bedeninizle ilişkinize dair güçlü adımlar attık.\n\nBu haftaki beslenme planınıza baktığımda, lipödem ve bölgesel incelme hedeflerinize yönelik özel olarak seçilmiş besinlerin yer aldığını görüyorum. Bu yiyecekler, antiinflamatuar özellikleri ve kan dolaşımını desteklemesi nedeniyle büyük önem taşıyor. Özellikle, menünüzdeki yeşillikler, düşük karbonhidrat alternatifleri ve kaliteli protein kaynakları, lenfatik sisteminizi destekleyerek lipödemin yönetiminde etkili olacaktır.\n\nMenünüzü incelediğimizde, hindistancevizi unlu ıspanaklı muffinler, sahanda yumurta ve fırında sebzeli peynirli güveç gibi seçeneklerin yanı sıra, semizotu salatası gibi besinler de yer almakta. Bu besinler, hem hücresel onarımı destekleyecek hem de vücudunuzun ihtiyaç duyduğu mikro besinleri sağlamada önemli rol oynayacak. Özellikle D vitamini, selenyum ve magnezyum gibi mikro besinler, lipödemli dokulardaki yangıyı azaltmaya ve genel sağlığınızı desteklemeye yardımcı olacaktır.\n\nAyrıca, bu hafta sonu ölçümlerinizi benimle paylaşmanızı rica ediyorum. Bedeninizin nasıl bir ilerleme kaydettiğini birlikte değerlendirmek, sürecin motivasyonu açısından oldukça faydalı olacaktır. Bu arada, sürecin nasıl gittiğini, kendinizi nasıl hissettiğinizi öğrenmek de benim için çok önemli. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3458,6 +3458,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T10:43:55.987Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:25:26.770Z",
+  "sonGuncelleme": "2026-05-06T14:25:31.129Z",
   "githubKaydedildi": true
 }
