@@ -2288,7 +2288,7 @@
       "pdfYolu": "pdfs/AYŞE BAKAR 11-17 MAYIS 9. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE BAKAR 11-17 MAYIS 9. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE BAKAR 11-17 MAYIS 9. HAFTA.pdf",
-      "kayitTarihi": "2026-05-06T13:48:30.477Z",
+      "kayitTarihi": "2026-05-06T13:51:25.881Z",
       "tarifKartlar": [
         {
           "tarifAdi": "közlenmiş kırmızı biber çorbası",
@@ -2447,7 +2447,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nBen Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazratesi günü itibariyle dokuzuncu haftaya başlıyoruz. Bu süreçteki ilerlemenizin ne kadar değerli olduğunu belirtmek isterim. Artık programımızın üçüncü temel ayağını başlatıyoruz: lipödem egzersizleri. Bu haftadan itibaren lenf drenaj masajı sıklığımız azalıyor, ama bunun yerine hedefe yönelik düzenli hareketi ekliyoruz.\n\nSizinle paylaşacağımız \"Lipödem 1\" ve \"Lipödem 2\" egzersiz videoları, bu yeni aşamada önemli birer kaynak olacak. Lipödem 1 egzersizleri, otururken yapabileceğiniz esneme ve hafif dolaşım hareketlerinden oluşuyor. Bu, özellikle yeni başlayanlar ve fiziksel zorluk yaşayanlar için uygun bir başlangıç olacaktır. Lipödem 2 egzersizleri ise ayakta yapılan, lenf sistemini derinlemesine uyaran biraz daha aktif hareketlerdir. Bu egzersizlerin, kasların pompalama etkisini kullanarak derin lenf yollarını harekete geçirdiğini göreceksiniz. Her iki videoda da süreler minimum düzeyde belirlenmiştir, ancak daha fazlasını yapmak isterseniz elbette faydalı olacaktır.\n\nBu aşamada, lenf sistemini aktifleştirmek için egzersizlerle birlikte beslenme planımıza da dikkat etmemiz gerekiyor. Beslenme listelemesine baktığımda, bu hafta öğünlerinizi oluşturan yiyeceklerin hem antiinflamatuar özellikleri hem de kan dolaşımını desteklemesi açısından kritik olduğunu belirtmek isterim. Örneğin, menünüzde yer alan badem unlu krep, parmesan peyniri, közlenmiş kırmızı biber çorbası ve haşlama et gibi seçenekler, hem sağlıklı yağlar hem de önemli mikro besinleri içeriyor. Bu mikro besinler, özellikle D vitamini, magnezyum ve selenyum gibi bileşenleri sayesinde hücresel onarımı hızlandıracaktır.\n\nYemeklerinize eklediğiniz ev yapımı turşu, bağırsak floramızı destekleyerek hücresel iltihaplanmayı baskılayacak. Ayrıca, menünüzde yer alan ceviz ve badem gibi sağlıklı yağlar, doku iyileşmesini hızlandırmaya yardımcı olacaktır. Bu hafta, günlük rutininize bu besinleri dahil etmeniz oldukça önemli. \n\nSüreç boyunca gösterdiğiniz dikkat ve özen, kalıcı değişikliklerin kapısını aralıyor. Unutmayın, önemli ve kalıcı değişiklikler yavaş ama istikrarlı bir şekilde gerçekleşiyor. Bu nedenle, her gün küçük ama düzenli hareketler eklemek, hem fiziksel hem de ruhsal sağlığınıza büyük katkı sağlayacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2549,6 +2549,6 @@
   ],
   "olusturmaTarihi": "2026-03-13T13:05:18.306Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:51:16.643Z",
+  "sonGuncelleme": "2026-05-06T13:51:25.902Z",
   "githubKaydedildi": true
 }
