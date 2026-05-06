@@ -1880,17 +1880,239 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞENAY KARAKUŞ İNANÇ 11-17 MAYIS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞENAY KARAKUŞ İNANÇ 11-17 MAYIS 8. HAFTA.pdf",
       "kayitTarihi": "2026-05-06T13:38:29.394Z",
-      "tarifKartlar": [],
-      "tarifler": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "badem unlu lor ekmeği",
+          "kartResmi": "badem_unlu_lor_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/badem_unlu_lor_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırında tavuk pirzola ya da kanat",
+          "kartResmi": "firinda_tavuk_kanat.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_tavuk_kanat.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "badem unlu lor ekmeği",
+          "kartResmi": "lor_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lor_ekmegi.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "ispanaklı ya da pazılı tava böreği",
+          "kartResmi": "pazili_tava_boregi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazili_tava_boregi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "patlıcan musakka",
+          "kartResmi": "patlican_musakka.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_musakka.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu salatalık mezesi",
+          "kartResmi": "yogurtlu_salatalik_mezesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_salatalik_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "sebzeli ya da ıspanaklı muffin",
+          "kartResmi": "sebzeli_muffin.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sebzeli_muffin.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "sebzeli ya da ıspanaklı muffin",
+          "kartResmi": "ispanakli_muffin.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/ispanakli_muffin.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "zeytinyağlı taze börülce",
+          "kartResmi": "zeytinyagli_taze_borulce.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/zeytinyagli_taze_borulce.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "ispanaklı mantar dolması",
+          "kartResmi": "ispanakli_mantar_dolmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/ispanakli_mantar_dolmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "patlıcan tost",
+          "kartResmi": "patlican_tost.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_tost.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kuzu ya da tavuk güveç",
+          "kartResmi": "kuzu_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kuzu_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kuzu ya da tavuk güveç",
+          "kartResmi": "tavuk_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuk_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "göçmen salatası",
+          "kartResmi": "gocmen_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/gocmen_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yumurtalı mantar sote",
+          "kartResmi": "yumurtali_mantar_sote.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yumurtali_mantar_sote.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "waffle",
+          "kartResmi": "waffle.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/waffle.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "urfa / adana kebap 150 gram (1 porsiyon)",
+          "kartResmi": "adana_urfa_kebap.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/adana_urfa_kebap.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        }
+      ],
+      "tarifler": [
+        "şenay karakuş i̇nanç / 11-17 mayis 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "beyaz peynir ya da kaşar peyniri",
+        "badem unlu lor ekmeği",
+        "zeytin (10 adet)",
+        "yeşil salata (marul, dereotu, roka, sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
+        "fındık (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "fırında tavuk pirzola ya da kanat",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "çiğ badem (10 adet)",
+        "badem unlu lor ekmeği",
+        "turşu (organik, ev yapımı)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "ispanaklı ya da pazılı tava böreği",
+        "beyaz peynir ya da kaşar peyniri",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "yeşil salata (marul, dereotu, roka, sirke, limon ve 1 yemek kaşığı zeytinyağı ile)",
+        "turşu (organik, ev yapımı)",
+        "toz kollajen 1 ölçek",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "ispanaklı ya da pazılı tava böreği",
+        "yeşillikler (dereotu, roka, maydanoz, marul + sirke ve limon +1 yemek kaşığı zeytinyağı ile)",
+        "zeytin (5 adet)",
+        "fındık (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "patlıcan musakka",
+        "yoğurtlu salatalık mezesi",
+        "badem unlu lor ekmeği",
+        "turşu (organik, ev yapımı)",
+        "toz kollajen 1 ölçek",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sebzeli ya da ıspanaklı muffin",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "zeytinyağlı taze börülce",
+        "ispanaklı mantar dolması",
+        "turşu (organik, ev yapımı)",
+        "kabak çekirdeği (1 avuç)",
+        "çilek",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "patlıcan tost",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "badem unlu lor ekmeği",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kuzu ya da tavuk güveç",
+        "göçmen salatası",
+        "badem unlu lor ekmeği",
+        "turşu (organik, ev yapımı)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yumurtalı mantar sote",
+        "tulum peyniri veya kaşar peyniri (30 gram)",
+        "zeytin (5 adet)",
+        "yeşillikler (dereotu, roka, maydanoz,marul + sirke, limon ile)",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı",
+        "mantar 1 yemek kaşığı zeytinyağında soteleyin.",
+        "waffle",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "yeşil salata (marul, dereotu, roka, sirke, limon ile)",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "urfa / adana kebap 150 gram (1 porsiyon)",
+        "köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
       "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
-      "manuelKartlar": []
+      "manuelKartlar": [],
+      "ekNotlar": "Merhaba Şenay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n[12:35, 03.05.2026] Prof.Dr. Mustafa Saçar: Merhabalar Şenay Hanım ölçümlerinizi incelediğimizde kilo verimi ve incelme düzeyimiz gayet iyi görünüyor. Önemli olan kalıcı incelme sağlamak . Onun için yavaş ve emin adımlarla ilerlememiz gerekiyor. Daha yolun yarısındayız güzel sonuçlar alıyoruz. Motivasyonumuzu bozmadan devam edelim lütfen 🙏🏻 Daha güzel sonuçlar alacağımıza inanıyorum 🌺\n[12:36, 03.05.2026] Şenay Karakuş İnanç Lipödem Viyana Danışmanlık+yp: Tamamdır teşekkür ederim sanki daha kolay gitmeliydi gibi geliyor ondan sormak istedim teşekkürler ederim\n[12:36, 03.05.2026] Şenay Karakuş İnanç Lipödem Viyana Danışmanlık+yp: Bu arada masajlar gerçekten çok iyi geliyor\n[12:37, 03.05.2026] Şenay Karakuş İnanç Lipödem Viyana Danışmanlık+yp: Masaja başlayalım ağrılarım baya baya gitt\n[12:38, 03.05.2026] Prof.Dr. Mustafa Saçar: Masajların etkisiyle drenajı sağlıyoruz. Bu da ödemin uzaklaşmasını sağlıyor. Ara ara kilo da direnç görülebilir. Masaj ve 9. Hafta da başlayacağımız egzersizler ile bu da çözülecektir. Ağrılarınızın azalmasına sevindim .",
+      "eslesenTarifler": [
+        "badem unlu lor ekmeği",
+        "fırında tavuk pirzola ya da kanat",
+        "badem unlu lor ekmeği",
+        "ispanaklı ya da pazılı tava böreği",
+        "köfte",
+        "ispanaklı ya da pazılı tava böreği",
+        "patlıcan musakka",
+        "yoğurtlu salatalık mezesi",
+        "badem unlu lor ekmeği",
+        "sebzeli ya da ıspanaklı muffin",
+        "zeytinyağlı taze börülce",
+        "ispanaklı mantar dolması",
+        "patlıcan tost",
+        "badem unlu lor ekmeği",
+        "kuzu ya da tavuk güveç",
+        "göçmen salatası",
+        "badem unlu lor ekmeği",
+        "yumurtalı mantar sote",
+        "waffle",
+        "urfa / adana kebap 150 gram (1 porsiyon)"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:38:29.402Z",
+  "sonGuncelleme": "2026-05-06T13:38:38.473Z",
   "githubKaydedildi": true
 }
