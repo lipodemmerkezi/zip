@@ -807,7 +807,7 @@
       "pdfYolu": "pdfs/REYHAN ÇAMKIR 11-17 MAYIS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/REYHAN ÇAMKIR 11-17 MAYIS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/REYHAN ÇAMKIR 11-17 MAYIS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-05-06T07:54:35.444Z",
+      "kayitTarihi": "2026-05-06T07:56:42.589Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -971,7 +971,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Reyhan Hanım,ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır\n\nDördüncü haftaya başlamış bulunuyoruz. Bu süreçte, yeni beslenme düzeninize alıştığınızı ve birçok alışkanlığın yerleşmeye başladığını düşünüyorum. Artık daha yapılandırılmış bir beslenme alışkanlığı geliştirmeye yöneliyoruz. Bu haftada metabolik hız ve yemek miktarının önemi üzerinde duracağız.\n\nBeslenme planınızı incelediğimde, lipödem ve bölgesel incelme hedeflerinize yönelik seçilmiş yiyeceklerin yer aldığını görüyorum. Hayvansal protein kaynakları, özellikle de yumurta ve süt ürünleri, aminoasit profili açısından zengin olup vücudunuzun temel işlevleri için gereklidir. Bu hafta menünüzde yer alan haşlanmış yumurta ve peynir çeşitleri, B12, D vitamini ve selenyum gibi mikro besinler açısından oldukça faydalıdır. Özellikle bu besinlerin bağışıklık sisteminizi destekleyici özellikleri, lipödem tedavisinde önemli bir rol oynamaktadır.\n\nAyrıca, menünüzdeki yeşil salatalar ve sebzeler, vücudunuzun ödem atımını kolaylaştırarak lenfatik sistemi destekleyecektir. Sirke ve zeytinyağlı salatalar, sindirim sisteminizi rahatlatmanın yanı sıra kan şekeri dengenizi korumaya yardımcı olur. Bu da insülin seviyelerinizin dengede kalmasını sağlayarak, yeme isteğinizi yönetmenize yardımcı olur.\n\nBu hafta, yeme sıralamasına dikkat etmenizi öneriyorum. Öğünlerinize önce lifli gıdalarla başlayarak, ardından protein ve sağlıklı yağlara geçmek, insülin salınımını daha dengeli bir seviyede tutacaktır. Bu yaklaşım, açlık hissinizi kontrol altında tutmaya yardımcı olurken, aynı zamanda metabolizmanızı da destekler.\n\nÖlçümleriniz hakkında bilgi almak isterim. Bu haftaki hedefimiz, bölgesel değişimlerinizi gözlemlemek ve sürecimizi daha da güçlendirmek. Herhangi bir zorluk veya sorunuz olursa, lütfen benimle paylaşın. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum. \n\n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1088,6 +1088,6 @@
   ],
   "olusturmaTarihi": "2026-04-17T08:21:05.894Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T07:56:40.403Z",
+  "sonGuncelleme": "2026-05-06T07:56:42.608Z",
   "githubKaydedildi": true
 }
