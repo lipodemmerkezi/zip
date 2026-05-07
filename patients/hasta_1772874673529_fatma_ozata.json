@@ -2806,24 +2806,26 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-05-10",
-      "bitis": "2026-05-16",
+      "baslangic": "2026-05-07",
+      "bitis": "2026-05-07",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMA ÖZATA - 11.hafta pdf.pdf",
+      "pdfOrijinalIsim": "FATMA ÖZATA - 11.hafta pdf.pdf",
+      "pdfYolu": "pdfs/FATMA ÖZATA - 11.hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FATMA ÖZATA - 11.hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FATMA ÖZATA - 11.hafta pdf.pdf",
+      "kayitTarihi": "2026-05-07T05:55:41.166Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-07T09:11:13.529Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-07T05:55:13.611Z",
+  "sonGuncelleme": "2026-05-07T05:55:41.169Z",
   "githubKaydedildi": true
 }
