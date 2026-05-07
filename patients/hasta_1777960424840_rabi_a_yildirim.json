@@ -184,7 +184,7 @@
       "pdfYolu": "pdfs/RABİA YILDIRIM 11-17 MAYIS 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RABİA YILDIRIM 11-17 MAYIS 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RABİA YILDIRIM 11-17 MAYIS 2. HAFTA.pdf",
-      "kayitTarihi": "2026-05-07T05:21:17.623Z",
+      "kayitTarihi": "2026-05-07T05:23:42.361Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
@@ -312,7 +312,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Rabi̇a Hanım,\n\nProgramımızın ikinci haftasına hoş geldiniz. Bu süreçte attığınız her adımın, ileride büyük değişimlere yol açacağını birlikte göreceğiz. Lipödem, kronik bir hastalık olduğu için sabırlı ve istikrarlı bir yaklaşım sergilemek son derece önemli. Bu haftayla birlikte, vücudunuzda bazı küçük değişiklikler hissedebilirsiniz; ancak asıl hedefimiz, yalnızca dış görünümde değil, hücresel düzeyde de iyileşmeler sağlamak.\n\nBu hafta, inflamasyonun (vücuttaki sessiz iltihap hali) yönetimi üzerine odaklanıyoruz. İnflamasyon, sadece lipödemle sınırlı kalmaz; insülin direnci, hormonal dengesizlikler ve sindirim sorunları gibi kronik tablolarla da ilişkili olabilir. Bu nedenle, sürece bütüncül bir sağlık yaklaşımıyla bakmak kritik önem taşıyor. \n\nBeslenme programınızda yer alan yiyecekler, antiinflamatuar özellikleri ile öne çıkıyor. Örneğin, haşlanmış yumurta ve mantarlı omlet gibi protein kaynakları, hücre onarımı ve bağışıklık sistemi desteği sağlayacak. Ayrıca, ızgara balık ve tavuk gibi seçenekler, omega-3 ve diğer sağlıklı yağ asitleriyle vücut dengenizi destekleyecek. Bu hafta, özellikle D vitamini, magnezyum ve selenyum gibi mikro besinlere de dikkat etmeniz faydalı olacaktır. Bu besinler, bağışıklık sisteminizi güçlendirirken, inflamasyonu azaltmaya da yardımcı olur.\n\nBu süreçte, ilk haftada edindiğiniz bilgiler ışığında bazı takviyelerden faydalanabiliriz. Ödemin azaltılması ve dokuların onarımına katkı sağlaması açısından, önerilen takviyeleri ihmal etmemenizi öneririm. Ayrıca, vücudunuzun yağ yakma sürecine destek olmak için sağlıklı yağlarla beslenmek, insülin dengenizi koruyacaktır. Unutmayın, sağlıklı yağlar, insülini yükseltmeden tokluk hissi sağlar.\n\nDiyetinize eklediğiniz mevsim yeşillikleri ve sağlıklı yağ kaynakları, sadece lipödemle değil, genel sağlığınızla ilgili kazanımlarınızı artıracaktır. Bu süreçte, her gün düzenli su tüketimi ve sağlıklı yağ kaynaklarına yer vermek, hem sindirim sisteminizi destekleyecek hem de sizi daha enerjik hissettirecektir.\n\nHer gelişmeyi birlikte takip edeceğiz. Unutmayın, her zaman yanınızdayım ve gözlemlerinizi, yorumlarınızı merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -422,6 +422,6 @@
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-07T05:23:38.260Z",
+  "sonGuncelleme": "2026-05-07T05:23:42.380Z",
   "githubKaydedildi": true
 }
