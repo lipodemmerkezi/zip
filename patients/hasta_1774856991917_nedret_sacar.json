@@ -2330,7 +2330,8 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "Merhaba Nedret Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n\n=== AÇIKLAMA ===\nHastamız lipödem değil. sadece kilo verme amaçlı program uyguluyoruz. Kilo vemreye yönelik olarak ipuçları vs den sıkça bahset. her hafta değişiklik olsun. Takviyelerden de bahsetmeyeceğiz mesajlarda. Motivasyon sağlamalıyız. Düzneli yürüyürüşün doku oksijenlenmesine, kas dokusunun ve kemik ve kıkırdaka dokusunu iyileştirici onarıcı etkileribni vs zaman zaman anlatalım. her hafta daha farklı konularda mesaj verelim. DUYGUSAL AÇLIK TATLI KRİZİ VS. ÖNLEMEK İÇN ÖNERİLERDE BULUNAÖIM ZAMAN ZAMANM."
     },
     {
       "haftaNo": 9,
@@ -3800,6 +3801,6 @@
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-07T05:27:31.579Z",
+  "sonGuncelleme": "2026-05-07T12:09:09.054Z",
   "githubKaydedildi": true
 }
