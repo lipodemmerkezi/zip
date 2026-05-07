@@ -449,7 +449,7 @@
       "pdfYolu": "pdfs/NİGAR ÇAKIROĞULLARI 11-17 MAYIS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİGAR ÇAKIROĞULLARI 11-17 MAYIS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİGAR ÇAKIROĞULLARI 11-17 MAYIS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-05-07T05:24:20.875Z",
+      "kayitTarihi": "2026-05-07T05:26:08.746Z",
       "tarifKartlar": [
         {
           "tarifAdi": "yumurtalı ıspanak / pazı kavurma",
@@ -617,7 +617,7 @@
         "tüketebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba Nigar Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nÜçüncü haftaya hoş geldiniz. Programımızın bu aşamasında süt ürünlerine kontrollü bir şekilde yer vermeye başlıyoruz. İlk iki haftada oluşturduğumuz temel, bağırsak sağlığınız için oldukça önemliydi. Şimdi bu sağlam yapı üzerine daha sağlıklı bir beslenme düzeni inşa edeceğiz.\n\nBu hafta, bağırsak florasını destekleyen probiyotik ve prebiyotik takviyelerine de geçiyoruz. Bu süreçte, menünüze dahil ettiğimiz besinler, lipödem tedavisinin yanı sıra sindirim sisteminizi de güçlendirecek. Örneğin, listede yer alan yoğurt ve peynir gibi fermente ürünler, bağırsak sağlığını olumlu yönde etkileyerek, iştah kontrolünüzü sağlamada yardımcı olabilir. Bu noktada, D vitamini ve selenyum gibi mikro besinlerin de önemini vurgulamak gerekiyor; çünkü bu besin ögeleri, bağışıklık sisteminizi desteklemenin yanı sıra ruh halinizi de olumlu etkileyebilir.\n\nBu hafta menünüzde bolca yer alan sebzelerin yanı sıra, somon, haşlanmış tavuk ve yumurta gibi kaliteli protein kaynakları, lipödemli dokularda doku onarımını sağlarken, çinko ve B12 vitamini açısından da sizi destekleyecek. Ayrıca, yeşilliklerinizde kullandığınız sirke ve limon, sindirimi kolaylaştırarak kan şekerinizi dengelemeye yardımcı olacaktır. \n\nÖzellikle bu haftada, bağırsak sağlığını destekleyen her adımın, bedeninizde olumlu değişimler yaratacağını unutmayın. Kendi ölçümlerinizi almayı sürdürmek, bu süreçteki ilerlemenizi daha iyi gözlemlemenize yardımcı olacaktır.\n\nEğer takıldığınız bir nokta olursa, lütfen bize danışmaktan çekinmeyin. Her zaman olduğu gibi, gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -732,6 +732,6 @@
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-07T05:26:06.063Z",
+  "sonGuncelleme": "2026-05-07T05:26:08.763Z",
   "githubKaydedildi": true
 }
