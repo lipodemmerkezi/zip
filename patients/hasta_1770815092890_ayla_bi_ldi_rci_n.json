@@ -2,7 +2,7 @@
   "id": 1770815092890,
   "isim": "AYLA BİLDİRCİN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -2234,9 +2234,9 @@
         },
         {
           "tarifAdi": "lorlu pazı sarması",
-          "kartResmi": "pazi_sarmasi.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazi_sarmasi.jpg",
-          "eslesmeTuru": "ardışık eşleşme"
+          "kartResmi": "lorlu_pazi_sarmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lorlu_pazi_sarmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "göçmen salatası",
@@ -3658,6 +3658,6 @@
   ],
   "olusturmaTarihi": "2026-02-11T13:04:52.890Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:48:26.970Z",
+  "sonGuncelleme": "2026-05-08T13:42:56.986Z",
   "githubKaydedildi": true
 }
