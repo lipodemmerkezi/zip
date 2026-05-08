@@ -2,7 +2,7 @@
   "id": 1770919132571,
   "isim": "SEVCAN ERTÜRK",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -2717,6 +2717,12 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
+          "tarifAdi": "pazılı kaşarlı omlet",
+          "kartResmi": "pazili_kasarli_omlet.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazili_kasarli_omlet.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "tavuk pirzola ya da kanat",
           "kartResmi": "firinda_tavuk_kanat.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_tavuk_kanat.jpg",
@@ -2895,6 +2901,7 @@
         "patlıcan kebabı",
         "yoğurtlu brüksel lahanası",
         "karabuğday ekmeği 1 dilim 25 gr",
+        "pazılı kaşarlı omlet",
         "tavuk pirzola ya da kanat",
         "borani (yoğurtlu ıspanak)",
         "karabuğday ekmeği 1 dilim 25 gr",
@@ -2927,7 +2934,6 @@
         "akşam (tercihen hava kararınca)",
         "sali",
         "öğle (tercihen saat 12:00 civarında)",
-        "pazılı kaşarlı omlet",
         "yeşillikler (4 yaprak marul, 2 adet chery domates, 4-5 dal maydanoz, limon ve sirke ile)",
         "fındık (10 adet)",
         "elma ya da 5 adet çağla",
@@ -3564,6 +3570,6 @@
   ],
   "olusturmaTarihi": "2026-02-12T17:58:52.571Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:45:49.632Z",
+  "sonGuncelleme": "2026-05-08T13:42:37.126Z",
   "githubKaydedildi": true
 }
