@@ -15,13 +15,6 @@
     "sonGuncelleme": "2026-05-08T13:14:49.620Z"
   },
   {
-    "id": 1770815092890,
-    "isim": "AYLA BİLDİRCİN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-05-06T14:48:30.475Z"
-  },
-  {
     "id": 1773407118306,
     "isim": "AYŞE BAKAR",
     "not": "",
@@ -254,6 +247,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-10-29T11:29:19.503Z"
+  },
+  {
+    "id": 1770815092890,
+    "isim": "AYLA BİLDİRCİN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-05-08T13:42:59.530Z"
   },
   {
     "id": 1753368154662,
