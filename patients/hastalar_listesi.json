@@ -191,13 +191,6 @@
     "sonGuncelleme": "2026-05-06T10:44:26.068Z"
   },
   {
-    "id": 1770919132571,
-    "isim": "SEVCAN ERTÜRK",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-05-06T14:45:52.396Z"
-  },
-  {
     "id": 1778151608521,
     "isim": "SULTAN GÜNAY",
     "not": "",
@@ -893,6 +886,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-12-15T05:52:20.582Z"
+  },
+  {
+    "id": 1770919132571,
+    "isim": "SEVCAN ERTÜRK",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-05-08T13:42:39.667Z"
   },
   {
     "id": 24,
