@@ -2,7 +2,7 @@
   "id": 1770919269212,
   "isim": "GÜLAY KOZAĞAÇLI",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -2653,9 +2653,9 @@
         },
         {
           "tarifAdi": "lorlu pazı sarması",
-          "kartResmi": "pazi_sarmasi.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazi_sarmasi.jpg",
-          "eslesmeTuru": "ardışık eşleşme"
+          "kartResmi": "lorlu_pazi_sarmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lorlu_pazi_sarmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "cevizli köz biber mezesi",
@@ -3835,6 +3835,6 @@
   ],
   "olusturmaTarihi": "2026-02-12T18:01:09.212Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:41:08.134Z",
+  "sonGuncelleme": "2026-05-08T13:42:19.947Z",
   "githubKaydedildi": true
 }
