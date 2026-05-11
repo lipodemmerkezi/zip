@@ -1672,23 +1672,25 @@
     {
       "haftaNo": 7,
       "baslangic": "2026-05-11",
-      "bitis": "2026-05-17",
+      "bitis": "2026-05-11",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "LATİFE ÇELİK - 7. hafta pdf.pdf",
+      "pdfOrijinalIsim": "LATİFE ÇELİK - 7. hafta pdf.pdf",
+      "pdfYolu": "pdfs/LATİFE ÇELİK - 7. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/LATİFE ÇELİK - 7. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/LATİFE ÇELİK - 7. hafta pdf.pdf",
+      "kayitTarihi": "2026-05-11T10:21:08.122Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T12:11:04.060Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-11T10:20:34.383Z",
+  "sonGuncelleme": "2026-05-11T10:21:08.123Z",
   "githubKaydedildi": true
 }
