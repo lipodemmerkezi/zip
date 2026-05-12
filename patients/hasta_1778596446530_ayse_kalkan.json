@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/AYŞE KALKAN 13-17 MAYIS 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE KALKAN 13-17 MAYIS 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE KALKAN 13-17 MAYIS 1. HAFTA.pdf",
-      "kayitTarihi": "2026-05-12T14:34:31.475Z",
+      "kayitTarihi": "2026-05-12T14:45:32.637Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (2 dilim)",
@@ -129,7 +129,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nUmarım her şey yolundadır. Yarın itibariyle programımızın ilk haftasına başlamış olacağız. Bu süreçte, adım adım ilerleyeceğimiz, sade ama etkili bir yol haritası oluşturduk. Beslenme listenizi inceledim ve lipödem ile bölgesel incelme hedeflerinize yönelik özenle seçilmiş yiyecekler içerdiğini görüyorum. Bu yiyecekler, antiinflamatuar özellikleri ve kan dolaşımını desteklemeleri nedeniyle oldukça faydalı olacak. Lipödem yönetiminde lenfatik sistemi desteklemek ve kilo vermek için bu besinleri günlük rutininize dahil etmeniz kritik öneme sahip.\n\nBu hafta, süt ve süt ürünlerini programdan çıkarıyoruz. Bu adımın amacı, gizli gıda duyarlılıklarını gözlemlemek ve vücutta inflamasyonu tetikleyen kaynakları azaltmaktır. Süt ürünleri 3. haftadan itibaren kontrollü bir şekilde programa geri dönecek. Bu süreçte protein ihtiyacınızı karşılamak için yumurta temel besinimiz olacak. Yumurta, A, D, B12 vitaminleri ve selenyum gibi mikrobesinler açısından zengin bir kaynaktır; bu da lipödem sürecinde destekleyici bir rol oynayacaktır. İlk haftalarda yumurta tüketiminiz biraz daha fazla olabilir; ilerleyen haftalarda süt ürünleri tekrar listeye dahil edildikçe yumurta miktarı da doğal olarak azalacaktır.\n\nBu hafta ayrıca bazı takviyelerden de faydalanabiliriz. Ödemi azaltmak, dolaşımı desteklemek ve dokuların onarım sürecine katkıda bulunmak için önerdiğimiz takviye ürünler, ihtiyaç ve hedeflerinize uygun olarak belirlenmiştir. Gerekli olmadığı sürece bu takviyeler zorunlu değildir.\n\nHer iki haftada bir, ölçümlerinizi almanızı rica ediyorum. Bel, kalça ve bacak çevresi gibi bölgelerin ölçümünü düzenli olarak kaydetmeniz, ilerlemenizi daha net görmemize yardımcı olacaktır. Tartıya değil, incelmeye odaklanacağız.\n\nBu haftanın temel adımları şunlardır:\n- Süt ürünlerini bırakıyoruz,\n- Yumurtayı temel protein kaynağı olarak kullanıyoruz,\n- Günlük su tüketimini artırıyoruz,\n- Gerekli görülürse takviyelere başlıyoruz,\n- İlk ölçümleri alıyor ve not ediyoruz.\n\nProgramın başı her zaman en zor kısımdır. Ancak kısa sürede bedeninizdeki değişimleri hissetmeye başlayacaksınız. Bu süreci birlikte, küçük ama etkili adımlarla yöneteceğiz. Her zaman yanınızdayım.\nBaşlangıç ölçümlerinizi de bekliyoruz.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -208,6 +208,6 @@
   ],
   "olusturmaTarihi": "2026-05-12T14:34:06.530Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-12T14:36:31.434Z",
+  "sonGuncelleme": "2026-05-12T14:45:32.650Z",
   "githubKaydedildi": true
 }
