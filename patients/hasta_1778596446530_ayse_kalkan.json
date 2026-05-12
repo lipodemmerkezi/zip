@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-05-10",
-      "bitis": "2026-05-16",
+      "baslangic": "2026-05-13",
+      "bitis": "2026-05-17",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE KALKAN 13-17 MAYIS 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE KALKAN 13-17 MAYIS 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE KALKAN 13-17 MAYIS 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE KALKAN 13-17 MAYIS 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE KALKAN 13-17 MAYIS 1. HAFTA.pdf",
+      "kayitTarihi": "2026-05-12T14:34:31.475Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:34:06.530Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-12T14:34:16.207Z",
+  "sonGuncelleme": "2026-05-12T14:34:31.477Z",
   "githubKaydedildi": true
 }
