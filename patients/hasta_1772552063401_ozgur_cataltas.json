@@ -3527,7 +3527,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Özgür Hanım, umarım her şey yolundadır.\n\nOn üçüncü haftaya ulaştık. Bu yolculuğun son haftasındayız ama aslında bu, yeni bir başlangıcın da eşiği. Hem birlikte geçirdiğimiz süreci değerlendirme zamanı hem de bundan sonrası için yol haritamızı hatırlatma zamanı.\n\nBu 3 aylık süreçte birlikte çok şey başardık. Sadece beslenmenizi değiştirmedik; yaşam tarzınıza, bakış açınıza ve bedeninizle ilişkinize dair güçlü adımlar attık. Öğün yapılarından su tüketimine, yeme sıralamasından atıştırmalıklara, masajdan egzersize kadar birçok başlığı hayatınızın doğal bir parçası haline getirdiniz. Bunlar kolay şeyler değil — hele ki lipödem gibi kronik bir hastalıkla mücadele ederken.\n\nBu haftaki beslenme listeniz, lipödem ve bölgesel incelme hedeflerinizi destekleyecek yönde özenle hazırlandı. Ispanaklı kabak böreği, tulum peyniri ve salatalık gibi besinler, antiinflamatuar özellikleri sayesinde lenfatik sisteminize yardımcı olurken, kilo verme sürecinize de katkıda bulunacaktır. Özellikle cevizli karabuğday ekmeği, sağlıklı yağlar ve lif açısından zengin bir seçenek olarak öne çıkıyor. Bu, hem tokluk hissinizi artıracak hem de insülin seviyenizi dengelemeye yardımcı olacaktır.\n\nBeslenme programınızda yer alan mikro besinler de oldukça önemli. D vitamini, magnezyum ve selenyum gibi besinler bağışıklık sisteminizi desteklerken hücresel iyileşmenizi de hızlandıracaktır. Öğünlerinizdeki zeytinyağı ve ceviz, bu besinlerin emilimini artırarak vücudunuza ihtiyaç duyduğu desteği sağlayacaktır. Ayrıca, yoğurtlu salatalık mezesi ve ev yoğurdu gibi fermente seçenekler, bağırsak sağlığınızı desteklemeye devam edecektir.\n\nBu süreçte, tartıda çok büyük değişimler görememek ya da bazı bölgelerde istediğiniz sonuçları elde edememek normal. Unutmayın ki bu bir kilo verme süreci değil; bir yeniden yapılanma süreci. Bedeninizin bu dönüşüm sürecinde sabırlı olmalısınız. \n\nAynı zamanda, bu hafta kendinize dönüp bakmayı unutmayın. Bu süreç boyunca sizde en çok ne değişti? Hangi alışkanlıkları kazandınız ve sürdürebileceğinizi düşünüyorsunuz? Bedensel değişim dışında ruhsal olarak nasıl hissediyorsunuz? Bu sorulara vereceğiniz cevaplar, sizi hem motivasyonunuzu hem de yönünüzü yeniden hatırlatacak.\n\nArtık bu sistem size yabancı değil. Uygulamalar tanıdık, sonuçlar öngörülebilir, ihtiyaçlar net. Yolculuğunuzun devam edeceği bu dönemde, beslenme yine merkezde olacak, hareket mutlaka sürece eşlik edecek, masaj ya da egzersiz uygulamaları gerektiğinde yeniden devreye alınacak.\n\nBu süreci birlikte yürüttüğümüz için ben çok memnunum. Sizinle gurur duyuyorum. Her zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -3621,11 +3621,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "BU HAFTA PROGRAM UYUMU NASILDI? ÖLÇÜMLERİNİ İSTEYELİM.\nMerhaba Özgür Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 13. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-03-03T15:34:23.401Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T08:58:10.807Z",
+  "sonGuncelleme": "2026-05-13T08:59:18.180Z",
   "githubKaydedildi": true
 }
