@@ -2204,10 +2204,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "lupin unlu ekmek yerine 1 adet yumurta, 10 adet çiğ badem ya da çeyrek avokado tüketebilirsiniz."
       ]
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-05-17",
+      "bitis": "2026-05-23",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:43:27.161Z",
+  "sonGuncelleme": "2026-05-13T10:16:00.876Z",
   "githubKaydedildi": true
 }
