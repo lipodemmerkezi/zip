@@ -3455,7 +3455,7 @@
       "pdfYolu": "pdfs/HATİCE KANA 18-24 MAYIS 14. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE KANA 18-24 MAYIS 14. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE KANA 18-24 MAYIS 14. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T07:05:09.999Z",
+      "kayitTarihi": "2026-05-13T07:12:37.587Z",
       "tarifKartlar": [
         {
           "tarifAdi": "susamlı omlet",
@@ -3629,7 +3629,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Hatice Hanım, nasılsınız? Umarım her şey yolundadır.\n\nBugün programımızın 14. haftasına adım atıyoruz ve bu süreçte birlikte yürüttüğümüz yolculuğun sonlarına gelirken, elde ettiğimiz kazanımları değerlendirme zamanı. Lipödem yönetiminde attığımız her adım, sadece fiziksel değil, zihinsel olarak da önemli değişimler yaratıyor. Bu hafta, beslenme listenizde yer alan yiyeceklerin lipödem ve bölgesel incelme hedeflerinize nasıl katkı sağlayacağını detaylandırmak istiyorum.\n\nBeslenme programımızda yer alan yiyecekler, antiinflamatuar özellikleri ve kan dolaşımını desteklemesi nedeniyle özenle seçilmiştir. Örneğin, sabahları tüketebileceğiniz susamlı omlet, içindeki D vitamini ve protein ile enerjinizi artırırken, zeytin ve yeşillikler, sağlıklı yağlar ve lif içeriği ile günlük besin ihtiyaçlarınızı karşılar. Bunun yanı sıra, yeşil mercimek salatası, magnezyum açısından zengin olup lenfatik akışınızı destekleyecektir. \n\nÖzellikle kabak çekirdeği, önemli bir çinko kaynağı olarak hormonal dengenizi korumaya yardımcı olurken, çiğ badem gibi yağlı tohumlar ise E vitamini ile hücresel sağlığınızı destekleyecektir. Ayrıca, menünüzde yer alan toz kollajen, cilt sağlığınızı desteklemekle kalmayıp, dokularınızdaki elastikiyeti artırmada da etkilidir. \n\nYeme alışkanlıklarınızı ve yeni tariflerinizi uygularken kendinize karşı nazik olmayı unutmayın. Sürecin içinde esneklik sağlamak ve tatlı ihtiyaçlarınızı doğal yollarla karşılamak için önerdiğimiz çilekli-limonlu smoothie gibi alternatifler, hem bedeninizi hem de ruhunuzu besleyecektir. \n\nBu hafta güncel ölçümlerinizi göndermeniz, ilerlemenizi daha iyi değerlendirebilmemiz açısından çok önemlidir. Unutmayın ki, bu süreçte yaşanan dalgalanmalar tamamen doğaldır ve bedeninizin kendini yenileme sürecinin bir parçasıdır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3731,6 +3731,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T10:37:51.902Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T07:12:35.181Z",
+  "sonGuncelleme": "2026-05-13T07:12:37.604Z",
   "githubKaydedildi": true
 }
