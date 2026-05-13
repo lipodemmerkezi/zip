@@ -333,7 +333,7 @@
       "pdfYolu": "pdfs/AYFER ÇETİN 18-24 MAYIS 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYFER ÇETİN 18-24 MAYIS 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYFER ÇETİN 18-24 MAYIS 2. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T14:39:27.100Z",
+      "kayitTarihi": "2026-05-13T14:40:47.290Z",
       "tarifKartlar": [
         {
           "tarifAdi": "starbucks kurabiye",
@@ -526,7 +526,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayfer Hanım,\n\nProgramımızın ikinci haftasına hoş geldiniz. Bu süreçte attığınız her adım, sadece bedeninizde değil, aynı zamanda zihninizde de önemli değişikliklere kapı aralayacaktır. Lipödemin yönetiminde sabır ve istikrar büyük önem taşıyor. Geçtiğimiz haftalarda temel bilgileri edindiniz ve şimdi, bu bilgileri uygulama aşamasına geçiyoruz.\n\nBu hafta, beslenme listenizi incelediğimde, vücudunuzun ihtiyaçlarına yönelik oldukça iyi seçilmiş yiyeceklerin yer aldığını görüyorum. Özellikle antiinflamatuar özelliklere sahip besinler, lenfatik sistemi destekleyerek lipödemle mücadelede önemli bir rol oynayacaktır. Örneğin, yeşillikler, zeytin ve avokado gibi sağlıklı yağ kaynakları, insülin seviyelerini dengeleyerek yağ yakımını desteklerken, genel sağlığınızı da olumlu yönde etkileyecektir.\n\nBu süreçte D vitamini, magnezyum ve selenyum gibi mikro besinlerin önemini unutmamak gerekiyor. Bu besin ögeleri, bağışıklık sisteminizi güçlendirirken, inflamasyonu azaltmaya da yardımcı olur. Ayrıca, haftalık beslenme listenizde yer alan lorlu ve zeytinli poğaça gibi atıştırmalıklar, hem lezzetli hem de sağlıklı bir alternatif sunuyor.\n\nÖzellikle bu haftaki kahve önerimiz olan kurşun geçirmez kahve de, sağlıklı yağların alımını artırarak gün boyunca tokluk hissi sağlamaya yardımcı olacaktır. Eğer kahve içmek istemezseniz, diğer sağlıklı yağ kaynaklarından yararlanmak da iyi bir seçenek. Unutmayın, bu seçimler insülin dengenizi koruyarak yağ yakımını destekleyecek.\n\nAyrıca, bu hafta vücudunuzda bazı küçük değişiklikler hissedebilirsiniz. Bu değişiklikler, sadece dış görünümde değil, hücresel düzeyde de iyileşmelerin habercisi olabilir. Herhangi bir rahatsızlık hissettiğinizde ya da motivasyon kaybı yaşadığınızda lütfen benimle iletişime geçin. Bu süreçte duygu durumunuzu yönetmek de en az beslenme kadar önemli.\n\nUnutmayın, her iki haftada bir ölçüm alarak ilerlemenizi takip etmeniz, sürecinizi daha etkili yönetmenize yardımcı olacaktır. Sadece tartıda değil, bedeninizdeki incelmeleri de gözlemlemek, hedeflerinize daha yakın hissetmenizi sağlayacaktır.\n\nTüm gelişmeleri birlikte takip edeceğiz. Unutmayın, size sadece bir mesaj kadar uzaktayım. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -630,6 +630,6 @@
   ],
   "olusturmaTarihi": "2026-05-08T13:10:14.820Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:40:41.073Z",
+  "sonGuncelleme": "2026-05-13T14:40:47.303Z",
   "githubKaydedildi": true
 }
