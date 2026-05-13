@@ -1500,24 +1500,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GÜLER AŞIK 18-24 MAYIS 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "GÜLER AŞIK 18-24 MAYIS 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/GÜLER AŞIK 18-24 MAYIS 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÜLER AŞIK 18-24 MAYIS 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÜLER AŞIK 18-24 MAYIS 6. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T10:44:20.088Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:42:04.021Z",
+  "sonGuncelleme": "2026-05-13T10:44:20.091Z",
   "githubKaydedildi": true
 }
