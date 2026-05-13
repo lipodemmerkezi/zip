@@ -1766,10 +1766,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhaba Nedi̇me Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\nbu hafta mesajlaşmamız:\n[11:14, 04.05.2026] Nedime Taşatan Denizli Lipödem Danışmanlık +yp : Bu sabahki ölçümlerim .çok mutluyum .tatilde yarım kilo gitmiş ve incelmişim.dediklerinize dikkat ettim masajlarımı uyguladım.\n[11:22, 04.05.2026] Prof.Dr. Mustafa Saçar: Günaydın Nedime Hanım. Ölçümlerinizi incelediğimizde kilo verimi ve incelme düzeyimiz gayet iyi gidiyor👏🏻Masajların etkisi bu süreçte büyük. Devam ettiğimiz sürece daha güzel sonuçlar alacağız🙏🏻\n[11:42, 04.05.2026] Nedime Taşatan Denizli Lipödem Danışmanlık +yp : Görüntü ve hafiflik olarak daha iyiim hocam\n[11:43, 04.05.2026] Nedime Taşatan Denizli Lipödem Danışmanlık +yp : Masajları aklıma gelince de yapsam olur mu?\n[11:58, 04.05.2026] Prof.Dr. Mustafa Saçar: Tabi yapabiliriz\n[12:47, 04.05.2026] Nedime Taşatan Denizli Lipödem Danışmanlık +yp : Tamam hocam"
+    },
+    {
+      "haftaNo": 8,
+      "baslangic": "2026-05-17",
+      "bitis": "2026-05-23",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T13:37:20.652Z",
+  "sonGuncelleme": "2026-05-13T10:18:54.707Z",
   "githubKaydedildi": true
 }
