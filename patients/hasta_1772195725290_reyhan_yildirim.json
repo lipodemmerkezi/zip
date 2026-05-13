@@ -1836,6 +1836,12 @@
       "kayitTarihi": "2026-04-16T07:53:44.316Z",
       "tarifKartlar": [
         {
+          "tarifAdi": "pazılı kaşarlı omlet",
+          "kartResmi": "pazili_kasarli_omlet.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazili_kasarli_omlet.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "lupin unlu ekmek (1 dilim)",
           "kartResmi": "lupin_unlu_ekmek.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lupin_unlu_ekmek.jpg",
@@ -1994,6 +2000,7 @@
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
+        "pazılı kaşarlı omlet",
         "lupin unlu ekmek (1 dilim)",
         "fırında tavuk pirzola ya da kanat",
         "zeytinyağlı deniz börülcesi ya da brokoli salata",
@@ -2018,7 +2025,6 @@
         "hafta",
         "pazartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
-        "pazılı kaşarlı omlet",
         "zeytin (5 adet)",
         "yeşillikler (marul, dereotu, roka,+ sirke, limon ve 1 yemek kaşığı zeytinyağı ile)",
         "akşam (tercihen hava kararınca)",
@@ -2985,10 +2991,27 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ]
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-05-17",
+      "bitis": "2026-05-23",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-02-27T12:35:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:20:46.202Z",
+  "sonGuncelleme": "2026-05-13T08:52:53.351Z",
   "githubKaydedildi": true
 }
