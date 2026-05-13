@@ -2034,7 +2034,7 @@
       "pdfYolu": "pdfs/NEDRET_SACAR_18 Mayıs _ 24 Mayıs___8. hafta.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/NEDRET_SACAR_18 Mayıs _ 24 Mayıs___8. hafta.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/NEDRET_SACAR_18 Mayıs _ 24 Mayıs___8. hafta.pdf",
-      "kayitTarihi": "2026-05-07T12:09:28.939Z",
+      "kayitTarihi": "2026-05-13T14:51:45.031Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -2228,7 +2228,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nedret Hanım,\n\nSekizinci haftaya ulaştık. Bu süreçte gösterdiğiniz özveri ve sabır gerçekten takdire şayan. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önem arz ettiği bir aşamaya geliyoruz. Bu hafta, yemek sıralamasının bedenimiz üzerindeki etkilerini keşfedeceğiz.\n\nYemek sıralaması, insülin düzeylerini dengelemek, tokluk süresini uzatmak ve kan şekerinin hızlı yükselmesini engellemek açısından kritik bir rol oynar. Bu da lipödemli dokular üzerinde olumlu etkiler yaratarak vücudunuzun bu sürece verdiği yanıtı güçlendirir. İşte doğru yeme sıralaması:\n\n1. Önce lifli gıdalar: Öğünlerinize mutlaka salata veya lifli sebzelerle başlayın. Bu, bağırsaklarınızda bir bariyer oluşturarak karbonhidratların kana karışmasını geciktirir ve insülinin daha yavaş salgılanmasını sağlar.\n   \n2. Ardından protein: Balık, tavuk veya yumurta gibi protein kaynakları ile devam edin. Protein, tokluk hissi sağlarken kan şekeri dalgalanmalarını da dengeler.\n\n3. Yağlı gıdalar: Sebze yemekleri ve zeytinyağlılar bu aşamada eklenebilir. Sağlıklı yağlar, tokluk hissinizi artırır.\n\n4. Karbonhidratlar (varsa): Eğer dışarıda bir yemek yiyorsanız, karbonhidratlı yiyecekleri en sona bırakın. Bu, insülin tepkisini azaltır.\n\nAyrıca, yemeklerden önce bir yemek kaşığı elma sirkesini yarım bardak suya karıştırarak içmek, insülin kontrolü açısından oldukça faydalıdır. Sirkenin içindeki asetik asit, karbonhidratların emilimini yavaşlatır, bu da daha dengeli bir insülin cevabı anlamına gelir.\n\nMenünüzde yer alan haşlanmış yumurta, tavuk pirzola ve zeytinyağlı sebzeler gibi besinler, bu sıralama ile birleştiğinde daha etkili bir sonuç elde etmenizi sağlayacaktır. Ayrıca, beslenme planınıza sadık kalırken, günlük düzenli yürüyüşler yapmak da önemlidir. Yürüyüş, kas dokusunu oksijenlendirerek, yağ yakımını hızlandırır ve genel ruh halinizi iyileştirir. Unutmayın ki, her adımınız sizi hedeflerinize bir adım daha yaklaştırıyor.\n\nDuygusal açlık veya tatlı krizleriyle başa çıkmak için menünüze eklediğimiz çilek ve bitter çikolata gibi sağlıklı atıştırmalıklar, bu tür durumlarda size yardımcı olacaktır. Bu süreçte kendinize nazik olmayı unutmayın.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -3801,6 +3801,6 @@
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:51:40.873Z",
+  "sonGuncelleme": "2026-05-13T14:51:45.046Z",
   "githubKaydedildi": true
 }
