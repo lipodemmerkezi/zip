@@ -3446,24 +3446,27 @@
     },
     {
       "haftaNo": 14,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HATİCE KANA 18-24 MAYIS 14. HAFTA.pdf",
+      "pdfOrijinalIsim": "HATİCE KANA 18-24 MAYIS 14. HAFTA.pdf",
+      "pdfYolu": "pdfs/HATİCE KANA 18-24 MAYIS 14. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE KANA 18-24 MAYIS 14. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE KANA 18-24 MAYIS 14. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T07:05:09.999Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-18T10:37:51.902Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T07:04:51.318Z",
+  "sonGuncelleme": "2026-05-13T07:05:10.003Z",
   "githubKaydedildi": true
 }
