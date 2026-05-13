@@ -3454,7 +3454,7 @@
       "pdfYolu": "pdfs/SEMA SARAÇOĞLU 18-24 MAYIS 13. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEMA SARAÇOĞLU 18-24 MAYIS 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEMA SARAÇOĞLU 18-24 MAYIS 13. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T07:24:51.101Z",
+      "kayitTarihi": "2026-05-13T07:32:18.845Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -3651,7 +3651,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sema Hanım, umarım her şey yolundadır. Bu hafta, programımızın on üçüncü ve son haftasına adım atıyoruz. Geride bıraktığımız 12 haftada birlikte çok şey başardık ve şimdi bu yolculuğun hem sonunu hem de yeni bir başlangıcı nasıl şekillendireceğimizi konuşma zamanı.\n\nBu süreçte sadece beslenme alışkanlıklarınızı değil, aynı zamanda yaşam tarzınızı, bakış açınızı ve bedeninizle olan ilişkinizi de dönüştürdük. Öğün yapılarından su tüketimine, yeme sıralamasından egzersize kadar birçok başlığı hayatınıza entegre ettiniz. Bu, lipödem gibi zorlu bir hastalıkla mücadele ederken hiç de kolay olmadı. Ancak, zaman içinde bedeninizin bu antiinflamatuar düzene uyum sağladığını görmek, gerçekten de cesaret verici.\n\nBu hafta menümüzde yer alan besinler, hem antiinflamatuar özellikleri hem de kan dolaşımını desteklemeleri bakımından oldukça önemli. Haşlanmış yumurta, D vitamini ve kolin açısından zengin bir kaynak olarak hücresel yenilenmenizi desteklerken, çiğ badem ve ceviz gibi yağlı tohumlar, magnezyum içerikleri ile lenf damarlarınızın sağlığını artırmaya yardımcı olacaktır. Ayrıca, menünüzde yer alan domates çorbası ve köz tadında fasulye salatası gibi seçenekler, vücudunuzun toksin atılımını kolaylaştıracak ve genel sağlığınıza katkı sağlayacaktır.\n\nBu haftanın vurgulamak istediğim bir diğer noktası ise, bu süreçte yaşanan bazı duraksamalar ve bunların sabırlı bir şekilde karşılanması gerektiğidir. Eğer tartıdaki rakamlar beklediğiniz gibi değilse, bu durumun vücudunuzda içsel bir yeniden yapılanma sürecinin işareti olduğunu unutmayın. Yağ dokusu, sadece enerji deposu değil, aynı zamanda toksin deposu haline gelebilir. Bu nedenle, yağ yakımının zaman zaman yavaşlaması tamamen doğal bir durumdur ve içsel iyileşmenin bir parçasıdır.\n\nBu haftaki menüde bulunan peynirli kabaklı poğaça veya soslu antrikot gibi seçenekler, hem lezzetli hem de besleyici bir deneyim sunarak beslenmenize keyif katacak. Ayrıca, bu dönemde sağlıklı alternatifler bulundurmak, duygusal dalgalanmaları yönetmek açısından önemli. Kendinizi güvende hissettiren ve tatlı isteğinizi karşılayacak sağlıklı atıştırmalıkları önceden hazırlamak, bu süreçte size yardımcı olacaktır.\n\nSon olarak, bu haftaki ölçüm sonuçlarınızı ve kıyafetlerinizdeki değişimleri bizimle paylaşmanızı rica ediyorum. Bu bilgiler, sürecin nasıl ilerlediğini somut bir şekilde görmemize yardımcı olacaktır. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3753,6 +3753,6 @@
   ],
   "olusturmaTarihi": "2026-02-21T09:40:27.630Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T07:32:11.398Z",
+  "sonGuncelleme": "2026-05-13T07:32:18.863Z",
   "githubKaydedildi": true
 }
