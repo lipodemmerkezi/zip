@@ -2069,6 +2069,12 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
+          "tarifAdi": "pazılı kaşarlı omlet",
+          "kartResmi": "pazili_kasarli_omlet.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazili_kasarli_omlet.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "urfa / adana kebap 150 gram (1 porsiyon)",
           "kartResmi": "adana_urfa_kebap.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/adana_urfa_kebap.jpg",
@@ -2190,6 +2196,7 @@
         "kuzu ya da tavuk güveç",
         "göçmen salatası",
         "tarçınlı cevizli kek",
+        "pazılı kaşarlı omlet",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "urfa / adana kebap 150 gram (1 porsiyon)"
@@ -2248,7 +2255,6 @@
         "turşu (organik, ev yapımı)",
         "cumartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
-        "pazılı kaşarlı omlet",
         "haşhaş ezmesi ekmeği (1 dilim)",
         "zeytin (5 adet)",
         "yeşillikler (dereotu, roka, maydanoz,marul + sirke, limon ile)",
@@ -3436,10 +3442,27 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-05-17",
+      "bitis": "2026-05-23",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-02-21T09:40:27.630Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T14:23:07.874Z",
+  "sonGuncelleme": "2026-05-13T07:22:46.066Z",
   "githubKaydedildi": true
 }
