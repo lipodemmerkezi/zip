@@ -204,7 +204,7 @@
       "pdfYolu": "pdfs/NUR SÖYLER 18-24 MAYIS 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NUR SÖYLER 18-24 MAYIS 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NUR SÖYLER 18-24 MAYIS 2. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T14:46:52.574Z",
+      "kayitTarihi": "2026-05-13T14:47:47.381Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -333,7 +333,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nur Hanım,  \n\nUmarım her şey yolundadır. Programımızın ikinci haftasına geçiyoruz. Bu aşamada, lipödemle mücadelede attığınız her küçük adımın, zamanla büyük farklar yaratacağını göreceğiz. Bu süreçte, kalıcı değişiklikler hedefliyoruz ve sabırlı olmak çok önemli.\n\nBu hafta, vücudunuzda bazı olumlu değişiklikler hissedebilirsiniz. Unutmayın ki asıl hedefimiz sadece dış görünümdeki değişiklikler değil; hücresel düzeydeki iyileşmeleri de desteklemek. Lipödemde sıkça karşılaşılan inflamasyon, yalnızca bu hastalıkla sınırlı değil. Eğer önlem almazsak, zamanla insülin direnci ve diğer sağlık sorunlarıyla karşılaşabiliriz. Bu nedenle, bu sürece kilo yönetiminin ötesinde, bütüncül bir sağlık yaklaşımıyla bakmalıyız.\n\nBu haftada önceliğimiz tamamen beslenme. Beslenme listeniz, antiinflamatuar özelliklere sahip yiyeceklerle dolu. Örneğin; hindi, somon, yeşillikler ve çiğ badem gibi besinler, hem lenfatik sistemi destekler hem de kilo vermeye yardımcı olur. Bunun yanı sıra, sabahları kurşun geçirmez kahve içmek, uzun süreli tokluk sağlarken yağ yakımını da destekler. Eğer kahve içmek istemiyorsanız, yarım avokado veya zeytin alternatifi de sağlıklı yağ kaynağı olarak değerlendirilebilir.\n\nBu hafta dikkat etmeniz gereken bir diğer konu, insülin dengesini korumak. Yağları tek başına almanın kilo aldırmadığını bilmek önemlidir. Asıl sorun, insülin hormonunun sık ve yüksek seviyelerde salgılanmasıdır. Bu nedenle, menünüzdeki besinleri doğru bir şekilde seçerek, bu dengeyi korumaya çalışıyoruz. \n\nDaha önceki haftalarda belirttiğimiz gibi, ölçüm almayı unutmayın. Bu süreci birlikte takip edeceğiz ve tüm gelişmeleri gözlemleyeceğiz. Eğer vücudunuzda yavaşlama hissederseniz, bunun doğal mekanizmaları (yağ hücrelerinden toksin salınımı veya metabolik adaptasyon gibi) olduğunu da unutmayın.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.  \n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -436,6 +436,6 @@
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:47:43.190Z",
+  "sonGuncelleme": "2026-05-13T14:47:47.396Z",
   "githubKaydedildi": true
 }
