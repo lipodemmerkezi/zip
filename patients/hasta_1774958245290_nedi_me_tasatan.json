@@ -1937,7 +1937,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nedime Hanım,\n\nPazartesi günü itibariyle sekizinci haftamıza başlıyoruz. Bu noktaya kadar geldiğiniz için sizi tebrik ediyorum. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir aşamaya geliyoruz. Yemek sıralaması, özellikle insülin düzeylerini dengelemek, tokluk süresini uzatmak ve kan şekerinin hızlı yükselmesini önlemek açısından son derece önemli. Bu da doğrudan lipödemli dokular üzerinde olumlu etkiler yaratır.\n\nBu hafta, beslenme listenizdeki yiyeceklerin, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş olduğunu görüyorum. Özellikle yeşillikler, zeytinyağlı sebzeler ve lifli gıdalarla başlayarak öğünlerinizi düzenlemek, sindirim sisteminizi desteklerken insülin salınımını kontrol altına almanıza yardımcı olacaktır. Menünüzdeki sebzeli tuzlu kek, yoğurtlu tavuk salata gibi seçenekler, hem lezzetli hem de besleyici içerikleriyle sizi destekleyecek.\n\nYemeklerinizi sıralarken, önce lifli gıdalara (örneğin yeşillikler ve zeytinyağlı sebzeler), ardından protein kaynaklarına (köfte, tavuk pirzola), sonrasında yağlı içeriklere (zeytinyağlı salatalar) ve en sona karbonhidratları (varsa) koymak önemli. Ayrıca, sirke kullanımı da bu sene daha fazla ön plana çıkıyor; yemeğe oturmadan önce bir yemek kaşığı elma sirkesini yarım bardak su ile karıştırarak içmek, insülin kontrolü açısından oldukça faydalı olacaktır.\n\nMenünüzde yer alan çilek gibi antioksidan açısından zengin meyveler, hücresel stresi azaltmaya yardımcı olurken, kahvaltılardaki yumurta ve lor peyniri gibi besinler ise protein ihtiyacınızı karşılayacaktır. Magnezyum açısından zengin çiğ badem ve kabak çekirdeği gibi atıştırmalıklar, lenfatik dolaşımı desteklemekte önemli roller üstlenecektir.\n\nBu hafta, öğünlerinizi hareketlendirmek için yemekten sonra kısa bir yürüyüş yapmayı da unutmayın. Olası bir kabızlık hissi ya da motivasyon kaybıyla karşılaşabileceğiniz bu dönemlerde, fiziksel aktivite ve bu tür küçük değişiklikler, sürecinizi desteklemek için önemli olacaktır.\n\nSonuç olarak, bu hafta yeme sıralamanıza dikkat ederek ve önerilen besinleri menünüze dahil ederek, lipödem sürecinize olumlu katkılarda bulunabilirsiniz. Unutmayın, bedeninizin bu düzene nasıl güzel yanıt verdiğini görmek, sürecin en keyifli yanlarından biri.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -2038,11 +2038,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "haftanın 2 günü öğünlerine çilek vb meyveleri ekleyebileceğini söylemiştik. bu hafta program uyumu nasıl geçmiş?\nMerhaba Nedi̇me Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:19:24.674Z",
+  "sonGuncelleme": "2026-05-13T10:22:13.038Z",
   "githubKaydedildi": true
 }
