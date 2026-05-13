@@ -1306,24 +1306,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERPİL KAYA 18-24 MAYIS 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERPİL KAYA 18-24 MAYIS 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERPİL KAYA 18-24 MAYIS 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERPİL KAYA 18-24 MAYIS 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERPİL KAYA 18-24 MAYIS 6. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T13:57:35.605Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-14T13:04:40.065Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T13:56:58.748Z",
+  "sonGuncelleme": "2026-05-13T13:57:35.608Z",
   "githubKaydedildi": true
 }
