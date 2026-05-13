@@ -872,7 +872,7 @@
       "pdfYolu": "pdfs/EMEL ARICI 18-24 MAYIS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/EMEL ARICI 18-24 MAYIS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/EMEL ARICI 18-24 MAYIS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T14:26:40.607Z",
+      "kayitTarihi": "2026-05-13T14:29:26.402Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -1027,7 +1027,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Emel Hanım,\n\nDördüncü haftaya hoş geldiniz. Artık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu hafta, metabolik hız ve yemek miktarı üzerine odaklanarak, daha yapısal kazanımlar elde etmeye başlayacağız. \n\nBu süreçte, protein alımınızın önemini vurgulamak istiyorum. Beslenme planınızdaki hayvansal protein kaynakları, aminoasit profili açısından oldukça zengin. Bu proteinler, kas ve eklem sağlığınız için kritik öneme sahip. Yetersiz protein alımı, kas kaybına ve bağışıklık sisteminizin zayıflamasına yol açabilir. Bu nedenle, her öğünde yeterli miktarda protein almaya özen göstermek, hem enerji seviyelerinizi korumak hem de genel sağlığınızı desteklemek açısından büyük önem taşıyor.\n\nLipödem tedavisinde yapılan en büyük hatalardan biri, “az yeme” düşüncesinin başarıya götüreceğine inanmak. Ancak bu yaklaşım, çoğu zaman sürdürülebilir olmaktan uzaktır. Uzun süreli açlık, açlık hormonu olan ghrelinin artışına yol açar ve bu da sizi plansız ve aşırı yemek yeme eğilimine yönlendirebilir. Bizim hedefimiz, kaloriyi kısıtlamak yerine, insülin dengesini koruyan, besin içeriği açısından zengin ve doyurucu bir sistem oluşturmaktır. Beslenme planınızdaki sağlıklı yağlar, yeterli protein ve dengeli karbonhidratlar, hem sizi uzun süre tok tutacak hem de metabolizmanızı destekleyecektir.\n\nBeslenme listenizdeki çeşitliliğe baktığımda, özellikle avokadolu omlet, mantarlı et sote ve karnabahar mantısı gibi seçeneklerin hem lezzetli hem de besleyici olduğunu görüyorum. Bu yiyecekler, lipödem yönetiminde kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo verme sürecinizi de olumlu yönde etkileyecektir. Ayrıca, önerdiğimiz ceviz, kabak çekirdeği ve çiğ badem gibi sağlıklı yağlar, hücresel düzeyde iyileşme sağlayarak ödemin atılmasına yardımcı olur.\n\nBu hafta, ölçümlerinizi takip etmek ve bedensel değişimlerinizi gözlemlemek oldukça önemli. Eğer tartıdaki rakamlar beklediğinizden yavaş değişiyorsa, bu durumun doğal mekanizmaları göz önünde bulundurularak değerlendirilmelidir. Özellikle metabolizmanın adaptasyonu ve yağ hücrelerinden toksin salınımı gibi süreçler, ilerlemenizin hızını etkileyebilir.\n\nEkmek temin edemediğiniz günlerde file marketlerde protein ekmekler var. Onu da öğünlerinize alternatif olarak koyabilirsiniz.\n\nHer zaman olduğu gibi, süreç hakkında bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1120,6 +1120,6 @@
   ],
   "olusturmaTarihi": "2026-04-23T06:50:57.688Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:29:21.228Z",
+  "sonGuncelleme": "2026-05-13T14:29:26.422Z",
   "githubKaydedildi": true
 }
