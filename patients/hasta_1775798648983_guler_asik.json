@@ -1509,7 +1509,7 @@
       "pdfYolu": "pdfs/GÜLER AŞIK 18-24 MAYIS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÜLER AŞIK 18-24 MAYIS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÜLER AŞIK 18-24 MAYIS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T10:44:20.088Z",
+      "kayitTarihi": "2026-05-13T10:51:02.875Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1678,7 +1678,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Güler Hanım,\n\nAltıncı haftaya geçerken programımızın büyük kısmı oturmaya başladı. Beslenme düzenine alıştığınızı, takviyeleri tanıdığınızı ve masaj uygulamalarını düzenli bir şekilde yaptığınızı duyduğuma çok sevindim. Bu süreçte bedeninizde yavaş yavaş gerçekleşen değişimleri fark etmeye başlamış olmanız harika. Bu haftanın teması mikrobesinler ve bu konuda sizinle paylaşmak istediğim çok önemli bilgiler var.\n\nLipödem tedavisinde yalnızca kilo kaybı değil, aynı zamanda bölgesel incelme ve doku kalitesinde iyileşme de son derece önemlidir. Bu nedenle, tartıdaki değişimlerin yanı sıra kıyafetlerinizin bollaşması ve vücut formunuzdaki değişiklikler de dikkat çekici göstergelerdir. İşte burada mikrobesinlerin rolü devreye giriyor. D vitamini, B12 vitamini, çinko, magnezyum, C vitamini ve selenyum gibi mikrobesinler, vücudunuzun hücresel düzeydeki işlevlerini destekleyerek lipödem ile daha etkili bir mücadele etmenize yardımcı olmaktadır.\n\nBu hafta beslenme listenizde yer alan gıdalar, mikrobesinler açısından zengin ve aynı zamanda antiinflamatuar özelliklere sahip. Örneğin, menünüzdeki yumurta, D vitamini ve B12 vitamini açısından zengin bir kaynak. Ayrıca, yeşillikler (dereotu, roka, marul) ile birlikte tükettiğiniz zeytinyağı, hem C vitamini alımınızı artıracak hem de hücresel iltihabı azaltmaya yardımcı olacaktır. \n\nKöfte veya kuzu ciğeri gibi kaliteli proteinler, kas dokunuzu korumanızda önemli bir rol oynarken, zengin içerikleri sayesinde bağışıklık sisteminizi destekleyecektir. Salatalarınızda kullanacağınız kabak çekirdeği, magnezyum ve çinko açısından harika bir kaynaktır ve dolaşım sisteminize fayda sağlayacaktır. Ayrıca, bitter çikolata gibi küçük bir tatlı keyfi de antioksidan kapasitesi sayesinde bedensel iyileşmenize katkıda bulunacaktır.\n\nBu hafta düzenli olarak yapacağınız masaj uygulamaları, bedeninizin rahatlamasına yardımcı olurken, ödemin atılmasını da destekleyecektir. Masajın faydalarının yanı sıra, beslenme planınızı da eksiksiz uygulamak bu süreçteki başarınız için büyük önem taşıyor. \n\nSon olarak, her zaman olduğu gibi su tüketiminizi yüksek tutmayı unutmayın. Su, vücudunuzun hücresel düzeyde işlevlerini yerine getirmesine yardımcı olurken, ödem atımını da hızlandırır. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1779,6 +1779,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:50:58.725Z",
+  "sonGuncelleme": "2026-05-13T10:51:02.893Z",
   "githubKaydedildi": true
 }
