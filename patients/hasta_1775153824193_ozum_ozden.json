@@ -1632,7 +1632,7 @@
       "pdfYolu": "pdfs/ÖZÜM ÖZDEN 18-24 MAYIS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZÜM ÖZDEN 18-24 MAYIS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZÜM ÖZDEN 18-24 MAYIS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T14:30:40.766Z",
+      "kayitTarihi": "2026-05-13T14:32:49.229Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1813,7 +1813,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Özüm Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nYedinci haftaya girdiğiniz bu dönemde, beslenme düzeninizin büyük ölçüde oturduğunu ve vücudunuzun bu yeni ritme uyum sağladığını gözlemliyorum. Artık beslenme programımızda, lipödem tedavisinde kullanılacak takviyelerin önemini daha yakından inceleme fırsatımız var. Bu takviyeler, özellikle lipödemli dokularda yaşanan sorunları hedef alarak iyileşme sürecini desteklemek amacıyla özel olarak seçildi.\n\nTakviyelerimiz arasında yer alan Boswellia serrata, inflamasyonu baskılamada etkili bir bitki özüdür. Lipödemli dokulardaki mikroskobik iltihap süreçlerini sakinleştirerek, hareket kabiliyetinizi artırmaya yardımcı olabilir. Aynı şekilde, koenzim Q10, hücrelerinizin enerji üretiminde önemli bir rol oynar ve yağ dokusundaki çözülme sürecini destekler.\n\nKurkumin, oksidatif stresi azaltırken, astaksantin cilt dokusunda sıkılaşmayı teşvik eder. Bromelain ise ödemin çözülmesine yardımcı olurken, resveratrol damar sağlığınızı destekler. Kollajen takviyesi, cildinizin elastikiyetini artırarak, lipödem sürecinde oluşabilecek sarkmaların önüne geçebilir.\n\nBu takviyelerin her biri, lipödemli dokunun farklı bir ihtiyacını hedef alır. Bu nedenle bu hafta, takviyeleri daha bilinçli bir şekilde kullanmanızı öneriyorum. Unutmayın, bu takviyeler mucize değildir; ancak doğru bir şekilde kullanıldıklarında, sürecinizi kolaylaştırabilir ve hızlandırabilir.\n\nBeslenme listenize baktığımda, seçtiğiniz yiyeceklerin de lipödem yönetiminde önemli bir rol oynadığını görüyorum. Tulum ve kaşar peyniri, protein ve kalsiyum açısından zengin kaynaklar olup, kas ve kemik sağlığınıza katkı sağlarken; çiğ badem ve ceviz gibi ara öğünler, magnezyum ve çinko içeriği ile kaslarınızı rahatlatır ve dolaşımınızı destekler. Ayrıca, yeşillikler ve sebzeler, C vitamini açısından zengin olup, doku iyileşmesini hızlandırır.\n\nUmarım beslenme düzeninize yönelik bu bilgiler, sürecinize dair farkındalığınızı artırır. Masaj uygulamalarınızın da devam ettiğinden eminim; bu, tedavi sürecinizi destekleyecek önemli bir adım. Yavaş yavaş ilerlemeye devam ederken, vücudunuzun verdiği tepkileri dikkatle izlemeye özen gösterin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1915,6 +1915,6 @@
   ],
   "olusturmaTarihi": "2026-04-02T18:17:04.193Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:32:47.076Z",
+  "sonGuncelleme": "2026-05-13T14:32:49.248Z",
   "githubKaydedildi": true
 }
