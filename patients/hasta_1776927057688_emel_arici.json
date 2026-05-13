@@ -863,24 +863,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "EMEL ARICI 18-24 MAYIS 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "EMEL ARICI 18-24 MAYIS 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/EMEL ARICI 18-24 MAYIS 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/EMEL ARICI 18-24 MAYIS 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/EMEL ARICI 18-24 MAYIS 4. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T14:26:40.607Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-23T06:50:57.688Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:26:11.928Z",
+  "sonGuncelleme": "2026-05-13T14:26:40.610Z",
   "githubKaydedildi": true
 }
