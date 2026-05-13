@@ -3466,7 +3466,7 @@
       "pdfYolu": "pdfs/NİHAL GÜLDAŞ 18-24 MAYIS 14. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİHAL GÜLDAŞ 18-24 MAYIS 14. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİHAL GÜLDAŞ 18-24 MAYIS 14. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T07:13:44.371Z",
+      "kayitTarihi": "2026-05-13T07:18:08.617Z",
       "tarifKartlar": [
         {
           "tarifAdi": "susamlı omlet",
@@ -3640,7 +3640,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nihal Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nPazartesi günü itibarıyla programımızda 14. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda özel olarak seçilmiş yiyeceklerin yer aldığını görüyorum. Bu besinler, antiinflamatuar özellikleri ve kan dolaşımını desteklemesi nedeniyle büyük önem taşıyor. Özellikle, menünüzdeki yeşillikler, düşük karbonhidrat alternatifleri ve kaliteli protein kaynakları, lenfatik sisteminizi destekleyerek lipödemin yönetiminde etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n\nBu hafta, sürecin sonuna yaklaşırken elde ettiğiniz kazanımları değerlendirmek ve hangi mikro besinlerin destekleyici rol oynadığını göz önünde bulundurmak önemli. Menünüzde bulunan D vitamini, selenyum ve magnezyum gibi besinler, lipödemli dokulardaki yangıyı azaltmaya yardımcı olurken, aynı zamanda bağışıklık sisteminizi güçlendirecektir. Örneğin, kahvaltınızdaki susamlı omlet, hem protein hem de bu değerli mikro besinleri sağlaması açısından mükemmel bir seçimdir. Ceviz ve kabak çekirdeği gibi atıştırmalıklar ise magnezyum desteği sunarak kas gevşemesine yardımcı olacaktır.\n\nAyrıca, bu hafta sonu ölçümlerinizi benimle paylaşmanızı rica ediyorum. Bedeninizin nasıl bir ilerleme kaydettiğini birlikte değerlendirmek, sürecin motivasyonu açısından oldukça faydalı olacaktır. Günlük yaşantınızdaki değişimleri ve kendinizi nasıl hissettiğinizi öğrenmek benim için çok önemli. \n\nUnutmayın ki bu süreçte sağlıklı alışkanlıklar edinmek, yalnızca fiziksel değişim değil, aynı zamanda zihinsel ve duygusal dengeyi korumak için de hayati öneme sahiptir. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3742,6 +3742,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T10:43:55.987Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T07:17:28.673Z",
+  "sonGuncelleme": "2026-05-13T07:18:08.638Z",
   "githubKaydedildi": true
 }
