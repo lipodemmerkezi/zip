@@ -1603,24 +1603,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NURAN AYTAR 18-24 MAYIS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "NURAN AYTAR 18-24 MAYIS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/NURAN AYTAR 18-24 MAYIS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURAN AYTAR 18-24 MAYIS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURAN AYTAR 18-24 MAYIS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T10:28:12.079Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-07T14:20:17.515Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:27:49.810Z",
+  "sonGuncelleme": "2026-05-13T10:28:12.083Z",
   "githubKaydedildi": true
 }
