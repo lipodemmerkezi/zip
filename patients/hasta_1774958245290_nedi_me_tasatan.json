@@ -1769,24 +1769,27 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NEDİME TAŞATAN 18-24 MAYIS 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "NEDİME TAŞATAN 18-24 MAYIS 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/NEDİME TAŞATAN 18-24 MAYIS 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NEDİME TAŞATAN 18-24 MAYIS 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NEDİME TAŞATAN 18-24 MAYIS 8. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T10:19:12.824Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:18:54.707Z",
+  "sonGuncelleme": "2026-05-13T10:19:12.827Z",
   "githubKaydedildi": true
 }
