@@ -1612,7 +1612,7 @@
       "pdfYolu": "pdfs/NURAN AYTAR 18-24 MAYIS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURAN AYTAR 18-24 MAYIS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURAN AYTAR 18-24 MAYIS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T10:28:12.079Z",
+      "kayitTarihi": "2026-05-13T10:34:35.613Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lor ekmeği (1 dilim)",
@@ -1773,7 +1773,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "Merhaba Nuran Hanım,\n\nYedinci haftaya birlikte adım atarken, artık beslenme ve yaşam rutininizin temel taşlarının yerli yerine oturduğunu görüyorum. Bu haftadan itibaren, programımızın başında tanıştığınız takviyelerin lipödemde neden bu kadar önemli olduğunu biraz daha yakından ele almak istiyorum. Özellikle son günlerde ölçümlerdeki değişikliklerle ilgili yaşadığınız endişeleri de bu çerçevede değerlendirmek faydalı olacaktır.\n\nLipödem tedavisinde yalnızca kilo kaybı değil, vücudun genel formu, cilt kalitesi ve bölgesel incelme esastır. Tartıdaki rakamlar bazen yanıltıcı olabilir; uzun süre ayakta kalmak, günlük hareketlilik ve hormonal dalgalanmalar dokularda geçici sıvı birikimine yol açabiliyor. Bu yüzden asıl göstergemiz bölgesel ölçüler, bedeninizdeki hafifleme hissi ve kıyafetlerinizin duruşu olmalı. Ölçümlerinizi yeniden paylaşırsanız, sürecin gidişatını daha yakından değerlendirebiliriz.\n\nBu hafta beslenme listenizde yer alan sucuklu yumurta, kuzu güveç, balık, sebzeli omlet, kıymalı sebze yemekleri ve farklı türde peynirler; B12, D vitamini, selenyum ve çinko gibi mikro besinlerden oldukça zengin. Özellikle balık ve yumurta, hem kas dokusunu korumada hem de hücresel onarımda büyük rol oynuyor. Yeşil salatalarınızda bolca bulunan roka, dereotu, maydanoz ve kırmızı lahana, magnezyum ve C vitamini açısından ödemin çözülmesine ve lenfatik sistemin rahatlamasına destek veriyor. Ceviz, badem, kabak çekirdeği ve zeytinyağı ise hem sağlıklı yağ asitleriyle hücre zarını güçlendiriyor hem de antiinflamatuar etkileri sayesinde dokuların toparlanmasına katkı sağlıyor.\n\nYoğurtlu ve peynirli tarifler, bağırsak mikrobiyotasını destekleyerek bağışıklık sistemini güçlendiriyor; ev yapımı turşu ve sirke ise vücudunuzun pH dengesini koruyup ödemin atılmasına yardımcı oluyor. Menünüzdeki semizotu, közlenmiş biber salatası ve çeşitli sebze yemekleri de, hem lif hem de antioksidan desteğiyle lipödemli dokunun temel ihtiyaçlarını karşılıyor. Salatalara eklenen limon ve sirke, kan şekerinin daha dengeli seyretmesine olanak veriyor. Böylece tatlı isteğini ve gün içindeki enerji dalgalanmalarını daha rahat kontrol edebiliyorsunuz.\n\nBu haftanın odağında, lipödemde sıklıkla başvurduğumuz takviyeler var. Boswellia serrata, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kollajen her biri farklı bir süreci destekliyor: inflamasyonu baskılamak, ödemin çözülmesini hızlandırmak, enerji üretimini artırmak ve cilt dokusunun elastikiyetini korumak gibi. Bu takviyeler düzenli kullanıldığında, hem iyileşme sürecini içeriden hızlandırıyor hem de elde edilen sonuçların kalıcı olmasını kolaylaştırıyor. Eğer herhangi bir takviyede tolerans sorunu ya da aklınıza takılan bir detay olursa mutlaka bana yazmanızı isterim.\n\nÖzetle, beslenme listeniz ve takviye desteğinizle, lipödemli dokunun ihtiyacı olan mikro besinler, antioksidanlar ve sağlıklı yağlar her gün vücudunuza ulaşıyor. Tartıdaki rakamlar bazen kısa vadede dalgalanabilir; önemli olan istikrarlı şekilde devam etmek ve bedeninizin verdiği sinyalleri bütüncül olarak değerlendirmek. Düzenli ölçümlerinizi paylaşmanız, süreci daha net analiz etmemize yardımcı olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1886,6 +1886,6 @@
   ],
   "olusturmaTarihi": "2026-04-07T14:20:17.515Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:34:30.789Z",
+  "sonGuncelleme": "2026-05-13T10:34:35.631Z",
   "githubKaydedildi": true
 }
