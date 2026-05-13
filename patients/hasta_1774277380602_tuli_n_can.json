@@ -1973,7 +1973,7 @@
       "pdfYolu": "pdfs/TÜLİN CAN 18-24 MAYIS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/TÜLİN CAN 18-24 MAYIS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/TÜLİN CAN 18-24 MAYIS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T10:10:10.712Z",
+      "kayitTarihi": "2026-05-13T10:13:12.015Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu ekmek (1 dilim)",
@@ -2177,7 +2177,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Tülin Hanım,\n\nPazartesi günü itibariyle 8. haftaya başlamış bulunuyoruz. Bu noktada, programınıza olan uyumunuzun ve motivasyonunuzun yüksek olduğunu görmek beni çok mutlu ediyor. Bu hafta, beslenme düzenimizde sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de ne kadar önem taşıdığını ele alacağız.\n\nYemek sıralaması, insülin dengesini korumak ve tokluk süresini uzatmak açısından kritik bir rol oynar. Lipödem tedavisinde bu, vücut üzerindeki olumlu etkileri artırmak adına önemli bir detay. Öğünlerinize lifli gıdalarla başlayarak, ardından protein kaynaklarını ekleyip, yağlı yiyecekleri ve en sona karbonhidratları bırakmak, insülin salınımını kontrol altına almanıza yardımcı olacaktır.\n\nBeslenme listenize baktığımda, antiinflamatuar özellikler taşıyan ve lenfatik sistemi destekleyen harika besinler yer aldığını görüyorum. Özellikle yeşil salatalarınıza eklediğiniz elma sirkesi ve limon, hem sindirimi kolaylaştıracak hem de kan şekeri dengenizi korumanıza yardımcı olacaktır. Sirkenin içindeki asetik asit, karbonhidratların emilimini yavaşlatarak insülinin daha dengeli bir şekilde salınmasını sağlar.\n\nMenünüzde yer alan beyaz peynir, kaşar peyniri ve zeytin gibi besinler, sağlıklı yağ ve protein alımınızı desteklerken, fındık ve çiğ badem gibi ara öğün seçenekleri de gün içindeki enerji seviyenizi dengeleyecektir. Ayrıca, semizotu ve yoğurtlu salatalık mezesi gibi lifli gıdalar, sindirim sisteminizi rahatlatarak kabızlık gibi olumsuz durumların önüne geçebilir.\n\nBu hafta, yemeklerinizi yavaş yavaş tüketmeye özen gösterin ve öğünlerin ardından 20 dakikalık bir hareket yapmayı unutmayın. Bu, kan şekerinizi kontrol etmenin yanı sıra, yağ yakımını da destekleyecektir.\n\nSon olarak, bu sürecin getirdiği değişiklikleri ve bedeninizin verdiği tepkileri gözlemlemeye devam edin. Her zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2284,6 +2284,6 @@
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:13:09.592Z",
+  "sonGuncelleme": "2026-05-13T10:13:12.032Z",
   "githubKaydedildi": true
 }
