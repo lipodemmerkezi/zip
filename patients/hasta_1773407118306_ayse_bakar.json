@@ -2548,24 +2548,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE BAKAR 18-24 MAYIS 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE BAKAR 18-24 MAYIS 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE BAKAR 18-24 MAYIS 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE BAKAR 18-24 MAYIS 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE BAKAR 18-24 MAYIS 10. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T10:02:01.588Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-13T13:05:18.306Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:01:24.720Z",
+  "sonGuncelleme": "2026-05-13T10:02:01.591Z",
   "githubKaydedildi": true
 }
