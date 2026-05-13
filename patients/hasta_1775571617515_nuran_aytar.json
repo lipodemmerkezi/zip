@@ -1314,6 +1314,12 @@
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
+          "tarifAdi": "pazılı kaşarlı omlet",
+          "kartResmi": "pazili_kasarli_omlet.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazili_kasarli_omlet.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "köfte",
           "kartResmi": "keto_kofte.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
@@ -1488,6 +1494,7 @@
       "eslesenTarifler": [
         "badem unu ekmeği (1 dilim)",
         "kuzu güveç",
+        "pazılı kaşarlı omlet",
         "köfte",
         "browni kurabiye (2 adet)",
         "patlıcanlı tavuk sote",
@@ -1524,7 +1531,6 @@
         "turşu (organik, ev yapımı)",
         "sali",
         "öğle (tercihen saat 12:00 civarında)",
-        "pazılı kaşarlı omlet",
         "zeytin (5 adet)",
         "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 tatlı kaşığı zeytinyağı ile",
         "ceviz (3 adet)",
@@ -1594,10 +1600,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "MASSAJLARA BAŞLAMIŞ MI?\nÖLÇÜMLERİNİ İSTEYELİM\nMerhaba Nuran Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 7,
+      "baslangic": "2026-05-17",
+      "bitis": "2026-05-23",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-04-07T14:20:17.515Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-06T11:09:22.367Z",
+  "sonGuncelleme": "2026-05-13T10:27:49.810Z",
   "githubKaydedildi": true
 }
