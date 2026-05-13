@@ -1315,7 +1315,7 @@
       "pdfYolu": "pdfs/SERPİL KAYA 18-24 MAYIS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERPİL KAYA 18-24 MAYIS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERPİL KAYA 18-24 MAYIS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T13:57:35.605Z",
+      "kayitTarihi": "2026-05-13T14:00:53.622Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1484,7 +1484,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Serpil Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. \n\nPazartesi günü itibarıyla 6. haftamıza adım atıyoruz. Programın bu aşamasında, beslenme düzeninizin artık daha da oturduğunu gözlemliyorum. Yavaş yavaş vücudunuzda yaşanan değişimlerin farkında olmaya başladınız ve bu süreçte attığınız her adım çok kıymetli. Bu haftanın teması mikrobesinlerin lipödem tedavisindeki rolü üzerine yoğunlaşacak.\n\nLipödem tedavisinde yalnızca kilo kaybı değil, aynı zamanda bölgesel incelme ve doku kalitesindeki iyileşmeler de son derece önemlidir. Bu nedenle, menünüzde yer alan her bir besin, bu hedeflere ulaşmanıza yardımcı olmak için özenle seçilmiştir. Bu hafta dikkat etmeniz gereken önemli bir konu, mikrobesinlerin hücresel düzeydeki destekleyici etkisidir. D vitamini, B12 vitamini, çinko, magnezyum, C vitamini ve selenyum gibi mikrobesinler, hem bağışıklık sisteminizi güçlendirir hem de dokularınızın onarımına katkıda bulunur.\n\nÖzellikle D vitamini, bağışıklık sisteminizi ve inflamasyon kontrolünü destekler. Bu nedenle, yeterli alımı, lipödemli dokulardaki kronik iltihaplanmayı azaltabilir. Bunun yanı sıra, B12 vitamini enerji üretimi için kritik öneme sahiptir; eksikliği yorgunluk hissi yaratabilir. Magnezyum ise kas kasılmalarını ve ruh halinizi etkileyerek, iyileşme sürecinizi destekler. \n\nBu haftaki beslenme listenize baktığımda, özellikle sebzeler, sağlıklı yağlar ve kaliteli protein kaynakları ile zenginleştirilmiş bir menü oluşturduğunuzu görüyorum. Örneğin, yeşillikler, haşlanmış yumurta ve zeytinyağı gibi gıdalar, hem antiinflamatuar etkiler sunar hem de vücudunuzun ihtiyaç duyduğu mikrobesinleri karşılar. Çiğ badem, ceviz ve fındık gibi atıştırmalıklar da magnezyum ve sağlıklı yağlar açısından zengindir; bu da kaslarınızı rahatlatır ve lenf akışınızı destekler.\n\nAyrıca, menünüzde yer alan dondurma ve çikolata gibi tatlılar, sağlıklı yağlar ve protein ile dengelendiğinde, tatlı isteğinizi kontrol altında tutmanıza yardımcı olabilir. Yeme sıralamanıza dikkat ederek, önce yeşillikler ve salata ile başlayıp ardından protein kaynaklarına geçmek, kan şekerinizin daha stabil kalmasını sağlar. Bu, hem açlık hissinizi kontrol altına alır hem de kilo verme sürecine katkı sağlar.\n\nProgramımıza dahil ettiğimiz manuel lenfatik drenaj masajının etkilerini de gözlemlemenizi bekliyorum. Bu masaj, lenf sisteminizi harekete geçirerek ödemlerin azaltılmasına yardımcı olur. Eğer henüz masaj uygulamalarınıza başlamadıysanız, gün içinde zaman ayırarak rahatlayabilir ve bu sürecin faydalarından yararlanabilirsiniz.\n\nHer zaman olduğu gibi, bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1585,6 +1585,6 @@
   ],
   "olusturmaTarihi": "2026-04-14T13:04:40.065Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:00:51.080Z",
+  "sonGuncelleme": "2026-05-13T14:00:53.638Z",
   "githubKaydedildi": true
 }
