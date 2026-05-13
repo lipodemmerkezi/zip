@@ -1778,7 +1778,7 @@
       "pdfYolu": "pdfs/NEDİME TAŞATAN 18-24 MAYIS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NEDİME TAŞATAN 18-24 MAYIS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NEDİME TAŞATAN 18-24 MAYIS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-05-13T10:19:12.824Z",
+      "kayitTarihi": "2026-05-13T10:27:11.675Z",
       "tarifKartlar": [
         {
           "tarifAdi": "sebzeli tuzlu kek",
@@ -1938,7 +1938,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nedime Hanım,\n\nPazartesi günü itibariyle sekizinci haftamıza başlıyoruz. Bu noktaya kadar geldiğiniz için sizi tebrik ediyorum. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir aşamaya geliyoruz. Yemek sıralaması, özellikle insülin düzeylerini dengelemek, tokluk süresini uzatmak ve kan şekerinin hızlı yükselmesini önlemek açısından son derece önemli. Bu da doğrudan lipödemli dokular üzerinde olumlu etkiler yaratır.\n\nBu hafta, beslenme listenizdeki yiyeceklerin, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş olduğunu görüyorum. Özellikle yeşillikler, zeytinyağlı sebzeler ve lifli gıdalarla başlayarak öğünlerinizi düzenlemek, sindirim sisteminizi desteklerken insülin salınımını kontrol altına almanıza yardımcı olacaktır. Menünüzdeki sebzeli tuzlu kek, yoğurtlu tavuk salata gibi seçenekler, hem lezzetli hem de besleyici içerikleriyle sizi destekleyecek.\n\nYemeklerinizi sıralarken, önce lifli gıdalara (örneğin yeşillikler ve zeytinyağlı sebzeler), ardından protein kaynaklarına (köfte, tavuk pirzola), sonrasında yağlı içeriklere (zeytinyağlı salatalar) ve en sona karbonhidratları (varsa) koymak önemli. Ayrıca, sirke kullanımı da bu sene daha fazla ön plana çıkıyor; yemeğe oturmadan önce bir yemek kaşığı elma sirkesini yarım bardak su ile karıştırarak içmek, insülin kontrolü açısından oldukça faydalı olacaktır.\n\nMenünüzde yer alan çilek gibi antioksidan açısından zengin meyveler, hücresel stresi azaltmaya yardımcı olurken, kahvaltılardaki yumurta ve lor peyniri gibi besinler ise protein ihtiyacınızı karşılayacaktır. Magnezyum açısından zengin çiğ badem ve kabak çekirdeği gibi atıştırmalıklar, lenfatik dolaşımı desteklemekte önemli roller üstlenecektir.\n\nBu hafta, öğünlerinizi hareketlendirmek için yemekten sonra kısa bir yürüyüş yapmayı da unutmayın. Olası bir kabızlık hissi ya da motivasyon kaybıyla karşılaşabileceğiniz bu dönemlerde, fiziksel aktivite ve bu tür küçük değişiklikler, sürecinizi desteklemek için önemli olacaktır.\n\nSonuç olarak, bu hafta yeme sıralamanıza dikkat ederek ve önerilen besinleri menünüze dahil ederek, lipödem sürecinize olumlu katkılarda bulunabilirsiniz. Unutmayın, bedeninizin bu düzene nasıl güzel yanıt verdiğini görmek, sürecin en keyifli yanlarından biri.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2044,6 +2044,6 @@
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:27:07.316Z",
+  "sonGuncelleme": "2026-05-13T10:27:11.694Z",
   "githubKaydedildi": true
 }
