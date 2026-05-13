@@ -1331,7 +1331,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Meltem Hanım, \n\nNasılsınız? Umarım her şey yolundadır. Beşinci haftaya adım atmış bulunuyoruz ve bu süreçte önemli bir aşamaya geçiyoruz. Bu hafta programımıza manuel lenfatik drenaj masajı ekliyoruz. Bu masaj, kendi kendinize uygulayabileceğiniz, herhangi bir alet edevata gerek duymadan sadece ellerinizle yapabileceğiniz bir yöntemdir.\n\nEğitim ve uygulama videolarını sizlere ileteceğiz, böylece masajı en etkili şekilde nasıl yapacağınızı görebileceksiniz. Bu masajın faydalarını görmek için belirli bir takvim oluşturduk ve hangi günlerde uygulama yapacağınızı adım adım takip edebileceksiniz. Masaj uygulamasını sabah ya da akşam yapabilirsiniz. \n\nBu haftaki beslenme planınıza baktığımda, lipödem tedavisi açısından önemli besinlerin yer aldığını görüyorum. Örneğin, haşlanmış yumurta, peynirlere ek olarak sağlıklı yağlar içermesiyle, vücudunuzun ihtiyaç duyduğu mikro besinleri (A, D, B12 vitaminleri, selenyum) sağlar. Ayrıca, listeye dahil edilen yeşil salata, roka ve ev yapımı turşu gibi sebzeler, antioksidan ve C vitamini açısından zengin olup, lenfatik sistemin desteklenmesine katkı sağlar. Salatalarınıza ekleyeceğiniz zeytinyağı ve limon da sindiriminizi kolaylaştıracak ve kan şekerinizi dengelemenize yardımcı olacaktır.\n\nBu hafta, masaj uygulamasının faydaları ile birlikte, beslenme programınızın da önemini unutmamak gerekiyor. Manuel lenfatik drenaj masajı, dokularda biriken sıvıların atılımını hızlandırırken, karaciğer ve böbrek yoluyla toksinlerin vücuttan atılmasına destek olur. Aynı zamanda, kolajen sentezini uyararak cilt yapısını iyileştirir ve bağışıklık sisteminizi dengeler. \n\nSizden ricam, bu hafta bel, kalça ve bacak çevresinden ölçümlerinizi alıp kaydetmenizdir. Bu ölçümler, vücudunuzdaki değişimleri daha net bir şekilde takip etmemize yardımcı olacaktır. \n\nHer zaman olduğu gibi, bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1441,11 +1441,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "masajlara başlıyoruz. ölçümlerini isteyelim.\nMerhaba Meltem Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 5. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-04-18T18:33:10.028Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:09:35.111Z",
+  "sonGuncelleme": "2026-05-13T14:10:18.028Z",
   "githubKaydedildi": true
 }
