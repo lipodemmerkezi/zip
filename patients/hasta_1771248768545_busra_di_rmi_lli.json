@@ -2588,9 +2588,9 @@
         },
         {
           "tarifAdi": "lorlu pazı sarması",
-          "kartResmi": "pazi_sarmasi.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazi_sarmasi.jpg",
-          "eslesmeTuru": "ardışık eşleşme"
+          "kartResmi": "lorlu_pazi_sarmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lorlu_pazi_sarmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "cevizli köz biber mezesi",
@@ -3765,25 +3765,28 @@
     },
     {
       "haftaNo": 14,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "BÜŞRA DİRMİLLİ 18-24 MAYIS 14. HAFTA.pdf",
+      "pdfOrijinalIsim": "BÜŞRA DİRMİLLİ 18-24 MAYIS 14. HAFTA.pdf",
+      "pdfYolu": "pdfs/BÜŞRA DİRMİLLİ 18-24 MAYIS 14. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/BÜŞRA DİRMİLLİ 18-24 MAYIS 14. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/BÜŞRA DİRMİLLİ 18-24 MAYIS 14. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T06:37:00.221Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-16T13:32:48.545Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T06:36:29.139Z",
+  "sonGuncelleme": "2026-05-13T06:37:00.225Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
