@@ -2994,24 +2994,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-05-17",
-      "bitis": "2026-05-23",
+      "baslangic": "2026-05-18",
+      "bitis": "2026-05-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "REYHAN YILDIRIM 18-24 MAYIS 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "REYHAN YILDIRIM 18-24 MAYIS 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/REYHAN YILDIRIM 18-24 MAYIS 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/REYHAN YILDIRIM 18-24 MAYIS 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/REYHAN YILDIRIM 18-24 MAYIS 12. HAFTA.pdf",
+      "kayitTarihi": "2026-05-13T08:53:14.425Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-02-27T12:35:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T08:52:53.351Z",
+  "sonGuncelleme": "2026-05-13T08:53:14.429Z",
   "githubKaydedildi": true
 }
