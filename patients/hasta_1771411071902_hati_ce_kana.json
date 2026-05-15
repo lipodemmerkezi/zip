@@ -2,7 +2,7 @@
   "id": 1771411071902,
   "isim": "HATİCE KANA",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3731,6 +3731,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T10:37:51.902Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T07:12:37.604Z",
+  "sonGuncelleme": "2026-05-15T05:51:01.850Z",
   "githubKaydedildi": true
 }
