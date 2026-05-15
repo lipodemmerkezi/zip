@@ -93,13 +93,6 @@
     "sonGuncelleme": "2026-05-13T14:19:58.419Z"
   },
   {
-    "id": 1771411435987,
-    "isim": "NİHAL GÜLDAŞ",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-05-13T07:18:11.953Z"
-  },
-  {
     "id": 1778597282059,
     "isim": "NUR SÖYLER",
     "not": "",
@@ -802,6 +795,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-11-04T13:06:50.830Z"
+  },
+  {
+    "id": 1771411435987,
+    "isim": "NİHAL GÜLDAŞ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-05-15T05:51:27.489Z"
   },
   {
     "id": 1758535184458,
