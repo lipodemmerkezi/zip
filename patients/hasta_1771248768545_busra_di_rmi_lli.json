@@ -2,7 +2,7 @@
   "id": 1771248768545,
   "isim": "BÜŞRA DİRMİLLİ",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4058,7 +4058,7 @@
   ],
   "olusturmaTarihi": "2026-02-16T13:32:48.545Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T06:41:55.213Z",
+  "sonGuncelleme": "2026-05-15T05:50:19.705Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
