@@ -2,7 +2,7 @@
   "id": 1771411435987,
   "isim": "NİHAL GÜLDAŞ",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3742,6 +3742,6 @@
   ],
   "olusturmaTarihi": "2026-02-18T10:43:55.987Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T07:18:08.638Z",
+  "sonGuncelleme": "2026-05-15T05:51:24.809Z",
   "githubKaydedildi": true
 }
