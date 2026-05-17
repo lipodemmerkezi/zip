@@ -364,7 +364,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nProgramımızın ikinci haftasına hoş geldiniz. Yolculuğumuzun başında olduğumuz için, attığınız bu küçük adımların zamanla büyük değişiklikler yaratacağını birlikte göreceğimiz için heyecanlıyım. Lipödem, kronik bir hastalık olduğu için kalıcı değişikliklere odaklanmak çok önemli. Bu süreçte sabırlı ve istikrarlı olmanız, elde edeceğiniz kazanımların kalıcı olmasını sağlayacaktır.\n\nBu hafta vücudunuzda bazı değişiklikler hissetmeye başlayabilirsiniz. Ancak unutmayın, asıl hedefimiz sadece dış görünüm değil; hücresel düzeyde başlayan iyileşmeleri desteklemek. Lipödemle mücadelede, inflamasyon gibi temel sorunları yönetmek de kritik. Bu süreçte sadece kilo yönetimi değil, bütüncül bir sağlık yaklaşımı benimsememiz gerekiyor.\n\nBu haftaki beslenme planınızda yer alan yiyecekler, antiinflamatuar özellikleri ve kan dolaşımını desteklemeleri açısından oldukça faydalı. Özellikle ketojenik tost, ceviz ve mevsim yeşillikleri gibi besinler, lenfatik sistemi destekleyerek kilo vermenize yardımcı olacaktır. Bu besinleri günlük rutininize dahil etmeniz, bölgesel ölçülerde ilerlemenizi hızlandıracaktır.\n\nSabahları kurşun geçirmez kahve tüketimi, bu hafta önerdiğimiz güçlü alışkanlıklardan biridir. Bu kahve, hem uzun süreli tokluk sağlar hem de yağ yakımını destekler. Eğer kahve içmek istemezseniz, avokado, zeytin veya tahin gibi sağlıklı yağ kaynaklarını tercih edebilirsiniz. Unutmayın ki, sağlıklı yağlar insülini yükseltmez ve bu da yağ yakımını kolaylaştırır.\n\nAyrıca, bu haftaki yemek listenizdeki mikro besinlerin de önemini vurgulamak isterim. Örneğin, yumurta ve ceviz gibi besinler, D vitamini, B12 ve selenyum gibi mikro besinler açısından zengindir ve bu süreçte vücudunuza büyük fayda sağlayacaktır. İlerleyen haftalarda süt ürünleri tekrar diyetinize dönecek, bu nedenle şimdiden bu değişikliklere hazırlıklı olalım.\n\nBu hafta, vücudunuzun yağ yakma antrenmanına girdiğini düşünün. İstikrarlı bir şekilde devam ettiğinizde, lipödemle ve genel sağlıkla ilgili kazanımlarınız daha belirgin hale gelecektir. Her zaman yanınızda olduğumu unutmayın; gözlemlerinizi ve yorumlarınızı merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -469,6 +469,6 @@
   ],
   "olusturmaTarihi": "2026-05-12T14:34:06.530Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:46:17.917Z",
+  "sonGuncelleme": "2026-05-17T14:36:52.366Z",
   "githubKaydedildi": true
 }
