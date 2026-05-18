@@ -2859,24 +2859,28 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-05-24",
-      "bitis": "2026-05-30",
+      "baslangic": "2026-05-25",
+      "bitis": "2026-05-31",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE BAKAR 25-31 MAYIS 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE BAKAR 25-31 MAYIS 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE BAKAR 25-31 MAYIS 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE BAKAR 25-31 MAYIS 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE BAKAR 25-31 MAYIS 11. HAFTA.pdf",
+      "kayitTarihi": "2026-05-18T08:38:54.055Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "SON HAFTALARDA CEVAP VERMEMİŞ. PROGRAM UYUMU NASIL?\nMASAJ VE EGZERSİZLERİ DÜZENLİ YAPIYOR MU?\nMerhaba Ayşe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 11. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-13T13:05:18.306Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-18T08:37:50.290Z",
+  "sonGuncelleme": "2026-05-18T08:38:54.059Z",
   "githubKaydedildi": true
 }
