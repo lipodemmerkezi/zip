@@ -2292,7 +2292,7 @@
       "pdfYolu": "pdfs/TÜLİN CAN 25-31 MAYIS 9. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/TÜLİN CAN 25-31 MAYIS 9. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/TÜLİN CAN 25-31 MAYIS 9. HAFTA.pdf",
-      "kayitTarihi": "2026-05-18T08:44:45.840Z",
+      "kayitTarihi": "2026-05-18T08:56:36.539Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu bamya yemeği",
@@ -2460,7 +2460,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Tülin Hanım,\n\nDokuzuncu haftaya başlayarak, bu süreçteki ilerlemenizi görmek beni çok mutlu ediyor. Programınıza olan uyumunuz ve motivasyonunuzun yüksek olması, lipödem yönetiminde önemli bir adım atmanıza yardımcı oluyor. Bu hafta artık lipödem egzersizlerine geçiş yapıyoruz, bu da sürecin üçüncü temel ayağını oluşturuyor. \n\nGöndereceğimiz Lipödem 1 ve Lipödem 2 egzersiz videoları, lenfatik sisteminizi destekleyecek şekilde tasarlandı. Lipödem 1 egzersizleri, oturarak uygulanabilen esneme ve hafif dolaşım hareketlerinden oluşurken, Lipödem 2 egzersizleri ise ayakta yapılan, kas gruplarını harekete geçiren daha dinamik hareketler içeriyor. Bu egzersizleri, kendinizi zorlamadan yaparak vücudunuzun lenfatik akışını destekleyeceksiniz. \n\nBu hafta beslenme planınızda yer alan besinlerin, hem antiinflamatuar özellikleri hem de kan dolaşımını destekleyici etkileri ile önemi büyük. Özellikle menünüzde yer alan badem unlu krep, haşlanmış yumurta, ızgara balık ve ev yapımı turşu gibi besinler, hem tokluk hissi sağlıyor hem de sindiriminizi destekliyor. Ayrıca, içerdiği yüksek D vitamini, selenyum ve magnezyum ile bağışıklık sisteminizi güçlendirirken, lenfatik sisteminizin sağlıklı çalışmasına katkıda bulunuyor.\n\nBu dönemde, egzersizlerin yanı sıra, beslenme düzeninize dikkat etmek de oldukça önemlidir. Mevsim sebzeleri, sağlıklı yağlar ve yeterli protein alımı, lenfatik akışınızı desteklerken, vücudunuzdaki toksinlerin atılmasına yardımcı olacaktır. Özellikle kabak, patlıcan ve yeşillikler, hem besin değeri yüksek hem de vücudunuza hafiflik hissi verecek seçeneklerdir.\n\nUnutmayın ki, egzersizler ve beslenme planınızın bir bütün olarak uygulanması, hem fiziksel hem de ruhsal olarak kendinizi daha iyi hissetmenize yardımcı olacaktır. Her gün küçük ama düzenli hareket alanları açarak, bu süreci daha keyifli hale getirebilirsiniz.\n\nHer zaman olduğu gibi, gözlemlerinizi ve yorumlarınızı merak ediyorum. Bize ulaşabilirsiniz.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2559,6 +2559,6 @@
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-18T08:56:33.810Z",
+  "sonGuncelleme": "2026-05-18T08:56:36.556Z",
   "githubKaydedildi": true
 }
