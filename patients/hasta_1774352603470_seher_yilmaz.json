@@ -2483,7 +2483,7 @@
       "pdfYolu": "pdfs/SEHER YILMAZ 25-31 MAYIS 10. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEHER YILMAZ 25-31 MAYIS 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEHER YILMAZ 25-31 MAYIS 10. HAFTA.pdf",
-      "kayitTarihi": "2026-05-18T08:57:37.090Z",
+      "kayitTarihi": "2026-05-18T08:58:55.787Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2675,7 +2675,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Seher Hanım, \n\nOnuncu haftaya hoş geldiniz! Bu hafta, beslenme düzenimizde önemli bir geçiş yapıyoruz ve düşük karbonhidratlı (LowCarb) beslenmeye adım atıyoruz. Ketojenik beslenme döneminden sonra bu yeni düzen, hem sürdürülebilirlik hem de sosyal adaptasyon açısından oldukça avantajlı olacak.\n\nBu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleriniz doğrultusunda özenle seçilmiş besinler görüyorum. Listeye dâhil edilen fırında kabaklı börek, tavuklu kabak noodle ve ızgara balık gibi lezzetler, hem antiinflamatuar özellikleriyle hem de kan dolaşımını destekleyici etkileriyle öne çıkıyor. Bu tür besinler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken aynı zamanda kilo vermenizde de yardımcı olacaktır.\n\nAyrıca, bu geçiş döneminde elbette ki düzenli olarak uyguladığınız masaj ve egzersiz rutininiz, sürecin en önemli parçalarından biri olmaya devam ediyor. Lenf drenaj masajı ile birlikte, bu hafta başlayacağınız egzersizler ile vücudunuzun toksinlerden arınma sürecini hızlandıracak ve genel enerji seviyenizi artıracaksınız. \n\nBeslenme listenizde dikkat çeken mikro besinler de var. Örneğin, somonlu roka ve avokado salatası hem omega-3 yağ asitleri hem de E vitamini açısından zengin. Yüksek kaliteli protein kaynakları olan tavuk ve ızgara balık, D vitamini ve B12 vitamini yönünden zengin ve bu da lipödemli dokuların onarımında önemli rol oynuyor. Ara öğünlerinizdeki çiğ badem, ceviz ve fındık gibi besinler, magnezyum depoları olarak kas fonksiyonlarınızı destekleyecek ve genel rahatlama hissi sağlayacaktır.\n\nUnutmayın ki, bu hafta geçiş döneminin getirdiği değişiklikleri bedeninizin tepkilerine göre gözlemlemek çok önemli. Kendinizi nasıl hissettiğinizi ve bu yeni düzenin size nasıl etki ettiğini paylaşmayı unutmayın. \n\nHer zaman olduğu gibi, bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum. \n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2786,6 +2786,6 @@
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-18T08:58:53.234Z",
+  "sonGuncelleme": "2026-05-18T08:58:55.804Z",
   "githubKaydedildi": true
 }
