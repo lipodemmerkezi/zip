@@ -2471,10 +2471,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhaba hocam elhamdülillah iyim umarım sizde iyisiniz dir bende çok mutlu yum hocam önce ALLAH izni ve sizin sayenizde tekrar yaşama sevincime kavuştum artık rahat yürüyebilirim hareketlerim rahat yapabiliyorum beslenmem de gayet iyi gidiyor inşallah daha da iyi olacak çok teşekkür ederim\nbu hafta egzersizlere başlıyoruz. masajlarla beraber düzenli yapalım.\nMerhaba Seher Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 9. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-05-24",
+      "bitis": "2026-05-30",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T10:18:20.372Z",
+  "sonGuncelleme": "2026-05-18T08:57:12.342Z",
   "githubKaydedildi": true
 }
