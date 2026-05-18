@@ -3836,7 +3836,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Özgür Hanım, umarım her şey yolundadır.\n\nPazartesi günü itibarıyla 14. haftamıza geçiyoruz. Bu süreçte zaman zaman programdan kopmalar yaşandığını biliyorum; bu oldukça doğal bir durum. Sürecinizin getirdiği zorluklara rağmen motivasyonunuzu kaybetmeden devam etmenizi önemsiyorum. Bu haftaki beslenme planınızda yer alan yiyecekler, lipödem ve bölgesel incelme hedeflerinizi desteklemek üzere özenle seçilmiştir.\n\nMenünüzde yer alan haşlanmış yumurta, tulum peyniri, roka ve tere gibi besinler, hem protein hem de lif içeriği yüksek seçeneklerdir. Özellikle bu haftaki listeye dahil edilen kabak çorbası ve lahana ya da kabak lazanya, antiinflamatuar özellikleri sayesinde lenfatik sisteminizi desteklerken, kilo verme sürecinizde de etkili olacaktır. Elma ve yeşil biber gibi meyve ve sebzeler, hem sağlıklı atıştırmalıklar hem de günlük vitamin ihtiyacınızı karşılamak için harika alternatiflerdir.\n\nDikkatinizi çekmek istediğim bir nokta, menünüzdeki mikro besinlerdir. Özellikle D vitamini, magnezyum ve selenyum gibi besinler bağışıklık sisteminizi güçlendirirken hücresel iyileşmenize de katkı sağlar. Zeytinyağı ve ceviz gibi sağlıklı yağlar, bu mikro besinlerin emilimini artırarak vücudunuzun ihtiyaç duyduğu desteği sağlar.\n\nAynı zamanda, bu hafta yeme sıralamasına dikkat etmek de önemli. Lifli gıdalarla başlayarak, ardından protein ve sağlıklı yağları tüketmek, insülin seviyenizi dengede tutmanıza yardımcı olacaktır. Örneğin, yeşil salatalarınızı yemeğin başında tüketmek, sindirim sisteminize olumlu etki edecektir.\n\nBu süreçte kendinize karşı nazik olmalısınız. Değişim ve dönüşüm zaman alabilir; bu yüzden sabırlı olmayı unutmayın. Motivasyonunuzu yüksek tutmak için, ilerlemenizi düzenli olarak değerlendirmenizi ve olumlu değişimleri gözlemlemenizi öneririm. Unutmayın, bu yolculuk sadece bedensel değil, ruhsal bir dönüşüm de sunuyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -3930,11 +3930,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "ara ara programdan kopmalar oldu. motivasyonunu bozmadan devam etmesini önerelim.\nMerhaba Özgür Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 14. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-03-03T15:34:23.401Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-18T08:04:31.189Z",
+  "sonGuncelleme": "2026-05-18T08:05:16.964Z",
   "githubKaydedildi": true
 }
