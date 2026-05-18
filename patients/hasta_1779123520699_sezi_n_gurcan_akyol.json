@@ -3,9 +3,27 @@
   "isim": "SEZİN GÜRCAN AKYOL",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-05-17",
+      "bitis": "2026-05-23",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-05-18T16:58:40.699Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-18T16:58:40.699Z",
+  "sonGuncelleme": "2026-05-18T16:58:52.231Z",
   "githubKaydedildi": true
 }
