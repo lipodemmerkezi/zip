@@ -2499,7 +2499,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nedret Hanım,\n\nDokuzuncu haftaya hoş geldiniz. Bu süreçte gösterdiğiniz sabır ve özveri gerçekten takdire şayan. Artık programımızın üçüncü temel ayağı olan lipödem egzersizlerine geçiş yapıyoruz. Bu hafta düzenli hareketi ve hedefe yönelik egzersizleri günlük rutininize dahil edeceğiz. Size, \"Lipödem 1\" ve \"Lipödem 2\" isimli iki eğitim videosu göndereceğiz. \n\n**Egzersizlerin İçeriği:**\n\n- **Lipödem 1 Egzersizleri:** Sandalyede oturarak yapılabilen esneme ve hafif dolaşım hareketlerinden oluşur. Bu egzersizler, yeni başlayanlar için idealdir ve gün içinde kısa süreler ayırarak bile fayda sağlayabilirsiniz. \n- **Lipödem 2 Egzersizleri:** Ayakta yapılan, lenf sistemini derinlemesine uyaran egzersizlerdir. Bu egzersizler, büyük kas gruplarını harekete geçirerek, kasların altındaki derin lenf yollarını destekler. Kendinizi zorlamadan, yapılabildiği ölçüde bu egzersizleri tekrar etmek oldukça faydalı olacaktır.\n\nLenf drenaj masajının sıklığının azalmış olması, egzersizlerle birlikte kasların pompalama etkisini kullanarak derin lenf sistemini devreye sokmamıza olanak tanıyacak. Bu, vücudunuzda toksin ve sıvı yükünün daha hızlı dışarı atılmasına yardımcı olacak ve hafiflik hissinizi artıracaktır. \n\nBu hafta oluşturduğumuz beslenme listesi de özenle hazırlandı. Anti-inflamatuar özellikteki besinler, kan dolaşımını destekleyerek kilo verme hedeflerinize ulaşmanıza yardımcı olacaktır. Menünüzde yer alan mevsim yeşillikleri ve sağlıklı yağlar, hücresel düzeyde de dengenizi korumaya katkıda bulunacak. \n\nAyrıca, yürüyüşlerinizi ihmal etmemeniz önem taşıyor. Düzenli yürüyüşler, dokularınızın oksijenlenmesini artırarak kas, kemik ve kıkırdak dokularınız üzerinde onarıcı bir etki yaratır. Kendinizi daha iyi hissetmek için bu yürüyüşleri günlük rutininizin vazgeçilmezi haline getirin.\n\nDuygusal açlık ve tatlı krizleri ile başa çıkmak için menünüze eklediğimiz cevizli browni kek ve çilek gibi alternatifler, bu anlarda size yardımcı olacaktır. Bu tür sağlıklı atıştırmalıkları tercih etmek, sizi hem fiziksel hem de psikolojik olarak daha iyi hissettirecektir.\n\nUnutmayın, bu süreç sabır ve istikrar gerektiriyor. Herhangi bir sorunuz veya gözleminiz olursa, benimle paylaşmaktan çekinmeyin. Sizlerin ilerlemesini görmek ve desteklemek için buradayım.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
       "kilitli": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2592,7 +2592,8 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "Merhaba Nedret Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 9. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n=== AÇIKLAMA ===\nHastamız lipödem değil. sadece kilo verme amaçlı program uyguluyoruz. Kilo vemreye yönelik olarak ipuçları vs den sıkça bahset. her hafta değişiklik olsun. Takviyelerden de bahsetmeyeceğiz mesajlarda. Motivasyon sağlamalıyız. Düzneli yürüyürüşün doku oksijenlenmesine, kas dokusunun ve kemik ve kıkırdaka dokusunu iyileştirici onarıcı etkileribni vs zaman zaman anlatalım. her hafta daha farklı konularda mesaj verelim. DUYGUSAL AÇLIK TATLI KRİZİ VS. ÖNLEMEK İÇN ÖNERİLERDE BULUNAÖIM ZAMAN ZAMANM."
     },
     {
       "haftaNo": 10,
@@ -3801,6 +3802,6 @@
   ],
   "olusturmaTarihi": "2026-03-30T07:49:51.917Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:51:45.046Z",
+  "sonGuncelleme": "2026-05-18T14:34:35.762Z",
   "githubKaydedildi": true
 }
