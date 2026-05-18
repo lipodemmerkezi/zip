@@ -3251,24 +3251,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-05-24",
-      "bitis": "2026-05-30",
+      "baslangic": "2026-05-25",
+      "bitis": "2026-05-31",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MERVE KARAKAYA 25-31 MAYIS 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "MERVE KARAKAYA 25-31 MAYIS 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/MERVE KARAKAYA 25-31 MAYIS 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERVE KARAKAYA 25-31 MAYIS 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERVE KARAKAYA 25-31 MAYIS 12. HAFTA.pdf",
+      "kayitTarihi": "2026-05-18T08:22:20.863Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-04T14:24:15.861Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-18T08:21:58.441Z",
+  "sonGuncelleme": "2026-05-18T08:22:20.884Z",
   "githubKaydedildi": true
 }
