@@ -1389,7 +1389,7 @@
       "pdfYolu": "pdfs/REYHAN ÇAMKIR 25-31 MAYIS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/REYHAN ÇAMKIR 25-31 MAYIS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/REYHAN ÇAMKIR 25-31 MAYIS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-05-19T14:21:00.607Z",
+      "kayitTarihi": "2026-05-19T14:24:05.607Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -1577,7 +1577,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Reyhan Hanım,\n\nAltıncı haftaya geçerken, umarım programımızda ilerlemekte olduğunuzu hissediyorsunuzdur. Bu aşamada, beslenme düzenine alıştığınız ve vücudunuzda gözle görülür değişimler yaşandığına inanıyorum. Bu haftanın teması olan mikro besinler, lipödem tedavisinde oldukça önemli bir rol oynuyor. \n\nMikro besinler, vücudumuzun sağlıklı işleyişi için ihtiyaç duyduğu, ama genellikle yeterince almadığımız vitamin ve minerallerdir. D vitamini, B12 vitamini, çinko, magnezyum, C vitamini ve selenyum, bu süreçte öne çıkan mikro besinlerdendir. Özellikle D vitamini, bağışıklık sisteminizin düzgün çalışması ve inflamasyonun kontrolü için kritik öneme sahip. Yetersiz alımı, lipödemli dokularda kronik iltihabı artırabilir. B12 vitamini ise enerji üretimi ve sinir sistemi sağlığı açısından önemlidir; bu nedenle, yorgunluk ve motivasyon düşüklüğü yaşamamanız için yeterli alımını sağlamalıyız.\n\nBeslenme listenizde yer alan yiyecekler, bu mikro besinleri almanıza yardımcı olacak şekilde seçilmiştir. Örneğin, sucuklu yumurta ve pazılı kaşarlı omlet gibi protein kaynakları, B12 ve D vitamini açısından zengin olup, bağışıklık sisteminizi güçlendirecektir. Ayrıca, yeşil salatalar ve turşular, sindirim sisteminizi destekleyerek ödem atımında yardımcı olurken, içerdiği magnezyum ve C vitamini ile doku onarımını hızlandıracaktır. \n\nBir diğer önemli nokta ise, bu hafta uygulamaya başladığınız manuel lenfatik drenaj masajı. Eğer masajları yapmaya başladıysanız, bu uygulama lenfatik sisteminizi destekleyerek ödem atımını kolaylaştıracak ve genel ruh halinizi iyileştirecektir. Masajın etkisini görmek için düzenli uygulamanız oldukça önemli.\n\nBu süreçte ölçümlerinizi almayı unutmayın. Bel, kalça ve bacak çevresindeki değişimler, sürecimizi daha iyi değerlendirmemize yardımcı olacaktır. Ayrıca, program uyumunuza dair herhangi bir zorluk veya sorunuz varsa, lütfen benimle paylaşın. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ekNotlar": "masajlara başlayabilmiş mi?\nprogram uyumu nasıl?\nbize cevap vermiyor.\nMerhaba Reyhan Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1694,6 +1694,6 @@
   ],
   "olusturmaTarihi": "2026-04-17T08:21:05.894Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-19T14:24:03.244Z",
+  "sonGuncelleme": "2026-05-19T14:24:05.620Z",
   "githubKaydedildi": true
 }
