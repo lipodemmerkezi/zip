@@ -1567,7 +1567,7 @@
       "pdfYolu": "pdfs/AYŞE BALCI 25-31 MAYIS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE BALCI 25-31 MAYIS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE BALCI 25-31 MAYIS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-05-19T13:36:49.962Z",
+      "kayitTarihi": "2026-05-19T13:39:29.560Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kuymak",
@@ -1755,7 +1755,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nYedinci haftaya merhaba derken, beslenme düzeninizin daha da oturduğunu ve vücudunuzun bu yeni ritme uyum sağladığını görmek oldukça sevindirici. Bu hafta, lipödem tedavisinde önemli bir rol oynayan takviyeleri daha yakından inceleyeceğiz. \n\nMenünüze göz attığımda, bu hafta dahil edilen besinlerin lipödem yönetimine katkı sağlamak üzere seçildiğini görüyorum. Örneğin, tulum ve kaşar peyniri gibi süt ürünleri, vücudunuzun ihtiyaç duyduğu D vitamini ve kalsiyum desteğini sağlar. Aynı zamanda, çiğ badem ve ceviz gibi kuruyemişler, içerdikleri magnezyum ve çinko ile kan dolaşımınızı destekleyerek ödem atımına yardımcı olacaktır. Bu besinlerin, lipödemli dokudaki inflamasyonu azaltarak bölgesel incelme hedeflerinize katkıda bulunacağını unutmayın.\n\nBu hafta ayrıca, takviyelere biraz daha bilinçli bir yaklaşım benimsemenizi öneriyorum. Boswellia serrata gibi doğal maddeler, inflamasyonu bastırırken; koenzim Q10 ve kurkumin, hücresel sağlığınızı destekleyecek şekilde enerji üretimini artırır. Astaksantin, cilt dokusunun sıkılaşmasına yardımcı olurken, bromelain ise ödemin çözülmesine destek olur. Bu takviyeler, vücudunuza içeriden destek sağlayarak sürecinizi hızlandırabilir.\n\nÖlçüm sonuçlarınıza gelecek olursak, önceki haftalarda elde ettiğimiz olumlu gelişmelere rağmen bu hafta bazı artışlar gözlemlemiş olabilirsiniz. Bu, ödem kaynaklı bir durum olabilir. Beslenme düzeninizin ve yapılan uygulamaların uyumlu gitmesi durumunda daha iyi sonuçlar alacağınızı düşünüyorum. Sabırlı olmalı ve sürecin doğal akışına güvenmelisiniz. \n\nUnutmayın, bu süreçte tartıdaki rakamlardan ziyade, bedeninizin verdiği olumlu tepkilere ve bölgesel ölçümlere odaklanmak en doğrusu olacaktır. Her zaman olduğu gibi, süreçle ilgili her türlü sorunuz için bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1858,6 +1858,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T12:43:18.883Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-19T13:39:25.072Z",
+  "sonGuncelleme": "2026-05-19T13:39:29.575Z",
   "githubKaydedildi": true
 }
