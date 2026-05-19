@@ -1923,7 +1923,7 @@
       "pdfYolu": "pdfs/ÖZÜM ÖZDEN 25-31 MAYIS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZÜM ÖZDEN 25-31 MAYIS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZÜM ÖZDEN 25-31 MAYIS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-05-19T13:15:50.566Z",
+      "kayitTarihi": "2026-05-19T13:18:33.392Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu ekmek (1 dilim)",
@@ -2078,7 +2078,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Özüm Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nSekizinci haftaya ulaştık. Bu noktaya kadar geldiğiniz için sizi tebrik ediyorum. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir aşamaya geliyoruz. Bu hafta sizinle yemek sıralamasının önemini konuşacağız.\n\nYemek sıralaması, özellikle insülin düzeylerini dengelemek, tokluk süresini uzatmak ve kan şekerinin hızlı yükselmesini önlemek açısından son derece önemlidir. Bu da doğrudan lipödemli dokular üzerinde olumlu etkiler yaratır. Çünkü insülin, yağ hücrelerinin büyümesini ve genişlemesini tetikleyen en güçlü hormondur. \n\nPeki, doğru sıralama nasıl olmalı? Öncelikle öğüne lifli gıdalarla başlamanızı öneriyorum. Salata, zeytinyağlı sebzeler veya lifli mezelerle başlayarak, bağırsaklarda bir bariyer oluşturarak karbonhidratların kana karışmasını geciktirebilirsiniz. Ardından protein kaynaklarını (balık, tavuk, yumurta gibi) tüketmek, hem tokluk sağlar hem de kan şekeri dalgalanmalarını dengeler. Yağlı içerikleri, en sona bırakmak ise insülin tepkisini azaltmaya yardımcı olur.\n\nBu hafta menünüzde yer alan besinler arasında sucuklu yumurta, zeytin, fırında tavuk pirzola ve zeytinyağlı deniz börülcesi gibi seçenekler, antiinflamatuar özellikleriyle ödemi azaltmaya yardımcı olacaktır. Özellikle çiğ badem ve kabak çekirdeği gibi ara öğünlerdeki besinler, magnezyum ve çinko içerikleri sayesinde kaslarınızı rahatlatır ve kan dolaşımınızı destekler.\n\nAyrıca, sirkenin altın etkisini unutmamak gerekiyor. Yemekten önce bir yemek kaşığı sirkeyi yarım bardak suya karıştırarak içmek, insülin kontrolü açısından oldukça faydalıdır. Bu basit ama etkili detaylar, lipödem yönetiminde ne kadar önemli olduğunu gösteriyor.\n\nBu hafta, yemek sonrası yapacağınız 20 dakikalık kısa bir fiziksel aktivite de oldukça faydalı olacaktır. Yemekten sonra yapılacak tempolu bir yürüyüş, vücudunuzun yükselen kan şekerini insülinden bağımsız olarak doğrudan kas hücrelerine taşımasına yardımcı olur. \n\nSonuç olarak, ne yediğimiz kadar nasıl yediğimizin de sürecinize katkı sağladığını göreceksiniz. Gözlemlerinizi ve bu süreçteki deneyimlerinizi merak ediyorum. Her zaman olduğu gibi bize ulaşabilirsiniz.\n\nSevgilerle,  \n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2185,6 +2185,6 @@
   ],
   "olusturmaTarihi": "2026-04-02T18:17:04.193Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-19T13:18:30.105Z",
+  "sonGuncelleme": "2026-05-19T13:18:33.408Z",
   "githubKaydedildi": true
 }
