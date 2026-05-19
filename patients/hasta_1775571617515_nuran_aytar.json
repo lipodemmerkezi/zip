@@ -1894,7 +1894,7 @@
       "pdfYolu": "pdfs/NURAN AYTAR 25-31 MAYIS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURAN AYTAR 25-31 MAYIS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURAN AYTAR 25-31 MAYIS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-05-19T13:25:08.679Z",
+      "kayitTarihi": "2026-05-19T13:28:32.170Z",
       "tarifKartlar": [
         {
           "tarifAdi": "pita ekmeği (1 adet)",
@@ -2087,7 +2087,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nuran Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\n Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir aşamaya geliyoruz. Bu hafta yemek sıralaması üzerinde duracağız; bu, lipödem yönetiminde vücudunuzun nasıl tepki vereceğini etkileyebilir.\n\nYemek sıralaması, insülin düzeylerini dengelemek ve tokluk süresini uzatmak açısından oldukça önemlidir. Bu da lipödemli dokular üzerinde olumlu etkiler yaratır. Doğru sıralama şu şekilde olmalıdır:\n\n1. Önce lifli gıdalar: Salata, zeytinyağlı sebzeler veya lifli mezelerle başlayarak, bağırsaklarınıza bir bariyer oluşturabilirsiniz. Bu, insülinin yavaş ve daha az salgılanmasını sağlar.\n   \n2. Ardından protein grubu: Balık, tavuk, yumurta gibi protein kaynaklarını salatanızla birlikte tüketmeye devam edin. Protein, hem tokluk hissi sağlar hem de kan şekeri dalgalanmalarını dengeler.\n\n3. Yağlı içerikler: Sebze yemekleri ve zeytinyağlılar gibi sağlıklı yağları daha sonraki aşamada ekleyin.\n\n4. Karbonhidratlar en sona: Eğer dışarıda bir yemek yiyorsanız, karbonhidratları öğünün en sonuna bırakmak insülin tepkisini azaltacaktır.\n\nBu hafta menünüze dahil edilen badem unlu krep, tulum peyniri, mevsim yeşillikleri ve yoğurtlu semizotu salatası gibi besinler, antiinflamatuar özellikleri sayesinde vücudunuzun iyileşme sürecine katkı sağlayacak. Ayrıca fındık ve ceviz gibi sağlıklı yağlar, hücre zarını güçlendirirken, magnezyum ve C vitamini gibi mikro besinlerle desteklenen sebzeler, lipödemli dokunun ihtiyaçlarını karşılayacak.\n\nSirke kullanımı da önemli. Yemekten önce bir yemek kaşığı elma sirkesini suyla karıştırarak içmek, insülin kontrolünü destekleyecek ve kan şekerinizin dengeli kalmasına yardımcı olacaktır. Ayrıca, yemek sonrası 20 dakikalık bir hareket, metabolizmanın sağlıklı çalışmasını teşvik edecektir.\n\nSonuç olarak, bu hafta yemeğinizi nasıl yediğiniz kadar, ne yediğinizin de önemli olduğunu göreceksiniz. Vücudunuzun bu düzene nasıl yanıt verdiğini daha iyi hissedeceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2198,6 +2198,6 @@
   ],
   "olusturmaTarihi": "2026-04-07T14:20:17.515Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-19T13:28:27.314Z",
+  "sonGuncelleme": "2026-05-19T13:28:32.186Z",
   "githubKaydedildi": true
 }
