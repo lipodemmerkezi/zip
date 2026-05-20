@@ -1455,7 +1455,7 @@
       "pdfYolu": "pdfs/MELTEM ŞENER 25-31 MAYIS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MELTEM ŞENER 25-31 MAYIS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MELTEM ŞENER 25-31 MAYIS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-05-20T06:08:03.007Z",
+      "kayitTarihi": "2026-05-20T06:36:33.470Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lifli ekmek",
@@ -1627,7 +1627,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Meltem Hanım, \n\nNasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle 6. haftaya başlıyoruz ve bu süreçte sizinle birlikte ilerlemenin heyecanını yaşıyorum. Öncelikle, varis ameliyatı sonrası kendinizi nasıl hissettiğinizi merak ediyorum. Umarım iyileşme süreciniz iyi gidiyordur. Masaj uygulamalarına başlayabildiniz mi? Bu uygulamalar, lipödem tedavisinde önemli bir yer tutmakta ve sizi destekleyecektir.\n\nBu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımını desteklemesi nedeniyle seçilmiştir. Özellikle yeşillikler, sağlıklı yağlar ve protein kaynakları, lenfatik sistemi destekleyerek ödemin azaltılmasına yardımcı olacaktır.\n\nMikrobesinler konusunda, bu hafta özellikle dikkat etmemiz gereken vitamin ve minerallerin rolü büyük. D vitamini, bağışıklık sisteminizi güçlendirmeye yardımcı olurken, B12 vitamini enerji seviyenizi artırır. Ayrıca, çinko ve magnezyum gibi mineraller de hücresel onarım ve metabolizma için kritik öneme sahiptir. Beslenme planınızdaki badem, ceviz gibi sağlıklı yağ kaynakları ve yeşil sebzeler, bu mikro besinleri doğal yollarla almanıza destek olacak.\n\nListeye eklenen haşlanmış yumurta, tavuk, yoğurtlu brokoli ve semizotu gibi besinler, hem protein ihtiyacınızı karşılayacak hem de içerdiği mikro besinlerle vücudunuzun ihtiyaçlarına cevap verecektir. Özellikle yoğurtlu brokoli ve semizotu salatası, sindirim sisteminizi destekleyerek bağırsak sağlığınıza katkıda bulunacak. \n\nBu hafta, bel, kalça ve bacak çevresinden güncel ölçümlerinizi almayı da unutmayın. Bu ölçümler, ilerlemenizi daha net görmemizi sağlayacak. \n\nHer zaman olduğu gibi, bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum. \n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1730,6 +1730,6 @@
   ],
   "olusturmaTarihi": "2026-04-18T18:33:10.028Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T06:36:30.998Z",
+  "sonGuncelleme": "2026-05-20T06:36:33.485Z",
   "githubKaydedildi": true
 }
