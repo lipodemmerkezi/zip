@@ -1025,24 +1025,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-05-24",
-      "bitis": "2026-05-30",
+      "baslangic": "2026-05-25",
+      "bitis": "2026-05-31",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NİGAR ÇAKIROĞULLARI 25-31 MAYIS 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "NİGAR ÇAKIROĞULLARI 25-31 MAYIS 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/NİGAR ÇAKIROĞULLARI 25-31 MAYIS 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİGAR ÇAKIROĞULLARI 25-31 MAYIS 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİGAR ÇAKIROĞULLARI 25-31 MAYIS 5. HAFTA.pdf",
+      "kayitTarihi": "2026-05-20T06:37:20.116Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T06:37:00.417Z",
+  "sonGuncelleme": "2026-05-20T06:37:20.118Z",
   "githubKaydedildi": true
 }
