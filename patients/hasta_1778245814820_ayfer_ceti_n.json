@@ -638,7 +638,7 @@
       "pdfYolu": "pdfs/AYFER ÇETİN 25-31 MAYIS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYFER ÇETİN 25-31 MAYIS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYFER ÇETİN 25-31 MAYIS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-05-20T07:08:20.895Z",
+      "kayitTarihi": "2026-05-20T07:18:45.535Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ispanaklı kabak böreği 1dilim için",
@@ -821,7 +821,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayfer Hanım,\n\nÜçüncü haftaya geçiş yaptık. Bu aşamada beslenme listenizi güncelleyerek bağırsak sağlığınızı güçlendirmeyi hedefliyoruz.\n\nBeslenme listenizdeki çoğu besin, antiinflamatuar özelliklere ve kan dolaşımını destekleyici niteliklere sahiptir. Örneğin, ıspanaklı kabak böreği, zengin lif içeriğiyle bağırsak sağlığınıza katkıda bulunurken, tulum veya kaşar peyniri gibi süt ürünleri de kalsiyum ve protein sağlayarak destek olacaktır. Yoğurtlu salatalık mezesi ve lor peynirli avokado salatası gibi seçenekler, sindirimi kolay ve besleyici öğünlerdir.\n\nBu hafta bağırsak florası sağlığını artırmak için probiyotik ve prebiyotik kaynaklarına yöneliyoruz. Bu gıdalar, faydalı bakterileri artırarak sindirim sisteminin düzenlenmesine yardımcı olur. Ayrıca, tatlı isteğinizin azalması ve iştah kontrolünüzün güçlenmesi gibi olumlu değişiklikler gözlemleyebilirsiniz. Bunlar için öğümlerinize ev yapımı turşu ve arada kefir ekleyebilirsiniz.\n\nMikro besinler, özellikle D vitamini, magnezyum ve selenyum, bağışıklık sisteminizi desteklerken inflamasyonu azaltmanıza yardımcı olacaktır. Yemek listenizdeki cevizli karabuğday ekmeği ve yeşil mercimekli kabak sandal gibi besinler, bu mikro besinleri almanız için faydalıdır.\n\nDuygusal yeme ve motivasyon konularında destek almanız önemlidir. Herhangi bir zorluk yaşıyorsanız, lütfen benimle iletişime geçin. Kendinize karşı nazik olmayı unutmayın; her adımda ilerleme kaydediyorsunuz.\n\nUnutmayın, ölçüm alarak ilerlemenizi takip etmek, hem fiziksel hem de psikolojik motivasyonunuzu artıracaktır. Gözlemlerinizi ve yorumlarınızı merak ediyorum. Her zaman olduğu gibi bize ulaşabilirsiniz.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -921,6 +921,6 @@
   ],
   "olusturmaTarihi": "2026-05-08T13:10:14.820Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T07:18:38.641Z",
+  "sonGuncelleme": "2026-05-20T07:18:45.550Z",
   "githubKaydedildi": true
 }
