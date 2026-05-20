@@ -435,24 +435,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-05-24",
-      "bitis": "2026-05-30",
+      "baslangic": "2026-05-25",
+      "bitis": "2026-05-31",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NUR SÖYLER 25-31 MAYIS 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "NUR SÖYLER 25-31 MAYIS 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/NUR SÖYLER 25-31 MAYIS 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NUR SÖYLER 25-31 MAYIS 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NUR SÖYLER 25-31 MAYIS 3. HAFTA.pdf",
+      "kayitTarihi": "2026-05-20T07:23:59.124Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T07:23:46.006Z",
+  "sonGuncelleme": "2026-05-20T07:23:59.125Z",
   "githubKaydedildi": true
 }
