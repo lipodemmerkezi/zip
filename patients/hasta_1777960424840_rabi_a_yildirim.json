@@ -715,10 +715,27 @@
         "haşhaş ezmesi̇ ekmeği̇ yeri̇ne yarim yumurta, 10 findik ya da çeyrek avokado",
         "tüketebi̇li̇rsi̇ni̇z."
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-05-24",
+      "bitis": "2026-05-30",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-13T14:36:45.517Z",
+  "sonGuncelleme": "2026-05-20T06:44:18.662Z",
   "githubKaydedildi": true
 }
