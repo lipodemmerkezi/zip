@@ -727,7 +727,7 @@
       "pdfYolu": "pdfs/RABİA YILDIRIM 25-31 MAYIS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RABİA YILDIRIM 25-31 MAYIS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RABİA YILDIRIM 25-31 MAYIS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-05-20T07:00:33.609Z",
+      "kayitTarihi": "2026-05-20T07:03:01.952Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -891,7 +891,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Rabia Hanım,\n\nDördüncü haftaya geldik. Artık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle proteinlerden, özellikle de hayvansal proteinlerin öneminden bahsetmek istiyorum. Hayvansal kaynaklı proteinler, aminoasit profili açısından zengindir ve vücudun temel işlevleri için gereklidir. Kas ve eklem sağlığı, bağışıklık sisteminin güçlü kalması, doku onarımı gibi pek çok mekanizma bu proteinlere ihtiyaç duyar. Eğer enerji kaynağı olarak sağlıklı yağları almayı ihmal edersek ve proteinleri yetersiz miktarda alırsak, vücut enerji ihtiyacını karşılamak için kas dokusunu kullanabilir ve bu durum kas kaybına neden olabilir. Aynı şekilde, bağışıklık sistemi zayıflayabilir ve genel olarak kendinizi daha yorgun hissedebilirsiniz.\n\nLipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, “az yeme” fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Hemen hepimiz hayatımızın bir döneminde bunu denedik: Az yemeye çalıştık, açlığı bastırmaya uğraştık ama günün sonunda hem yorgunluk hem isteksizlik oluştu. Bazen ani bir atakla, elimiz ilk fırsatta karbonhidratlara ya da tatlılara gitti. İşte bu durumun arkasında açlık hormonu olan ghrelin yatar. Ghrelin, vücudun açlık sinyalini yöneten hormondur. Uzun süreli açlık ya da yetersiz enerji alımı durumunda devreye girer ve beyne “yemek zamanı geldi” mesajı gönderir. Bu sinyaller güçlüdür ve genellikle karbonhidratlara yönelme eğilimimizi artırır. Bu da çoğu zaman plansız ve aşırı yemelere yol açabilir.\n\nBu nedenle biz bu süreçte kaloriyi kısıtlamaktan ziyade insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya çalışıyoruz. Sağlıklı yağlar, yeterli protein ve dengeli karbonhidratlar içeren öğünler, hem sizi uzun süre tok tutar hem de metabolizmanızı destekler. Böylece hem kilo kaybı daha sürdürülebilir hale gelir hem de vücudun kendi enerjisini düzenlemesine izin vermiş oluruz.\n\nBu haftaki beslenme listenizde yer alan haşlanmış yumurta, sebzeli omlet ve ızgara et gibi protein kaynakları, bu dengeyi sağlamak için oldukça faydalı olacaktır. Ayrıca, tulum ve kaşar peynirinin, kaliteli yağ ve protein içeriğiyle birlikte, sağlıklı beslenmenize katkıda bulunacağını belirtmek isterim. Mevsim yeşillikleri ise mikro besinler açısından zengin bir kaynak olarak, D vitamini, magnezyum ve selenyum gibi önemli maddeleri almanıza yardımcı olacak.\n\nGeçtiğimiz haftalarda bazı yeme isteği sorunları yaşadığınızı duydum. Bu haftaki düzenli öğünlerinizi ve sağlıklı atıştırmalıklarınızı planlayarak bu durumu yönetmeye çalışacağız. İşte bu noktada, doğru protein ve sağlıklı yağların önemi bir kez daha öne çıkıyor. Ayrıca, prebiyotik takviyelerinizle birlikte, sindirim sisteminizin dengesi üzerinde olumlu etkiler elde edeceğinizden eminim.\n\nUnutmayın, çok az yemek, dışarıdan bakıldığında kontrollü gibi görünse de içeride metabolizmayı yavaşlatır ve bu da motivasyon kaybına yol açabilir. Biz bu döngüyü kırmak istiyoruz. Hem besin içeriği açısından zengin hem de porsiyon olarak sizi doyuran bir sistemle ilerliyoruz. Her hafta biraz daha güçlenecek ve bu sistemin size ne kadar iyi geldiğini daha net göreceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1008,6 +1008,6 @@
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T07:02:58.996Z",
+  "sonGuncelleme": "2026-05-20T07:03:01.964Z",
   "githubKaydedildi": true
 }
