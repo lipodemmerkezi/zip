@@ -629,24 +629,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-05-24",
-      "bitis": "2026-05-30",
+      "baslangic": "2026-05-25",
+      "bitis": "2026-05-31",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYFER ÇETİN 25-31 MAYIS 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYFER ÇETİN  25-31 MAYIS 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYFER ÇETİN 25-31 MAYIS 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYFER ÇETİN 25-31 MAYIS 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYFER ÇETİN 25-31 MAYIS 3. HAFTA.pdf",
+      "kayitTarihi": "2026-05-20T07:08:20.895Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-08T13:10:14.820Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T07:08:06.819Z",
+  "sonGuncelleme": "2026-05-20T07:08:20.897Z",
   "githubKaydedildi": true
 }
