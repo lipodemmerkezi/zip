@@ -509,24 +509,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-05-24",
-      "bitis": "2026-05-30",
+      "baslangic": "2026-05-25",
+      "bitis": "2026-05-31",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SULTAN GÜNAY 25-31 MAYIS 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "SULTAN GÜNAY 25-31 MAYIS 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/SULTAN GÜNAY 25-31 MAYIS 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SULTAN GÜNAY 25-31 MAYIS 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SULTAN GÜNAY 25-31 MAYIS 3. HAFTA.pdf",
+      "kayitTarihi": "2026-05-20T07:03:31.045Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-07T11:00:08.521Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T07:03:18.052Z",
+  "sonGuncelleme": "2026-05-20T07:03:31.047Z",
   "githubKaydedildi": true
 }
