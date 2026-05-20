@@ -477,7 +477,7 @@
       "pdfYolu": "pdfs/AYŞE KALKAN 25-31 MAYIS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE KALKAN 25-31 MAYIS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE KALKAN 25-31 MAYIS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-05-20T07:20:03.479Z",
+      "kayitTarihi": "2026-05-20T07:22:44.083Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -650,7 +650,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır.\n\nPazartesi günü itibariyle programımızda 3. haftaya başlıyoruz. Programımızın bu aşamasında, ilk iki haftada sağlamlaştırdığımız temeller üzerine yeni bir yapı inşa etmeye başlıyoruz. Beslenme listenizi incelediğimde, bu hafta hem lipödem yönetimi hem de bölgesel incelme hedeflerinize yönelik özenle seçilmiş yiyeceklerin yer aldığını görüyorum. \n\nBu hafta itibarıyla kontrollü bir şekilde süt ürünlerini beslenme listesine dahil etmeye başlıyoruz. Süt ve süt ürünlerini, sindirim sistemini desteklemek ve bağırsak florasını güçlendirmek adına dikkatli bir şekilde ekleyeceğiz. Yoğurt ve peynir gibi fermente süt ürünleri, bağırsak sağlığını destekleyecek faydalı bakteriler içerir ve bu da sindirim dengenizi olumlu yönde etkileyecektir. Aynı zamanda bu süreçte, yeme alışkanlıklarınızda da olumlu değişiklikler gözlemlemeniz mümkün. \n\nBağırsak florası, bağışıklık sisteminizi güçlendiren, inflamasyonu azaltan ve ruh halinizi etkileyen kritik bir unsurdur. Bu nedenle, lipödem gibi kronik inflamatuar hastalıklarda bağırsak sağlığına odaklanmak büyük önem taşıyor. Bu haftaki beslenme planındaki yiyeceklerin, antiinflamatuar özellikleri ve kan dolaşımını desteklemeleri açısından faydalı olduğunu belirtmek isterim. \n\nYemek listenizde yer alan haşlanmış yumurta, hindi füme, mevsim yeşillikleri ve badem unlu ekmek gibi besinler, sağlıklı yağ ve protein kaynakları ile dolu. Özellikle mevsim yeşillikleri, vücudunuzun ihtiyaç duyduğu vitamin ve mineralleri almak için harika bir seçenektir. Ayrıca, bu haftaki yemeklerinizde yer alan mikro besinlerin – örneğin D vitamini, selenyum ve magnezyum – lipödem sürecindeki rolü son derece önemli. Bu besin maddeleri, bağışıklık sisteminizi desteklerken, aynı zamanda vücudunuzun genel sağlığını da iyileştirir.\n\nBu haftanın temel adımları arasında, önerilen takviyeleri düzenli kullanmak, tarifleri uygulamak ve öğün dengesine dikkat etmek yer alıyor. Her küçük adım, bağırsak sağlığınızı iyileştirmenin yanı sıra bedeninizdeki değişimleri hızlandıracaktır. Ayrıca, ilerleyen haftalarda süt ürünlerini tekrar diyetinize dahil ettikçe, yumurta miktarınızı azaltmayı unutmayın. \n\nUnutmayın, bu süreçte her zaman yanınızdayım. Gözlemlerinizi ve yorumlarınızı merak ediyorum. Herhangi bir sorunuz olursa lütfen bizimle iletişime geçmekten çekinmeyin.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -757,6 +757,6 @@
   ],
   "olusturmaTarihi": "2026-05-12T14:34:06.530Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T07:22:41.586Z",
+  "sonGuncelleme": "2026-05-20T07:22:44.094Z",
   "githubKaydedildi": true
 }
