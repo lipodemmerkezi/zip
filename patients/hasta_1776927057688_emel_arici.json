@@ -1128,7 +1128,7 @@
       "pdfYolu": "pdfs/EMEL ARICI 25-31 MAYIS 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/EMEL ARICI 25-31 MAYIS 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/EMEL ARICI 25-31 MAYIS 5. HAFTA.pdf",
-      "kayitTarihi": "2026-05-20T07:05:46.724Z",
+      "kayitTarihi": "2026-05-20T07:07:46.474Z",
       "tarifKartlar": [
         {
           "tarifAdi": "sebzeli et tava",
@@ -1290,7 +1290,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Emel Hanım,\n\nBeşinci haftaya ulaştık. Bu hafta beslenme programınıza önemli bir destek ekliyoruz: Manuel lenfatik drenaj masajı. Kendi kendinize uygulayabileceğiniz bu masaj, sadece ellerinizi kullanarak gerçekleştirebileceğiniz bir yöntemdir. Hem eğitim hem de uygulama videolarını size ileteceğiz; böylece adım adım ne yapmanız gerektiğini görebileceksiniz. Masajı haftanın istediğiniz gününde, sabah ya da akşam uygulayabilirsiniz.\n\nBu dönemde, ilk dört haftada uyguladığınız beslenme protokolü sayesinde vücudunuzda özellikle lipödemli dokularda biriken inflamatuar sıvıların yavaş yavaş azaldığını gözlemliyoruz. Yağ dokusunun yumuşaması, inflamasyonun azalmasının bir göstergesi olarak değerlendirilebilir. Masaja başlamak için tam da doğru zaman; lenf sisteminizi harekete geçirecek bu uygulama, vücudunuzda biriken sıvıların atılımını hızlandıracak ve genel sağlığınıza katkıda bulunacaktır.\n\nMasajın etkileri oldukça geniş bir yelpazeye yayılıyor. Dokularda biriken sıvının atılımını hızlandırmasının yanı sıra, karaciğer ve böbrekler aracılığıyla toksinlerin vücuttan atılmasına yardımcı olur. Ayrıca bağışıklık sisteminizi dengeleyerek ruh hâlinizde gözle görülür iyileşmelere yol açabilir.\n\nBeslenme listenize baktığımda, bu hafta da lipödem yönetimi ve bölgesel incelme hedefleriniz doğrultusunda seçilmiş besinlerin yer aldığını görüyorum. Menünüzdeki haşlanmış yumurta, zeytin, sebzeli et tava ve kabak spagetti gibi öğünler, hem antiinflamatuar özellikleriyle hem de kan dolaşımını destekleyici etkileriyle öne çıkıyor. Özellikle çiğ badem, tulum peyniri ve ev yoğurdu gibi seçenekler, vücudunuza gerekli mikro besinleri sağlar. Bu mikro besinlerden D vitamini, magnezyum ve selenyum gibi değerli bileşenler, bağ dokusunun güçlenmesine yardımcı olur.\n\nBu hafta, masaj uygulamasını günlük rutininize entegre ederken, beslenme programınıza da titizlikle devam etmeniz önemli. Unutmayın, bu süreçte hem masajın hem de sağlıklı beslenmenin birleşimi, iyileşmenizi daha kalıcı ve etkili hale getirecek.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1389,6 +1389,6 @@
   ],
   "olusturmaTarihi": "2026-04-23T06:50:57.688Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T07:07:09.494Z",
+  "sonGuncelleme": "2026-05-20T07:07:46.487Z",
   "githubKaydedildi": true
 }
