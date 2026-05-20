@@ -611,7 +611,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nur Hanım,\n\nÜçüncü haftaya hoş geldiniz. Artık programımızda önemli bir aşamayı geride bırakıyoruz ve yeni bir döneme geçiyoruz. Bu hafta itibarıyla beslenme listenizde kontrollü şekilde süt ürünlerine yeniden yer vermeye başlıyoruz. İlk iki haftada uyguladığımız eliminasyon süreci, sindirim sisteminizi rahatlatmak ve bağırsak florasında istenmeyen bakteri ve mantarların yoğunluğunu azaltmak için kritik bir adımdı. Şimdi ise bu temelin üzerine sağlıklı bir yapı kurmaya başlıyoruz.\n\nBu hafta, bağırsak sağlığınızı desteklemeye yönelik önemli adımlar atıyoruz. Beslenme listeniz, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş, antiinflamatuar özelliklere sahip besinlerle dolu. Örneğin, menünüzde yer alan yoğurt ve peynir gibi fermente süt ürünleri, probiyotik etkileri sayesinde bağırsak florasını güçlendirecek ve sindirim sisteminizin dengesini iyileştirecektir. Yine, yumurta tüketiminizi biraz azaltarak, 30 gram kadar peynirle değişim yapmanız, hem çeşitlilik sağlamanıza hem de sürecin sürdürülebilirliğine katkı sunacaktır.\n\nBağırsak florası, vücudumuzun görünmeyen ama en güçlü sistemlerinden biridir. İyi besinlerle desteklenen faydalı bakteriler, bağışıklık sistemini güçlendirirken, inflamasyonu azaltır ve ruh halimizi olumlu yönde etkiler. Bu nedenle, bağırsak sağlığınıza odaklanmak, lipödem gibi kronik inflamatuar hastalıklar açısından oldukça önemlidir. \n\nBu haftada, maden suyu ve limon ile hazırlanan ara öğün öneriniz, sindirim sürecinizi destekleyecek ve vücudunuzdaki sıvı dengesini korumanıza yardımcı olacaktır. Ayrıca, takviyeleri düzenli kullanmak ve verilen tarifleri uygulamak, bedeninizdeki olumlu değişimleri hızlandıracaktır. \n\nÖlçüm almayı unutmayın; bu, ilerlemenizi net görebilmemiz açısından önemli. Eğer vücudunuzda herhangi bir yavaşlama hissederseniz, bunun doğal mekanizmaları (yağ hücrelerinden toksin salınımı veya metabolik adaptasyon gibi) olduğunu aklınızda bulundurmanızı öneririm.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -713,11 +713,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "ölçümlerini isteyelim\nMerhaba Nur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-20T07:24:13.041Z",
+  "sonGuncelleme": "2026-05-20T07:24:57.462Z",
   "githubKaydedildi": true
 }
