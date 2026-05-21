@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/AYŞE ÖNCAN 25-31 MAYIS 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÖNCAN 25-31 MAYIS 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÖNCAN 25-31 MAYIS 1. HAFTA.pdf",
-      "kayitTarihi": "2026-05-21T14:02:19.908Z",
+      "kayitTarihi": "2026-05-21T14:09:03.695Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -168,7 +168,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nNasılsınız? Pazartesi günü itibariyle programımızda ilk haftaya başlamış bulunuyoruz. Bu süreçte adım adım ilerleyeceğiz ve sade ama etkili bir yol haritası oluşturacağız. Lipödem ile ilgili bilgi edinmek, bu durumu daha iyi anlamak için önemli. Lipödem, özellikle kadınlarda bacaklar ve kollarda simetrik yağ birikimiyle kendini gösteren, genetik ve hormonal faktörlere bağlı gelişen bir hastalıktır. Doğru bir yönetimle ilerlemesi durdurulabilir ve hatta gerileme sağlanabilir.\n\nBu hafta, süt ve süt ürünlerini programdan kısa bir süreliğine çıkarıyoruz. Bunun amacı, gizli gıda duyarlılıklarını gözlemlemek, vücutta inflamasyonu tetikleyen kaynakları azaltmak ve bağırsak florasını güçlendirmek için uygun bir zemin hazırlamaktır. Süt ürünleri 3. haftadan itibaren kontrollü bir şekilde programa dahil edilecektir.\n\nBeslenme planımızda yer alan yumurta, protein ihtiyacınızı karşılamanın yanı sıra, A, D ve B12 vitaminleri ile selenyum gibi önemli mikrobesinleri de sağlıyor. Bu besinler, lipödem sürecinde vücudunuzu desteklemek için büyük rol oynuyor. İlk haftalarda yumurta tüketiminiz biraz daha fazla olabilir; ilerleyen haftalarda süt ürünleri eklenince bu oran doğal olarak azalacaktır.\n\nAynı zamanda, bu süreçte bazı takviyelerden de faydalanabiliriz. Ödemi azaltmak, dolaşımı desteklemek ve dokuların onarım sürecine katkıda bulunmak amacıyla önerdiğimiz takviyeler, ihtiyaç ve hedeflerinize göre belirlenebilir. \n\nHer iki haftada bir, pazar günü ölçüm almanızı rica ediyorum. Bel, kalça ve bacak çevresi gibi bölgelerin ölçümünü düzenli olarak kaydetmek, ilerlemeyi daha net görmemizi sağlayacaktır. Bu süreçte tartıya değil, incelmeye odaklanacağız.\n\nBu haftanın temel adımları:\n- Süt ürünlerini bırakıyoruz.\n- Yumurtayı temel protein kaynağı olarak kullanıyoruz.\n- Günlük su tüketimini artırıyoruz.\n- Gerekli görülürse takviyelere başlıyoruz.\n- İlk ölçümler alınıyor ve not ediliyor.\n\nUnutmayın ki programın başlangıcı genellikle en zor kısımdır, ancak kısa süre içinde bedeninizdeki değişimleri hissetmeye başlayacaksınız. Küçük ama etkili adımlarla bu süreci birlikte yöneteceğiz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -272,6 +272,6 @@
   ],
   "olusturmaTarihi": "2026-05-21T14:01:43.810Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-21T14:04:45.626Z",
+  "sonGuncelleme": "2026-05-21T14:09:03.706Z",
   "githubKaydedildi": true
 }
