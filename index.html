@@ -19215,25 +19215,34 @@ ${mesajlar.join('\n')}
                     </h3>
                     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 15px;">
                         <div>
-                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">OpenAI
-                                API
-                                Key:</label>
-                            <input type="password" id="gptApiKey" placeholder="sk-..."
-                                style="width: 100%; padding: 10px; border: 1px solid #ced4da; border-radius: 4px;">
+                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">OpenAI API Key:</label>
+                            <div style="position: relative; display: flex; align-items: center;">
+                                <input type="password" id="gptApiKey" placeholder="sk-..." style="width: 100%; padding: 10px; padding-right: 70px; border: 1px solid #ced4da; border-radius: 4px; box-sizing: border-box;">
+                                <div style="position: absolute; right: 10px; display: flex; gap: 8px; z-index: 2;">
+                                    <span onclick="togglePasswordVisibility('gptApiKey', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Göster/Gizle">👁️</span>
+                                    <span onclick="copyInputValue('gptApiKey', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Kopyala">📋</span>
+                                </div>
+                            </div>
                         </div>
                         <div>
-                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Claude
-                                API
-                                Key:</label>
-                            <input type="password" id="claudeApiKey" placeholder="sk-ant-..."
-                                style="width: 100%; padding: 10px; border: 1px solid #ced4da; border-radius: 4px;">
+                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Claude API Key:</label>
+                            <div style="position: relative; display: flex; align-items: center;">
+                                <input type="password" id="claudeApiKey" placeholder="sk-ant-..." style="width: 100%; padding: 10px; padding-right: 70px; border: 1px solid #ced4da; border-radius: 4px; box-sizing: border-box;">
+                                <div style="position: absolute; right: 10px; display: flex; gap: 8px; z-index: 2;">
+                                    <span onclick="togglePasswordVisibility('claudeApiKey', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Göster/Gizle">👁️</span>
+                                    <span onclick="copyInputValue('claudeApiKey', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Kopyala">📋</span>
+                                </div>
+                            </div>
                         </div>
                         <div>
-                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Google
-                                API
-                                Key:</label>
-                            <input type="password" id="geminiApiKey" placeholder="AIza..."
-                                style="width: 100%; padding: 10px; border: 1px solid #ced4da; border-radius: 4px;">
+                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Google API Key:</label>
+                            <div style="position: relative; display: flex; align-items: center;">
+                                <input type="password" id="geminiApiKey" placeholder="AIza..." style="width: 100%; padding: 10px; padding-right: 70px; border: 1px solid #ced4da; border-radius: 4px; box-sizing: border-box;">
+                                <div style="position: absolute; right: 10px; display: flex; gap: 8px; z-index: 2;">
+                                    <span onclick="togglePasswordVisibility('geminiApiKey', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Göster/Gizle">👁️</span>
+                                    <span onclick="copyInputValue('geminiApiKey', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Kopyala">📋</span>
+                                </div>
+                            </div>
                         </div>
                         <div>
                             <label
@@ -19285,21 +19294,49 @@ ${mesajlar.join('\n')}
 
                         <!-- Google Drive Ayarları -->
                         <div style="margin-top: 15px;">
-                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Google
-                                Drive API
-                                Key:</label>
-                            <input type="password" id="googleDriveApiKey" placeholder="AIza..."
-                                style="width: 100%; padding: 10px; border: 1px solid #ced4da; border-radius: 4px;">
+                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Google Drive API Key:</label>
+                            <div style="position: relative; display: flex; align-items: center;">
+                                <input type="password" id="googleDriveApiKey" placeholder="AIza..." style="width: 100%; padding: 10px; padding-right: 70px; border: 1px solid #ced4da; border-radius: 4px; box-sizing: border-box;">
+                                <div style="position: absolute; right: 10px; display: flex; gap: 8px; z-index: 2;">
+                                    <span onclick="togglePasswordVisibility('googleDriveApiKey', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Göster/Gizle">👁️</span>
+                                    <span onclick="copyInputValue('googleDriveApiKey', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Kopyala">📋</span>
+                                </div>
+                            </div>
                         </div>
 
                         <div style="margin-top: 15px;">
-                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Google
-                                Drive Client
-                                ID:</label>
-                            <input type="text" id="googleDriveClientId" placeholder="123456789..."
-                                style="width: 100%; padding: 10px; border: 1px solid #ced4da; border-radius: 4px;">
+                            <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Google Drive Client ID:</label>
+                            <div style="position: relative; display: flex; align-items: center;">
+                                <input type="text" id="googleDriveClientId" placeholder="123456789..." style="width: 100%; padding: 10px; padding-right: 40px; border: 1px solid #ced4da; border-radius: 4px; box-sizing: border-box;">
+                                <div style="position: absolute; right: 10px; display: flex; gap: 8px; z-index: 2;">
+                                    <span onclick="copyInputValue('googleDriveClientId', this)" style="cursor: pointer; opacity: 0.6; font-size: 16px;" title="Kopyala">📋</span>
+                                </div>
+                            </div>
                         </div>
                     </div>
+                    
+                    <script>
+                    function togglePasswordVisibility(id, el) {
+                        const input = document.getElementById(id);
+                        if (input.type === 'password') {
+                            input.type = 'text';
+                            el.style.opacity = '1';
+                        } else {
+                            input.type = 'password';
+                            el.style.opacity = '0.6';
+                        }
+                    }
+                    function copyInputValue(id, el) {
+                        const input = document.getElementById(id);
+                        if (input.value) {
+                            navigator.clipboard.writeText(input.value).then(() => {
+                                const oldText = el.innerText;
+                                el.innerText = '✅';
+                                setTimeout(() => el.innerText = oldText, 2000);
+                            });
+                        }
+                    }
+                    </script>
                 </div>
 
                 <!-- YENİ: Sistem Promptları Bölümü (Split View) -->
