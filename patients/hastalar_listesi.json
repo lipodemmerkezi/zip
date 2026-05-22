@@ -156,13 +156,6 @@
     "sonGuncelleme": "2026-05-20T06:07:04.494Z"
   },
   {
-    "id": 1772195725290,
-    "isim": "REYHAN YILDIRIM",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-05-18T08:03:31.674Z"
-  },
-  {
     "id": 1774352603470,
     "isim": "SEHER YILMAZ",
     "not": "",
@@ -865,6 +858,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-11-18T17:56:01.534Z"
+  },
+  {
+    "id": 1772195725290,
+    "isim": "REYHAN YILDIRIM",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-05-22T06:03:52.930Z"
   },
   {
     "id": 1753684609441,
