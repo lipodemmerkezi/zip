@@ -1329,7 +1329,7 @@
       "pdfYolu": "pdfs/NİGAR ÇAKIROĞULLARI 1-7 HAZİRAN 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİGAR ÇAKIROĞULLARI 1-7 HAZİRAN 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİGAR ÇAKIROĞULLARI 1-7 HAZİRAN 6. HAFTA.pdf",
-      "kayitTarihi": "2026-05-25T09:08:24.586Z",
+      "kayitTarihi": "2026-05-25T09:10:10.453Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -1509,8 +1509,8 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
-      "kilitli": false,
+      "gptMesaj": "Merhaba Nigar Hanım,\n\nAltıncı haftaya geçerken, programınızın artık iyice oturduğunu ve uyguladığınız adımların bedeninizde hissedilir değişimler yaratmaya başladığını düşünüyorum. Geçtiğimiz hafta manuel lenfatik drenaj (MLD) masajlarına başlamış olmalısınız. Bu yeni alışkanlığın size nasıl hissettirdiğini ve masaj takvimini uygularken gözlemlerinizi merak ediyorum. Bu masajlar, beslenme düzeninizle birlikte lenfatik sisteminizi destekleyerek dokulardaki sıvı atılımını hızlandırıyor ve hücreler arası iyileşmeyi destekliyor.\n\nBu noktada, sürecin daha da derinleştiği ve hücresel düzeyde kritik önem taşıyan bir konuyu, yani mikrobesinleri sizinle paylaşmak istiyorum. Bunlar, vücudumuzun çok küçük miktarlarda ihtiyaç duyduğu ancak lipödem tedavisinde ve genel sağlığımızda devasa görevler üstlenen vitamin ve minerallerdir. Özellikle D vitamini, B12 vitamini, çinko, magnezyum, C vitamini ve selenyum gibi mikrobesinler, lipödem tedavisinde ve genel sağlığınızda kilit rol oynar. Bu besinler, hücrelerimizin enerji santralleri olan mitokondrilerin daha verimli çalışmasını sağlayarak enerji üretimini artırır, iyileşmeyi hızlandırır ve inflamasyonu kontrol altında tutar.\n\nMenünüzdeki besinleri bu gözle incelediğimizde, ne kadar zengin bir içeriğe sahip olduğunuzu görüyorum. Örneğin, sucuklu yumurta, haşlanmış yumurta, sahanda yumurta, sebzeli omlet, menemen ve ızgara balık gibi seçenekler, bağışıklık sisteminizi ve hormonal dengenizi destekleyen D vitamini ve selenyum açısından oldukça değerlidir. Mantarlı et sote, köfte, Urfa/Adana kebap gibi kırmızı etler ve tavuk çorbası, patlıcanlı tavuk sote gibi tavuk yemekleri ise sinir sistemi sağlığınız ve enerji üretiminiz için kritik olan B12 vitamini ve çinko mineralini sağlar.\n\nBol miktarda yer verdiğimiz salatalık, domates, maydanoz, yeşil biber, marul, dereotu, roka, kırmızı lahana, pazı, semizotu, ıspanak, lahana, kapya biber ve çilek gibi sebze ve meyveler, ödem atımını kolaylaştıran magnezyum ve C vitamini deposudur. C vitamini aynı zamanda kolajen üretimi için de gereklidir; bu da cilt sıkılaşması ve damar yapısının güçlenmesi anlamına gelir. Salatalarınıza eklediğiniz sirke ve limon ise bu besinlerin emilimini artırarak sindiriminize destek olur. Ayrıca, fındık, badem, ceviz, kabak çekirdeği ve tahin gibi sağlıklı yağ kaynakları da çinko ve magnezyum gibi mineraller açısından zengin olup, tokluk hissinizi desteklerken hormonal dengenize katkıda bulunur.\n\nÜçüncü haftadan itibaren kontrollü olarak menüye dahil ettiğimiz beyaz peynir, tulum/kaşar peyniri, ayran ve yoğurtlu mezeler ise bağırsak sağlığınızı desteklemeye devam ediyor. Organik ve ev yapımı turşular da bağırsak floranıza faydalı olacaktır. Browni kurabiye gibi özel seçenekler ise dengeli ve keyifli bir yaklaşımın parçası olarak yerini alıyor. Kollajen desteğiniz de bağ dokusunu güçlendirme görevine istikrarlı bir şekilde devam ediyor.\n\nUnutmayın, lipödem tedavisinde sadece tartıdaki rakamlar değil, bölgesel incelme, kıyafetlerinizdeki değişim ve doku kalitesindeki iyileşme de çok önemlidir. Bu nedenle iki haftada bir aldığınız ölçümleri de bana iletmenizi rica ediyorum. Bazen kilo kaybı yavaşlasa da, bu durum yağ hücrelerinden toksin salınımı veya metabolik adaptasyon gibi doğal süreçlerin bir parçası olabilir. Önemli olan, bedeninizdeki genel hafifleme ve iyileşme hissidir.\n\nBu hafta size mikrobesinlerle ilgili detaylı bir bilgilendirme dosyası da gönderiyor olacağız. Bu içerikler, hangi vitamin ve minerallerin ne işe yaradığını, neden önemli olduklarını ve bunları doğal kaynaklardan nasıl karşılayabileceğinizi daha ayrıntılı gösterecek. Altıncı haftadan itibaren bu derin katmana daha bilinçli yaklaşmak, sürecimizi daha da etkili hale getirecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1620,11 +1620,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "masajlara başlamış mı?\nölçüm isteyelim\nMerhaba Ni̇gar Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T09:08:37.534Z",
+  "sonGuncelleme": "2026-05-25T09:10:10.468Z",
   "githubKaydedildi": true
 }
