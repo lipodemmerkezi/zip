@@ -2558,24 +2558,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-05-31",
-      "bitis": "2026-06-06",
+      "baslangic": "2026-06-01",
+      "bitis": "2026-06-07",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "TÜLİN CAN 1-7 HAZİRAN 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "TÜLİN CAN 1-7 HAZİRAN 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/TÜLİN CAN 1-7 HAZİRAN 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/TÜLİN CAN 1-7 HAZİRAN 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/TÜLİN CAN 1-7 HAZİRAN 10. HAFTA.pdf",
+      "kayitTarihi": "2026-05-25T06:17:00.191Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T06:16:43.031Z",
+  "sonGuncelleme": "2026-05-25T06:17:00.202Z",
   "githubKaydedildi": true
 }
