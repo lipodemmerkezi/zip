@@ -1861,20 +1861,23 @@
       "bitis": "2026-06-07",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE BALCI 1-7 HAZİRAN 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE BALCI  1-7 HAZİRAN 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE BALCI 1-7 HAZİRAN 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE BALCI 1-7 HAZİRAN 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE BALCI 1-7 HAZİRAN 8. HAFTA.pdf",
+      "kayitTarihi": "2026-05-25T06:42:07.508Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T12:43:18.883Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T06:41:48.289Z",
+  "sonGuncelleme": "2026-05-25T06:42:07.511Z",
   "githubKaydedildi": true
 }
