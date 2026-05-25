@@ -271,24 +271,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-05-31",
-      "bitis": "2026-06-06",
+      "baslangic": "2026-06-01",
+      "bitis": "2026-06-07",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE ÖNCAN 1-7 HAZİRAN 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE ÖNCAN 1-7 HAZİRAN 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE ÖNCAN 1-7 HAZİRAN 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÖNCAN 1-7 HAZİRAN 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÖNCAN 1-7 HAZİRAN 2. HAFTA.pdf",
+      "kayitTarihi": "2026-05-25T06:03:15.305Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-21T14:01:43.810Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T06:03:03.459Z",
+  "sonGuncelleme": "2026-05-25T06:03:15.307Z",
   "githubKaydedildi": true
 }
