@@ -929,7 +929,7 @@
       "pdfYolu": "pdfs/AYFER ÇETİN 1-7 HAZİRAN 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYFER ÇETİN 1-7 HAZİRAN 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYFER ÇETİN 1-7 HAZİRAN 4. HAFTA.pdf",
-      "kayitTarihi": "2026-05-25T09:30:31.391Z",
+      "kayitTarihi": "2026-05-25T09:32:20.978Z",
       "tarifKartlar": [
         {
           "tarifAdi": "hindistancevizi unlu ispanaklı muffin",
@@ -1097,7 +1097,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayfer Hanım,\n\nDördüncü haftaya geldik ve bu süreçte attığınız adımların ne kadar değerli olduğunu biliyorum. Semin Hanım ile yaptığınız görüşme ve böbrek sağlığınıza yönelik dikkatli yaklaşımınız çok önemli. Bol su içme ve ilaç düzenlemeleri konusunda gösterdiğiniz özen, genel iyiliğiniz için büyük bir fark yaratıyor. Çocukların gelmesiyle diyet düzeninde yaşanan minik aksaklıklar ise hayatın doğal akışı içinde karşımıza çıkabilecek durumlar. Önemli olan, bu tür dönemleri toparlayarak programa devam etme azminiz. Ölçümlerinizin iyi gitmesi de harika bir geri bildirim, bu incelme odaklı ilerleyişimizin doğru yolda olduğunun bir göstergesi. Bayram sonrası kan tetkiklerinizi de kontrol ederek genel durumunuzu daha detaylı değerlendireceğiz.\n\nBu hafta, beslenme düzenimizde metabolik hızınızı desteklemeye ve doğru yemek miktarlarını anlamaya odaklanıyoruz. Geçtiğimiz haftalarda temel bilgilerle başlayıp bağırsak sağlığınızı güçlendirme adımları atmıştık. Şimdi ise, vücudunuzun enerji dengesini ve kas sağlığını korumanın ne kadar önemli olduğunu daha yakından inceleyeceğiz.\n\nBeslenme listenize baktığımda, lipödem tedavisi ve bölgesel incelme hedefleriniz doğrultusunda oldukça çeşitli ve besleyici öğünler görüyorum. Özellikle protein kaynaklarına ağırlık verildiğini fark ediyorum: sahanda yumurta, kavurmalı yumurta, peynirli tavuk sarma, nohut yemeği (tavuk ya da kırmızı et ile), Urfa/Adana kebap, kuzu/tavuk güveç, ızgara/fırında balık ve mantar soslu köfte gibi seçenekler, kas kütlenizi korumanıza ve metabolizmanızı canlı tutmanıza yardımcı olacak. Bu hayvansal proteinler, vücudunuzun ihtiyaç duyduğu tüm temel aminoasitleri sağlayarak doku onarımı, bağışıklık sistemi ve hormonal denge için kritik bir rol oynar. Yeterli protein alımı, özellikle yağ kaybı sürecinde kas kaybını önlemek adına hayati önem taşır.\n\nListede yer alan tulum/kaşar peyniri, beyaz peynir ve borani (yoğurtlu ıspanak) gibi besinler, üçüncü haftada beslenmenize tekrar dahil ettiğimiz süt ürünlerinin faydalarını sunmaya devam ediyor. Bu ürünler, kalsiyum ve protein sağlarken, borani gibi fermente gıdalar bağırsak floranızın çeşitliliğini destekler.\n\nSağlıklı yağlar açısından zengin olan kabak çekirdeği, çiğ badem, zeytinyağı ve tereyağı gibi seçenekler, hem uzun süre tok kalmanızı sağlayacak hem de anti-inflamatuar etki göstererek lipödemle mücadelenizde önemli bir yer tutacak. Bu yağlar, aynı zamanda yağda çözünen D vitamini gibi mikro besinlerin emilimi için de gereklidir. Ispanaklı muffin, yeşillikler, mevsim salata, semizotu salatası, közlenmiş kapya biber ve fırında sebzeli peynirli güveç gibi seçenekler ise lif, vitamin ve antioksidan açısından zengin olup bağırsak sağlığınızı ve genel bağışıklığınızı destekler. Bu sebzeler magnezyum ve C vitamini gibi önemli mikro besinleri almanıza yardımcı olurken, yumurta, et ve balık gibi protein kaynakları B12, çinko ve selenyum gibi elzem mineralleri de sağlar.\n\nBu süreçte, \"az yiyerek\" başarıya ulaşma yanılgısından uzak durmak çok değerli. Çünkü yetersiz beslenme, vücudun açlık hormonu olan ghrelini tetikleyerek kontrolsüz yeme ataklarına ve metabolizma hızının yavaşlamasına neden olabilir. Bizim hedefimiz, sizi doyuran, insülin dengenizi koruyan ve metabolik hızınızı destekleyen, besin değeri yüksek bir düzen oluşturmak. Bu şekilde, hem daha sürdürülebilir bir incelme süreci yaşayacak hem de kendinizi daha enerjik ve iyi hissedeceksiniz. Karabuğday ekmeği gibi kontrollü karbonhidrat kaynakları ve cevizli browni kek gibi dengeleyici lezzetler de, bu dengeli yapının bir parçası olarak planlanmıştır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1193,6 +1193,6 @@
   ],
   "olusturmaTarihi": "2026-05-08T13:10:14.820Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T09:32:19.017Z",
+  "sonGuncelleme": "2026-05-25T09:32:20.991Z",
   "githubKaydedildi": true
 }
