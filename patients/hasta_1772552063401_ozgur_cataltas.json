@@ -3935,24 +3935,27 @@
     },
     {
       "haftaNo": 14,
-      "baslangic": "2026-05-31",
-      "bitis": "2026-06-06",
+      "baslangic": "2026-06-01",
+      "bitis": "2026-06-07",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZGÜR ÇATALTAŞ 1-7 HAZİRAN 14. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZGÜR ÇATALTAŞ 1-7 HAZİRAN 14. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZGÜR ÇATALTAŞ 1-7 HAZİRAN 14. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZGÜR ÇATALTAŞ 1-7 HAZİRAN 14. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZGÜR ÇATALTAŞ 1-7 HAZİRAN 14. HAFTA.pdf",
+      "kayitTarihi": "2026-05-25T06:06:35.304Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-03T15:34:23.401Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T06:06:18.880Z",
+  "sonGuncelleme": "2026-05-25T06:06:35.312Z",
   "githubKaydedildi": true
 }
