@@ -280,7 +280,7 @@
       "pdfYolu": "pdfs/AYŞE ÖNCAN 1-7 HAZİRAN 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÖNCAN 1-7 HAZİRAN 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÖNCAN 1-7 HAZİRAN 2. HAFTA.pdf",
-      "kayitTarihi": "2026-05-25T06:03:15.305Z",
+      "kayitTarihi": "2026-05-25T06:05:40.839Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -416,7 +416,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nNasılsınız? Programımızın ikinci haftasına geçiş yapıyoruz. Bu süreçte attığınız her küçük adımın, zamanla büyük değişimlere yol açacağını birlikte göreceğiz. Lipödemle mücadelede hızlı çözümler yerine kalıcı değişiklikler hedeflediğimiz için sabırlı ve kararlı olmanız önemli.\n\nBu hafta, vücudunuzda bazı küçük değişimler hissetmeye başlayabilirsiniz. Ancak unutmayın ki asıl hedefimiz, dış görünümdeki değişimlerin yanı sıra hücresel düzeydeki iyileşmeleri de desteklemek. Her adım, hem lipödemle mücadelede hem de genel sağlık açısından büyük önem taşıyor.\n\nBu haftada, inflamasyonu azaltmak için seçimlerimizi dikkatlice yapıyoruz. Özellikle hazırlanan beslenme listesinde yer alan antiinflamatuar özelliklere sahip besinler, lenfatik sistemi desteklerken aynı zamanda kilo vermenize de yardımcı olacaktır. Örneğin, günlük olarak tüketmeniz önerilen çiğ badem ve zeytin gibi sağlıklı yağ kaynakları, hem insülin seviyelerini dengelemeye yardımcı olacak hem de uzun süre tokluk hissi sağlayacaktır.\n\nBeslenme planımızda yer alan yumurta, selenyum ve D vitamini gibi önemli mikro besinleri içeriyor. Bu besinler, lipödem sürecinde vücudunuzu desteklemek için büyük rol oynuyor. Bu dönemde, önerilen besinleri günlük rutininize dahil etmeniz oldukça önemli. Özellikle hindistancevizi unlu ispanaklı muffin ve mantarlı yumurta gibi seçenekler, hem lezzetli hem de sağlıklı alternatifler sunuyor.\n\nBu hafta, ölçüm almayı unutmamanız da önemli. Önceki hafta yaptığınız ölçümleri düzenli olarak kaydetmek, ilerlemenizi takip etmemizi sağlar. Unutmayın ki bu süreçte tartıya odaklanmaktan ziyade, incelmeye odaklanıyoruz.\n\nTüm bu gelişmeleri birlikte takip edecek ve sizinle paylaşacağız. Unutmayın, adım adım ilerliyoruz ve her zaman destek için buradayız. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -513,6 +513,6 @@
   ],
   "olusturmaTarihi": "2026-05-21T14:01:43.810Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T06:05:33.122Z",
+  "sonGuncelleme": "2026-05-25T06:05:40.850Z",
   "githubKaydedildi": true
 }
