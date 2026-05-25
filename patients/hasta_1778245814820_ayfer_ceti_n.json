@@ -920,24 +920,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-05-31",
-      "bitis": "2026-06-06",
+      "baslangic": "2026-06-01",
+      "bitis": "2026-06-07",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYFER ÇETİN 1-7 HAZİRAN 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYFER ÇETİN 1-7 HAZİRAN 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYFER ÇETİN 1-7 HAZİRAN 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYFER ÇETİN 1-7 HAZİRAN 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYFER ÇETİN 1-7 HAZİRAN 4. HAFTA.pdf",
+      "kayitTarihi": "2026-05-25T09:30:31.391Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-08T13:10:14.820Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T09:30:13.309Z",
+  "sonGuncelleme": "2026-05-25T09:30:31.393Z",
   "githubKaydedildi": true
 }
