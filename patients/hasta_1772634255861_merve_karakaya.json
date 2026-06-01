@@ -2,7 +2,7 @@
   "id": 1772634255861,
   "isim": "MERVE KARAKAYA",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3847,6 +3847,6 @@
   ],
   "olusturmaTarihi": "2026-03-04T14:24:15.861Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-01T05:41:34.798Z",
+  "sonGuncelleme": "2026-06-01T05:41:41.806Z",
   "githubKaydedildi": true
 }
