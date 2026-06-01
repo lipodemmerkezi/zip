@@ -2,7 +2,7 @@
   "id": 1754989193464,
   "isim": "SELVER KURU",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 3,
@@ -10425,7 +10425,7 @@
   ],
   "olusturmaTarihi": "2025-08-12T08:59:53.464Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-04-28T06:59:37.795Z",
+  "sonGuncelleme": "2026-06-01T05:42:12.015Z",
   "githubKaydedildi": true,
   "telefonAranacak": true
 }
