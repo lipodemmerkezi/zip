@@ -3081,24 +3081,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-06-07",
-      "bitis": "2026-06-13",
+      "baslangic": "2026-06-08",
+      "bitis": "2026-06-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEHER YILMAZ 8-14 HAZİRAN 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEHER YILMAZ 8-14 HAZİRAN 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEHER YILMAZ 8-14 HAZİRAN 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEHER YILMAZ 8-14 HAZİRAN 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEHER YILMAZ 8-14 HAZİRAN 12. HAFTA.pdf",
+      "kayitTarihi": "2026-06-03T06:26:44.894Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-24T11:43:23.471Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-03T06:23:14.907Z",
+  "sonGuncelleme": "2026-06-03T06:26:44.900Z",
   "githubKaydedildi": true
 }
