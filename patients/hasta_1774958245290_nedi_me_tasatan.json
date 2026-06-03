@@ -2641,24 +2641,27 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-06-07",
-      "bitis": "2026-06-13",
+      "baslangic": "2026-06-08",
+      "bitis": "2026-06-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NEDİME TAŞATAN 8-14 HAZİRAN 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "NEDİME TAŞATAN 8-14 HAZİRAN 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/NEDİME TAŞATAN 8-14 HAZİRAN 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NEDİME TAŞATAN 8-14 HAZİRAN 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NEDİME TAŞATAN 8-14 HAZİRAN 11. HAFTA.pdf",
+      "kayitTarihi": "2026-06-03T06:41:54.401Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-03T06:41:37.209Z",
+  "sonGuncelleme": "2026-06-03T06:41:54.405Z",
   "githubKaydedildi": true
 }
