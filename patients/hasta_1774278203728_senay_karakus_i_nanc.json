@@ -3075,10 +3075,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "incelme düzeyi iyi. kilo da duraksama nedeniyle haftanın 2 günü tek öğün önerdik.\nMerhaba Şenay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 11. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-06-07",
+      "bitis": "2026-06-13",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-05-25T06:24:20.930Z",
+  "sonGuncelleme": "2026-06-03T06:35:59.915Z",
   "githubKaydedildi": true
 }
