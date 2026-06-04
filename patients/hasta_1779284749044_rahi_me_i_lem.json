@@ -367,24 +367,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-05-31",
-      "bitis": "2026-06-06",
+      "baslangic": "2026-06-08",
+      "bitis": "2026-06-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "RAHİME İLEM 8-14 HAZİRAN 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "RAHİME İLEM 8-14 HAZİRAN 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/RAHİME İLEM 8-14 HAZİRAN 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RAHİME İLEM 8-14 HAZİRAN 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RAHİME İLEM 8-14 HAZİRAN 2. HAFTA.pdf",
+      "kayitTarihi": "2026-06-04T14:45:20.529Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-20T13:45:49.044Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-04T14:45:00.661Z",
+  "sonGuncelleme": "2026-06-04T14:45:20.530Z",
   "githubKaydedildi": true
 }
