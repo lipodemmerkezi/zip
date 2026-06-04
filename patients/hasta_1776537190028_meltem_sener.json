@@ -2010,24 +2010,27 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-06-07",
-      "bitis": "2026-06-13",
+      "baslangic": "2026-06-08",
+      "bitis": "2026-06-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MELTEM ŞENER 8-14 HAZİRAN 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "MELTEM ŞENER 8-14 HAZİRAN 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/MELTEM ŞENER 8-14 HAZİRAN 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MELTEM ŞENER 8-14 HAZİRAN 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MELTEM ŞENER 8-14 HAZİRAN 8. HAFTA.pdf",
+      "kayitTarihi": "2026-06-04T12:43:00.292Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-18T18:33:10.028Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-04T12:42:39.529Z",
+  "sonGuncelleme": "2026-06-04T12:43:00.295Z",
   "githubKaydedildi": true
 }
