@@ -738,24 +738,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-06-07",
-      "bitis": "2026-06-13",
+      "baslangic": "2026-06-08",
+      "bitis": "2026-06-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEZİN GÜRCAN AKYOL 8-14 HAZİRAN 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEZİN GÜRCAN AKYOL 8-14 HAZİRAN 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEZİN GÜRCAN AKYOL 8-14 HAZİRAN 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEZİN GÜRCAN AKYOL 8-14 HAZİRAN 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEZİN GÜRCAN AKYOL 8-14 HAZİRAN 4. HAFTA.pdf",
+      "kayitTarihi": "2026-06-04T14:46:04.487Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-18T16:58:40.699Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-04T14:45:43.764Z",
+  "sonGuncelleme": "2026-06-04T14:46:04.488Z",
   "githubKaydedildi": true
 }
