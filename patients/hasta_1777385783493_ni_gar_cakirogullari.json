@@ -1625,24 +1625,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-06-07",
-      "bitis": "2026-06-13",
+      "baslangic": "2026-06-08",
+      "bitis": "2026-06-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NİGAR ÇAKIROĞULLARI 8-14 HAZİRAN 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "NİGAR ÇAKIROĞULLARI 8-14 HAZİRAN 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/NİGAR ÇAKIROĞULLARI 8-14 HAZİRAN 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİGAR ÇAKIROĞULLARI 8-14 HAZİRAN 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİGAR ÇAKIROĞULLARI 8-14 HAZİRAN 7. HAFTA.pdf",
+      "kayitTarihi": "2026-06-04T12:56:24.597Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-04T12:55:39.963Z",
+  "sonGuncelleme": "2026-06-04T12:56:24.599Z",
   "githubKaydedildi": true
 }
