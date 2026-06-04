@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-05-31",
-      "bitis": "2026-06-06",
+      "baslangic": "2026-06-08",
+      "bitis": "2026-06-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMANA KUYBEN 8-14 HAZİRAN 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "FATMANA KUYBEN 8-14 HAZİRAN 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/FATMANA KUYBEN 8-14 HAZİRAN 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FATMANA KUYBEN 8-14 HAZİRAN 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FATMANA KUYBEN 8-14 HAZİRAN 1. HAFTA.pdf",
+      "kayitTarihi": "2026-06-04T11:20:13.962Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-04T11:20:03.020Z",
+  "sonGuncelleme": "2026-06-04T11:20:13.964Z",
   "githubKaydedildi": true
 }
