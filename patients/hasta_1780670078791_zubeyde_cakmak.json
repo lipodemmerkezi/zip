@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-01",
-      "bitis": "2026-06-07",
+      "baslangic": "2026-06-08",
+      "bitis": "2026-06-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ZÜBEYDE ÇAKMAK 8-14 HAZİRAN 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ZÜBEYDE ÇAKMAK 8-14 HAZİRAN 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ZÜBEYDE ÇAKMAK 8-14 HAZİRAN 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZÜBEYDE ÇAKMAK 8-14 HAZİRAN 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZÜBEYDE ÇAKMAK 8-14 HAZİRAN 1. HAFTA.pdf",
+      "kayitTarihi": "2026-06-05T14:35:21.509Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-05T14:35:08.000Z",
+  "sonGuncelleme": "2026-06-05T14:35:21.510Z",
   "githubKaydedildi": true
 }
