@@ -2,7 +2,7 @@
   "id": 1773407118306,
   "isim": "AYŞE BAKAR",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3776,6 +3776,6 @@
   ],
   "olusturmaTarihi": "2026-03-13T13:05:18.306Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-03T06:18:30.844Z",
+  "sonGuncelleme": "2026-06-05T06:24:16.314Z",
   "githubKaydedildi": true
 }
