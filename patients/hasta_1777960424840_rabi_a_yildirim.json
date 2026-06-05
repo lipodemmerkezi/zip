@@ -1297,10 +1297,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ]
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-06-07",
+      "bitis": "2026-06-13",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-05T06:20:22.146Z",
+  "sonGuncelleme": "2026-06-05T06:20:55.076Z",
   "githubKaydedildi": true
 }
