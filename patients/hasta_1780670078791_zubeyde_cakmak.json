@@ -20,10 +20,27 @@
       "tarifler": [],
       "gptMesaj": "",
       "kilitli": false
+    },
+    {
+      "haftaNo": 2,
+      "baslangic": "2026-06-06",
+      "bitis": "2026-06-12",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-05T14:34:59.642Z",
+  "sonGuncelleme": "2026-06-05T14:35:03.570Z",
   "githubKaydedildi": true
 }
