@@ -6,25 +6,8 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-05-31",
-      "bitis": "2026-06-06",
-      "aciklama": "",
-      "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
-      "tarifKartlar": [],
-      "tarifler": [],
-      "gptMesaj": "",
-      "kilitli": false
-    },
-    {
-      "haftaNo": 2,
-      "baslangic": "2026-06-06",
-      "bitis": "2026-06-12",
+      "baslangic": "2026-06-01",
+      "bitis": "2026-06-07",
       "aciklama": "",
       "pdf": null,
       "pdfName": null,
@@ -41,6 +24,6 @@
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-05T14:35:03.570Z",
+  "sonGuncelleme": "2026-06-05T14:35:08.000Z",
   "githubKaydedildi": true
 }
