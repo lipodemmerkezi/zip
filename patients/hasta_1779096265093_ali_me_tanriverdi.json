@@ -915,24 +915,26 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-05-25",
-      "bitis": "2026-05-31",
+      "baslangic": "2026-06-05",
+      "bitis": "2026-06-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ALİME TANRIVERDİ - 4. hafta pdf.pdf",
+      "pdfOrijinalIsim": "ALİME TANRIVERDİ - 4. hafta pdf.pdf",
+      "pdfYolu": "pdfs/ALİME TANRIVERDİ - 4. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ALİME TANRIVERDİ - 4. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ALİME TANRIVERDİ - 4. hafta pdf.pdf",
+      "kayitTarihi": "2026-06-05T06:30:31.656Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-18T09:24:25.093Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-05T06:29:58.671Z",
+  "sonGuncelleme": "2026-06-05T06:30:31.658Z",
   "githubKaydedildi": true
 }
