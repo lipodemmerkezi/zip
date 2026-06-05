@@ -15413,11 +15413,10 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                                 continue;
                             }
                             try {
-                                // 1. Önce dayanıklı fetch ile standart yolu dene
-                                let response = await resilientFetch(fixKart.url);
+                                let response = null;
 
-                                // 2. Eğer bulunamazsa veya hata olursa önbelleği kullan
-                                if ((!response || !response.ok) && githubFilesCache) {
+                                // 1. Önce önbellekte ara (konsol hatalarını önlemek için)
+                                if (githubFilesCache) {
                                     const searchName = fixKart.name.trim().toLowerCase();
                                     const foundFile = githubFilesCache.find(f => {
                                         const fName = f.name.trim().toLowerCase();
@@ -15428,6 +15427,11 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                                         console.log(`✅ Kart önbellekten bulundu: ${foundFile.name}`);
                                         response = await resilientFetch(foundFile.download_url);
                                     }
+                                }
+
+                                // 2. Önbellekte yoksa veya indirilemediyse, orijinal URL'yi dene
+                                if (!response || !response.ok) {
+                                    response = await resilientFetch(fixKart.url);
                                 }
 
                                 if (!response || !response.ok) {
@@ -17557,6 +17561,28 @@ ${mesajlar.join('\n')}
                         const bugununTarihi = new Date().toISOString().slice(0, 10);
                         const anaZipAdi = `TOPLU_HASTA_ZIP_${bugununTarihi}.zip`;
 
+                        // Önbellek: Klasör listesini bir kez çek (Hız ve Bağlantı güvenliği için)
+                        let githubFilesCache = null;
+                        try {
+                            const owner = GITHUB_REPO.split('/')[0] || 'lipodemmerkezi';
+                            const repo = GITHUB_REPO.split('/')[1] || 'zip';
+                            const paths = ['fix_kartlar', 'fix_kartlar%20'];
+                            for (let p of paths) {
+                                try {
+                                    const headers = {};
+                                    if (GITHUB_TOKEN) headers['Authorization'] = `token ${GITHUB_TOKEN}`;
+                                    const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${p}`, { headers });
+                                    if (r.ok) {
+                                        githubFilesCache = await r.json();
+                                        console.log(`📂 GitHub klasör listesi başarıyla önbelleğe alındı (${p})`);
+                                        break;
+                                    }
+                                } catch (e) { }
+                            }
+                        } catch (cacheErr) {
+                            console.warn('⚠️ GitHub önbellek oluşturulamadı.');
+                        }
+
                         // Progress gösterimi
                         const progressDiv = document.createElement('div');
                         progressDiv.style.cssText = `
@@ -17790,8 +17816,28 @@ ${mesajlar.join('\n')}
                                                 continue;
                                             }
                                             try {
-                                                const response = await fetch(fixKart.url);
-                                                if (response.ok) {
+                                                let response = null;
+
+                                                // Önce önbellekte ara (konsol hatalarını önlemek için)
+                                                if (githubFilesCache) {
+                                                    const searchName = fixKart.name.trim().toLowerCase();
+                                                    const foundFile = githubFilesCache.find(f => {
+                                                        const fName = f.name.trim().toLowerCase();
+                                                        return fName === searchName || fName.includes(searchName) || searchName.includes(fName);
+                                                    });
+
+                                                    if (foundFile && foundFile.download_url) {
+                                                        console.log(`✅ Kart önbellekten bulundu: ${foundFile.name}`);
+                                                        response = await resilientFetch(foundFile.download_url);
+                                                    }
+                                                }
+
+                                                // Önbellekte bulunamadıysa orijinal URL'yi dene
+                                                if (!response || !response.ok) {
+                                                    response = await resilientFetch(fixKart.url);
+                                                }
+
+                                                if (response && response.ok) {
                                                     const blob = await response.blob();
                                                     // Per-card prefix: kartın kaynak context'inden al
                                                     const db = getFixKartData();
@@ -27387,6 +27433,40 @@ IMPORTANT RULES:
             return name;
         }
 
+        let globalFixKartCache = null;
+        let globalFixKartCacheTime = 0;
+
+        async function getGlobalFixKartCache() {
+            if (globalFixKartCache && Date.now() - globalFixKartCacheTime < 1000 * 60 * 60) {
+                return globalFixKartCache;
+            }
+            const repoElement = document.getElementById('githubRepo');
+            const GITHUB_REPO = repoElement ? repoElement.value.trim() || 'lipodemmerkezi/zip' : 'lipodemmerkezi/zip';
+            const owner = GITHUB_REPO.split('/')[0] || 'lipodemmerkezi';
+            const repo = GITHUB_REPO.split('/')[1] || 'zip';
+            const paths = ['fix_kartlar', 'fix_kartlar%20'];
+            let allFiles = [];
+            for (let p of paths) {
+                try {
+                    const headers = {};
+                    if (window.GITHUB_TOKEN || document.getElementById('githubToken')?.value) {
+                        const token = window.GITHUB_TOKEN || document.getElementById('githubToken')?.value;
+                        if (token) headers['Authorization'] = `token ${token}`;
+                    }
+                    const r = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${p}`, { headers });
+                    if (r.ok) {
+                        const files = await r.json();
+                        allFiles = allFiles.concat(files);
+                    }
+                } catch (e) { }
+            }
+            if (allFiles.length > 0) {
+                globalFixKartCache = allFiles;
+                globalFixKartCacheTime = Date.now();
+            }
+            return globalFixKartCache || [];
+        }
+
         // Atanmış kartları göster — dinamik prefix ile
         function fixKartAtanmislariGoster() {
             const container = document.getElementById('fixKartAtanmislar');
@@ -27416,8 +27496,7 @@ IMPORTANT RULES:
                     : '<span style="background: #e91e63; color: white; padding: 1px 4px; border-radius: 6px; font-size: 8px;">🔍</span>';
 
                 return `<div style="position: relative; border: 1px solid #e0e0e0; border-radius: 6px; padding: 4px; background: white; width: 110px; text-align: center;">
-          <img src="${kart.url}" alt="${cleanName}" style="width: 100%; height: 65px; object-fit: cover; border-radius: 4px; margin-bottom: 3px;"
-            onerror="this.src='data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%23f0f0f0%22 width=%22100%22 height=%22100%22/%3E%3Ctext x=%2250%22 y=%2250%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23999%22 font-size=%2212%22%3E📷%3C/text%3E%3C/svg%3E'">
+          <img data-fix-url="${kart.url}" data-card-name="${kart.name}" alt="${cleanName}" src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%23f0f0f0%22 width=%22100%22 height=%22100%22/%3E%3Ctext x=%2250%22 y=%2250%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23999%22 font-size=%2212%22%3E%E2%8F%B3%3C/text%3E%3C/svg%3E" style="width: 100%; height: 65px; object-fit: cover; border-radius: 4px; margin-bottom: 3px;">
             <div style="font-size: 9px; color: #333; word-break: break-word; margin-bottom: 2px; line-height: 1.2;" title="${dynamicName}">${displayName.substring(0, 30)}${displayName.length > 30 ? '...' : ''}</div>
             ${typeBadge}
             <button onclick="fixKartSil(${idx})" style="
@@ -27426,6 +27505,42 @@ IMPORTANT RULES:
             cursor: pointer; line-height: 18px; padding: 0;" title="Kartı kaldır">✕</button>
         </div>`;
             }).join('');
+
+            // Fetch images securely with token to bypass 404 on private repos
+            const imgs = container.querySelectorAll('img[data-fix-url]');
+            if (imgs.length > 0) {
+                (async () => {
+                    const cache = await getGlobalFixKartCache();
+                    for (let img of imgs) {
+                        const url = img.getAttribute('data-fix-url');
+                        const cardName = img.getAttribute('data-card-name');
+                        
+                        if (url) {
+                            let finalUrl = url;
+                            
+                            if (cache && cache.length > 0 && cardName) {
+                                const searchName = cardName.trim().toLowerCase();
+                                const found = cache.find(f => {
+                                    const fName = f.name.trim().toLowerCase();
+                                    return fName === searchName || fName.includes(searchName) || searchName.includes(fName);
+                                });
+                                if (found && found.download_url) {
+                                    finalUrl = found.download_url;
+                                }
+                            }
+
+                            resilientFetch(finalUrl).then(res => {
+                                if (res.ok) return res.blob();
+                                throw new Error('Network error');
+                            }).then(blob => {
+                                img.src = URL.createObjectURL(blob);
+                            }).catch(err => {
+                                img.src = 'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"%3E%3Crect fill="%23f0f0f0" width="100" height="100"/%3E%3Ctext x="50" y="50" text-anchor="middle" dy=".3em" fill="%23999" font-size="12"%3E📷%3C/text%3E%3C/svg%3E';
+                            });
+                        }
+                    }
+                })();
+            }
         }
 
         // Dosya seçildiğinde önizleme göster
