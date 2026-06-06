@@ -1,12 +1,5 @@
 [
   {
-    "id": 1779096265093,
-    "isim": "ALİME TANRIVERDİ",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-06-05T06:35:55.246Z"
-  },
-  {
     "id": 1767391305002,
     "isim": "assa",
     "not": "",
@@ -219,6 +212,13 @@
     "arsiv": true,
     "sonGuncelleme": "2025-10-10T07:00:04.836Z",
     "telefonAranacak": false
+  },
+  {
+    "id": 1779096265093,
+    "isim": "ALİME TANRIVERDİ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-06-06T06:27:50.924Z"
   },
   {
     "id": 1762502723552,
