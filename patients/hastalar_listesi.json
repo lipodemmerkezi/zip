@@ -22,13 +22,6 @@
     "sonGuncelleme": "2026-06-04T14:50:41.661Z"
   },
   {
-    "id": 1780727007889,
-    "isim": "AYSUN ÇAKIR",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-06-06T06:25:17.677Z"
-  },
-  {
     "id": 1775824998883,
     "isim": "AYŞE BALCI",
     "not": "",
@@ -247,6 +240,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-05-08T13:42:59.530Z"
+  },
+  {
+    "id": 1780727007889,
+    "isim": "AYSUN ÇAKIR",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-06-06T06:27:31.635Z"
   },
   {
     "id": 1773407118306,
