@@ -3,9 +3,27 @@
   "isim": "FADİM KALAYCI",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-06-07",
+      "bitis": "2026-06-13",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-08T10:54:19.437Z",
+  "sonGuncelleme": "2026-06-08T10:54:35.944Z",
   "githubKaydedildi": true
 }
