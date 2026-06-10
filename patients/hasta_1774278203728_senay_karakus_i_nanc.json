@@ -3360,10 +3360,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Yazdıklarınız çok kıymetli teşekkür ederim kendimi anlıyorum ya da anladığımı sanıyorum bilmiyorum ama duygusal açlık veya vücudumun direndiğinin bilincindeyim aslında ama bunu nasıl kaçıracağımı bilemiyorum. İlk haftalarda söylemiştim sizden önceki diyetisyenimde de 79 da kilom takılmıştı be o da bni psikoloğa yönlendirmişti ondan beri 80-81 in altını görmedim ztn. Vücudum koruma mekanizması gibi kiloyu tutuyor ama nasıl rahatlatırım bilmiyorum. Yemek Su spor masajlar okadar çok şeyle aynı ansa ilgileniyorum ama sonuç nasıl olacak bakalım. Sizden çok şey öğrendim sorun o değil ama bu kilidi sanki açamadım daha. Bazen araöğünde veya akşam yemeği sonrası midenin kapısını açıp ilk birşeyler gedikten sonra yaptığım atıştırmaları akşam defterime yazarken fark ediyorum yani yediğimi bile unutmuşum… çok garip geliyo.\nHAFTANINB 2 GÜNÜ TEK ÖĞÜN ÖNERDİK.\nMerhaba Şenay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 12. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-06-14",
+      "bitis": "2026-06-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-03T06:41:04.760Z",
+  "sonGuncelleme": "2026-06-10T05:41:13.779Z",
   "githubKaydedildi": true
 }
