@@ -3363,24 +3363,27 @@
     },
     {
       "haftaNo": 13,
-      "baslangic": "2026-06-14",
-      "bitis": "2026-06-20",
+      "baslangic": "2026-06-15",
+      "bitis": "2026-06-21",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ŞENAY KARAKUŞ İNANÇ 15-21 HAZİRAN 13. HAFTA.pdf",
+      "pdfOrijinalIsim": "ŞENAY KARAKUŞ İNANÇ 15-21 HAZİRAN 13. HAFTA.pdf",
+      "pdfYolu": "pdfs/ŞENAY KARAKUŞ İNANÇ 15-21 HAZİRAN 13. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞENAY KARAKUŞ İNANÇ 15-21 HAZİRAN 13. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞENAY KARAKUŞ İNANÇ 15-21 HAZİRAN 13. HAFTA.pdf",
+      "kayitTarihi": "2026-06-10T05:41:46.797Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-03-23T15:03:23.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-10T05:41:13.779Z",
+  "sonGuncelleme": "2026-06-10T05:41:46.808Z",
   "githubKaydedildi": true
 }
