@@ -2782,24 +2782,27 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-06-14",
-      "bitis": "2026-06-20",
+      "baslangic": "2026-06-15",
+      "bitis": "2026-06-21",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZÜM ÖZDEN 15-21 HAZİRAN 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZÜM ÖZDEN 15-21 HAZİRAN 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZÜM ÖZDEN 15-21 HAZİRAN 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZÜM ÖZDEN 15-21 HAZİRAN 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZÜM ÖZDEN 15-21 HAZİRAN 11. HAFTA.pdf",
+      "kayitTarihi": "2026-06-10T07:31:55.830Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-02T18:17:04.193Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-10T07:31:28.572Z",
+  "sonGuncelleme": "2026-06-10T07:31:55.839Z",
   "githubKaydedildi": true
 }
