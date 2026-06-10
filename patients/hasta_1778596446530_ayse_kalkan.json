@@ -1358,24 +1358,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-06-14",
-      "bitis": "2026-06-20",
+      "baslangic": "2026-06-15",
+      "bitis": "2026-06-21",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE KALKAN 15-21 HAZİRAN 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE KALKAN 15-21 HAZİRAN 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE KALKAN 15-21 HAZİRAN 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE KALKAN 15-21 HAZİRAN 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE KALKAN 15-21 HAZİRAN 6. HAFTA.pdf",
+      "kayitTarihi": "2026-06-10T12:28:31.393Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:34:06.530Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-10T12:27:59.342Z",
+  "sonGuncelleme": "2026-06-10T12:28:31.397Z",
   "githubKaydedildi": true
 }
