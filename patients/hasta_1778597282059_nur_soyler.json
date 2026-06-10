@@ -1309,10 +1309,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhaba Nur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 5. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir. Hastadan uygun bir zamanda ölçümlerini göndermesini, sabah saatlerinde alınan ölçümlerini göndermesini rica edelim. Uygun bir dille. Bayram sürecinin tatilinin nasıl geçtiğini uygun bir dille soralım.. Beşinci haftadan itibaren lenf drenaj masajına başlayacağımızı. Videoları göndereceğimiz Taksim hazırlayıp göstereceğimizi belirttiğimiz. Ancak o zamana kadar beslenme konusunda. Konsantrasyonunun artmasının önemli olduğunu. Soralım söyleyelim. Kıyafetlerdeki değişimde bir farklılık olup olmadığını alt bedende incelme açısından değişiklik görüp görmediğini vesaire soralım. Zorlandığın noktalar bulup olmadığında uygun bir dille soralım."
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-06-14",
+      "bitis": "2026-06-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-04T14:56:15.801Z",
+  "sonGuncelleme": "2026-06-10T12:34:05.126Z",
   "githubKaydedildi": true
 }
