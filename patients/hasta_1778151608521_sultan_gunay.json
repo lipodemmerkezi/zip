@@ -1391,10 +1391,27 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "ekNotlar": "Merhaba Sultan Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 5. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir. 10 gün önce. Mesajında gönderdiği. Döküntülü resimleri. Soralım. Hâlâ devam ediyor mu. Çevresinde. Iki kişilerden zaman zaman toplumsal baskı olabilir. Ancak süreç boyunca motivasyonunu koruduğu kuruduğunda çok iyi sonuçlar ve kalıcı sonuçlar alacağını inandığımızı vesaire anlatalım. Ölçümlerini gönderirse değerlendireceğimiz söylüyor."
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-06-14",
+      "bitis": "2026-06-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-05-07T11:00:08.521Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-04T14:46:35.844Z",
+  "sonGuncelleme": "2026-06-10T11:48:54.013Z",
   "githubKaydedildi": true
 }
