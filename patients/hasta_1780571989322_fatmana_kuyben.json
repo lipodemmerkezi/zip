@@ -277,7 +277,7 @@
       "pdfYolu": "pdfs/FATMANA KUYBEN 15-21 HAZİRAN 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FATMANA KUYBEN 15-21 HAZİRAN 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FATMANA KUYBEN 15-21 HAZİRAN 2. HAFTA.pdf",
-      "kayitTarihi": "2026-06-11T05:42:03.641Z",
+      "kayitTarihi": "2026-06-11T05:43:46.056Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ketojenik tost (2 ince dilim haşhaş ezmesi ekmeği arasına 2 dilim ince tavuk fleto ya da 30 gram sucuk, yeşillikler,",
@@ -443,7 +443,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Fatmana Hanım,\n\nProgramımızın ikinci haftasına hoş geldiniz. Bu hafta, lipödemle mücadelede ve genel sağlık hedeflerinizde önemli adımlar atmaya devam edeceğiz. çünkü bu süreçte attığınız her küçük adım, zamanla büyük değişimlere dönüşebilir. Unutmayın, bu yolculukta sabırlı olmak ve istikrarlı bir şekilde ilerlemek kritik öneme sahip.\n\nLipödemin kronik bir hastalık olduğunu göz önünde bulundurduğumuzda, sadece dışarıdan görülen değişiklikleri değil, vücudunuzda hücresel düzeyde başlayan iyileşmeleri de desteklemek amacıyla hareket ediyoruz. Bu haftada, inflamasyonla mücadele ve lenfatik sistemi desteklemek için özel olarak seçilmiş besinleri beslenme programınıza dahil ettik. Örneğin, menünüzde yer alan yeşil salatalar, kabak ve patlıcan gibi sebzeler, antioksidan ve lif açısından zengin içerikleriyle iltihaplanmayı azaltmaya yardımcı olacaktır.\n\nAyrıca, bu hafta önerdiğimiz kurşun geçirmez kahve, sağlıklı yağlar içermesi sayesinde insülin seviyelerini dengelemeye yardımcı olurken, uzun süreli tokluk hissi yaratacaktır. Eğer kahve içmeyi tercih etmezseniz, yarım avokado veya 10 adet zeytin gibi alternatifler de sağlıklı yağ kaynakları olarak değerlendirebilirsiniz. Bu tür seçimler, yağ yakım sürecinizi destekleyecek ve genel metabolizmanızı olumlu yönde etkileyecektir.\n\nBelirttiğiniz gibi Levetron kullanıyorsunuz; bu durumu göz önünde bulundurarak, vücudunuzun hormonal dengelerini korumaya yönelik besin seçimleri yapmaya devam edeceğiz. Bu haftaki yemek listenizde yer alan ceviz, fındık ve avokado gibi sağlıklı yağ kaynakları, hücre zarlarını güçlendirirken, vitamin emilimini de destekleyecek.\n\nBu süreçte ilerlemeyi takip etmek adına, pazar günleri bel, kalça ve bacak çevresi ölçümlerinizi almak oldukça faydalı olacak. Kilo kaybı yavaşlamışsa, bunun doğal bir süreç olduğunu unutmayın; vücudunuz yağ hücrelerinden toksin salınımı ve metabolik adaptasyon gibi süreçlerle başa çıkmaya çalışıyor. Dolayısıyla, bunları göz önünde bulundurarak kendinize karşı nazik olmalısınız.\n\nSizden gelen gözlemler ve yorumlar benim için çok değerli. Unutmayın, bu süreçte her zaman yanınızdayım ve sorularınızı yanıtlamaktan mutluluk duyarım.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -545,6 +545,6 @@
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-11T05:43:44.015Z",
+  "sonGuncelleme": "2026-06-11T05:43:48.471Z",
   "githubKaydedildi": true
 }
