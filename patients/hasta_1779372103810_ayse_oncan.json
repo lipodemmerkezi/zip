@@ -982,7 +982,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Ayşe Hanım,\n\nNasılsınız? Pazartesi günü itibarıyla programımızın dördüncü haftasına başlamış bulunuyoruz. Bu hafta, yeni beslenme düzeninize daha fazla alıştığınızı ve birçok davranışın yavaş yavaş yerleşmeye başladığını tahmin ediyorum. Artık beslenme alışkanlıklarınıza dair daha yapısal kazanımlar elde etme aşamasına geçiyoruz. Unutmayın ki sağlıklı bir düzen, zamanla ve tekrarla yerleşecek.\n\nBu hafta, beslenme planınızda yer alan hayvansal proteinlerin önemini vurgulamak istiyorum. Özellikle avokadolu omlet ve mantarlı tavuk sote gibi seçenekler, hem protein ihtiyacınızı karşılayacak hem de gerekli mikro besinleri (D vitamini, selenyum) sağlayarak vücudunuzun temel işlevlerini destekleyecek. Kas sağlığınızı korumak ve bağışıklık sisteminizi güçlendirmek için bu protein kaynaklarını yeterli miktarda almak çok önemli.\n\nLipödem yönetiminde sıkça karşılaşılan ve yanlış anlaşılan bir durum, az yeme fikridir. Genelde “az yemek” düşüncesi, kalıcı başarıya götürmediği gibi, açlık hormonu olan ghrelinin devreye girmesine ve plansız aşırı yeme davranışlarına yol açabilir. Bu nedenle, bu süreçte kaloriyi kısıtlamak yerine insülin dengesini koruyacak ve aynı zamanda doyurucu bir beslenme düzeni oluşturmayı hedefliyoruz. Örneğin, hazırlanan yeşil salata, ceviz ve zeytinyağı ile birlikte hem tokluk hissini artıracak hem de metabolizmanızı destekleyecek.\n\nBeslenme listenizde yer alan probiyotik kaynaklar (örneğin ev yoğurdu) ve prebiyotik gıdalar, sindirim sisteminizin dengesini sağlamak için kritik öneme sahip. Bu mikro besinler, bağırsak sağlığınızı desteklerken inflamasyonu azaltmaya da yardımcı olacaktır. Aynı zamanda, bu hafta tükettiğiniz somon ve hindi füme gibi protein kaynakları, kas sağlığınızı destekleyecek ve lipödem ile ilgili inflamasyonu azaltacak özelliklere sahiptir.\n\nBu haftaki beslenme düzeninizin bir diğer önemli noktası, sağlıklı yağ kaynaklarını yeterli miktarda almaktır. Avokado, ceviz ve badem gibi sağlıklı yağlar, hem tokluk hissinizi artıracak hem de enerji seviyelerinizi dengeleyecektir. Ayrıca, maden suyu ile birlikte limon eklemek, elektrolit dengenizi korumak ve ödem atımına destek olacaktır.\n\nBu süreçteki ilerlemenizi düzenli olarak takip etmeye devam ediyoruz. Ölçümlerinizi yapmayı unutmayın; bunlar, bedeninizdeki değişimleri gözlemlemek için oldukça değerli. Her zaman olduğu gibi, takıldığınız bir nokta olursa lütfen bize danışın. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1089,6 +1089,6 @@
   ],
   "olusturmaTarihi": "2026-05-21T14:01:43.810Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-11T05:39:36.370Z",
+  "sonGuncelleme": "2026-06-11T05:39:55.033Z",
   "githubKaydedildi": true
 }
