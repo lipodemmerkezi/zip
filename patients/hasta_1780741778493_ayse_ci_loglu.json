@@ -278,7 +278,7 @@
       "pdfYolu": "pdfs/AYŞE ÇİLOĞLU 15-21 HAZİRAN 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÇİLOĞLU 15-21 HAZİRAN 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÇİLOĞLU 15-21 HAZİRAN 2. HAFTA.pdf",
-      "kayitTarihi": "2026-06-11T05:48:14.848Z",
+      "kayitTarihi": "2026-06-11T05:49:15.327Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
@@ -406,7 +406,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım,\n\nProgramın ikinci haftasına hoş geldiniz. Bu haftayla birlikte, lipödem yönetimi konusunda attığınız adımların ne kadar kıymetli olduğunu birlikte göreceğiz. Hedefimiz kalıcı değişiklikler oluşturmak ve bu süreçte sabırlı olmak oldukça önemli. \n\nBu hafta vücudunuzda bazı küçük değişiklikler hissedebilirsiniz. Unutmayın ki, asıl amacımız sadece dış görünüşteki değişimler değil; hücresel düzeyde başlayan iyileşmeleri de desteklemek. Her adımınız, hem lipödemle mücadelede hem de genel sağlığınız açısından büyük bir önem taşıyor.\n\nLipödemin temel sorunlarından biri olan inflamasyon, yalnızca bu durumla sınırlı kalmaz. Eğer önlem alınmazsa, insülin direnci ve hormonal dengesizlikler gibi başka sorunlarla karşılaşmak mümkün. Bu nedenle, sürecimizi sadece kilo kaybı olarak değil, bütüncül bir sağlık yaklaşımıyla ele almalıyız.\n\nBu dört haftada beslenme odaklı ilerliyoruz. Doğru seçimlerle vücudu fazla zorlamadan şekillendirmeye çalışıyoruz. Kahvaltılarınızda kullanmanızı önerdiğimiz kurşun geçirmez kahve, uzun süreli tokluk sağlarken yağ yakımını da destekliyor. Eğer kahve içmek istemiyorsanız, avokado veya zeytin gibi sağlıklı yağ kaynakları da güzel alternatiflerdir. Bu tür yağlar, insülin seviyesini yükseltmediği için yağ yakımına yardımcı olur.\n\nBeslenme listenizde yer alan haşlanmış yumurta ve tavuk gibi protein kaynakları, D vitamini ve selenyum açısından zengindir; bu mikro besinler, lipödemle mücadelede oldukça faydalıdır. Ayrıca, yeşil yapraklı sebzeler ve omega-3 içeren balık, vücudunuzun iltihapla savaşmasına yardımcı olurken, genel sağlığınızı da destekleyecek.\n\nBu hafta, ilk ölçümlerinizi alarak ilerlemenizi gözlemlemek için önemli bir adım atıyoruz. Bel, kalça ve bacak çevresi ölçümlerindeki değişimler, sürecin ilerleyişi hakkında daha net bir fikir verecektir. \n\nHer zaman olduğu gibi süreçte yanınızda olacağım. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ekNotlar": "BAŞLANGIÇ ÖLÇÜMLERİNİ İSTEYELİM.\nMerhaba Ayşe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 2. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -516,6 +516,6 @@
   ],
   "olusturmaTarihi": "2026-06-06T10:29:38.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-11T05:49:13.468Z",
+  "sonGuncelleme": "2026-06-11T05:49:17.634Z",
   "githubKaydedildi": true
 }
