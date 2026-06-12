@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-07",
-      "bitis": "2026-06-13",
+      "baslangic": "2026-06-15",
+      "bitis": "2026-06-21",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERMİN DEVECİ 15-21 HAZİRAN 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERMİN DEVECİ 15-21 HAZİRAN 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERMİN DEVECİ 15-21 HAZİRAN 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERMİN DEVECİ 15-21 HAZİRAN 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERMİN DEVECİ 15-21 HAZİRAN 1. HAFTA.pdf",
+      "kayitTarihi": "2026-06-12T07:32:20.668Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-12T07:26:13.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-12T07:32:08.743Z",
+  "sonGuncelleme": "2026-06-12T07:32:20.669Z",
   "githubKaydedildi": true
 }
