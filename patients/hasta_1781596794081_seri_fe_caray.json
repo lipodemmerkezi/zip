@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-14",
-      "bitis": "2026-06-20",
+      "baslangic": "2026-06-18",
+      "bitis": "2026-06-24",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ŞERİFE ÇARAY 18-24 HAZİRAN 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ŞERİFE ÇARAY 18-24 HAZİRAN 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ŞERİFE ÇARAY 18-24 HAZİRAN 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERİFE ÇARAY 18-24 HAZİRAN 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERİFE ÇARAY 18-24 HAZİRAN 1. HAFTA.pdf",
+      "kayitTarihi": "2026-06-16T08:00:44.374Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-16T07:59:54.081Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-16T08:00:25.667Z",
+  "sonGuncelleme": "2026-06-16T08:00:44.376Z",
   "githubKaydedildi": true
 }
