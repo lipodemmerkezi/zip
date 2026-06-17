@@ -3472,7 +3472,7 @@
       "pdfYolu": "pdfs/TÜLİN CAN 22-28 HAZİRAN 13. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/TÜLİN CAN 22-28 HAZİRAN 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/TÜLİN CAN 22-28 HAZİRAN 13. HAFTA.pdf",
-      "kayitTarihi": "2026-06-17T09:46:27.001Z",
+      "kayitTarihi": "2026-06-17T10:02:30.453Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -3668,7 +3668,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Tülin Hanım,\n\nNasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 13. haftaya başlıyoruz. Bu yolculuğun son haftasına ulaştık ama aslında bu, yeni bir başlangıcın da eşiği. Şimdi, hem birlikte geçirdiğimiz süreci değerlendirme zamanı hem de bundan sonrası için yol haritamızı hatırlatma zamanı.\n\nBu 3 aylık süreçte birlikte çok şey başardık. Beslenme düzeninizde önemli değişiklikler yapmanın yanı sıra, yaşam tarzınıza ve bedeninizle ilişkinize dair güçlü adımlar attınız. Yemek yapılarından su tüketimine, yeme sıralamasından atıştırmalıklara kadar birçok başlığı hayatınızın doğal bir parçası haline getirdiniz. Bu kolay bir süreç değil; özellikle lipödem gibi kronik bir hastalıkla mücadele ederken.\n\nBeslenme listenize baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş antiinflamatuar özelliklere sahip harika besinler yer aldığını görüyorum. Özellikle haşlanmış yumurta ve peynir gibi besinler, D vitamini ve B12 vitamini alımınızı desteklerken; yeşillikler, C vitamini açısından zengin içerikleriyle kolajen üretiminizi artıracak ve lenfatik akışınızı hızlandıracaktır. Ayrıca, karabuğday ekmeği gibi düşük glisemik indeksli karbonhidratlar, kan şekerinizi dengede tutmanıza yardımcı olurken, sağlıklı yağlar içeren zeytin ve ceviz gibi besinler de enerji seviyenizi destekleyecek.\n\nBu süreçte elde ettiğiniz bölgesel ölçümler ve genel iyilik haliniz, doğru bir yolda ilerlediğinizi gösteriyor. Diğer yandan, bazı kazançların bedenin içsel dönüşümü tamamlandığında dışa yansıyabileceğini unutmamak önemlidir. Sabır ve istikrarla ilerlemek bu süreçteki en büyük anahtarınız olacak.\n\nBu hafta için önerim, yemeklerinizi yavaşça tüketmeye devam etmeniz ve öğünlerin ardından kısa hareketler yaparak kan şekerinizi kontrol altında tutmanız. Ayrıca, duygusal yeme konusundaki farkındalığınızı sürdürmek, bedeninizin ihtiyaçlarını daha iyi anlamanıza yardımcı olacaktır. Anlık tatlı veya tuzlu krizlerinde, haftalık olarak hazırladığınız sağlıklı atıştırmalıklara yönelmek, sizi destekleyecektir.\n\nUnutmayın ki, bu süreçte hatasız olmanız gerekmiyor. Kendinize anlayışla yaklaşarak, çözüm odaklı kalmayı sürdürün. Bu yolculuğun sonuna gelmiş olsak da, aslında bu sadece bir başlangıç. Artık elinizde güçlü bir harita var; ne yapacağınızı, neyi nasıl düzenleyeceğinizi biliyorsunuz. \n\nSon olarak, bu süreçte gösterdiğiniz çaba ve özveri için sizi tebrik ediyorum. Sizinle gurur duyuyorum. Her zaman olduğu gibi, gözlemlerinizi ve yorumlarınızı merak ediyorum. Bize ulaşabilirsiniz.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3768,6 +3768,6 @@
   ],
   "olusturmaTarihi": "2026-03-23T14:49:40.602Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-17T10:01:34.927Z",
+  "sonGuncelleme": "2026-06-17T10:02:30.475Z",
   "githubKaydedildi": true
 }
