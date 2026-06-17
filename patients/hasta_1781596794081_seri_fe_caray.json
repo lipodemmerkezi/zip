@@ -169,24 +169,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-06-21",
-      "bitis": "2026-06-27",
+      "baslangic": "2026-06-22",
+      "bitis": "2026-06-28",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ŞERİFE ÇARAY 22-28 HAZİRAN 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "ŞERİFE ÇARAY 22-28 HAZİRAN 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/ŞERİFE ÇARAY 22-28 HAZİRAN 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERİFE ÇARAY 22-28 HAZİRAN 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERİFE ÇARAY 22-28 HAZİRAN 2. HAFTA.pdf",
+      "kayitTarihi": "2026-06-17T12:13:12.400Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-16T07:59:54.081Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-17T12:12:37.133Z",
+  "sonGuncelleme": "2026-06-17T12:13:12.401Z",
   "githubKaydedildi": true
 }
