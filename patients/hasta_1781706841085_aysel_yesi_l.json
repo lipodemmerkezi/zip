@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/AYSEL YEŞİL 19-28 HAZİRAN 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYSEL YEŞİL 19-28 HAZİRAN 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYSEL YEŞİL 19-28 HAZİRAN 1. HAFTA.pdf",
-      "kayitTarihi": "2026-06-17T14:34:51.093Z",
+      "kayitTarihi": "2026-06-17T14:43:41.411Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -192,7 +192,7 @@
         "haşhaş ezmesi ekmeği yerine 1 adet yumurta, 3 adet ceviz ya da 10 adet çiğ badem ekleyebilirsiniz."
       ],
       "gptMesaj": "Merhaba Aysel Hanım,\n\nBu hafta programa başlıyoruz. Adım adım ilerleyeceğimiz, sade ama etkili bir süreç olacak. Her hafta belirli bir hedefimiz olacak ve birlikte takip ederek ilerleyeceğiz.\n\nÖncelikle lipödemle ilgili birkaç temel bilgi paylaşmak istiyorum. Lipödem, özellikle kadınlarda görülen, bacaklarda ve kollarda simetrik yağ birikimiyle kendini gösteren bir hastalıktır. Genetik ve hormonal nedenlere bağlı gelişen kronik bir iltihabi durumdur. Doğru şekilde yönetildiğinde, ilerlemesi durdurulabilir, hatta gerileme bile sağlanabilir.\n\nBu haftadan itibaren süt ve süt ürünlerini kısa bir süreliğine programdan çıkarıyoruz. Bunun birkaç önemli nedeni var: gizli gıda duyarlılıklarının etkisini gözlemlemek, vücutta inflamasyonu tetikleyen kaynakları azaltmak ve bağırsak florasını güçlendirmek için zemin hazırlamak. Süt ürünleri 3. haftadan itibaren yeniden ve kontrollü şekilde programa dahil edilecek.\n\nBu süreçte protein ihtiyacınızı karşılamak için yumurta temel besinimiz olacak. Yumurtanın, A, D, B12 vitaminleri, selenyum ve kolin gibi lipödem sürecinde destekleyici mikrobesinler açısından oldukça zengin olduğunu belirtmek isterim. İlk haftalarda yumurta tüketimi biraz daha fazla olabilir. İlerleyen haftalarda süt ürünleri tekrar listeye eklendikçe yumurta miktarı da doğal olarak azalacaktır.\n\nBu dönemde bazı takviyelerden de destek alabiliriz ancak epilepsi hastası olduğunuz için bu aşamada takviye önermeyeceğiz. Bunun yerine, beslenme listeniz içerisinde yer alan antiinflamatuar özelliklere sahip yiyecekler ile vücudunuzun ihtiyaçlarını karşılayabiliriz.\n\nBeslenme programınızda düzenli olarak yer alan haşlanmış yumurta, zeytin, ceviz, yeşil salatalar ve sebzeli yemekler, hem lipödemi yönetmek hem de kilo vermek açısından önemli bileşenlerdir. Bu yiyecekler, lenfatik sistemi desteklerken, aynı zamanda sağlıklı bir beslenme düzeni oluşturmanıza yardımcı olacaktır. Unutmayın ki, bu süreçte odak noktamız tartıya değil, incelmeye olacak. Her iki haftada bir, pazar günü ölçüm almanızı rica edeceğim. Bel, kalça ve bacak çevresi gibi bölgelerin ölçümünü düzenli olarak kaydederek, değişimi daha net görebilmemiz açısından önemli.\n\nProgramın başı her zaman en zor kısımdır. Ancak kısa süre içinde bedeninizdeki değişimleri hissetmeye başlayacaksınız. Bu süreci küçük ama etkili adımlarla birlikte yöneteceğiz. Her zaman yanınızdayım.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": true,
       "tabBaslik": "1. Hafta",
       "tabTarih": "06/19 - 06/28",
@@ -341,6 +341,6 @@
   ],
   "olusturmaTarihi": "2026-06-17T14:34:01.085Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-17T14:43:38.920Z",
+  "sonGuncelleme": "2026-06-17T14:43:44.188Z",
   "githubKaydedildi": true
 }
