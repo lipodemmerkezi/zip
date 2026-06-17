@@ -2954,24 +2954,27 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-06-21",
-      "bitis": "2026-06-27",
+      "baslangic": "2026-06-22",
+      "bitis": "2026-06-28",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GÜLER AŞIK 22-28 HAZİRAN 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "GÜLER AŞIK  22-28 HAZİRAN 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/GÜLER AŞIK 22-28 HAZİRAN 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÜLER AŞIK 22-28 HAZİRAN 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÜLER AŞIK 22-28 HAZİRAN 11. HAFTA.pdf",
+      "kayitTarihi": "2026-06-17T11:11:46.163Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-17T11:11:09.775Z",
+  "sonGuncelleme": "2026-06-17T11:11:46.167Z",
   "githubKaydedildi": true
 }
