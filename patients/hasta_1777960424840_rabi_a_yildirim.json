@@ -1894,24 +1894,27 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-06-21",
-      "bitis": "2026-06-27",
+      "baslangic": "2026-06-22",
+      "bitis": "2026-06-28",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "RABİA YILDIRIM 22-28 HAZİRAN 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "RABİA YILDIRIM 22-28 HAZİRAN 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/RABİA YILDIRIM 22-28 HAZİRAN 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RABİA YILDIRIM 22-28 HAZİRAN 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RABİA YILDIRIM 22-28 HAZİRAN 8. HAFTA.pdf",
+      "kayitTarihi": "2026-06-17T11:40:48.642Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-17T11:40:30.681Z",
+  "sonGuncelleme": "2026-06-17T11:40:48.645Z",
   "githubKaydedildi": true
 }
