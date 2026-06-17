@@ -2604,7 +2604,7 @@
       "pdfYolu": "pdfs/REYHAN ÇAMKIR 22-28 HAZİRAN 10.HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/REYHAN ÇAMKIR 22-28 HAZİRAN 10.HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/REYHAN ÇAMKIR 22-28 HAZİRAN 10.HAFTA.pdf",
-      "kayitTarihi": "2026-06-17T11:25:12.352Z",
+      "kayitTarihi": "2026-06-17T11:27:34.732Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ispanaklı ya da pazılı tava böreği",
@@ -2791,7 +2791,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Reyhan Hanım,\n\nUmarım her şey yolundadır. Onuncu haftamıza hoş geldiniz! Bu hafta, beslenme düzenimizde önemli bir geçiş yapıyoruz. Ketojenik beslenmeye bir süreliğine ara vererek, daha esnek ve sürdürülebilir bir yapı olan düşük karbonhidratlı (LowCarb) beslenmeye geçiyoruz. Bu değişiklik, hem bedeninizi hem de zihninizi rahatlatmanıza yardımcı olacak.\n\nLowCarb beslenme, hâlâ karbonhidrat kısıtlı olmasına rağmen, ketozis seviyesinde değildir. Bu sayede, menümüzde karabuğday unuyla yapılmış ekmekler, mevsim meyveleri ve baklagiller gibi sağlıklı karbonhidrat kaynaklarına da yer verebileceğiz. Bu çeşitlilik, hem yeme alışkanlıklarınızı zenginleştirecek hem de sürecinizi daha sürdürülebilir hale getirecektir.\n\nGözlemlediğim kadarıyla, bu hafta beslenme listenizde yer alan yiyecekler, lipödem yönetimi ve bölgesel incelme hedeflerinizle oldukça uyumlu. Örneğin, ıspanaklı veya pazılı tava böreği, protein ve lif kaynağı olarak öne çıkarken, yeşillikler de vücudunuzun ödem atımını destekleyecek antiinflamatuar özelliklere sahip. Ayrıca, çiğ badem ve fındık gibi sağlıklı yağlar, hücresel onarımınıza katkıda bulunarak genel sağlığınızı destekleyecektir.\n\nMikrobesinler açısından zengin olan bu listenin, D vitamini, magnezyum ve selenyum gibi önemli bileşenleri içerdiğini görüyorum. Örneğin, tulum veya kaşar peyniri, B12 ve D vitamini alımınızı artırırken, badem unlu poğaça gibi alternatifler de hem lezzetli hem de sağlıklı bir seçim sunuyor. Ayrıca, kendinizi iyi hissetmenizi sağlayacak olan kolajen takviyenizi düzenli olarak kullanmayı unutmayın.\n\nBu süreçte, bölgesel ölçümlerinizi takip etmeniz, elde ettiğiniz kazanımları görsel olarak değerlendirmeniz açısından oldukça önemli. Unutmayın, tartıdaki rakamların yanı sıra, bedeninizdeki hafifleme hissi ve bölgesel incelmeler bizim için daha anlamlı göstergelerdir.\n\nSizden geri dönüş almayı da merakla bekliyorum. Her zaman olduğu gibi, bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2905,6 +2905,6 @@
   ],
   "olusturmaTarihi": "2026-04-17T08:21:05.894Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-17T11:27:33.197Z",
+  "sonGuncelleme": "2026-06-17T11:27:34.750Z",
   "githubKaydedildi": true
 }
