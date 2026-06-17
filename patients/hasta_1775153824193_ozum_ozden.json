@@ -3116,7 +3116,7 @@
       "pdfYolu": "pdfs/ÖZÜM ÖZDEN 22-28 HAZİRAN 12. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZÜM ÖZDEN 22-28 HAZİRAN 12. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZÜM ÖZDEN 22-28 HAZİRAN 12. HAFTA.pdf",
-      "kayitTarihi": "2026-06-17T10:32:59.972Z",
+      "kayitTarihi": "2026-06-17T10:37:37.360Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ispanaklı kabak böreği 1dilim için",
@@ -3303,7 +3303,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Özüm Hanım,\n\nPazartesi günü itibarıyla programımızda 12. haftaya adım attık. Bu süreçte birlikte birçok önemli adım attık ve artık hedeflerimize yaklaşırken, bu haftayı değerlendirmek ve yeni kazanımlara odaklanmak için güzel bir fırsat sunuyor.\n\nBu 12 haftalık yolculuk boyunca sadece bir beslenme planı uygulamadık, aynı zamanda yeni alışkanlıklar edindik ve yaşam tarzınızı dönüştürücü adımlar attık. Lipödem gibi zorlu bir durumla mücadele ederken gösterdiğiniz özveri ve azim, gerçekten takdire şayan. Şimdi ise bu sürecin sonlarına yaklaşırken, elde ettiğimiz kazanımları ve geleceğe dair neler yapabileceğimizi gözden geçirelim.\n\nBu hafta beslenme listenize baktığımda, seçilen yiyeceklerin hem lipödem yönetiminde hem de bölgesel incelme hedeflerinizde önemli rol oynadığını görüyorum. Özellikle salatalık, cherry domates, maydanoz ve yeşil biber gibi sebzeler, hem C vitamini hem de lif açısından zengin olup, sindirim sisteminizi desteklerken ödemin çözülmesine yardımcı olacaktır. Ayrıca, tavuklu hünkar beğendi ve patlıcan musakka gibi protein kaynakları, kas dokunuzun onarımına katkı sağlar.\n\nMenünüzde yer alan çiğ badem ve ceviz gibi sağlıklı yağ kaynakları, magnezyum ve çinko içeriğiyle genel dolaşımınızı desteklerken, avokado ve lor peynirli salata gibi seçenekler de hem lezzetli hem de besleyici alternatifler sunuyor. Bu besinler, lipödem sürecinizde yaşanan inflamasyonu azaltmaya yardımcı olacak ve vücudunuzun ihtiyaç duyduğu mikro besinleri sağlayacaktır.\n\nBu hafta, kilo kaybının yavaşlayabileceği ya da durabileceği bir dönem olarak karşımıza çıkabilir. Bu durum, vücudunuzun yağ hücrelerinden toksin salınımı ya da metabolik adaptasyon gibi doğal mekanizmalarla yeniden yapılandığını gösterir. Bu tür duraklamalar, aslında vücudunuzun toparlanma sürecinin bir parçası olarak değerlendirilmelidir. Unutmayın, önemli olan sadece tartıdaki rakam değil; bedeninizdeki değişimler, kıyafetlerinizdeki bollaşma ve genel enerji seviyeniz büyük birer göstergedir.\n\nBununla birlikte, duygusal yemeyi yönetme konusunda da yeni stratejiler geliştirmeye devam edelim. Duygusal Yeme Günlüğü tutmak, hislerinizi anlamanıza ve bu süreçte kendinizi daha iyi tanımanıza yardımcı olacaktır. Bu tür bir farkındalık, duygusal açlık anlarında daha sağlıklı kararlar almanızı kolaylaştırabilir.\n\nUnutmayın, bu süreçte her zaman yanınızdayız. Gözlemlerinizi ve yorumlarınızı merak ediyorum. Ölçümlerinizi bu hafta almayı unutmayın; bu, ilerlemenizi daha net takip etmemize yardımcı olacaktır.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3401,6 +3401,6 @@
   ],
   "olusturmaTarihi": "2026-04-02T18:17:04.193Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-17T10:37:35.235Z",
+  "sonGuncelleme": "2026-06-17T10:37:37.377Z",
   "githubKaydedildi": true
 }
