@@ -2,7 +2,7 @@
   "id": 1781766882187,
   "isim": "ZELİHANUR AKÇAY",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -1000,6 +1000,6 @@
   ],
   "olusturmaTarihi": "2026-06-18T07:14:42.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-18T07:25:45.186Z",
+  "sonGuncelleme": "2026-06-18T07:25:59.342Z",
   "githubKaydedildi": true
 }
