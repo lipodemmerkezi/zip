@@ -6,24 +6,26 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-14",
-      "bitis": "2026-06-20",
+      "baslangic": "2026-06-18",
+      "bitis": "2026-06-18",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ZELİHANUR AKÇAY - 1. hafta pdf.pdf",
+      "pdfOrijinalIsim": "ZELİHANUR AKÇAY - 1. hafta pdf.pdf",
+      "pdfYolu": "pdfs/ZELİHANUR AKÇAY - 1. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZELİHANUR AKÇAY - 1. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZELİHANUR AKÇAY - 1. hafta pdf.pdf",
+      "kayitTarihi": "2026-06-18T07:15:39.542Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-18T07:14:42.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-18T07:14:53.073Z",
+  "sonGuncelleme": "2026-06-18T07:15:39.544Z",
   "githubKaydedildi": true
 }
