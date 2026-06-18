@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 6,
-      "baslangic": "2026-06-15",
-      "bitis": "2026-06-21",
+      "baslangic": "2026-06-22",
+      "bitis": "2026-06-28",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "IRMAK SERİNKEN 22-28 HAZİRAN 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "IRMAK SERİNKEN 22-28 HAZİRAN 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/IRMAK SERİNKEN 22-28 HAZİRAN 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/IRMAK SERİNKEN 22-28 HAZİRAN 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/IRMAK SERİNKEN 22-28 HAZİRAN 6. HAFTA.pdf",
+      "kayitTarihi": "2026-06-18T06:36:16.329Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-18T06:32:12.942Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-18T06:34:34.933Z",
+  "sonGuncelleme": "2026-06-18T06:36:16.330Z",
   "githubKaydedildi": true
 }
