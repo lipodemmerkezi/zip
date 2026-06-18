@@ -493,24 +493,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-06-21",
-      "bitis": "2026-06-27",
+      "baslangic": "2026-06-22",
+      "bitis": "2026-06-28",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ZÜBEYDE ÇAKMAK 22-28 HAZİRAN 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "ZÜBEYDE ÇAKMAK 22-28 HAZİRAN 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/ZÜBEYDE ÇAKMAK 22-28 HAZİRAN 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZÜBEYDE ÇAKMAK 22-28 HAZİRAN 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZÜBEYDE ÇAKMAK 22-28 HAZİRAN 3. HAFTA.pdf",
+      "kayitTarihi": "2026-06-18T06:10:09.134Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-18T06:09:55.614Z",
+  "sonGuncelleme": "2026-06-18T06:10:09.135Z",
   "githubKaydedildi": true
 }
