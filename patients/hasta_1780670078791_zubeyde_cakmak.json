@@ -502,7 +502,7 @@
       "pdfYolu": "pdfs/ZÜBEYDE ÇAKMAK 22-28 HAZİRAN 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZÜBEYDE ÇAKMAK 22-28 HAZİRAN 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZÜBEYDE ÇAKMAK 22-28 HAZİRAN 3. HAFTA.pdf",
-      "kayitTarihi": "2026-06-18T06:10:09.134Z",
+      "kayitTarihi": "2026-06-18T06:12:57.053Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -627,7 +627,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Zübeyde Hanım,\n\nÜçüncü haftaya geldik ve programımızın ilk adımlarını başarıyla geride bırakmaya başladık. Bu yeni aşamada, bedeninizdeki iyileşmeyi daha derin seviyelere taşıyacak önemli değişikliklere odaklanıyoruz. Özellikle bağırsak floranızın sağlığını güçlendirmek bu haftanın ana teması olacak.\n\nİlk iki haftalık eliminasyon süreci, sindirim sisteminizi nazikçe rahatlatmak ve inflamasyonu tetikleyebilecek bazı faktörleri gözlemlemek için çok değerliydi. Şimdi bu temelin üzerine, sağlıklı ve dengeli bir mikrobiyota inşa etmeye başlıyoruz. Bu hafta itibarıyla beslenme listenizde kontrollü bir şekilde süt ürünlerine yeniden yer vermeye başlıyoruz. Özellikle fermente ve sindirimi kolay olan yoğurt, tulum veya kaşar peyniri gibi seçeneklerle sürece dahil olmaları, bağırsaklarınızdaki faydalı bakteri çeşitliliğini desteklemeye yardımcı olacaktır. Ketojenik tostunuzdaki kaşar peyniri de bu geçişin lezzetli bir parçası olacak.\n\nBu süreçte, bağırsak florasını güçlendirmek adına prebiyotik ve probiyotik takviyelerinize de başlıyoruz. Bu takviyelerle birlikte, beslenme listenizdeki lif açısından zengin mevsim yeşillikleri, sebzeler (ıspanak, kabak) ve ev yapımı turşu gibi fermente gıdalar, bağırsaklarınızdaki faydalı bakterilerin beslenmesini ve çoğalmasını destekleyecek. Güçlü bir bağırsak florası, sadece sindiriminizi iyileştirmekle kalmaz, aynı zamanda bağışıklık sisteminizi güçlendirir, inflamasyonu azaltır ve hatta ruh halinizi bile olumlu yönde etkileyebilir. Lipödem gibi kronik inflamatuar durumlarda bağırsak sağlığına odaklanmak bu nedenle çok kritik.\n\nBeslenme listesine baktığımda, yumurtanın hala önemli bir protein kaynağı olduğunu görüyorum; ancak artık gün içinde bir yumurta yerine yaklaşık 30 gram kadar peynirle değişim yaparak çeşitliliği artırabilirsiniz. Yumurta, D vitamini, B12 ve selenyum gibi mikro besinler açısından zenginliğini korurken, peynir de protein ve kalsiyum sağlayarak beslenmenizi zenginleştirecek. Balık seçenekleri (çupra, levrek, alabalık) omega-3 yağ asitleri ve D vitamini açısından zengin olup, inflamasyonu azaltmada ve dolaşımı desteklemede kritik rol oynuyor. Mevsim salatalarınızdaki zeytinyağı, limon ve sirke kullanımı ise hem lezzeti artırıyor hem de sindirime yardımcı olarak besin emilimini destekliyor. Özellikle sirke, kan şekeri dengesi üzerinde olumlu etkileriyle bu süreçte önemli bir yere sahip.\n\nKuruyemişleriniz (çiğ badem, ceviz) sağlıklı yağlar, lif ve magnezyum gibi minerallerle tokluk hissinizi desteklerken, bitter çikolata da küçük bir ödül olarak magnezyum ve antioksidanlar sağlayabilir. Yaban mersini, çilek ve orman meyveleri de antioksidan içeriğiyle inflamasyonla mücadelede bedeninize destek olacaktır.\n\nProgramınızdaki bu dengeli beslenme düzeni, lipödemle ilişkili inflamasyonu azaltmaya, lenfatik sisteminizi desteklemeye ve bedeninizdeki değişimi hızlandırmaya yönelik. Bu hafta attığımız her adımın, iştah kontrolünüzde ve genel enerji seviyenizde olumlu etkiler yaratmasını bekliyoruz. Unutmayın, bu süreçte düzenli ve istikrarlı olmak, hedeflerimize ulaşmada en büyük yardımcımız.\n\nTakıldığınız bir nokta olursa lütfen bize de danışın.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -726,6 +726,6 @@
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-18T06:12:55.084Z",
+  "sonGuncelleme": "2026-06-18T06:12:57.070Z",
   "githubKaydedildi": true
 }
