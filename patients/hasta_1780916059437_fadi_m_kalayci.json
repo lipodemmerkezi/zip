@@ -476,7 +476,7 @@
       "pdfYolu": "pdfs/FADİM KALAYCI 22-28 HAZİRAN 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 22-28 HAZİRAN 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 22-28 HAZİRAN 3. HAFTA.pdf",
-      "kayitTarihi": "2026-06-18T06:18:30.217Z",
+      "kayitTarihi": "2026-06-18T06:23:56.074Z",
       "tarifKartlar": [
         {
           "tarifAdi": "köfte",
@@ -637,7 +637,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Fadim Hanım,\n\nÜçüncü haftaya adım atarken, programımızın ilk adımlarını geride bırakmış ve yeni bir aşamaya geçmiş bulunuyoruz. Bu dönem, özellikle bağırsak sağlığınıza odaklanacağımız, önemli bir dönüm noktası. İlk iki haftalık eliminasyon süreci, sindirim sisteminizi dinlendirmek ve inflamasyonu azaltmak için çok değerliydi. Şimdi ise bu temelin üzerine, bağırsak floranızı güçlendirecek adımlar atıyoruz.\n\nBu haftayla birlikte beslenme listenize kontrollü bir şekilde süt ürünlerini yeniden dahil etmeye başlıyoruz. Özellikle yoğurt ve peynir gibi fermente, sindirimi kolay çeşitlerle başlamanız, bağırsaklarınızın bu geçişe uyum sağlaması açısından faydalı olacaktır. Bu ürünler, bağırsak floranızı zenginleştiren probiyotiklerin doğal kaynaklarıdır. Ayrıca, programımız dahilinde bu haftadan itibaren probiyotik ve prebiyotik takviyelerine de başlayacağız. Bu takviyeler, bağırsaklarınızdaki faydalı bakteri popülasyonunu artırarak sindirim sisteminizin dengesini optimize etmeye yardımcı olacak. Bu denge, sadece sindirim sağlığınız için değil, aynı zamanda lipödemle mücadelede kritik olan inflamasyonun yönetimi ve genel metabolik sağlığınız için de büyük önem taşıyor.\n\nBeslenme listenize baktığımda, bu hafta bağırsak sağlığını destekleyen pek çok zengin içeriği görüyorum. Tulum peyniri, lor peyniri ve yoğurtlu kabak mezesi gibi fermente ürünler, bağırsak florasını desteklerken, çeşitli sebzeler de prebiyotik lif sağlayarak faydalı bakterilerin beslenmesine yardımcı oluyor. Örneğin, fırında domates soslu sebze kızartması, semizotu salatası, yeşil salatalar ve roka salatası gibi seçenekler, lif, C vitamini ve magnezyum gibi mikro besinler açısından oldukça zengin. Bu besinler, bağırsak hareketliliğini destekler ve antioksidan içerikleriyle vücuttaki iltihabi süreçleri azaltmaya yardımcı olur.\n\nProtein kaynaklarınız (ketojenik tosttaki sucuk, köfte, hindi ızgara, tavuk güveç, tepsi kebabı, fırında kıymalı kabak sandal, mevsim balığı ve yumurta) ise vücudunuzun temel yapı taşlarını sağlarken, aynı zamanda B12 vitamini, demir, çinko ve selenyum gibi önemli mikro besinleri almanızı destekliyor. Özellikle balık tüketimi, omega-3 yağ asitleri açısından zengin olmasıyla inflamasyonu azaltıcı etkisini sürdürecektir. Yumurta miktarını biraz azaltarak, gün içinde bir yumurta yerine yaklaşık 30 gram kadar peynirle değişim yapabilmeniz, hem çeşitliliği artıracak hem de süt ürünlerine geçişinizi kolaylaştıracaktır.\n\nSağlıklı yağ kaynakları olan zeytin, ceviz, fındık, kabak çekirdeği ve zeytinyağı da hücre sağlığınızı desteklemeye devam ediyor. Listede yer alan ev yapımı turşu, bağırsak florası için doğal bir probiyotik kaynağı olarak çok değerli. Ayrıca, salatalarınızda sirke kullanılması, sindirime yardımcı olabilir ve kan şekeri dengesini destekleyebilir. Bu küçük detaylar, sindirim sisteminizin daha düzenli çalışmasına katkıda bulunacaktır.\n\nLipödemde bağırsak florasının dengesi, sadece sindirim sorunlarını değil, aynı zamanda iştah kontrolü, tatlı isteği ve hatta ruh hali gibi pek çok alanı da etkileyebilir. Bu nedenle, bu haftaki odak noktamız olan bağırsak sağlığı, programın genel başarısı için kritik bir öneme sahip. Düzenli olarak önerilen takviyeleri kullanmak ve beslenme planınıza sadık kalmak, bu süreçteki kazanımlarınızı hızlandıracaktır. Dr. Mustafa'nın da belirttiği gibi, bu besinler bölgesel incelme hedefleriniz doğrultusunda lenfatik sistemi destekleyecek ve süreci daha verimli hale getirecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -745,6 +745,6 @@
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-18T06:23:53.695Z",
+  "sonGuncelleme": "2026-06-18T06:23:58.472Z",
   "githubKaydedildi": true
 }
