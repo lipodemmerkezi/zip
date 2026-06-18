@@ -727,7 +727,7 @@
       "pdfYolu": "pdfs/ZELİHANUR AKÇAY - 4. hafta pdf.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZELİHANUR AKÇAY - 4. hafta pdf.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZELİHANUR AKÇAY - 4. hafta pdf.pdf",
-      "kayitTarihi": "2026-06-18T07:20:09.731Z",
+      "kayitTarihi": "2026-06-18T07:25:45.173Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -904,7 +904,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -1000,6 +1000,6 @@
   ],
   "olusturmaTarihi": "2026-06-18T07:14:42.187Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-18T07:25:35.090Z",
+  "sonGuncelleme": "2026-06-18T07:25:45.186Z",
   "githubKaydedildi": true
 }
