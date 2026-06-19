@@ -2,7 +2,7 @@
   "id": 1781855563204,
   "isim": "GÜLSÜM KAYHAN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -1109,6 +1109,6 @@
   ],
   "olusturmaTarihi": "2026-06-19T07:52:43.204Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-19T10:12:27.515Z",
+  "sonGuncelleme": "2026-06-19T10:13:25.962Z",
   "githubKaydedildi": true
 }
