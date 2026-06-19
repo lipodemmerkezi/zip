@@ -546,24 +546,26 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-06-21",
-      "bitis": "2026-06-27",
+      "baslangic": "2026-06-19",
+      "bitis": "2026-06-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GÜLSÜM KAYHAN - 3. hafta pdf.pdf",
+      "pdfOrijinalIsim": "GÜLSÜM KAYHAN - 3. hafta pdf.pdf",
+      "pdfYolu": "pdfs/GÜLSÜM KAYHAN - 3. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÜLSÜM KAYHAN - 3. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÜLSÜM KAYHAN - 3. hafta pdf.pdf",
+      "kayitTarihi": "2026-06-19T09:42:27.997Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-19T07:52:43.204Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-19T09:42:15.387Z",
+  "sonGuncelleme": "2026-06-19T09:42:27.998Z",
   "githubKaydedildi": true
 }
