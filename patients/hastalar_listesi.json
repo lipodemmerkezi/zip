@@ -191,13 +191,6 @@
     "sonGuncelleme": "2026-06-17T11:52:00.773Z"
   },
   {
-    "id": 1774278203728,
-    "isim": "ŞENAY KARAKUŞ İNANÇ",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-06-17T10:22:42.570Z"
-  },
-  {
     "id": 1781596794081,
     "isim": "ŞERİFE ÇARAY",
     "not": "",
@@ -1034,6 +1027,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-12-15T05:52:02.826Z"
+  },
+  {
+    "id": 1774278203728,
+    "isim": "ŞENAY KARAKUŞ İNANÇ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-06-19T07:10:17.906Z"
   },
   {
     "id": 20,
