@@ -319,24 +319,26 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-06-21",
-      "bitis": "2026-06-27",
+      "baslangic": "2026-06-20",
+      "bitis": "2026-06-20",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEMİH DERE - 2.hafta pdf.pdf",
+      "pdfOrijinalIsim": "SEMİH DERE - 2.hafta pdf.pdf",
+      "pdfYolu": "pdfs/SEMİH DERE - 2.hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEMİH DERE - 2.hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEMİH DERE - 2.hafta pdf.pdf",
+      "kayitTarihi": "2026-06-20T13:12:47.720Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-20T13:09:09.834Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-20T13:12:37.862Z",
+  "sonGuncelleme": "2026-06-20T13:12:47.721Z",
   "githubKaydedildi": true
 }
