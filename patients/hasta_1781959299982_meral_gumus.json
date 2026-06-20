@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-14",
-      "bitis": "2026-06-20",
+      "baslangic": "2026-06-22",
+      "bitis": "2026-06-28",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MERAL GÜMÜŞ 22-28 HAZİRAN 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "MERAL GÜMÜŞ  22-28 HAZİRAN 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/MERAL GÜMÜŞ 22-28 HAZİRAN 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÜMÜŞ 22-28 HAZİRAN 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÜMÜŞ 22-28 HAZİRAN 1. HAFTA.pdf",
+      "kayitTarihi": "2026-06-20T12:42:01.116Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-20T12:41:39.982Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-20T12:41:50.150Z",
+  "sonGuncelleme": "2026-06-20T12:42:01.117Z",
   "githubKaydedildi": true
 }
