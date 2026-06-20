@@ -941,7 +941,7 @@
       "pdfYolu": "pdfs/SEMİH DERE - 4. hafta pdf.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEMİH DERE - 4. hafta pdf.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEMİH DERE - 4. hafta pdf.pdf",
-      "kayitTarihi": "2026-06-20T13:13:42.634Z",
+      "kayitTarihi": "2026-06-20T13:20:56.125Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -1150,7 +1150,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -1257,6 +1257,6 @@
   ],
   "olusturmaTarihi": "2026-06-20T13:09:09.834Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-20T13:13:53.513Z",
+  "sonGuncelleme": "2026-06-20T13:20:56.140Z",
   "githubKaydedildi": true
 }
