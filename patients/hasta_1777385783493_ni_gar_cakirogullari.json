@@ -2719,7 +2719,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nigar Hanım,  \n\nOnuncu haftaya hoş geldiniz! Bu hafta, programımızda önemli bir geçiş yaparak düşük karbonhidratlı (LowCarb) beslenme düzenine geçiyoruz. Bu değişiklik, sürecinizi daha sürdürülebilir hale getirmek adına atılmış bir adım. Ketojenik beslenme döneminde sağladığımız inflamasyon azaltma etkisi, artık daha esnek bir yapıda devam edecek. Düşük karbonhidrat düzeyli beslenme, vücudunuzun dengesini koruyabilmesi için önemli bir geçiş aşaması olacak.\n\nYeni beslenme listenizde yer alan karabuğday unlu ekmekler, mevsim meyveleri ve sağlıklı baklagil kaynakları, lipödem tedavisi açısından oldukça faydalı. Bu besinler, insülin dengesini sağlamada ve ödemin azaltılmasında etkili. Özellikle menünüzde bolca bulunan yeşillikler ve zeytinyağlı sebzeler, antiinflamatuar özellikleri ile kan dolaşımınızı destekleyecek. \n\nBu hafta tüketmeye başlayacağınız haşlanmış yumurta, lorlu pazı sarması ve ızgara balık gibi protein kaynakları, D vitamini ve selenyum açısından zengin olup, bağışıklık sisteminizi güçlendirecek. Ayrıca, menünüzdeki badem, ceviz ve fındık gibi sağlıklı yağlar, hem tokluk hissinizi artıracak hem de hormonal dengenize katkıda bulunacak. \n\nDüşük karbonhidratlı beslenme düzeniyle birlikte, bu sürecin hem bedeninizi hem de zihninizi rahatlatacağını düşünüyorum. Artık kendinizi daha dengede hissedecek, sosyal ortamlarda daha fazla esneklik sağlayacaksınız. Unutmayın, bu süre zarfında bölgesel incelme hedeflerinizi desteklemek için önerilen besinleri günlük rutininize dahil etmeniz çok önemli. \n\nÖlçümlerinizdeki olumlu gelişmeleri sabırsızlıkla bekliyorum. Eğer bu yeni beslenme düzeni veya herhangi bir konuda sorularınız olursa, lütfen çekinmeden bana ulaşın.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.  \n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -2829,11 +2829,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "program uyumu iyi. low crab beslenmeye geçiyoruz.\nMerhaba Ni̇gar Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 10. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T10:04:31.375Z",
+  "sonGuncelleme": "2026-06-24T10:05:03.863Z",
   "githubKaydedildi": true
 }
