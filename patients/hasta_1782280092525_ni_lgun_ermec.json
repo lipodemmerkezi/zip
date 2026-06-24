@@ -2,7 +2,7 @@
   "id": 1782280092525,
   "isim": "NİLGÜN ERMEÇ",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -292,6 +292,6 @@
   ],
   "olusturmaTarihi": "2026-06-24T05:48:12.525Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T05:55:39.006Z",
+  "sonGuncelleme": "2026-06-24T05:55:46.384Z",
   "githubKaydedildi": true
 }
