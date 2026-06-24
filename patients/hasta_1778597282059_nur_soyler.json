@@ -1877,7 +1877,7 @@
       "pdfYolu": "pdfs/NUR SÖYLER 29 HAZİRAN-5 TEMMUZ 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NUR SÖYLER 29 HAZİRAN-5 TEMMUZ 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NUR SÖYLER 29 HAZİRAN-5 TEMMUZ 8. HAFTA.pdf",
-      "kayitTarihi": "2026-06-24T10:48:50.183Z",
+      "kayitTarihi": "2026-06-24T11:20:17.082Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu ekmek (1 dilim)",
@@ -2081,7 +2081,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nur Hanım,\n\nSekizinci haftaya ulaştık. Bu noktaya kadar geldiğiniz için sizi tebrik ediyorum. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir aşamaya geliyoruz. Bu hafta, yemek sıralaması konusunu ele alacağız ve bunun lipödem sürecinize olan etkilerini inceleyeceğiz.\n\nYemek sıralaması, insülin düzeylerini dengelemek, tokluk süresini uzatmak ve kan şekerinin hızlı yükselmesini önlemek açısından son derece önemlidir. Bu, doğrudan lipödemli dokular üzerinde olumlu etkiler yaratır çünkü insülin, yağ hücrelerinin büyümesini tetikleyen en güçlü hormondur.\n\nDoğru sıralama şu şekilde olmalıdır:\n1. Önce lifli gıdalar: Öğüne salata, zeytinyağlı sebze ya da lifli mezelerle başlayın. Lifli besinler, bağırsaklarda bir bariyer oluşturarak karbonhidratların kana karışmasını geciktirir, bu da insülinin yavaş ve daha az salgılanmasını sağlar.\n2. Ardından protein grubu: Balık, tavuk, yumurta veya peynir gibi protein kaynaklarını salatayla birlikte tüketmeye devam edin. Protein hem tokluk sağlar hem de kan şekeri dalgalanmalarını dengeler.\n3. Sonrasında yağlı içerikler: Sebze yemekleri, zeytinyağlılar gibi yağlı yiyecekler eklenebilir.\n4. En sona karbonhidratlar: Karbonhidratlı yiyecekleri öğünün en sonuna bırakmak, insülin tepkisini azaltır.\n\nBu hafta beslenme listenizde yer alan gıdalar, lipödem tedavisinin temel prensiplerine uygun ve antiinflamatuar özelliklere sahip. Örneğin, yoğurtlu salatalık mezesi ve semizotu salatası gibi seçenekler, hem bağırsak sağlığınızı destekler hem de vücudunuzdaki inflamasyonu azaltır. Ayrıca, lupin unlu ekmek ve zeytinyağı ile hazırlanan salatalarınız, lif ve sağlıklı yağlar açısından zengin içerikleriyle sindirim sisteminizi destekleyecektir.\n\nMikro besinlerin de sürecinize katkısını unutmamak lazım. Bu haftaki menünüzdeki besinler, D vitamini, magnezyum, çinko ve selenyum gibi önemli mikro besinleri içeriyor. Örneğin, ızgara balık ve haşlanmış yumurta, bu mikro besinleri almanıza yardımcı olacak. Bu besinlerin yeterli alımı, bağışıklık sisteminizi güçlendirecek ve vücudunuzun iyileşme sürecini hızlandıracaktır.\n\nAyrıca, bu hafta ölçümlerinizi almayı unutmayın. Vücudunuzdaki değişimleri gözlemlemek, sürecin başarıyla ilerlediğini görmek açısından önemli. Eğer kilo kaybınızda bir yavaşlama hissederseniz, bunun doğal mekanizmalarla (yağ hücrelerinden toksin salınımı gibi) ilişkili olduğunu aklınızda bulundurun. Bu süreçte sabırla ve doğru adımlarla ilerlediğimizde, hedeflerinize ulaşacağımıza eminim.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2188,6 +2188,6 @@
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T11:20:15.440Z",
+  "sonGuncelleme": "2026-06-24T11:20:17.097Z",
   "githubKaydedildi": true
 }
