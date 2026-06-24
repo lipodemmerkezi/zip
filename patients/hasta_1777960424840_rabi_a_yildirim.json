@@ -2194,24 +2194,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-06-29",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "RABİA YILDIRIM 29 HAZİRAN -5 TEMMUZ 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "RABİA YILDIRIM 29 HAZİRAN -5 TEMMUZ 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/RABİA YILDIRIM 29 HAZİRAN -5 TEMMUZ 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RABİA YILDIRIM 29 HAZİRAN -5 TEMMUZ 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RABİA YILDIRIM 29 HAZİRAN -5 TEMMUZ 9. HAFTA.pdf",
+      "kayitTarihi": "2026-06-24T10:06:19.750Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T10:06:02.335Z",
+  "sonGuncelleme": "2026-06-24T10:06:19.753Z",
   "githubKaydedildi": true
 }
