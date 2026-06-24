@@ -3253,10 +3253,30 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "program uyumu iyi.\nölçümlerini isteyelim.\nMerhaba Güler Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 11. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-06-29",
+      "bitis": "2026-07-05",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "GÜLER AŞIK 29 HAZİRAN -5 TEMMUZ 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "GÜLER AŞIK 29 HAZİRAN -5 TEMMUZ 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/GÜLER AŞIK 29 HAZİRAN -5 TEMMUZ 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÜLER AŞIK 29 HAZİRAN -5 TEMMUZ 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÜLER AŞIK 29 HAZİRAN -5 TEMMUZ 12. HAFTA.pdf",
+      "kayitTarihi": "2026-06-24T09:34:36.108Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-17T11:16:54.325Z",
+  "sonGuncelleme": "2026-06-24T09:34:36.113Z",
   "githubKaydedildi": true
 }
