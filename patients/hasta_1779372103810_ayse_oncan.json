@@ -1378,24 +1378,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-06-29",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE ÖNCAN 29 HAZİRAN -5 TEMMUZ 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE ÖNCAN 29 HAZİRAN -5 TEMMUZ 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE ÖNCAN 29 HAZİRAN -5 TEMMUZ 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÖNCAN 29 HAZİRAN -5 TEMMUZ 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÖNCAN 29 HAZİRAN -5 TEMMUZ 6. HAFTA.pdf",
+      "kayitTarihi": "2026-06-24T12:07:56.566Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-21T14:01:43.810Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T12:07:34.591Z",
+  "sonGuncelleme": "2026-06-24T12:07:56.568Z",
   "githubKaydedildi": true
 }
