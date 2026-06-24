@@ -1868,24 +1868,27 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-06-29",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NUR SÖYLER 29 HAZİRAN-5 TEMMUZ 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "NUR SÖYLER 29 HAZİRAN-5 TEMMUZ 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/NUR SÖYLER 29 HAZİRAN-5 TEMMUZ 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NUR SÖYLER 29 HAZİRAN-5 TEMMUZ 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NUR SÖYLER 29 HAZİRAN-5 TEMMUZ 8. HAFTA.pdf",
+      "kayitTarihi": "2026-06-24T10:48:50.183Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T10:48:31.891Z",
+  "sonGuncelleme": "2026-06-24T10:48:50.185Z",
   "githubKaydedildi": true
 }
