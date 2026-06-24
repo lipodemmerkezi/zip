@@ -1766,7 +1766,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Sezin Hanım,\n\nYedinci haftaya adım atarken, önceki süreçte gösterdiğiniz özveri ve kararlılığınız için sizi tebrik ediyorum. Bu haftanın teması, lipödem tedavisinde kullanılan takviyeler üzerine odaklanıyor. Bu bağlamda, beslenme düzeninizin yanı sıra takviyelerin de önemini vurgulamak istiyorum.\n\nBu hafta beslenme listenize baktığımda, içeriğinde bulunan besinlerin, lipödem ve bölgesel incelme hedeflerinize yönelik olarak özenle seçildiğini görüyorum. Özellikle antiinflamatuar özellikleri ve lenfatik sistemi destekleme potansiyeli bulunan bu gıdalar, tedavi sürecinizde önemli bir rol oynayacak.\n\nProgramda yer alan besinler şunları içeriyor:\n- **Haşlanmış yumurta**: Yüksek kaliteli protein ve önemli mikrobesinler olan D vitamini ve selenyum kaynağıdır.\n- **Tulum ve kaşar peyniri**: Bu süt ürünleri, bağırsak sağlığınıza katkıda bulunacak probiyotikleri sağlarken, aynı zamanda protein alımınızı destekliyor.\n- **Yeşillikler (roka, maydanoz, marul)**: Lif ve magnezyum açısından zengin olup, sindirim sisteminizi desteklerken kan dolaşımınıza da yardımcı olur.\n- **Kabak ve diğer sebzeler**: Bu sebzeler, vitamin ve mineral zenginliği sunarak, bağışıklık sisteminizi güçlendirir.\n- **Çiğ badem ve kabak çekirdeği**: Bu sağlıklı yağ kaynakları, cilt sağlığınızı desteklerken, enerji seviyenizi de artırır.\n\nAyrıca, bu hafta belirttiğimiz takviyeler arasında yer alan **Boswellia serrata**, **koenzim Q10**, **kurkumin**, **astaksantin**, **bromelain**, **resveratrol** ve **kollajen**, her biri lipödemli dokuda özel bir görev üstleniyor. Örneğin, Boswellia serrata, vücuttaki inflamasyonu baskılamada yardımcı olurken, koenzim Q10 enerji üretiminde rol oynar. Kurkumin, hücrelerinizde oksidatif stresi azaltarak şişkinliği hafifletir. \n\nDaha fazla ayrıntı vermek gerekirse:\n- **Kollajen**, cilt elastikiyetini artırarak doku sağlığınızı destekler. Kilo kaybı sürecinde cildinizde oluşabilecek boşlukları toparlamaya yardımcı olur.\n- **Astaksantin**, güçlü bir antioksidan olarak cilt dokusunda kolajen üretimini destekler.\n- **Bromelain**, ödemin çözülmesine yardımcı olarak, masaj ile birleştiğinde daha hızlı bir yumuşama süreci sağlayabilir.\n\nBu dönemde, stresli bir süreçten geçtiğinizi biliyorum. Stres, kortizon hormonunun artışıyla birlikte, yeme bozukluklarına yol açabilir. Bu nedenle, beslenmenizi dikkatlice sürdürmek ve ruhsal sağlığınıza özen göstermek önemli. Unutmayın, bu süreçte attığınız her adım, genel sağlığınızı ve lipödemle mücadelenizi güçlendirecek.\n\nÖlçümlerinizi kaydediyoruz ve iki hafta sonraki sonuçlarda olumlu değişimlerinizi görmeyi umuyorum. Herhangi bir sorunuz veya gözleminiz olursa, lütfen benimle paylaşın. Her zaman buradayım.\n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1865,11 +1865,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "Günaydın Sezin hanım, öncelikle büyük bir sınav atlattınız geçmiş olsun diliyorum 💐 umarım herşey gönlünüzce olur🙏. Stresli dönem sonrasında bir rahatlama olurken de dikkat etmemiz gerekir. Her ne kadar kortizon hormonu yağlandırıcı etki yapsa da, bunun yerine rahatlıktan gelen yeme bozukluğu alabilir. Buna çok dikkat edeceğiz. Yeniden dikkatlice hediy ilerlememiz gerekiyor. Ölçümlerinizi kaydediyoruz. İki hafta sonraki ölçülerde değişim düzeyinin iyi olacağını düşünüyorum.\nMerhaba Sezi̇n Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-05-18T16:58:40.699Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T11:21:51.407Z",
+  "sonGuncelleme": "2026-06-24T11:22:36.942Z",
   "githubKaydedildi": true
 }
