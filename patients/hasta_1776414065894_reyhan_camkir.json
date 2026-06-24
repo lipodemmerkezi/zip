@@ -2904,24 +2904,27 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-06-29",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "REYHAN ÇAMKIR 29 HAZİRAN -5 TEMMUZ 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "REYHAN ÇAMKIR 29 HAZİRAN -5 TEMMUZ 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/REYHAN ÇAMKIR 29 HAZİRAN -5 TEMMUZ 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/REYHAN ÇAMKIR 29 HAZİRAN -5 TEMMUZ 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/REYHAN ÇAMKIR 29 HAZİRAN -5 TEMMUZ 11. HAFTA.pdf",
+      "kayitTarihi": "2026-06-24T09:54:08.901Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-17T08:21:05.894Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T09:53:52.253Z",
+  "sonGuncelleme": "2026-06-24T09:54:08.905Z",
   "githubKaydedildi": true
 }
