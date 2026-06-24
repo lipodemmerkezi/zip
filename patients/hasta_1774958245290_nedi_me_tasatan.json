@@ -3704,7 +3704,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nedime Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda on dördüncü haftaya başlıyoruz. Bu süreçte gösterdiğiniz kararlılık ve uyum gerçekten takdire şayan.\n\nBu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş besinlerin yer aldığını görüyorum. Listeye dahil edilen gıdalar, antiinflamatuar özellikleri ve kan dolaşımını desteklemesi nedeniyle özenle seçilmiştir. Bu besinler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo verme sürecinize de katkıda bulunacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu gıdaları günlük rutininize dahil etmeniz oldukça önemlidir.\n\nÖzellikle menünüzde bulunan yeşilliklerin ve sebzelerin zenginliği, hem lif alımınızı artıracak hem de sindirim sisteminizin sağlığını destekleyecektir. Yapılan araştırmalar, magnezyumun lenfatik akış üzerinde olumlu etkileri olduğunu göstermektedir. Bu bağlamda, menünüzdeki ıspanak, semizotu ve kabak gibi besinler, hem sağlıklı yağ asitleri hem de mikro besinlerle dolu bir diyet oluşturmanıza yardımcı olacaktır.\n\nAyrıca, bu hafta içinde tavuklu kabak noodle ve ketojenik pizza gibi lezzetli seçeneklerin yer alması, hem damak tadınızı tatmin edecek hem de lipödem tedavisi sürecinizde ilerlemenize destek olacaktır. Bunun yanı sıra, çilekli-limonlu smoothie ve elma gibi meyveler, tatlı ihtiyacınızı sağlıklı bir şekilde karşılamanızı sağlayacak ve antioksidanlar açısından zengin bir kaynak sunacaktır.\n\nBu hafta ayrıca, ölçümlerimizde de ilerleme kaydettiğimizi görmekten mutluluk duyuyorum. Vücudunuzdaki değişimler, sadece tartıdaki rakamlarla değil, aynı zamanda giysilerinizdeki rahatlamalarla da kendini gösteriyor. Bu sürecin olumlu etkilerini net bir şekilde gözlemlemek, motivasyonunuzu artıracaktır.\n\nUnutmayın, bu süreçte kendinize nazik olmalısınız. Herhangi bir zorlukla karşılaştığınızda ya da bir şeyler hissettiğinizde, lütfen bunu benimle paylaşın. Sizinle bu yolculuğu birlikte yürümekten mutluluk duyuyorum.\n\nHer zaman olduğu gibi, süreçte karşılaştığınız her türlü soruyu ve gözlemlerinizi benimle paylaşabilirsiniz. \n\nSevgilerle,  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -3807,6 +3807,6 @@
   ],
   "olusturmaTarihi": "2026-03-31T11:57:25.290Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T09:15:53.182Z",
+  "sonGuncelleme": "2026-06-24T09:16:10.446Z",
   "githubKaydedildi": true
 }
