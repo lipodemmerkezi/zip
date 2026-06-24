@@ -6,24 +6,26 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-21",
-      "bitis": "2026-06-27",
+      "baslangic": "2026-06-22",
+      "bitis": "2026-06-28",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NİLGÜN ERMEÇ - ÖRNEK LİSTE.PDF.pdf",
+      "pdfOrijinalIsim": "NİLGÜN ERMEÇ - ÖRNEK LİSTE.PDF.pdf",
+      "pdfYolu": "pdfs/NİLGÜN ERMEÇ - ÖRNEK LİSTE.PDF.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİLGÜN ERMEÇ - ÖRNEK LİSTE.PDF.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİLGÜN ERMEÇ - ÖRNEK LİSTE.PDF.pdf",
+      "kayitTarihi": "2026-06-24T05:48:33.207Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-24T05:48:12.525Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T05:48:22.275Z",
+  "sonGuncelleme": "2026-06-24T05:48:33.208Z",
   "githubKaydedildi": true
 }
