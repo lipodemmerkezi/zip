@@ -2001,27 +2001,10 @@
       "tarifler": [],
       "gptMesaj": "",
       "kilitli": false
-    },
-    {
-      "haftaNo": 9,
-      "baslangic": "2026-06-29",
-      "bitis": "2026-07-05",
-      "aciklama": "",
-      "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
-      "tarifKartlar": [],
-      "tarifler": [],
-      "gptMesaj": "",
-      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-05-07T11:00:08.521Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T10:27:03.598Z",
+  "sonGuncelleme": "2026-06-24T10:27:29.941Z",
   "githubKaydedildi": true
 }
