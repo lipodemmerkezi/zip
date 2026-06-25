@@ -2,7 +2,7 @@
   "id": 1781960949834,
   "isim": "SEMİH DERE",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -1257,6 +1257,6 @@
   ],
   "olusturmaTarihi": "2026-06-20T13:09:09.834Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-20T13:20:56.140Z",
+  "sonGuncelleme": "2026-06-25T05:31:03.155Z",
   "githubKaydedildi": true
 }
