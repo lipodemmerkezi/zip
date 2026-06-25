@@ -734,7 +734,7 @@
       "pdfYolu": "pdfs/ZÜBEYDE ÇAKMAK 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZÜBEYDE ÇAKMAK 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZÜBEYDE ÇAKMAK 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
-      "kayitTarihi": "2026-06-25T05:29:28.881Z",
+      "kayitTarihi": "2026-06-25T05:30:50.401Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -892,7 +892,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Zübeyde Hanım,\n\nDördüncü haftaya hoş geldiniz! Bu süreçte, beslenme alışkanlıklarınızı oturtmaya başladığınızı umuyorum. Artık daha yapısal ve sürdürülebilir bir beslenme düzenine geçiyoruz. Bu hafta, metabolik hız ve yemek miktarları üzerine odaklanacağız.\n\nBeslenme listenizde yer alan protein kaynaklarının, özellikle de hayvansal proteinlerin önemini vurgulamak istiyorum. Hayvansal proteinler, vücudun temel işlevlerini sürdürebilmesi için gerekli olan amino asitleri içerir. Yeterli protein alımının sağlanmaması durumunda, vücut enerji ihtiyacını karşılamak adına kas dokusunu kullanabilir ve bu da istenmeyen kas kaybına yol açabilir. Dolayısıyla, protein alımınızın yeterli olması, hem kas sağlığınızı koruyacak hem de bağışıklık sisteminizi güçlendirecektir.\n\nBu hafta beslenme düzeninizdeki \"az yeme\" yaklaşımını bir kenara bırakıyoruz. Kalori kısıtlamasından ziyade, insülin dengesini koruyan, doyurucu ve besleyici bir plan oluşturuyoruz. Sağlıklı yağlar, yeterli protein ve dengeli karbonhidratlar içeren öğünler, hem uzun süre tok hissetmenizi sağlayacak hem de metabolizmanızı destekleyecektir. \n\nAyrıca, bu hafta beslenme listenizdeki avokadolu omlet, zeytin, tulum peyniri ve haşlanmış yumurta gibi besinler, sağlıklı yağlar ve mikro besinler açısından zengin. Örneğin, D vitamini ve selenyum içeren bu gıdalar, bağışıklık sisteminizi destekleyecek ve iltihaplanmayı azaltmaya yardımcı olacaktır. \n\nEv yapımı turşu gibi fermente gıdalar, bağırsak sağlığınızı desteklerken, lif açısından zengin yeşillikler de sindirim sisteminizi güçlendirecek. Ayrıca, ceviz ve badem gibi kuruyemişler, sağlıklı yağlar ve magnezyum gibi minerallerle dolu; bu da tokluk hissinizi artıracak ve bağırsak sağlığınıza destek olacaktır.\n\nBu süreçte, motivasyon kaybı yaşamamanız için düzenli ölçüm almayı ve gelişmeleri takip etmeyi ihmal etmeyin. Bu, ilerlemenizi görmek ve hedeflerinize olan bağlılığınızı artırmak adına önemli bir adım.\n\nUnutmayın, her adımda yanınızdayım ve sürecinize dair gözlemlerinizi merak ediyorum. Her zaman olduğu gibi bize ulaşabilirsiniz.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -988,6 +988,6 @@
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-25T05:30:48.518Z",
+  "sonGuncelleme": "2026-06-25T05:30:50.416Z",
   "githubKaydedildi": true
 }
