@@ -744,24 +744,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-06-29",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FADİM KALAYCI 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "FADİM KALAYCI 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/FADİM KALAYCI 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
+      "kayitTarihi": "2026-06-25T05:36:50.512Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-25T05:36:32.178Z",
+  "sonGuncelleme": "2026-06-25T05:36:50.514Z",
   "githubKaydedildi": true
 }
