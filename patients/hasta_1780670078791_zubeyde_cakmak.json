@@ -891,7 +891,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Zübeyde Hanım,\n\nDördüncü haftaya hoş geldiniz! Bu süreçte, beslenme alışkanlıklarınızı oturtmaya başladığınızı umuyorum. Artık daha yapısal ve sürdürülebilir bir beslenme düzenine geçiyoruz. Bu hafta, metabolik hız ve yemek miktarları üzerine odaklanacağız.\n\nBeslenme listenizde yer alan protein kaynaklarının, özellikle de hayvansal proteinlerin önemini vurgulamak istiyorum. Hayvansal proteinler, vücudun temel işlevlerini sürdürebilmesi için gerekli olan amino asitleri içerir. Yeterli protein alımının sağlanmaması durumunda, vücut enerji ihtiyacını karşılamak adına kas dokusunu kullanabilir ve bu da istenmeyen kas kaybına yol açabilir. Dolayısıyla, protein alımınızın yeterli olması, hem kas sağlığınızı koruyacak hem de bağışıklık sisteminizi güçlendirecektir.\n\nBu hafta beslenme düzeninizdeki \"az yeme\" yaklaşımını bir kenara bırakıyoruz. Kalori kısıtlamasından ziyade, insülin dengesini koruyan, doyurucu ve besleyici bir plan oluşturuyoruz. Sağlıklı yağlar, yeterli protein ve dengeli karbonhidratlar içeren öğünler, hem uzun süre tok hissetmenizi sağlayacak hem de metabolizmanızı destekleyecektir. \n\nAyrıca, bu hafta beslenme listenizdeki avokadolu omlet, zeytin, tulum peyniri ve haşlanmış yumurta gibi besinler, sağlıklı yağlar ve mikro besinler açısından zengin. Örneğin, D vitamini ve selenyum içeren bu gıdalar, bağışıklık sisteminizi destekleyecek ve iltihaplanmayı azaltmaya yardımcı olacaktır. \n\nEv yapımı turşu gibi fermente gıdalar, bağırsak sağlığınızı desteklerken, lif açısından zengin yeşillikler de sindirim sisteminizi güçlendirecek. Ayrıca, ceviz ve badem gibi kuruyemişler, sağlıklı yağlar ve magnezyum gibi minerallerle dolu; bu da tokluk hissinizi artıracak ve bağırsak sağlığınıza destek olacaktır.\n\nBu süreçte, motivasyon kaybı yaşamamanız için düzenli ölçüm almayı ve gelişmeleri takip etmeyi ihmal etmeyin. Bu, ilerlemenizi görmek ve hedeflerinize olan bağlılığınızı artırmak adına önemli bir adım.\n\nUnutmayın, her adımda yanınızdayım ve sürecinize dair gözlemlerinizi merak ediyorum. Her zaman olduğu gibi bize ulaşabilirsiniz.\n\nSevgilerle,",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -982,11 +982,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "prebiyotik ve peobiyotik başlamış mı?\nMerhaba Zübeyde Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-25T05:29:38.334Z",
+  "sonGuncelleme": "2026-06-25T05:30:13.516Z",
   "githubKaydedildi": true
 }
