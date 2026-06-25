@@ -836,7 +836,7 @@
       "pdfYolu": "pdfs/FATMANA KUYBEN 29 HAZİRAN-5 TEMMUZ 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FATMANA KUYBEN 29 HAZİRAN-5 TEMMUZ 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FATMANA KUYBEN 29 HAZİRAN-5 TEMMUZ 4. HAFTA.pdf",
-      "kayitTarihi": "2026-06-25T05:23:57.709Z",
+      "kayitTarihi": "2026-06-25T05:27:27.473Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -1007,7 +1007,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Fatmana Hanım,\n\nDördüncü haftaya geldik. Artık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta, metabolizmanızı desteklemek ve yemek miktarınızı optimize etmek üzerine odaklanıyoruz. Menüdeki hayvansal proteinler, özellikle de yumurta ve peynir gibi seçenekler, aminoasit profili açısından zengin olduğu için vücudunuzun temel işlevlerini desteklemekte oldukça önemli. Kas ve eklem sağlığınız, bağışıklık sisteminin güçlü kalması ve doku onarımı gibi pek çok mekanizma için bu proteinlere ihtiyaç duyuyorsunuz. Unutmayın, eğer enerji kaynağı olarak sağlıklı yağları almayı ihmal ederseniz ve vücudunuzun ihtiyacı olan proteinleri eksik alırsanız, bu durum kas kaybına neden olabilir.\n\nLipödem sürecinde sıkça karşılaşılan hatalardan biri, \"az yeme\" fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Açlık hormonu olan ghrelin, uzun süreli açlık ya da yetersiz enerji alımı durumunda devreye girer ve beyne “yemek zamanı geldi” mesajı gönderir. Bu nedenle, bu süreçte kaloriyi kısıtlamaktan ziyade insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya çalışıyoruz.\n\nBu haftaki beslenme planınıza baktığımda, avokadolu omlet, kıymalı enginar dolması ve yoğurtlu semizotu salatası gibi zengin içerikli seçenekler görüyorum. Bu tür besinler, hem sağlıklı yağlar hem de yeterli protein sağlayarak sizi uzun süre tok tutar. Ayrıca, menüde yer alan zeytinyağı ve tahin gibi sağlıklı yağ kaynakları, hücre zarlarınızın sağlığını desteklerken, yağda çözünen vitaminlerin emilimini artıracaktır. Özellikle bu yağlar, magnezyum, çinko ve selenyum gibi mikro besinler açısından da zengindir ve tiroid hormon dengesi ile genel metabolik fonksiyonlarınız için önemlidir.\n\nBu süreçte vücudunuzun hormonal dengelerini korumaya yönelik besin seçimleri yapmaya devam ediyoruz. Levetron kullanıyor olmanız nedeniyle, bu konuda dikkatli olmak oldukça değerli. Her zaman olduğu gibi, bu haftaki önerilere sadık kalmanız, ilerlemenizi destekleyecektir.\n\nUnutmayın, bu hafta metabolizmanızın hızını artırmak için önemli adımlar atıyoruz. Beslenme düzeninizdeki bu yapısal değişiklikler sayesinde, hem kilo kaybını sürdürülebilir hale getirebiliriz hem de genel sağlığınızı destekleyebiliriz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1111,6 +1111,6 @@
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-25T05:27:24.726Z",
+  "sonGuncelleme": "2026-06-25T05:27:30.234Z",
   "githubKaydedildi": true
 }
