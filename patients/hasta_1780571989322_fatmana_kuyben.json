@@ -1006,7 +1006,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Fatmana Hanım,\n\nDördüncü haftaya geldik. Artık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta, metabolizmanızı desteklemek ve yemek miktarınızı optimize etmek üzerine odaklanıyoruz. Menüdeki hayvansal proteinler, özellikle de yumurta ve peynir gibi seçenekler, aminoasit profili açısından zengin olduğu için vücudunuzun temel işlevlerini desteklemekte oldukça önemli. Kas ve eklem sağlığınız, bağışıklık sisteminin güçlü kalması ve doku onarımı gibi pek çok mekanizma için bu proteinlere ihtiyaç duyuyorsunuz. Unutmayın, eğer enerji kaynağı olarak sağlıklı yağları almayı ihmal ederseniz ve vücudunuzun ihtiyacı olan proteinleri eksik alırsanız, bu durum kas kaybına neden olabilir.\n\nLipödem sürecinde sıkça karşılaşılan hatalardan biri, \"az yeme\" fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Açlık hormonu olan ghrelin, uzun süreli açlık ya da yetersiz enerji alımı durumunda devreye girer ve beyne “yemek zamanı geldi” mesajı gönderir. Bu nedenle, bu süreçte kaloriyi kısıtlamaktan ziyade insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya çalışıyoruz.\n\nBu haftaki beslenme planınıza baktığımda, avokadolu omlet, kıymalı enginar dolması ve yoğurtlu semizotu salatası gibi zengin içerikli seçenekler görüyorum. Bu tür besinler, hem sağlıklı yağlar hem de yeterli protein sağlayarak sizi uzun süre tok tutar. Ayrıca, menüde yer alan zeytinyağı ve tahin gibi sağlıklı yağ kaynakları, hücre zarlarınızın sağlığını desteklerken, yağda çözünen vitaminlerin emilimini artıracaktır. Özellikle bu yağlar, magnezyum, çinko ve selenyum gibi mikro besinler açısından da zengindir ve tiroid hormon dengesi ile genel metabolik fonksiyonlarınız için önemlidir.\n\nBu süreçte vücudunuzun hormonal dengelerini korumaya yönelik besin seçimleri yapmaya devam ediyoruz. Levetron kullanıyor olmanız nedeniyle, bu konuda dikkatli olmak oldukça değerli. Her zaman olduğu gibi, bu haftaki önerilere sadık kalmanız, ilerlemenizi destekleyecektir.\n\nUnutmayın, bu hafta metabolizmanızın hızını artırmak için önemli adımlar atıyoruz. Beslenme düzeninizdeki bu yapısal değişiklikler sayesinde, hem kilo kaybını sürdürülebilir hale getirebiliriz hem de genel sağlığınızı destekleyebiliriz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1105,11 +1105,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "Merhaba Fatmana Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-25T05:24:05.917Z",
+  "sonGuncelleme": "2026-06-25T05:26:26.245Z",
   "githubKaydedildi": true
 }
