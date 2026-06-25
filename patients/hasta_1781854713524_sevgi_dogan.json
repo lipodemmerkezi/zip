@@ -273,20 +273,23 @@
       "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEVGİ DOĞAN 29 HAZİRAN -5 TEMMUZ 2. HAFTA (1).pdf",
+      "pdfOrijinalIsim": "SEVGİ DOĞAN 29 HAZİRAN -5 TEMMUZ 2. HAFTA (1).pdf",
+      "pdfYolu": "pdfs/SEVGİ DOĞAN 29 HAZİRAN -5 TEMMUZ 2. HAFTA (1).pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVGİ DOĞAN 29 HAZİRAN -5 TEMMUZ 2. HAFTA (1).pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVGİ DOĞAN 29 HAZİRAN -5 TEMMUZ 2. HAFTA (1).pdf",
+      "kayitTarihi": "2026-06-25T06:20:25.275Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-19T07:38:33.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-25T06:20:10.753Z",
+  "sonGuncelleme": "2026-06-25T06:20:25.276Z",
   "githubKaydedildi": true
 }
