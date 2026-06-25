@@ -517,24 +517,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-06-29",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERMİN DEVECİ 29 HAZİRAN -5 TEMMUZ 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERMİN DEVECİ 29 HAZİRAN -5 TEMMUZ 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERMİN DEVECİ 29 HAZİRAN -5 TEMMUZ 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERMİN DEVECİ 29 HAZİRAN -5 TEMMUZ 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERMİN DEVECİ 29 HAZİRAN -5 TEMMUZ 3. HAFTA.pdf",
+      "kayitTarihi": "2026-06-25T05:49:26.116Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-12T07:26:13.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-25T05:48:36.484Z",
+  "sonGuncelleme": "2026-06-25T05:49:26.117Z",
   "githubKaydedildi": true
 }
