@@ -815,7 +815,7 @@
       "pdfYolu": "pdfs/AYŞE ÇİLOĞLU 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÇİLOĞLU 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÇİLOĞLU 29 HAZİRAN -5 TEMMUZ 4. HAFTA.pdf",
-      "kayitTarihi": "2026-06-25T05:33:21.995Z",
+      "kayitTarihi": "2026-06-25T05:36:10.474Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -977,7 +977,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle proteinlerden, özellikle de hayvansal proteinlerin öneminden bahsetmek istiyorum. Hayvansal kaynaklı proteinler, aminoasit profili açısından zengindir ve vücudun temel işlevleri için gereklidir. Kas ve eklem sağlığı, bağışıklık sisteminin güçlü kalması, doku onarımı gibi pek çok mekanizma bu proteinlere ihtiyaç duyar. Eğer enerji kaynağı olarak sağlıklı yağları almayı ihmal edersek ve vücudumuzun ihtiyaç duyduğu proteinleri eksik alırsak, bu durum kas kaybına neden olabilir ve bağışıklık sistemimizi zayıflatabilir.\n\nLipödem sürecinde yapılan en büyük hatalardan biri, “az yeme” fikrinin başarıya götüreceğine inanmak. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Açlık hormonu ghrelin, uzun süreli açlık durumunda devreye girerek beynimize “yemek zamanı geldi” sinyalini gönderir. Bu da plansız ve aşırı yemelere yol açabilir. Biz bu süreçte kaloriyi kısıtlamaktan ziyade insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya çalışıyoruz. Sağlıklı yağlar, yeterli protein ve dengeli karbonhidratlar içeren öğünler, hem uzun süre tok kalmanızı sağlar hem de metabolizmanızı destekler.\n\nBeslenme listenize baktığımda, haşlanmış yumurta, tulum peyniri ve sebze çorbası gibi öğelerin yer aldığını görüyorum. Bu besinler, lipödemle mücadelede oldukça faydalı olan D vitamini, selenyum ve magnezyum gibi mikro besinleri içeriyor. Özellikle yeşil yapraklı sebzeler ve omega-3 içeren balık, iltihapla savaşmanıza yardımcı olurken, genel sağlığınızı da destekleyecek.\n\nAyrıca, bu hafta önerilen takviyeleri düzenli almanız, vücudunuzun ihtiyaç duyduğu mikro besinleri karşılaması açısından önemli. Örneğin, menünüzde yer alan ceviz ve kabak çekirdeği gibi sağlıklı yağ kaynakları, E vitamini ve magnezyum gibi önemli besinleri sağlarken, iltihapla savaşmanıza yardımcı olacaktır.\n\nBu hafta, bölgesel ölçümlerinizdeki değişimler sürecin ne kadar kıymetli olduğunu gözler önüne serecektir. Unutmayın ki, amacımız sadece dış görünüşteki değişimler değil, hücresel düzeyde başlayan iyileşmeleri de desteklemek.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1092,6 +1092,6 @@
   ],
   "olusturmaTarihi": "2026-06-06T10:29:38.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-25T05:36:08.824Z",
+  "sonGuncelleme": "2026-06-25T05:36:10.487Z",
   "githubKaydedildi": true
 }
