@@ -2,7 +2,7 @@
   "id": 1775571617515,
   "isim": "NURAN AYTAR",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3780,6 +3780,6 @@
   ],
   "olusturmaTarihi": "2026-04-07T14:20:17.515Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T09:27:54.982Z",
+  "sonGuncelleme": "2026-06-26T11:34:14.130Z",
   "githubKaydedildi": true
 }
