@@ -121,13 +121,6 @@
     "sonGuncelleme": "2026-06-25T06:24:47.848Z"
   },
   {
-    "id": 1774958245290,
-    "isim": "NEDİME TAŞATAN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-06-24T09:18:23.206Z"
-  },
-  {
     "id": 1777385783493,
     "isim": "NİGAR ÇAKIROĞULLARI",
     "not": "",
@@ -864,6 +857,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-02-09T14:07:04.846Z"
+  },
+  {
+    "id": 1774958245290,
+    "isim": "NEDİME TAŞATAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-06-26T11:33:26.573Z"
   },
   {
     "id": 1774856991917,
