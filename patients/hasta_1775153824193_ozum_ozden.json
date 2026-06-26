@@ -2,7 +2,7 @@
   "id": 1775153824193,
   "isim": "ÖZÜM ÖZDEN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3677,6 +3677,6 @@
   ],
   "olusturmaTarihi": "2026-04-02T18:17:04.193Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T09:21:30.130Z",
+  "sonGuncelleme": "2026-06-26T11:33:54.618Z",
   "githubKaydedildi": true
 }
