@@ -135,13 +135,6 @@
     "sonGuncelleme": "2026-06-24T11:20:26.456Z"
   },
   {
-    "id": 1775571617515,
-    "isim": "NURAN AYTAR",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-06-24T09:27:57.689Z"
-  },
-  {
     "id": 1777960424840,
     "isim": "RABİA YILDIRIM",
     "not": "",
@@ -885,6 +878,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-06-24T05:55:48.422Z"
+  },
+  {
+    "id": 1775571617515,
+    "isim": "NURAN AYTAR",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-06-26T11:34:18.660Z"
   },
   {
     "id": 1758535184458,
