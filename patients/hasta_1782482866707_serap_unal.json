@@ -6,24 +6,28 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-21",
-      "bitis": "2026-06-27",
+      "baslangic": "2026-07-01",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERAP ÜNAL 1-5 TEMMUZ 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERAP ÜNAL 1-5 TEMMUZ 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERAP ÜNAL 1-5 TEMMUZ 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERAP ÜNAL 1-5 TEMMUZ 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERAP ÜNAL 1-5 TEMMUZ 1. HAFTA.pdf",
+      "kayitTarihi": "2026-06-26T14:09:46.239Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "1 TEMMUZ DA PROGRAMA BAŞLAYACAĞIZ.\nMerhaba Serap Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-26T14:08:13.459Z",
+  "sonGuncelleme": "2026-06-26T14:09:46.241Z",
   "githubKaydedildi": true
 }
