@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-07-01",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NURCEN YENİYAYLA 1-5 TEMMUZ 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "NURCEN YENİYAYLA 1-5 TEMMUZ 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/NURCEN YENİYAYLA 1-5 TEMMUZ 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURCEN YENİYAYLA 1-5 TEMMUZ 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURCEN YENİYAYLA 1-5 TEMMUZ 1. HAFTA.pdf",
+      "kayitTarihi": "2026-06-29T14:51:45.288Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-29T14:50:42.468Z",
+  "sonGuncelleme": "2026-06-29T14:51:45.289Z",
   "githubKaydedildi": true
 }
