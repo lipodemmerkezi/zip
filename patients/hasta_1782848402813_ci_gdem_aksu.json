@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-07-02",
+      "bitis": "2026-07-05",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÇİĞDEM AKSU 2-5 TEMMUZ 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÇİĞDEM AKSU 2-5 TEMMUZ 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÇİĞDEM AKSU 2-5 TEMMUZ 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÇİĞDEM AKSU 2-5 TEMMUZ 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÇİĞDEM AKSU 2-5 TEMMUZ 1. HAFTA.pdf",
+      "kayitTarihi": "2026-06-30T19:40:27.408Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-30T19:40:02.813Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-30T19:40:18.482Z",
+  "sonGuncelleme": "2026-06-30T19:40:27.409Z",
   "githubKaydedildi": true
 }
