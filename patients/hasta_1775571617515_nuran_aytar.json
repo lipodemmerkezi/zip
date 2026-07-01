@@ -3779,24 +3779,27 @@
     },
     {
       "haftaNo": 14,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-06",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NURAN AYTAR 6-12 TEMMUZ 14. HAFTA.pdf",
+      "pdfOrijinalIsim": "NURAN AYTAR 6-12 TEMMUZ 14. HAFTA.pdf",
+      "pdfYolu": "pdfs/NURAN AYTAR 6-12 TEMMUZ 14. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURAN AYTAR 6-12 TEMMUZ 14. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURAN AYTAR 6-12 TEMMUZ 14. HAFTA.pdf",
+      "kayitTarihi": "2026-07-01T10:01:29.900Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-07T14:20:17.515Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-01T10:01:01.810Z",
+  "sonGuncelleme": "2026-07-01T10:01:29.904Z",
   "githubKaydedildi": true
 }
