@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-06-28",
-      "bitis": "2026-07-04",
+      "baslangic": "2026-07-03",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HATİCE TAMER 3-12 TEMMUZ 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "HATİCE TAMER 3-12 TEMMUZ 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/HATİCE TAMER 3-12 TEMMUZ 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE TAMER 3-12 TEMMUZ 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE TAMER 3-12 TEMMUZ 1. HAFTA.pdf",
+      "kayitTarihi": "2026-07-01T14:36:51.515Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "07/03 - 07/12",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-01T14:36:08.239Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-01T14:36:38.259Z",
+  "sonGuncelleme": "2026-07-01T14:36:51.516Z",
   "githubKaydedildi": true
 }
