@@ -3186,24 +3186,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-06",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MELTEM ŞENER 6-12 TEMMUZ 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "MELTEM ŞENER 6-12 TEMMUZ 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/MELTEM ŞENER 6-12 TEMMUZ 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MELTEM ŞENER 6-12 TEMMUZ 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MELTEM ŞENER 6-12 TEMMUZ 12. HAFTA.pdf",
+      "kayitTarihi": "2026-07-01T11:51:32.808Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-18T18:33:10.028Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-01T11:51:14.233Z",
+  "sonGuncelleme": "2026-07-01T11:51:32.811Z",
   "githubKaydedildi": true
 }
