@@ -169,7 +169,7 @@
       "pdfYolu": "pdfs/SERAP ÜNAL 6-12 TEMMUZ 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERAP ÜNAL 6-12 TEMMUZ 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERAP ÜNAL 6-12 TEMMUZ 2. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T09:33:02.810Z",
+      "kayitTarihi": "2026-07-02T09:38:08.718Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -309,7 +309,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "Merhaba Serap Hanım,\n\nProgramımızın ikinci haftasına hoş geldiniz. Bu hafta, lipödemle mücadelenizde önemli bir dönüm noktası olacak. İlk haftada attığınız adımlar, bu süreçte hem fizyolojik hem de duygusal olarak size destek sağlayacak. Unutmayın, lipödemin yönetimi sadece kilo kaybı değil, aynı zamanda vücudunuzun genel sağlığını iyileştirmek üzerine kurulu.\n\nBu hafta, beslenme listenize baktığımda, anti-inflamatuar özelliklere sahip çeşitli besinlerin yer aldığını görüyorum. Özellikle sahanda yumurta, menemen ve haşlanmış yumurta gibi protein kaynakları, vücudunuzun ihtiyaç duyduğu mikro besinleri sağlarken, aynı zamanda iltihapla savaşmanıza da yardımcı olacaktır. D vitamini, selenyum ve B12 gibi önemli besin maddeleri, bağışıklık sisteminizi güçlendirme konusunda kritik rol oynuyor.\n\nBeslenme programınızdaki yeşillikler, özellikle C vitamini ve lif açısından zengin olmaları sayesinde sindirim sisteminizi destekleyecek ve inflamasyonu azaltmanıza yardımcı olacaktır. Patlıcan musakka ve közlenmiş sebzeler gibi yemekler, hem lezzetli hem de sağlıklı alternatifler sunarak, genel sağlığınızı koruma amacımıza hizmet ediyor.\n\nBu haftanın bir diğer önemli noktası, sağlıklı yağların dahil edilmesi. Zeytin, ceviz ve avokado gibi yağ kaynakları, insülin seviyenizi dengeleyerek yağ yakımınıza katkı sağlayacak. İnsülinin dengede kalması, lipödemin yönetiminde hayati bir öneme sahip. Bu tür sağlıklı yağlarla güne başlamanız, enerji seviyenizi artıracak ve tokluk hissinizi uzun süre korumanıza yardımcı olacaktır.\n\nAyrıca, bu hafta maden suyu tüketiminin önemini vurgulamak isterim. Maden suyu, elektrolit dengenizi sağlarken, ödemin azaltılmasına da katkı sağlar. Su tüketiminizi artırarak, vücudunuzun daha etkin bir şekilde çalışmasına yardımcı olacaksınız.\n\nBu süreçte her şeyin yolunda gitmesini umuyorum. Eğer herhangi bir konuda zorluk yaşıyorsanız ya da önerilere dair sorularınız varsa, lütfen benimle paylaşmaktan çekinmeyin. Her zaman yanınızdayım ve gelişimlerinizi takip etmek için sabırsızlanıyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -413,6 +413,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T09:38:03.924Z",
+  "sonGuncelleme": "2026-07-02T09:38:08.733Z",
   "githubKaydedildi": true
 }
