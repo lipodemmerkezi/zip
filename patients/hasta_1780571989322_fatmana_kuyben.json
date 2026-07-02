@@ -1119,7 +1119,7 @@
       "pdfYolu": "pdfs/FATMANA KUYBEN 6-12 TEMMUZ 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FATMANA KUYBEN 6-12 TEMMUZ 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FATMANA KUYBEN 6-12 TEMMUZ 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T06:27:22.195Z",
+      "kayitTarihi": "2026-07-02T06:30:04.828Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1315,7 +1315,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Fatmana Hanım,\n\nBeşinci haftaya ulaştık. Bu hafta programımıza yeni bir destek ekliyoruz: Manuel lenfatik drenaj masajı (MLD). Bu masaj, vücudunuzdaki lenf akışını destekleyerek, özellikle lipödemli bölgelerdeki sıvı birikimini azaltmaya yardımcı olacak. Masajı kendi başınıza, sadece ellerinizi kullanarak, herhangi bir alet olmadan uygulayabileceksiniz. Hem eğitim hem de uygulama videoları, yanı sıra 8 haftalık bir masaj takvimi size ulaştırılacak. Takvimde hangi günlerde masaj yapacağınız adım adım belirtilmiş olacak; isterseniz sabah ya da akşam uygulayabilirsiniz.\n\nBeslenme planınıza baktığımda, lipödem ve bölgesel incelme hedeflerinize yönelik seçilmiş besinleri görüyorum. Bu haftaki liste, antiinflamatuar özellikleri ve kan dolaşımını desteklemesi nedeniyle oldukça değerlidir. Örneğin, haşlanmış yumurta, tulum peyniri, zeytin ve yeşil salata gibi besinler, vücudunuzdaki iltihabi süreci azaltmaya ve genel sağlık durumunuzu iyileştirmeye destek olacaktır. Ayrıca, bu besinler arasında yer alan semizotu, omega-3 yağ asitleri açısından zenginliği ile iltihap karşıtı etkisini artırır.\n\nKollajen takviyeniz, bağ dokularının esnekliğini artırarak cilt sağlığınızı desteklerken, aynı zamanda masaj uygulaması ile birleştiğinde, iyileşme sürecinize katkı sağlayacaktır. Beslenme programınızdaki sağlıklı yağ kaynakları (zeytinyağı, ceviz, avokado) ise hücre zarlarının yapısını güçlendirir ve yağda çözünen vitaminlerin emilimini artırır. Ayrıca, maden suyu ile birlikte kullandığınız kaya tuzu ve limon, elektrolit dengenizi destekleyerek vücudunuzun hidrasyonunu sağlıyor.\n\nBu haftanın masaj uygulaması, vücudunuzdaki lenfatik akışı artırarak, biriken sıvıların atılımını hızlandıracak ve genel ruh hâlinizi iyileştirecek. Unutmayın, manuel lenfatik drenaj masajı sadece bacaklara değil, vücudun genelinde etki sağlar. Masaj sırasında derin nefes egzersizleri yapmak, uygulamanın etkisini artıracaktır. Bu süreci keyifle sürdürmenizi umuyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1430,6 +1430,6 @@
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:30:02.388Z",
+  "sonGuncelleme": "2026-07-02T06:30:07.264Z",
   "githubKaydedildi": true
 }
