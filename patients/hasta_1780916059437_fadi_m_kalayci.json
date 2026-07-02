@@ -1035,24 +1035,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-06",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FADİM KALAYCI 6-12 TEMMUZ 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "FADİM KALAYCI 6-12 TEMMUZ 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/FADİM KALAYCI 6-12 TEMMUZ 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 6-12 TEMMUZ 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 6-12 TEMMUZ 5. HAFTA.pdf",
+      "kayitTarihi": "2026-07-02T06:39:08.892Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:38:44.603Z",
+  "sonGuncelleme": "2026-07-02T06:39:08.895Z",
   "githubKaydedildi": true
 }
