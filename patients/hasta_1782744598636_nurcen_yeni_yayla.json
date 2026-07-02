@@ -224,7 +224,7 @@
       "pdfYolu": "pdfs/NURCEN YENİYAYLA6-12 TEMMUZ 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURCEN YENİYAYLA6-12 TEMMUZ 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURCEN YENİYAYLA6-12 TEMMUZ 2. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T09:50:27.752Z",
+      "kayitTarihi": "2026-07-02T09:52:00.708Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -357,7 +357,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nurcen Hanım,\n\nProgramımızın ikinci haftasına geçiyoruz. Bu süreçte attığınız adımların kalıcı değişikliklere yol açacağını birlikte deneyimleyeceğiz. Lipödem, kronik bir hastalık olarak sabır ve istikrar gerektiren bir süreçtir. Bu nedenle, vücudunuzda bazı değişiklikler hissedebilirken, hücresel düzeydeki iyileşmeleri de desteklemek temel hedefimiz.\n\nBu hafta, inflamasyonu azaltmaya yönelik eliminasyon teması üzerinde duruyoruz. Lipödem tedavisinde inflamasyonun etkilerini azaltmak, sadece kilo yönetimi değil, genel sağlığınız için de kritik bir öneme sahip. Beslenme listenizde yer alan anti-inflamatuar özellikteki besinler, lenfatik sistemi desteklerken kilo vermenizde de etkili olacaktır.\n\nBu haftaki beslenme programınızda kurşun geçirmez kahve gibi sağlıklı yağ kaynaklarının yer alması, insülin seviyenizi dengede tutarak yağ yakımını destekleyecektir. Eğer kahve içmediğiniz günler olursa, avokado veya zeytin gibi alternatif sağlıklı yağlar da kullanabilirsiniz. Sağlıklı yağların insülin seviyenizi yükseltmemesi, yağ yakımının önünü açar. \n\nYumurta, D vitamini ve selenyum gibi önemli mikro besinleri içeren mükemmel bir protein kaynağıdır. Bu haftaki yemek listenizde yer alan yumurtalı tarifler, bu değerli besini günlük rutininize entegre etmenize yardımcı olacaktır. Ayrıca yeşil yapraklı sebzeler ve zeytinyağı içeren öğünler, bağırsak sağlığınızı desteklerken antioksidan alımınızı artıracak.\n\nBu süreçte bazı takviyelerden de faydalanmak, vücudunuzdaki ödemi azaltmak ve metabolizmayı desteklemek için yararlı olabilir. Özellikle D vitamini, magnezyum ve selenyum gibi mikro besinlerin yeterli alımı, lipödem tedavisinde büyük rol oynar. \n\nAyrıca, bu haftada dikkat etmeniz gereken bir diğer nokta da yeterli su tüketimi. Su, lenfatik sistemin düzgün çalışması için hayati önem taşır. Maden suyu ve limon ile zenginleştirilmiş su tüketimi, elektrolit dengenizi korumanıza yardımcı olacaktır.\n\nDaha önceki haftalarda belirtilen konulara ek olarak, bu hafta vücudunuzun yağ yakma antrenmanına sokulduğunu unutmayın. İstikrarlı bir şekilde ilerlemek, hem lipödemle hem de genel sağlıkla ilgili kazanımlarınızı artıracaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "pdfFile": {},
       "manuelKartlar": [],
       "eslesenTarifler": [
@@ -456,6 +456,6 @@
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T09:51:58.562Z",
+  "sonGuncelleme": "2026-07-02T09:52:03.069Z",
   "githubKaydedildi": true
 }
