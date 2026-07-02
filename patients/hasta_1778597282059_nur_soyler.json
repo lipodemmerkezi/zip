@@ -2187,24 +2187,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-06",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NUR SÖYLER 6-12 TEMMUZ 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "NUR SÖYLER 6-12 TEMMUZ 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/NUR SÖYLER 6-12 TEMMUZ 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NUR SÖYLER 6-12 TEMMUZ 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NUR SÖYLER 6-12 TEMMUZ 9. HAFTA.pdf",
+      "kayitTarihi": "2026-07-02T05:55:36.137Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T05:55:11.191Z",
+  "sonGuncelleme": "2026-07-02T05:55:36.139Z",
   "githubKaydedildi": true
 }
