@@ -2196,7 +2196,7 @@
       "pdfYolu": "pdfs/NUR SÖYLER 6-12 TEMMUZ 9. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NUR SÖYLER 6-12 TEMMUZ 9. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NUR SÖYLER 6-12 TEMMUZ 9. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T05:55:36.137Z",
+      "kayitTarihi": "2026-07-02T06:03:53.523Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu bamya yemeği",
@@ -2364,7 +2364,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nMerhaba Nur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 9. haftaya başlıyoruz. Artık programımızın üçüncü temel ayağını, yani lipödem egzersizlerini başlatıyoruz. Bu hafta, düzenli hareketin önemini vurgulamak için iki eğitim videosu ile destekleyeceğiz: Lipödem 1 ve Lipödem 2 egzersizleri.\n\nLipödem 1 egzersizleri, sandalyede oturarak yapabileceğiniz esneme ve hafif dolaşım hareketlerinden oluşuyor. Fiziksel zorluk yaşayanlar ya da gün içinde daha kısa süreli egzersiz yapmak isteyenler için ideal. Lipödem 2 egzersizleri ise ayakta yapılacak ve kalp atışını değil, derin lenf sistemini uyaran hareketler içerecek. Bu egzersizler kasların altındaki derin lenf yollarını destekleyerek, toksinlerin daha etkin bir şekilde dışarı atılmasına yardımcı olacak.\n\nLenf drenaj masajı uygulamanızın sıklığı bu hafta azalıyor, ancak egzersizler devreye girerek vücudunuzun dolaşımını desteklemeye devam edecek. Bu iki sistemin birlikte çalışması, ödemin daha hızlı çözülmesini, ciltteki sıkılaşmayı ve genel enerji artışını hızlandıracaktır. Bu hafta beslenme listenize baktığımda, özenle seçilmiş antiinflamatuar özelliklere sahip yiyeceklerin yer aldığını görüyorum. Özellikle haşlanmış yumurta, ızgara balık ve mevsim yeşillikleri, hem vücudunuzu beslerken hem de lenfatik sistemi destekleyerek tedavi sürecine katkıda bulunacaktır.\n\nÖlçümlerinizi düzenli olarak almayı unutmayın. Bu, sürecin nasıl ilerlediğini görmek açısından oldukça önemli. Eğer vücudunuzda bir farklılık hissederseniz, bu doğru yolda olduğunuzun bir göstergesi olabilir. Bu hafta, egzersizleri aksatmamanızın büyük faydasını göreceğinizi düşünüyorum. Küçük ama düzenli hareket alanları, hem fiziksel hem de ruhsal olarak size iyi gelecektir.\n\nHer zaman olduğu gibi, aklınıza takılan her konuda bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2463,6 +2463,6 @@
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:03:51.188Z",
+  "sonGuncelleme": "2026-07-02T06:03:54.220Z",
   "githubKaydedildi": true
 }
