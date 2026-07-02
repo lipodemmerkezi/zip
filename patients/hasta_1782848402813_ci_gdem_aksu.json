@@ -177,7 +177,7 @@
       "pdfYolu": "pdfs/ÇİĞDEM AKSU 6-12 TEMMUZ 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÇİĞDEM AKSU 6-12 TEMMUZ 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÇİĞDEM AKSU 6-12 TEMMUZ 2. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T09:52:49.868Z",
+      "kayitTarihi": "2026-07-02T09:55:30.364Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -305,7 +305,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "\nMerhaba Çi̇ğdem Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 2. haftaya başlıyoruz. Bu süreçte attığınız adımların önemini bir kez daha vurgulamak isterim. Lipödem yönetimi, sabır ve istikrar gerektiren bir süreç; bu nedenle, her gün yaptığınız seçimler büyük bir öneme sahip.\n\nBu hafta, beslenme listenizde yer alan gıdalar, inflamasyonu azaltmaya yardımcı olan ve lenfatik sistemi destekleyen özelliklere sahip. Bu yüzden bu besinleri günlük rutininize dahil etmek, lipödemle mücadelede kritik bir rol oynayacak. Unutmayın ki bu süreçte amacımız sadece kilo kaybı değil, aynı zamanda genel sağlık durumunuzu iyileştirmek.\n\nBeslenme listenize baktığımda, sahanda yumurta ve zeytin gibi sağlıklı yağ kaynaklarının yer aldığını görüyorum. Bu tür gıdalar, insülin seviyelerinizi dengelemeye yardımcı olurken, yağ yakımını da destekler. Ayrıca, yeşillikler ve semizotu gibi sebzeler, antioksidan içerikleriyle vücudunuzun detoks süreçlerini destekleyecek. Semizotunun omega-3 yağ asitleri içeriği, iltihaplanmayı azaltma potansiyeliyle dikkat çekiyor.\n\nHaftaya özel olarak önerdiğimiz kollajen takviyesi, eklem sağlığınızı desteklerken, cilt elastikiyetinizi de artıracaktır. Listeye eklenen sebzeli omlet ve tavuk sote gibi protein kaynakları, kas kütlenizi koruma ve tokluk hissinizi sağlama açısından oldukça faydalıdır.\n\nBu hafta, başlangıç ölçümlerinizi de almayı unutmayalım. Böylece ilerlemenizi daha net görebiliriz. Vücudunuzun verdiği tepkilere dikkat edin; ilk haftadaki adaptasyon sürecinin ardından bazı olumlu değişiklikler hissetmeye başlayabilirsiniz.\n\nHer zaman olduğu gibi, gözlemlerinizi ve şikayetlerinizi benimle paylaşabilirsiniz. Sürecin bu aşamasında, destekleyici bir iletişim kurmak çok önemli. Unutmayın, bu yolculukta yalnız değilsiniz.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -409,6 +409,6 @@
   ],
   "olusturmaTarihi": "2026-06-30T19:40:02.813Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T09:55:28.732Z",
+  "sonGuncelleme": "2026-07-02T09:55:31.637Z",
   "githubKaydedildi": true
 }
