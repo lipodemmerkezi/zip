@@ -2287,24 +2287,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-06",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SULTAN GÜNAY 6-12 TEMMUZ 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "SULTAN GÜNAY 6-12 TEMMUZ 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/SULTAN GÜNAY 6-12 TEMMUZ 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SULTAN GÜNAY 6-12 TEMMUZ 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SULTAN GÜNAY 6-12 TEMMUZ 9. HAFTA.pdf",
+      "kayitTarihi": "2026-07-02T05:32:59.400Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-07T11:00:08.521Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T05:30:45.602Z",
+  "sonGuncelleme": "2026-07-02T05:32:59.404Z",
   "githubKaydedildi": true
 }
