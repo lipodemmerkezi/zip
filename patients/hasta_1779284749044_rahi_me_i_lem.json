@@ -1537,7 +1537,7 @@
       "pdfYolu": "pdfs/RAHİME İLEM 6-12 TEMMUZ 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RAHİME İLEM 6-12 TEMMUZ 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RAHİME İLEM 6-12 TEMMUZ 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T06:08:30.451Z",
+      "kayitTarihi": "2026-07-02T06:16:15.916Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu salata",
@@ -1693,7 +1693,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Rahime Hanım,\n\nAltıncı haftaya geçerken programın büyük kısmı oturmaya başladı. Beslenme düzeninize alıştınız, takviyeleri tanıdınız, masaj uygulamalarına başladınız ve bedeninizdeki değişimlerin farkına varmaya başladınız. Bu süreçte, lipödem tedavisinde önemli bir adım atarak mikrobesinlerin rolünü daha derinlemesine ele alacağız.\n\nBu hafta beslenme listenizi incelediğimde, lipödem ve bölgesel incelme hedeflerinize yönelik özenle seçilmiş besinlerin yer aldığını görüyorum. Özellikle yeşillikler, protein kaynakları ve sağlıklı yağlar, vücudunuzun ihtiyaç duyduğu mikro besinleri almasına yardımcı olacak. D vitamini, B12 vitamini, çinko, magnezyum, C vitamini ve selenyum gibi mikro besinler, bu süreçte dikkate alınması gereken temel bileşenlerdir.\n\nÖzellikle D vitamini, bağışıklık sisteminizin güçlenmesine katkı sağlarken, B12 vitamini enerji üretiminde kritik bir rol oynar. Kırmızı et ve kuzu ciğeri gibi besinler, B12 vitamini açısından zengin kaynaklardır; bu nedenle bunları menünüze dahil etmek, enerji seviyenizi artırabilir. Ayrıca, bu hafta önerilen köfte ve ızgara balık gibi protein kaynakları, kas kütlenizi korumanıza ve metabolizmanızı desteklemenize yardımcı olacaktır.\n\nBeslenme listenizde yer alan yeşillikler ve salatalar, C vitamini ve magnezyum gibi önemli mikro besinleri bolca içerir. Bu besinler, bağışıklık sisteminizi desteklerken, hücre sağlığınıza da katkıda bulunur. Salatalarınıza eklediğiniz limon ve sirke, sindirimi destekleyerek besin emilimini artırmanıza yardımcı olacaktır. Ayrıca, kabak çekirdeği ve çiğ badem gibi sağlıklı yağ kaynakları, tokluk hissinizi uzatırken, E vitamini ve çinko gibi antioksidanları da sağlar.\n\nMikrobesinlerin hücresel düzeyde sağladığı destek, vücudunuzun enerji üretimini artırarak, iyileşme sürecinizi hızlandırır. Yeterli alındığında, mitokondrileriniz daha verimli çalışır, bu da kendinizi daha enerjik hissetmenize yardımcı olur. Bunun yanında, düzenli olarak önerilen takviyeleri kullanmaya devam etmeniz, bu sürecin etkisini artıracaktır.\n\nÖlçüm takibinizi de unutmayın. Her iki haftada bir aldığınız ölçümler, sürecin ilerlemesini takip etmek için önemli bir yol göstericidir. Tartıdaki rakamlardan ziyade, kıyafetlerinizin nasıl oturduğunu ve bedeninizdeki değişiklikleri gözlemlemek, motivasyonunuzu yüksek tutmak açısından daha anlamlı olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1790,6 +1790,6 @@
   ],
   "olusturmaTarihi": "2026-05-20T13:45:49.044Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:16:11.563Z",
+  "sonGuncelleme": "2026-07-02T06:16:15.932Z",
   "githubKaydedildi": true
 }
