@@ -1091,24 +1091,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-06",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE ÇİLOĞLU 6-12 TEMMUZ 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE ÇİLOĞLU 6-12 TEMMUZ 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE ÇİLOĞLU 6-12 TEMMUZ 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÇİLOĞLU 6-12 TEMMUZ 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÇİLOĞLU 6-12 TEMMUZ 5. HAFTA.pdf",
+      "kayitTarihi": "2026-07-02T06:34:16.178Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-06T10:29:38.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:33:58.341Z",
+  "sonGuncelleme": "2026-07-02T06:34:16.180Z",
   "githubKaydedildi": true
 }
