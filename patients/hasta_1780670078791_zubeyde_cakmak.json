@@ -996,7 +996,7 @@
       "pdfYolu": "pdfs/ZÜBEYDE ÇAKMAK 6-12 TEMMUZ 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZÜBEYDE ÇAKMAK 6-12 TEMMUZ 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZÜBEYDE ÇAKMAK 6-12 TEMMUZ 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T06:30:47.137Z",
+      "kayitTarihi": "2026-07-02T06:32:13.189Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabak spagetti",
@@ -1160,7 +1160,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Zübeyde Hanım,\n\nBeşinci haftaya ulaştık. Bu hafta programımıza önemli bir destek ekliyoruz: manuel lenfatik drenaj (MLD) masajı. Kendi kendinize uygulayabileceğiniz ve herhangi bir alet gerektirmeyen bu masaj tekniği, lipödem tedavisinde kritik bir rol oynayabilir.\n\nBu süreçte, hem eğitim hem de uygulama videoları ile birlikte 8 haftalık bir masaj takvimi sizinle paylaşacağız. Takvimde hangi günlerde, ne sıklıkla masaj yapacağınız adım adım belirtilecek. İsterseniz sabah ya da akşam uygulayabilirsiniz. Masajın etkilerini hissedebilmek için, uygulamaya düzenli olarak devam etmeniz oldukça önemli.\n\nİlk dört haftada uyguladığınız beslenme protokolü sayesinde, vücudunuzda biriken inflamatuar sıvı yükü yavaş yavaş azalmaya başladı. Bu aşamada yağ dokusunun yumuşaması, inflamasyonun azaldığının bir göstergesidir. Masaja başlamak için tam da doğru bir zaman. Manuel lenfatik drenaj masajı, lenf sisteminizi harekete geçirirken, dokularda biriken sıvının atılımını hızlandırır ve genel ruh hâlinizi iyileştirir.\n\nBeslenme listenize göz attığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Özellikle haşlanmış yumurta, zeytin, tulum peyniri gibi gıdalar, D vitamini ve selenyum gibi önemli mikro besinleri içeriyor. Bu besinler, bağışıklık sisteminizi desteklemenin yanı sıra, iltihaplanmayı azaltmaya da yardımcı olacaktır.\n\nAyrıca, kabak spagetti gibi lif açısından zengin besinler ve ev yapımı turşu gibi fermente gıdalar, bağırsak sağlığınızı güçlendirirken, tokluk hissinizi artıracak. Bu haftaki beslenme düzeninizin, lipödemle ilişkili inflamasyonu azaltmaya ve bedensel değişimlerinizi hızlandırmaya katkı sağlayacağına inanıyorum.\n\nÖlçüm almayı ihmal etmeyin; bu, ilerlemenizi görmek ve hedeflerinize olan bağlılığınızı artırmak açısından önemli bir adım. Unutmayın, her aşamada yanınızdayım ve sürecinize dair gözlemlerinizi merak ediyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz.\n\nSevgilerle,  \nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1261,6 +1261,6 @@
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:32:10.995Z",
+  "sonGuncelleme": "2026-07-02T06:32:13.206Z",
   "githubKaydedildi": true
 }
