@@ -1867,10 +1867,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Günaydın Sezin hanım, öncelikle büyük bir sınav atlattınız geçmiş olsun diliyorum 💐 umarım herşey gönlünüzce olur🙏. Stresli dönem sonrasında bir rahatlama olurken de dikkat etmemiz gerekir. Her ne kadar kortizon hormonu yağlandırıcı etki yapsa da, bunun yerine rahatlıktan gelen yeme bozukluğu alabilir. Buna çok dikkat edeceğiz. Yeniden dikkatlice hediy ilerlememiz gerekiyor. Ölçümlerinizi kaydediyoruz. İki hafta sonraki ölçülerde değişim düzeyinin iyi olacağını düşünüyorum.\nMerhaba Sezi̇n Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 8,
+      "baslangic": "2026-07-05",
+      "bitis": "2026-07-11",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-05-18T16:58:40.699Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-06-24T11:24:14.807Z",
+  "sonGuncelleme": "2026-07-02T06:04:20.870Z",
   "githubKaydedildi": true
 }
