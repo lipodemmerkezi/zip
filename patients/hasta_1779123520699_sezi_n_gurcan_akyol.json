@@ -1879,7 +1879,7 @@
       "pdfYolu": "pdfs/SEZİN GÜRCAN AKYOL 6-12 TEMMUZ 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEZİN GÜRCAN AKYOL 6-12 TEMMUZ 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEZİN GÜRCAN AKYOL 6-12 TEMMUZ 8. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T06:05:35.011Z",
+      "kayitTarihi": "2026-07-02T06:07:57.916Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu ekmek (1 dilim)",
@@ -2083,7 +2083,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sezin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz. \n\nSekizinci haftaya başlarken, bu süreçte kaydettiğiniz ilerlemeler için sizi tebrik ediyorum. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir aşamaya geliyoruz. Bu hafta, yemek sıralaması üzerine odaklanarak, lipödem tedavinizdeki etkilerini birlikte keşfedeceğiz.\n\nYemek sıralaması, insülin düzeylerini dengelemek ve tokluk süresini uzatmak açısından kritik bir rol oynar. Doğru bir sıralama ile, vücudumuzdaki insülin tepkilerini daha iyi yönetebiliriz. Örneğin, öğünlerinize lifli gıdalarla başlamak, kan şekerinizin daha yavaş yükselmesini sağlar. Bu, yağ hücrelerinizin büyümesini tetikleyen insülinin salınımını azaltır. Yemek sıralamanızda lifli gıdalara (örneğin, yeşil salata, semizotu salatası) öncelik vermek, bu süreçte önemli bir adım olacaktır. Ardından protein kaynaklarınızı (haşlanmış yumurta, tavuk, köfte) ekleyerek kan şekerinizi dengede tutabilirsiniz. Son olarak, yağlı içerikleri (zeytinyağlı sebze yemekleri) ve en sona da karbonhidratları (varsa) bırakmayı unutmayın.\n\nBeslenme listenize baktığımda, bu haftaki yiyeceklerin antiinflamatuar özelliklere sahip olduğunu ve lenfatik sistemi desteklediğini görüyorum. Örneğin, zeytin, yeşil salata, fırında tavuk ve balık gibi besinler, lipödem tedavisinde kritik bir rol oynar. Ayrıca, listeye dahil edilen mikrobesin kaynakları —D vitamini, magnezyum, selenyum gibi— genel sağlığınızı destekleyecek ve inflamasyonu azaltacaktır.\n\nÖzellikle bu hafta, sirke kullanımını da göz önünde bulundurmalısınız. Yemekten önce bir yemek kaşığı sirkeyi su ile karıştırarak içmek, insülin kontrolü açısından faydalı olacaktır. Sirkenin içindeki asetik asit, karbonhidratların emilimini yavaşlatır, bu da kan şekeri seviyelerinin daha dengeli seyretmesine yardımcı olur.\n\nUnutmayın ki, yemeğin ardından 20 dakikalık bir hareket —basit bir yürüyüş ya da hafif ev işleri— kan şekerinizi dengeleyerek, karbonhidratların yağa dönüşmesini önleyecektir. Bu küçük alışkanlık, uzun vadede kilo kontrolünü kolaylaştırır.\n\nBedeninizin bu yeni düzenle nasıl güzel yanıtlar verdiğini görmeye devam edeceksiniz. Her zaman olduğu gibi, bu süreçte yanınızdayım. Herhangi bir sorunuz veya gözleminiz olursa lütfen benimle paylaşın. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,  \n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2190,6 +2190,6 @@
   ],
   "olusturmaTarihi": "2026-05-18T16:58:40.699Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:07:55.614Z",
+  "sonGuncelleme": "2026-07-02T06:07:57.932Z",
   "githubKaydedildi": true
 }
