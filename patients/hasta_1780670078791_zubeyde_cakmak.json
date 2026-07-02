@@ -987,24 +987,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-06",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ZÜBEYDE ÇAKMAK 6-12 TEMMUZ 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "ZÜBEYDE ÇAKMAK 6-12 TEMMUZ 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/ZÜBEYDE ÇAKMAK 6-12 TEMMUZ 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZÜBEYDE ÇAKMAK 6-12 TEMMUZ 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZÜBEYDE ÇAKMAK 6-12 TEMMUZ 5. HAFTA.pdf",
+      "kayitTarihi": "2026-07-02T06:30:47.137Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:30:25.073Z",
+  "sonGuncelleme": "2026-07-02T06:30:47.139Z",
   "githubKaydedildi": true
 }
