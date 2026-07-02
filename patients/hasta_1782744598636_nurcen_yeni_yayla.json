@@ -215,24 +215,26 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-02",
+      "bitis": "2026-07-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NURCEN YENİYAYLA6-12 TEMMUZ 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "NURCEN YENİYAYLA6-12 TEMMUZ 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/NURCEN YENİYAYLA6-12 TEMMUZ 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURCEN YENİYAYLA6-12 TEMMUZ 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURCEN YENİYAYLA6-12 TEMMUZ 2. HAFTA.pdf",
+      "kayitTarihi": "2026-07-02T09:50:27.752Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T09:50:05.606Z",
+  "sonGuncelleme": "2026-07-02T09:50:27.753Z",
   "githubKaydedildi": true
 }
