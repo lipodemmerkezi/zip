@@ -257,7 +257,7 @@
       "pdfYolu": "pdfs/NECİBE ÇALIŞKAN ÇOBAN 6-12 TEMMUZ 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 6-12 TEMMUZ 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 6-12 TEMMUZ 2. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T09:42:51.320Z",
+      "kayitTarihi": "2026-07-02T09:48:33.674Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -385,7 +385,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "\n\nMerhaba Neci̇be Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 2. haftaya başlıyoruz. Bu hafta, önceki adımlarımızı pekiştirerek ve vücudunuzdaki yenilikleri gözlemleyerek ilerleyeceğiz. Lipödem tedavisi sürecinde, her küçük değişimin önemli bir etki yaratabileceğini unutmamak gerekiyor. Bu nedenle, sabırlı ve kararlı bir şekilde ilerlemek, kalıcı sonuçlar için şart.\n\nBu haftada, vücudunuzda bazı olumlu değişiklikler hissetmeye başlayabilirsiniz. Bununla birlikte, hedefimiz sadece dışsal görünüm değil; içsel iyileşmeyi de desteklemek. Her adım, hem lipödemle mücadelede hem de genel sağlık durumunuzda önemli bir rol oynuyor. Özellikle, inflamasyonun kontrol altına alınması, bu sürecin kritik bir parçası. Bu nedenle, beslenme programınızda yer alan yiyeceklerin antiinflamatuar özellikleri, bağışıklık sisteminizi güçlendirmeye ve genel sağlığınızı iyileştirmeye yardımcı olacaktır.\n\nGözlemlerime göre, beslenme listenizde yer alan sebzeler ve sağlıklı yağlar, lenfatik sistemin desteklenmesine katkıda bulunacak. Örneğin, yeşil salatalar ve semizotu gibi lifli sebzeler, içerdiği C vitamini ve magnezyum sayesinde hem antioksidan kapasitenizi artıracak hem de sindirim sisteminizi düzenleyecektir. Ayrıca, fırında sebze kızartması gibi D vitamini zengini öğeler, iltihapla savaşmada önemli bir rol oynar.\n\nBu hafta dikkat etmeniz gereken bir diğer konu da sağlıklı yağların tüketimi. Kahvaltıda tercih ettiğiniz sahanda yumurta veya menemen gibi seçenekler, hem tokluk hissinizi artıracak hem de yağ yakımını destekleyecektir. Ayrıca, ara öğünlerde yer alan maden suyu, elektrolit dengenizi koruyarak ödemin azaltılmasına yardımcı olacaktır.\n\nÖlçüm tablonuzda herhangi bir değişiklik olup olmadığını görmek için bu hafta sonu bel, kalça ve bacak çevresinden ölçüm almanızı öneririm. Bu ölçümler, ilerlemenizi takip etmemiz için önemli bir gösterge olacak.\n\nUnutmayın, bu süreçte herhangi bir sorun veya endişeniz olursa, her zaman buradayım. Gözlemlerinizi ve yorumlarınızı da merak ediyorum. \n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -489,6 +489,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T11:36:42.017Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T09:48:30.898Z",
+  "sonGuncelleme": "2026-07-02T09:48:33.691Z",
   "githubKaydedildi": true
 }
