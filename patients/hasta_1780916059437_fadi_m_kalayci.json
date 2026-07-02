@@ -1044,7 +1044,7 @@
       "pdfYolu": "pdfs/FADİM KALAYCI 6-12 TEMMUZ 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 6-12 TEMMUZ 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 6-12 TEMMUZ 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-02T06:39:08.892Z",
+      "kayitTarihi": "2026-07-02T06:47:55.150Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1240,7 +1240,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Fadim Hanım,\n\nBeşinci haftamıza hoş geldiniz. Bu hafta programımıza önemli bir destek ekliyoruz: Manuel lenfatik drenaj (MLD) masajı. Kendi kendinize uygulayabileceğiniz bu masaj, özellikle lipödem tedavisinde büyük fayda sağlayacak bir yöntemdir. Masaj videoları ve 8 haftalık uygulama takvimi ile birlikte size ulaşacağız. Bu takvim sayesinde hangi günlerde, ne sıklıkla masaj yapacağınızı adım adım takip edebilirsiniz.\n\nGeçtiğimiz dört haftada uyguladığınız beslenme planı sayesinde vücudunuz, lipödemli dokularda biriken inflamatuar sıvı yükünü azaltmaya başladı. Bu süreçte yağ dokusunun yumuşaması, inflamasyonun azaldığını gösteriyor. Masaj uygulamaları, bu yumuşamanın ardından lenf sisteminizi harekete geçirecek ve sıvı atılımını hızlandıracaktır. \n\nManuel lenfatik drenaj masajı, hafif dokunuşlarla, neredeyse hiç bastırmadan uygulanır. Dikkat etmeniz gereken en önemli nokta, seansların yavaş ve uzun süreli olmasıdır. Bu masajın etkileri arasında, dokularda biriken sıvının atılımını hızlandırmak, karaciğer ve böbrek yoluyla toksinlerin vücuttan atılmasına destek olmak ve bağışıklık sisteminin dengesini sağlamak bulunmaktadır. Bunun yanı sıra, masajın ruh hâliniz üzerinde de olumlu etkileri olabilir.\n\nBeslenme listenize göz attığımda, lipödem tedavisinde destekleyici olan antiinflamatuar özellikteki besinlerin yer aldığını görüyorum. Haşlanmış yumurta, tulum peyniri, zeytin, ızgara balık ve sebzeler gibi gıdalar, hem mikro besin desteği sağlıyor hem de lenfatik sistemi destekliyor. Özellikle D vitamini, magnezyum ve selenyum gibi önemli mikro besinler, bağışıklık sisteminizi güçlendirirken iltihapla mücadelede de etkili olacaktır.\n\nBu hafta, masaj uygulamalarını ve beslenme planını birlikte yürütmek, iyileşme sürecinizin daha kalıcı ve etkili olmasına katkı sağlayacaktır. Unutmayın ki, masaj yalnızca bacaklara değil, vücudun geneline etki eder. \n\nSüreçteki ilerlemenizi gözlemlemek için düzenli ölçümler almayı sürdürmenizi öneriyorum. Bu, hem bedeninizdeki değişimleri daha net görmemizi sağlayacak hem de motivasyonunuzu artıracaktır.\n\nHer zaman olduğu gibi sorularınız ve gözlemleriniz için buradayım. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nSevgilerle,",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1355,6 +1355,6 @@
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:45:51.421Z",
+  "sonGuncelleme": "2026-07-02T06:47:55.161Z",
   "githubKaydedildi": true
 }
