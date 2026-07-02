@@ -1528,24 +1528,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-06",
+      "bitis": "2026-07-12",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "RAHİME İLEM 6-12 TEMMUZ 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "RAHİME İLEM 6-12 TEMMUZ 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/RAHİME İLEM 6-12 TEMMUZ 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RAHİME İLEM 6-12 TEMMUZ 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RAHİME İLEM 6-12 TEMMUZ 6. HAFTA.pdf",
+      "kayitTarihi": "2026-07-02T06:08:30.451Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-20T13:45:49.044Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-02T06:08:14.825Z",
+  "sonGuncelleme": "2026-07-02T06:08:30.454Z",
   "githubKaydedildi": true
 }
