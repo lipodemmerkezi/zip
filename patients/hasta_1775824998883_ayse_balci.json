@@ -2,7 +2,7 @@
   "id": 1775824998883,
   "isim": "AYŞE BALCI",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3598,6 +3598,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T12:43:18.883Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-01T10:42:13.394Z",
+  "sonGuncelleme": "2026-07-03T08:27:35.692Z",
   "githubKaydedildi": true
 }
