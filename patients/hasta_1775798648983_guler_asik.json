@@ -2,7 +2,7 @@
   "id": 1775798648983,
   "isim": "GÜLER AŞIK",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3844,6 +3844,6 @@
   ],
   "olusturmaTarihi": "2026-04-10T05:24:08.983Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-01T10:33:31.745Z",
+  "sonGuncelleme": "2026-07-03T08:27:47.055Z",
   "githubKaydedildi": true
 }
