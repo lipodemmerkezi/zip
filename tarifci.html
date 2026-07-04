@@ -1,0 +1,918 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+  <title>Tarifçi</title>
+  <!-- Google Fonts for Clean Minimalist Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --bg-page: #f8fafc;
+      --card-bg: #ffffff;
+      --card-border: #e2e8f0;
+      --primary: #3b82f6;
+      --primary-hover: #2563eb;
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.03);
+      --shadow-md: 0 10px 30px rgba(0, 0, 0, 0.06);
+      --shadow-lg: 0 20px 45px rgba(0, 0, 0, 0.1);
+      --transition: all 0.2s ease;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-page);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 25px 15px 60px;
+      overflow-x: hidden;
+      width: 100%;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 800px;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    /* SEARCH SECTION (AT THE VERY TOP - NO HEADER!) */
+    .search-section {
+      width: 100%;
+      position: sticky;
+      top: 15px;
+      z-index: 100;
+    }
+    .search-input-wrapper {
+      position: relative;
+      width: 100%;
+      box-shadow: var(--shadow-md);
+      border-radius: 20px;
+      background: #ffffff;
+      transition: var(--transition);
+    }
+    .search-input-wrapper:focus-within {
+      box-shadow: 0 15px 35px rgba(59, 130, 246, 0.15);
+      transform: translateY(-1px);
+    }
+    .search-input {
+      width: 100%;
+      padding: 18px 55px 18px 50px;
+      font-size: 1.15rem;
+      font-family: 'Outfit', sans-serif;
+      color: var(--text-main);
+      background: #ffffff;
+      border: 2px solid var(--card-border);
+      border-radius: 20px;
+      outline: none;
+      transition: var(--transition);
+      -webkit-appearance: none;
+    }
+    .search-input::placeholder {
+      color: #94a3b8;
+      font-size: 1.05rem;
+    }
+    .search-input:focus {
+      border-color: var(--primary);
+    }
+    
+    /* Search Icon on Left */
+    .search-icon-left {
+      position: absolute;
+      left: 18px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: #94a3b8;
+      font-size: 1.3rem;
+      pointer-events: none;
+      transition: var(--transition);
+    }
+    .search-input:focus ~ .search-icon-left {
+      color: var(--primary);
+    }
+
+    /* Clear Button */
+    .clear-btn {
+      position: absolute;
+      right: 52px;
+      top: 50%;
+      transform: translateY(-50%);
+      background: #f1f5f9;
+      border: none;
+      color: #64748b;
+      width: 28px;
+      height: 28px;
+      border-radius: 50%;
+      display: none;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.85rem;
+      cursor: pointer;
+      transition: var(--transition);
+      touch-action: manipulation;
+    }
+    .clear-btn:hover, .clear-btn:active {
+      background: #fee2e2;
+      color: #ef4444;
+    }
+
+    /* Status Dot on Far Right Inside Search Bar */
+    .status-dot-btn {
+      position: absolute;
+      right: 18px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background: #f59e0b; /* Loading orange initially */
+      border: 3px solid #ffffff;
+      box-shadow: 0 0 10px rgba(245, 158, 11, 0.5);
+      cursor: pointer;
+      transition: var(--transition);
+      padding: 0;
+      outline: none;
+      touch-action: manipulation;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .status-dot-btn.active {
+      background: #10b981; /* Green when loaded */
+      box-shadow: 0 0 12px rgba(16, 185, 129, 0.6);
+      animation: pulseDot 2s infinite;
+    }
+    .status-dot-btn.error {
+      background: #ef4444; /* Red on error */
+      box-shadow: 0 0 12px rgba(239, 68, 68, 0.6);
+    }
+    @keyframes pulseDot {
+      0% { transform: translateY(-50%) scale(0.95); }
+      50% { transform: translateY(-50%) scale(1.15); }
+      100% { transform: translateY(-50%) scale(0.95); }
+    }
+
+    /* STATUS TOOLTIP POPOVER (OPENS WHEN GREEN DOT IS CLICKED) */
+    .status-popover {
+      position: absolute;
+      right: 5px;
+      top: calc(100% + 10px);
+      background: #ffffff;
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 16px 20px;
+      box-shadow: var(--shadow-lg);
+      width: 260px;
+      z-index: 200;
+      display: none;
+      flex-direction: column;
+      gap: 10px;
+      animation: fadeInPopover 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    @keyframes fadeInPopover {
+      from { opacity: 0; transform: translateY(-8px) scale(0.95); }
+      to { opacity: 1; transform: translateY(0) scale(1); }
+    }
+    .popover-title {
+      font-weight: 700;
+      color: var(--text-main);
+      font-size: 0.95rem;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .popover-desc {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      line-height: 1.4;
+    }
+    .popover-refresh-btn {
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      color: var(--text-main);
+      padding: 8px 12px;
+      border-radius: 10px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 6px;
+      width: 100%;
+      touch-action: manipulation;
+    }
+    .popover-refresh-btn:hover, .popover-refresh-btn:active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+
+    /* RESULTS SECTION (CARDS DIRECTLY UNDER SEARCH BAR) */
+    .results-section {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    /* WELCOME / EMPTY STATE */
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      background: #ffffff;
+      border-radius: 24px;
+      border: 1px solid var(--card-border);
+      box-shadow: var(--shadow-sm);
+      width: 100%;
+    }
+    .empty-icon { font-size: 3.5rem; margin-bottom: 15px; opacity: 0.8; }
+    .empty-state h3 { font-size: clamp(1.2rem, 4vw, 1.5rem); margin-bottom: 8px; color: var(--text-main); font-family: 'Outfit', sans-serif; }
+    .empty-state p { color: var(--text-muted); font-size: clamp(0.9rem, 3vw, 1.05rem); max-width: 500px; margin: 0 auto; line-height: 1.6; }
+
+    /* RELEVANT RECIPE CARDS LIST (EXACTLY UNDER SEARCH BAR) */
+    .card-list {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+      width: 100%;
+    }
+
+    .recipe-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      padding: 24px;
+      box-shadow: var(--shadow-md);
+      transition: var(--transition);
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      width: 100%;
+      animation: slideDown 0.25s ease;
+    }
+    @keyframes slideDown {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .recipe-card:hover {
+      box-shadow: var(--shadow-lg);
+      border-color: #cbd5e1;
+    }
+
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .card-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: clamp(1.3rem, 4vw, 1.8rem);
+      font-weight: 700;
+      color: var(--text-main);
+      line-height: 1.3;
+      flex: 1;
+    }
+    .card-actions {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .action-btn {
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      color: var(--text-main);
+      padding: 8px 14px;
+      border-radius: 12px;
+      font-size: 0.85rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      touch-action: manipulation;
+    }
+    .action-btn:hover, .action-btn:active {
+      background: #e2e8f0;
+      transform: translateY(-1px);
+    }
+    .action-btn.primary {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+    .action-btn.primary:hover, .action-btn.primary:active {
+      background: var(--primary-hover);
+    }
+    .close-card-btn {
+      background: #f8fafc;
+      border: 1px solid #e2e8f0;
+      color: #64748b;
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      font-size: 1.1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: var(--transition);
+      touch-action: manipulation;
+      flex-shrink: 0;
+    }
+    .close-card-btn:hover, .close-card-btn:active {
+      background: #fee2e2;
+      color: #ef4444;
+      border-color: #fca5a5;
+    }
+
+    /* IMAGE CONTAINER IN CARD */
+    .image-box {
+      width: 100%;
+      background: #f8fafc;
+      border-radius: 16px;
+      padding: 12px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 1px solid #f1f5f9;
+      min-height: 250px;
+      position: relative;
+      overflow: hidden;
+    }
+    .recipe-img {
+      max-width: 100%;
+      max-height: 75vh;
+      object-fit: contain;
+      border-radius: 12px;
+      box-shadow: var(--shadow-sm);
+      cursor: zoom-in;
+      transition: transform 0.3s ease;
+    }
+    .recipe-img:hover {
+      transform: scale(1.01);
+    }
+    .image-loader {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 10px;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+      padding: 30px;
+    }
+    .spinner {
+      width: 36px;
+      height: 36px;
+      border: 3px solid #e2e8f0;
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* FULLSCREEN LIGHTBOX MODAL */
+    .modal-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(15, 23, 42, 0.92);
+      z-index: 1000;
+      display: none;
+      justify-content: center;
+      align-items: center;
+      padding: 15px;
+      backdrop-filter: blur(10px);
+      animation: fadeIn 0.2s ease;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .modal-content {
+      position: relative;
+      max-width: 96vw;
+      max-height: 96vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%;
+      height: 100%;
+    }
+    .modal-img {
+      max-width: 94vw;
+      max-height: 88vh;
+      object-fit: contain;
+      border-radius: 10px;
+      box-shadow: 0 20px 50px rgba(0, 0, 0, 0.5);
+    }
+    .modal-close-btn {
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      background: rgba(239, 68, 68, 0.9);
+      border: 2px solid white;
+      color: white;
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      font-size: 1.4rem;
+      cursor: pointer;
+      transition: var(--transition);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1001;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    }
+    .modal-close-btn:hover, .modal-close-btn:active {
+      background: #dc2626;
+      transform: scale(1.08);
+    }
+
+    /* LOAD MORE BUTTON */
+    .load-more-btn {
+      background: #ffffff;
+      color: var(--text-main);
+      border: 2px solid var(--card-border);
+      padding: 14px 28px;
+      border-radius: 50px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      box-shadow: var(--shadow-sm);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      margin: 10px auto 0;
+      width: 100%;
+      max-width: 350px;
+      touch-action: manipulation;
+    }
+    .load-more-btn:hover, .load-more-btn:active {
+      background: #f8fafc;
+      border-color: #cbd5e1;
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-md);
+    }
+
+    /* ==================== MOBILE OPTIMIZATIONS (@MEDIA) ==================== */
+    @media (max-width: 640px) {
+      body {
+        padding: 15px 10px 50px;
+      }
+      .container {
+        gap: 16px;
+      }
+      .search-input {
+        padding: 14px 45px 14px 42px;
+        font-size: 0.98rem;
+        border-radius: 16px;
+      }
+      .search-icon-left {
+        left: 14px;
+        font-size: 1.15rem;
+      }
+      .clear-btn {
+        right: 44px;
+        width: 26px;
+        height: 26px;
+      }
+      .status-dot-btn {
+        right: 14px;
+        width: 18px;
+        height: 18px;
+      }
+      .status-popover {
+        right: 0;
+        width: 240px;
+      }
+      .recipe-card {
+        padding: 16px;
+        border-radius: 18px;
+        gap: 14px;
+      }
+      .card-header {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+      }
+      .card-title {
+        max-width: 85%;
+      }
+      .close-card-btn {
+        position: absolute;
+        top: 16px;
+        right: 16px;
+      }
+      .card-actions {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 8px;
+      }
+      .action-btn {
+        justify-content: center;
+        padding: 10px;
+      }
+      .image-box {
+        min-height: 200px;
+        padding: 8px;
+        border-radius: 12px;
+      }
+      .recipe-img {
+        max-height: 60vh;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    
+    <!-- SEARCH SECTION (AT THE VERY TOP - NO HEADER AT ALL!) -->
+    <section class="search-section">
+      <div class="search-input-wrapper">
+        <span class="search-icon-left">🔍</span>
+        <input type="text" id="searchInput" class="search-input" placeholder="Tarif ara... (Örn: mer çor, avokado, omlet, smoothie)" autocomplete="off">
+        <button id="clearBtn" class="clear-btn" onclick="clearSearch()" title="Temizle">✕</button>
+        
+        <!-- GREEN CIRCLE STATUS DOT ON THE RIGHT SIDE OF SEARCH BAR -->
+        <button id="statusDot" class="status-dot-btn" onclick="toggleStatusPopover(event)" title="GitHub Durumu"></button>
+
+        <!-- STATUS POPOVER (OPENS WHEN CLICKING THE GREEN CIRCLE) -->
+        <div id="statusPopover" class="status-popover">
+          <div class="popover-title">
+            <span id="popoverDot" style="width:10px;height:10px;border-radius:50%;background:#f59e0b;display:inline-block;"></span>
+            <span id="popoverTitleText">Bağlanıyor...</span>
+          </div>
+          <div id="popoverDescText" class="popover-desc">GitHub reposundan tarif listesi çekiliyor.</div>
+          <button class="popover-refresh-btn" onclick="fetchRecipes(true); toggleStatusPopover();">🔄 Listeyi Yenile</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- RESULTS SECTION (RELEVANT CARDS UNDER SEARCH BAR) -->
+    <section id="resultsSection" class="results-section">
+      <!-- Injected via JS -->
+    </section>
+
+  </div>
+
+  <!-- FULLSCREEN LIGHTBOX MODAL -->
+  <div id="imageModal" class="modal-overlay" onclick="closeFullscreenModal(event)">
+    <div class="modal-content">
+      <button class="modal-close-btn" onclick="closeFullscreenModal(event)">✕</button>
+      <img id="modalImg" class="modal-img" src="" alt="Tam Ekran Tarif">
+    </div>
+  </div>
+
+  <script>
+    // GitHub Repository Configuration
+    const GITHUB_OWNER = 'lipodemmerkezi';
+    const GITHUB_REPO = 'zip';
+    const GITHUB_BRANCH = 'main';
+    const RAW_BASE_URL = `https://raw.githubusercontent.com/${GITHUB_OWNER}/${GITHUB_REPO}/${GITHUB_BRANCH}/tarifler`;
+    const PAGES_BASE_URL = `https://${GITHUB_OWNER}.github.io/${GITHUB_REPO}/tarifler`;
+    const LIST_JSON_URL = `${RAW_BASE_URL}/list.json`;
+
+    // State Variables
+    let allRecipes = [];
+    let filteredRecipes = [];
+    let displayLimit = 15; // Aynı anda gösterilecek maksimum kart
+
+    // Initialize Application
+    document.addEventListener('DOMContentLoaded', () => {
+      fetchRecipes();
+      setupSearchListener();
+      setupDocumentClick();
+    });
+
+    // Turkish Character Normalization for Search
+    function normalizeText(text) {
+      if (!text) return '';
+      return text.toString()
+        .replace(/ğ/g, 'g').replace(/Ğ/g, 'g')
+        .replace(/ü/g, 'u').replace(/Ü/g, 'u')
+        .replace(/ş/g, 's').replace(/Ş/g, 's')
+        .replace(/ı/g, 'i').replace(/İ/g, 'i').replace(/i/g, 'i')
+        .replace(/ö/g, 'o').replace(/Ö/g, 'o')
+        .replace(/ç/g, 'c').replace(/Ç/g, 'c')
+        .toLowerCase()
+        .trim();
+    }
+
+    // Clean filename into beautiful readable Turkish title
+    function cleanTitle(filename) {
+      if (!filename) return '';
+      let name = filename.replace(/\.(jpg|jpeg|png|gif|webp)$/i, '');
+      name = name.replace(/_/g, ' ');
+      // Title Case
+      return name.split(' ').map(w => {
+        if (!w) return '';
+        return w.charAt(0).toLocaleUpperCase('tr-TR') + w.slice(1).toLocaleLowerCase('tr-TR');
+      }).join(' ');
+    }
+
+    // Toggle Status Popover
+    function toggleStatusPopover(e) {
+      if (e) e.stopPropagation();
+      const popover = document.getElementById('statusPopover');
+      popover.style.display = (popover.style.display === 'flex') ? 'none' : 'flex';
+    }
+
+    function setupDocumentClick() {
+      document.addEventListener('click', (e) => {
+        const popover = document.getElementById('statusPopover');
+        const dot = document.getElementById('statusDot');
+        if (popover.style.display === 'flex' && !popover.contains(e.target) && e.target !== dot) {
+          popover.style.display = 'none';
+        }
+      });
+    }
+
+    // Fetch list.json from GitHub Repo
+    async function fetchRecipes(forceRefresh = false) {
+      const dot = document.getElementById('statusDot');
+      const pDot = document.getElementById('popoverDot');
+      const pTitle = document.getElementById('popoverTitleText');
+      const pDesc = document.getElementById('popoverDescText');
+      
+      dot.className = 'status-dot-btn'; // orange
+      pDot.style.background = '#f59e0b';
+      pTitle.innerText = 'Bağlanıyor...';
+      pDesc.innerText = 'GitHub reposundan tarif listesi çekiliyor.';
+      
+      showWelcomeState();
+
+      try {
+        const url = forceRefresh ? `${LIST_JSON_URL}?t=${Date.now()}` : `${LIST_JSON_URL}?nocache=${Date.now()}`;
+        const resp = await fetch(url);
+        
+        if (!resp.ok) {
+          throw new Error(`HTTP Hata: ${resp.status}`);
+        }
+
+        const data = await resp.json();
+        
+        // Sadece list.json içindeki geçerli resim dosyalarını al ("jsonda olmayan resimleri göstermesin")
+        allRecipes = data.map((item, index) => {
+          const fileName = typeof item === 'string' ? item : (item.name || item.url?.split('/').pop() || '');
+          const title = typeof item === 'object' && item.tarifAdi ? item.tarifAdi : cleanTitle(fileName);
+          const rawUrl = `${RAW_BASE_URL}/${fileName}`;
+          const pagesUrl = `${PAGES_BASE_URL}/${fileName}`;
+          
+          return {
+            id: index,
+            fileName: fileName,
+            title: title,
+            rawUrl: rawUrl,
+            pagesUrl: pagesUrl,
+            normalizedTitle: normalizeText(title + ' ' + fileName)
+          };
+        }).filter(r => r.fileName && r.fileName.trim() !== '' && /\.(jpg|jpeg|png|gif|webp)$/i.test(r.fileName));
+
+        // Set Green Dot Status!
+        dot.className = 'status-dot-btn active';
+        pDot.style.background = '#10b981';
+        pTitle.innerText = 'GitHub Aktif';
+        pDesc.innerHTML = `<b>${GITHUB_OWNER}/${GITHUB_REPO}</b> reposundan toplam <b>${allRecipes.length} tarif</b> başarıyla yüklendi.`;
+        
+        console.log(`✅ Toplam ${allRecipes.length} tarif listesi başarıyla yüklendi (Sıfır resim trafiği!).`);
+        
+        // Eğer arama kutusunda halihazırda yazı varsa filtrele
+        if (document.getElementById('searchInput').value.trim() !== '') {
+          applySearch();
+        }
+
+      } catch (error) {
+        console.error('Tarif listesi yükleme hatası:', error);
+        dot.className = 'status-dot-btn error';
+        pDot.style.background = '#ef4444';
+        pTitle.innerText = 'Bağlantı Hatası';
+        pDesc.innerText = `Hata Detayı: ${error.message}`;
+
+        document.getElementById('resultsSection').innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">⚠️</div>
+            <h3>Listeyi Yüklerken Hata Oluştu</h3>
+            <p>${error.message}</p>
+            <button class="action-btn primary" style="margin: 15px auto 0;" onclick="fetchRecipes(true)">🔄 Tekrar Deneyin</button>
+          </div>
+        `;
+      }
+    }
+
+    // İlk açılışta gösterilen Sade Karşılama Ekranı (Sıfır trafik)
+    function showWelcomeState() {
+      const section = document.getElementById('resultsSection');
+      section.innerHTML = `
+        <div class="empty-state">
+          <div class="empty-icon">🔍</div>
+          <h3>Tarif Aramaya Başlayın</h3>
+          <p>Yukarıdaki arama çubuğuna aradığınız yemeğin adını yazın (Örn: <b style="color:#3b82f6;">mer çor</b> yazarak mercimek çorbasını bulabilirsiniz).<br>İlgili tarif kartı anında bu alanda açılacaktır.</p>
+        </div>
+      `;
+    }
+
+    // Setup Search Listener
+    function setupSearchListener() {
+      const searchInput = document.getElementById('searchInput');
+      const clearBtn = document.getElementById('clearBtn');
+
+      searchInput.addEventListener('input', (e) => {
+        const val = e.target.value.trim();
+        if (val.length > 0) {
+          clearBtn.style.display = 'flex';
+          applySearch();
+        } else {
+          clearBtn.style.display = 'none';
+          showWelcomeState();
+        }
+      });
+
+      searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+          clearSearch();
+        }
+      });
+    }
+
+    // Clear Search
+    function clearSearch() {
+      const searchInput = document.getElementById('searchInput');
+      const clearBtn = document.getElementById('clearBtn');
+      searchInput.value = '';
+      clearBtn.style.display = 'none';
+      searchInput.focus();
+      showWelcomeState();
+    }
+
+    // Token-based Multi-Word Search (Örn: "mer çor" -> "mercimek çorbası")
+    function applySearch() {
+      const rawQuery = document.getElementById('searchInput').value;
+      const normalizedQuery = normalizeText(rawQuery);
+      
+      if (!normalizedQuery) {
+        showWelcomeState();
+        return;
+      }
+
+      // Kelimeleri boşluklara göre ayır (Tokens: ["mer", "cor"])
+      const tokens = normalizedQuery.split(/\s+/).filter(t => t.length > 0);
+
+      filteredRecipes = allRecipes.filter(recipe => {
+        // Tarif adında veya dosya adında aradığımız TÜM kelimeler/heceler geçmeli!
+        return tokens.every(token => recipe.normalizedTitle.includes(token));
+      });
+
+      displayLimit = 15; // Yeni aramada limit sıfırlanır
+      renderCards();
+    }
+
+    function loadMore() {
+      displayLimit += 15;
+      renderCards();
+    }
+
+    // Render Matching Cards Directly Under Search Bar!
+    function renderCards() {
+      const section = document.getElementById('resultsSection');
+
+      if (filteredRecipes.length === 0) {
+        section.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-icon">🍽️</div>
+            <h3>"${document.getElementById('searchInput').value}" İçin Tarif Bulunamadı</h3>
+            <p>Kelimeyi eksik yazmayı veya farklı bir tarif adı denemeyi düşünebilirsiniz.</p>
+          </div>
+        `;
+        return;
+      }
+
+      const recipesToShow = filteredRecipes.slice(0, displayLimit);
+      const hasMore = filteredRecipes.length > displayLimit;
+
+      let html = `<div class="card-list">`;
+      
+      recipesToShow.forEach(recipe => {
+        // "jsonda olmayan resimleri göstermesin" -> onerror ile bozuk resimli kartı gizle
+        html += `
+          <div class="recipe-card" id="card-${recipe.id}">
+            <div class="card-header">
+              <h2 class="card-title">${recipe.title}</h2>
+              <button class="close-card-btn" onclick="hideCard(${recipe.id})" title="Kartı Gizle">✕</button>
+              
+              <div class="card-actions">
+                <button class="action-btn" onclick="openFullscreen('${recipe.rawUrl}')" title="Tam Ekran Büyüt">🔍 Büyüt</button>
+                <a class="action-btn primary" href="${recipe.rawUrl}" target="_blank" download title="Resmi Aç / İndir">⬇️ Aç / İndir</a>
+              </div>
+            </div>
+
+            <div class="image-box">
+              <div id="loader-${recipe.id}" class="image-loader">
+                <div class="spinner"></div>
+                <span>Tarif kartı yükleniyor...</span>
+              </div>
+              
+              <img id="img-${recipe.id}" class="recipe-img" src="${recipe.rawUrl}" alt="${recipe.title}" style="display:none;"
+                   onload="document.getElementById('loader-${recipe.id}').style.display='none'; this.style.display='block';"
+                   onerror="handleImgError(${recipe.id}, '${recipe.pagesUrl}')"
+                   onclick="openFullscreen('${recipe.rawUrl}')">
+            </div>
+          </div>
+        `;
+      });
+
+      html += `</div>`;
+
+      if (hasMore) {
+        const remaining = filteredRecipes.length - displayLimit;
+        html += `
+          <div style="text-align: center; width: 100%;">
+            <button class="load-more-btn" onclick="loadMore()">
+              ➕ ${remaining} Tarif Daha Göster (Toplam ${filteredRecipes.length} sonuçtan ${displayLimit} tanesi gösteriliyor)
+            </button>
+          </div>
+        `;
+      }
+
+      section.innerHTML = html;
+    }
+
+    // Handle Image Load Error (Fallback to Pages, or Hide Card if Not in Repo!)
+    function handleImgError(id, pagesUrl) {
+      const img = document.getElementById(`img-${id}`);
+      const loader = document.getElementById(`loader-${id}`);
+      const card = document.getElementById(`card-${id}`);
+      
+      if (!img || !card) return;
+
+      // Try GitHub Pages fallback once
+      if (!img.dataset.retried) {
+        img.dataset.retried = "true";
+        img.src = pagesUrl;
+      } else {
+        // If both failed, this image doesn't exist on GitHub! Hide the card! ("jsonda olmayan resimleri göstermesin")
+        if (loader) loader.style.display = 'none';
+        card.style.display = 'none';
+        console.warn(`Görsel bulunamadı ve kart gizlendi: ID ${id}`);
+      }
+    }
+
+    // Hide a specific card when X is clicked
+    function hideCard(id) {
+      const card = document.getElementById(`card-${id}`);
+      if (card) {
+        card.style.opacity = '0';
+        card.style.transform = 'scale(0.95)';
+        setTimeout(() => card.remove(), 200);
+      }
+    }
+
+    // Fullscreen Modal
+    function openFullscreen(imgUrl) {
+      const modal = document.getElementById('imageModal');
+      const modalImg = document.getElementById('modalImg');
+      modalImg.src = imgUrl;
+      modal.style.display = 'flex';
+    }
+
+    function closeFullscreenModal(e) {
+      if (e.target.id === 'imageModal' || e.target.classList.contains('modal-close-btn')) {
+        document.getElementById('imageModal').style.display = 'none';
+      }
+    }
+  </script>
+</body>
+</html>
