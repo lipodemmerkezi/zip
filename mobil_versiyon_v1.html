@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="tr">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@
     <link id="manifestLink" rel="manifest">
     <!-- iOS (iPhone/iPad) Ana Ekran İkonu -->
     <!-- ✅ İKON GÜNCELLENDİ -->
-    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/logo.png">
+    <link rel="apple-touch-icon" href="https://raw.githubusercontent.com/lipodemmerkezi/zip/main/logo.png">
     <!-- / PWA ve Mobil Uygulama Meta Etiketleri -->
 
     <title>🍽️ Yemek Alternatif Bulucu</title>
@@ -1783,7 +1783,7 @@
                 
                 // ÖNCELİK 1: GitHub'dan çek (HER ZAMAN ÖNCE GITHUB!)
                 const timestamp = new Date().getTime();
-                const response = await fetch(`https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/hastalar/${fileName}?t=${timestamp}`);
+                const response = await fetch(`https://raw.githubusercontent.com/lipodemmerkezi/zip/main/hastalar/${fileName}?t=${timestamp}`);
                 
                 if (response.ok) {
                     // GitHub'dan başarıyla yüklendi
@@ -2199,7 +2199,7 @@
                         // Android Ana Ekran İkonu
                         // ✅ İKON GÜNCELLENDİ
                         {
-                            "src": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/logo.png",
+                            "src": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/logo.png",
                             "sizes": "192x192",
                             "type": "image/png",
                             "purpose": "any maskable"
@@ -2207,7 +2207,7 @@
                         // Android Açılış Ekranı ve Diğerleri İçin
                         // ✅ İKON GÜNCELLENDİ
                         {
-                            "src": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/logo.png",
+                            "src": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/logo.png",
                             "sizes": "512x512",
                             "type": "image/png",
                             "purpose": "any maskable"
@@ -2223,12 +2223,10 @@
                     const CACHE_NAME = '${CACHE_NAME}';
                     const urlsToCache = [
                         '.',
-                        'https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli
-                        
-                        /main/food_list.json',
-                        'https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/data/manuel_eslestirmeler.json',
-                        'https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/data/eslesmeme_kurallari.json',
-                        'https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/list.json'
+                        'https://raw.githubusercontent.com/lipodemmerkezi/zip/main/food_list.json',
+                        'https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/manuel_eslestirmeler.json',
+                        'https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/eslesmeme_kurallari.json',
+                        'https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/list.json'
                     ];
 
                     self.addEventListener('install', event => {
@@ -2336,8 +2334,8 @@
             let eslesmemeKurallari = {};
             let totalAlternativesForSelected = 0;
 
-            const REPO_OWNER = 'mustafasacar35';
-            const REPO_NAME = 'lipodem-takip-paneli';
+            const REPO_OWNER = 'lipodemmerkezi';
+            const REPO_NAME = 'zip';
             const SETTINGS_PATH = 'settings/config.json';
             const SETTINGS_BRANCH = 'main';
 
@@ -2460,7 +2458,7 @@
 
                 const tarifKartlari = findTarifKartlari(food.name);
                 const tarifBadges = tarifKartlari.map((tarif, index) => {
-                    const imageUrl = tarif.download_url || `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/${tarif.name}`;
+                    const imageUrl = tarif.download_url || `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/${tarif.name}`;
                     const tarifLabel = tarifKartlari.length > 1 ? `Tarif ${index + 1}` : 'Tarif';
                     return `<span class="recipe-badge" onclick="openModal('${imageUrl}')" style="cursor: pointer;">📖 ${tarifLabel} 👆</span>`;
                 });
@@ -2508,7 +2506,7 @@
 
                 const tarifKartlari = findTarifKartlari(food.name);
                 const tarifBadges = tarifKartlari.map((tarif, index) => {
-                    const imageUrl = tarif.download_url || `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/${tarif.name}`;
+                    const imageUrl = tarif.download_url || `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/${tarif.name}`;
                     const tarifLabel = tarifKartlari.length > 1 ? `Tarif ${index + 1}` : 'Tarif';
                     return `<span class="recipe-badge" onclick="openModal('${imageUrl}')" style="cursor: pointer;">📖 ${tarifLabel} 👆</span>`;
                 });
@@ -2564,7 +2562,7 @@
             async function loadFoodData() {
                 try {
                     document.getElementById('resultsList').innerHTML = '<div class="loading">Yemek veritabanı yükleniyor...</div>';
-                    const response = await fetch('https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/food_list.json');
+                    const response = await fetch('https://raw.githubusercontent.com/lipodemmerkezi/zip/main/food_list.json');
                     const data = await response.json();
                     foodDatabase = [];
                     if (data.categories && Array.isArray(data.categories)) {
@@ -2600,7 +2598,7 @@
             }
         }            async function loadManuelEslestirmeler() {
                 try {
-                    const manuelResp = await fetch('https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/data/manuel_eslestirmeler.json');
+                    const manuelResp = await fetch('https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/manuel_eslestirmeler.json');
                     if (manuelResp.ok) {
                         const manuelData = await manuelResp.json();
                         manuelEslestirmeler = manuelData.eslestirmeler || manuelData;
@@ -2608,14 +2606,14 @@
                     }
                     
                     // 🆕 Yemek veritabanı eşleştirmelerini yükle
-                    const dbEslestirmeResp = await fetch('https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/data/yemek_veritabani_eslestirme.json');
+                    const dbEslestirmeResp = await fetch('https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/yemek_veritabani_eslestirme.json');
                     if (dbEslestirmeResp.ok) {
                         const dbData = await dbEslestirmeResp.json();
                         yemekVeritabaniEslestirme = dbData.eslestirmeler || dbData;
                         console.log('✅ Yemek veritabanı eşleştirmeleri yüklendi:', Object.keys(yemekVeritabaniEslestirme).length);
                     }
                     
-                    const yasakResp = await fetch('https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/data/eslesmeme_kurallari.json');
+                    const yasakResp = await fetch('https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/eslesmeme_kurallari.json');
                     if (yasakResp.ok) {
                         const yasakData = await yasakResp.json();
                         console.log('🔍 Yasak data yapısı:', yasakData);
@@ -2657,11 +2655,11 @@
             
             async function loadTarifKartlari() {
                 try {
-                    let response = await fetch('https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/list.json');
+                    let response = await fetch('https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/list.json');
                     if (response.ok) {
                         const data = await response.json();
                         if (Array.isArray(data)) {
-                            tarifKartlari = data.map(item => (typeof item === 'string' ? item : item.name || item.filename || item.file || null)).filter(name => name && name.match(/\.(jpg|jpeg|png)$/i)).map(name => ({ name: name, type: 'file', download_url: `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/${name}` }));
+                            tarifKartlari = data.map(item => (typeof item === 'string' ? item : item.name || item.filename || item.file || null)).filter(name => name && name.match(/\.(jpg|jpeg|png)$/i)).map(name => ({ name: name, type: 'file', download_url: `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/${name}` }));
                             console.log('✅ Tarif kartları list.json ile yüklendi:', tarifKartlari.length);
                             return;
                         }
@@ -2675,7 +2673,7 @@
                         const kartlar = (typeof eslestirme === 'object' && eslestirme.kartlar) ? eslestirme.kartlar : (typeof eslestirme === 'string' ? [eslestirme] : []);
                         kartlar.forEach(kart => uniqueTarifler.add(kart));
                     });
-                    tarifKartlari = [...uniqueTarifler].map(name => ({ name: name, type: 'file', download_url: `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/${name}` }));
+                    tarifKartlari = [...uniqueTarifler].map(name => ({ name: name, type: 'file', download_url: `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/${name}` }));
                     console.log('✅ Fallback tarif kartları yüklendi:', tarifKartlari.length);
                 }
             }
@@ -3556,7 +3554,7 @@
                                 file: fileName,
                                 name: fileName.replace(/\.(jpg|jpeg|png)$/i, '').replace(/_/g, ' '),
                                 type: 'file',
-                                download_url: `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/${fileName}`
+                                download_url: `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/${fileName}`
                             };
                         }
                     }).filter(Boolean);
@@ -4567,7 +4565,7 @@
                                     file: fileName,
                                     name: fileName.replace(/\.(jpg|jpeg|png)$/i, '').replace(/_/g, ' '),
                                     type: 'file',
-                                    download_url: `https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/tarifler/${fileName}`,
+                                    download_url: `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/${fileName}`,
                                     isManualMapping: true
                                 };
                             });
@@ -5150,8 +5148,8 @@
                 throw new Error('GitHub token bulunamadı!');
             }
 
-            const GITHUB_OWNER = 'mustafasacar35';
-            const GITHUB_REPO = 'lipodem-takip-paneli';
+            const GITHUB_OWNER = 'lipodemmerkezi';
+            const GITHUB_REPO = 'zip';
             const GITHUB_BRANCH = 'main';
 
             // 1. Mevcut dosyanın SHA'sını al
