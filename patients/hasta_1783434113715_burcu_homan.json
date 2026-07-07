@@ -3,9 +3,27 @@
   "isim": "BURCU HOMAN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-07-05",
+      "bitis": "2026-07-11",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-07T14:21:53.715Z",
+  "sonGuncelleme": "2026-07-07T14:22:15.363Z",
   "githubKaydedildi": true
 }
