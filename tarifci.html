@@ -58,7 +58,7 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 25px 15px 60px;
+      padding: 25px 15px 80px;
       overflow-x: hidden;
       width: 100%;
     }
@@ -276,7 +276,7 @@
 
     .recipe-card {
       background: var(--card-bg);
-      border: 1px solid var(--card-border);
+      border: 2px solid var(--card-border);
       border-radius: 24px;
       padding: 24px;
       box-shadow: var(--shadow-md);
@@ -286,6 +286,7 @@
       gap: 18px;
       width: 100%;
       animation: slideDown 0.25s ease;
+      position: relative;
     }
     @keyframes slideDown {
       from { opacity: 0; transform: translateY(-10px); }
@@ -294,6 +295,11 @@
     .recipe-card:hover {
       box-shadow: var(--shadow-lg);
       border-color: #cbd5e1;
+    }
+    .recipe-card.card-selected {
+      border-color: #10b981;
+      background: #f0fdf4;
+      box-shadow: 0 15px 35px rgba(16, 185, 129, 0.15);
     }
 
     .card-header {
@@ -311,7 +317,8 @@
       line-height: 1.3;
       flex: 1;
     }
-    .card-actions {
+    
+    .card-tools-right {
       display: flex;
       align-items: center;
       gap: 8px;
@@ -346,6 +353,39 @@
     .action-btn.primary:hover, .action-btn.primary:active {
       background: var(--primary-hover);
     }
+    
+    /* SELECTION BUTTON & CLOSE BUTTON */
+    .select-card-btn {
+      background: #f8fafc;
+      border: 2px solid #cbd5e1;
+      color: #64748b;
+      width: 38px;
+      height: 38px;
+      border-radius: 50%;
+      font-size: 1.1rem;
+      font-weight: bold;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: var(--transition);
+      touch-action: manipulation;
+      flex-shrink: 0;
+    }
+    .select-card-btn:hover {
+      background: #f1f5f9;
+      border-color: #94a3b8;
+      color: var(--primary);
+      transform: scale(1.05);
+    }
+    .select-card-btn.selected {
+      background: #10b981;
+      border-color: #10b981;
+      color: white;
+      box-shadow: 0 0 12px rgba(16, 185, 129, 0.4);
+      transform: scale(1.05);
+    }
+
     .close-card-btn {
       background: #f8fafc;
       border: 1px solid #e2e8f0;
@@ -505,10 +545,130 @@
       box-shadow: var(--shadow-md);
     }
 
+    /* ==================== FLOATING PRINT SELECTION BAR ==================== */
+    .floating-print-bar {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translate(-50%, 180%);
+      background: rgba(15, 23, 42, 0.94);
+      color: #ffffff;
+      backdrop-filter: blur(14px);
+      border-radius: 50px;
+      padding: 14px 28px;
+      box-shadow: 0 20px 45px rgba(0, 0, 0, 0.35);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      z-index: 500;
+      transition: transform 0.35s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.3s ease;
+      opacity: 0;
+      pointer-events: none;
+      width: max-content;
+      max-width: 94vw;
+    }
+    .floating-print-bar.visible {
+      transform: translate(-50%, 0);
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .print-count {
+      font-family: 'Outfit', sans-serif;
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      white-space: nowrap;
+    }
+    .print-bar-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .print-action-btn {
+      padding: 10px 18px;
+      border-radius: 30px;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: var(--transition);
+      border: none;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      white-space: nowrap;
+    }
+    .print-action-btn.primary {
+      background: #10b981;
+      color: white;
+      box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
+    }
+    .print-action-btn.primary:hover {
+      background: #059669;
+      transform: scale(1.03);
+    }
+    .print-action-btn.cancel {
+      background: rgba(255, 255, 255, 0.12);
+      color: #e2e8f0;
+    }
+    .print-action-btn.cancel:hover {
+      background: rgba(239, 68, 68, 0.8);
+      color: white;
+    }
+
+    /* ==================== HIDDEN PRINT CONTAINER & @MEDIA PRINT ==================== */
+    .print-only-section {
+      display: none;
+    }
+
+    @media print {
+      body {
+        background: #ffffff !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        color: #000000 !important;
+      }
+      .container,
+      .floating-print-bar,
+      .modal-overlay {
+        display: none !important;
+      }
+      .print-only-section {
+        display: block !important;
+        width: 100% !important;
+      }
+      .print-recipe-item {
+        page-break-inside: avoid !important;
+        break-inside: avoid !important;
+        margin-bottom: 40px !important;
+        padding: 20px !important;
+        border: 1px solid #cccccc !important;
+        border-radius: 15px !important;
+        text-align: center !important;
+        background: #ffffff !important;
+      }
+      .print-recipe-title {
+        font-family: 'Outfit', sans-serif !important;
+        font-size: 1.8rem !important;
+        margin-bottom: 15px !important;
+        color: #000000 !important;
+        font-weight: bold !important;
+      }
+      .print-recipe-img {
+        max-width: 100% !important;
+        max-height: 600px !important;
+        object-fit: contain !important;
+        border-radius: 10px !important;
+      }
+    }
+
     /* ==================== MOBILE OPTIMIZATIONS (@MEDIA) ==================== */
     @media (max-width: 640px) {
       body {
-        padding: 15px 10px 50px;
+        padding: 15px 10px 90px;
       }
       .container {
         gap: 16px;
@@ -547,22 +707,19 @@
         gap: 10px;
       }
       .card-title {
-        max-width: 85%;
+        max-width: 100%;
       }
-      .close-card-btn {
-        position: absolute;
-        top: 16px;
-        right: 16px;
-      }
-      .card-actions {
+      .card-tools-right {
         width: 100%;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 8px;
+        justify-content: space-between;
+      }
+      .close-card-btn, .select-card-btn {
+        width: 36px;
+        height: 36px;
       }
       .action-btn {
-        justify-content: center;
-        padding: 10px;
+        padding: 8px 12px;
+        font-size: 0.8rem;
       }
       .image-box {
         min-height: 200px;
@@ -571,6 +728,18 @@
       }
       .recipe-img {
         max-height: 60vh;
+      }
+      .floating-print-bar {
+        padding: 12px 18px;
+        gap: 12px;
+        bottom: 16px;
+      }
+      .print-count {
+        font-size: 0.95rem;
+      }
+      .print-action-btn {
+        padding: 8px 14px;
+        font-size: 0.82rem;
       }
     }
   </style>
@@ -608,6 +777,18 @@
 
   </div>
 
+  <!-- FLOATING PRINT SELECTION BAR (SLIDES UP WHEN RECIPES ARE SELECTED) -->
+  <div id="floatingPrintBar" class="floating-print-bar">
+    <span id="printCountText" class="print-count">🖨️ 0 Tarif Seçildi</span>
+    <div class="print-bar-actions">
+      <button class="print-action-btn primary" onclick="printSelectedRecipes()">📄 PDF / Yazdır</button>
+      <button class="print-action-btn cancel" onclick="clearSelectedRecipes()">✕ Vazgeç</button>
+    </div>
+  </div>
+
+  <!-- HIDDEN PRINT CONTAINER (ONLY VISIBLE DURING WINDOW.PRINT) -->
+  <div id="printSection" class="print-only-section"></div>
+
   <!-- FULLSCREEN LIGHTBOX MODAL -->
   <div id="imageModal" class="modal-overlay" onclick="closeFullscreenModal(event)">
     <div class="modal-content">
@@ -638,6 +819,7 @@
     let allRecipes = [];
     let filteredRecipes = [];
     let displayLimit = 15; // Aynı anda gösterilecek maksimum kart
+    let selectedRecipes = new Set(); // Seçilen tarif ID'lerini tutar
 
     // Initialize Application
     document.addEventListener('DOMContentLoaded', () => {
@@ -736,7 +918,7 @@
         pTitle.innerText = 'GitHub Aktif';
         pDesc.innerHTML = `<b>${GITHUB_OWNER}/${GITHUB_REPO}</b> reposundan toplam <b>${allRecipes.length} tarif</b> başarıyla yüklendi.`;
         
-        console.log(`✅ Toplam ${allRecipes.length} tarif listesi başarıyla yüklendi (Sıfır resim trafiği!).`);
+        console.log(`✅ Toplam ${allRecipes.length} tarif listesi başarıyla yüklendi.`);
         
         // Eğer arama kutusunda halihazırda yazı varsa filtrele
         if (document.getElementById('searchInput').value.trim() !== '') {
@@ -854,16 +1036,22 @@
       let html = `<div class="card-list">`;
       
       recipesToShow.forEach(recipe => {
+        const isSelected = selectedRecipes.has(recipe.id);
+        
         // "jsonda olmayan resimleri göstermesin" -> onerror ile bozuk resimli kartı gizle
         html += `
-          <div class="recipe-card" id="card-${recipe.id}">
+          <div class="recipe-card ${isSelected ? 'card-selected' : ''}" id="card-${recipe.id}">
             <div class="card-header">
               <h2 class="card-title">${recipe.title}</h2>
-              <button class="close-card-btn" onclick="hideCard(${recipe.id})" title="Kartı Gizle">✕</button>
               
-              <div class="card-actions">
-                <button class="action-btn" onclick="openFullscreen('${recipe.rawUrl}')" title="Tam Ekran Büyüt">🔍 Büyüt</button>
-                <a class="action-btn primary" href="${recipe.rawUrl}" target="_blank" download title="Resmi Aç / İndir">⬇️ Aç / İndir</a>
+              <div class="card-tools-right">
+                <button class="select-card-btn ${isSelected ? 'selected' : ''}" id="select-btn-${recipe.id}" onclick="toggleSelectCard(${recipe.id}, event)" title="Yazdırmak / PDF için seç">${isSelected ? '✓' : '○'}</button>
+                <button class="close-card-btn" onclick="hideCard(${recipe.id})" title="Kartı Gizle">✕</button>
+                
+                <div class="card-actions">
+                  <button class="action-btn" onclick="openFullscreen('${recipe.rawUrl}')" title="Tam Ekran Büyüt">🔍 Büyüt</button>
+                  <a class="action-btn primary" href="${recipe.rawUrl}" target="_blank" download title="Resmi Aç / İndir">⬇️ Aç / İndir</a>
+                </div>
               </div>
             </div>
 
@@ -896,6 +1084,88 @@
       }
 
       section.innerHTML = html;
+      updateFloatingPrintBar();
+    }
+
+    // Toggle Recipe Selection for Print / PDF
+    function toggleSelectCard(id, e) {
+      if (e) e.stopPropagation();
+      
+      const card = document.getElementById(`card-${id}`);
+      const btn = document.getElementById(`select-btn-${id}`);
+      
+      if (selectedRecipes.has(id)) {
+        selectedRecipes.delete(id);
+        if (card) card.classList.remove('card-selected');
+        if (btn) {
+          btn.classList.remove('selected');
+          btn.innerText = '○';
+        }
+      } else {
+        selectedRecipes.add(id);
+        if (card) card.classList.add('card-selected');
+        if (btn) {
+          btn.classList.add('selected');
+          btn.innerText = '✓';
+        }
+      }
+
+      updateFloatingPrintBar();
+    }
+
+    // Update Bottom Floating Bar Visibility & Count
+    function updateFloatingPrintBar() {
+      const bar = document.getElementById('floatingPrintBar');
+      const countText = document.getElementById('printCountText');
+      
+      if (selectedRecipes.size > 0) {
+        countText.innerText = `🖨️ ${selectedRecipes.size} Tarif Seçildi`;
+        bar.classList.add('visible');
+      } else {
+        bar.classList.remove('visible');
+      }
+    }
+
+    // Clear All Selections
+    function clearSelectedRecipes() {
+      selectedRecipes.clear();
+      document.querySelectorAll('.select-card-btn.selected').forEach(btn => {
+        btn.classList.remove('selected');
+        btn.innerText = '○';
+      });
+      document.querySelectorAll('.recipe-card.card-selected').forEach(card => {
+        card.classList.remove('card-selected');
+      });
+      updateFloatingPrintBar();
+    }
+
+    // Print Selected Recipes Cleanly via @media print!
+    function printSelectedRecipes() {
+      if (selectedRecipes.size === 0) return;
+
+      const printSection = document.getElementById('printSection');
+      let html = '';
+
+      // Get selected recipe objects from allRecipes
+      allRecipes.forEach(recipe => {
+        if (selectedRecipes.has(recipe.id)) {
+          html += `
+            <div class="print-recipe-item">
+              <h1 class="print-recipe-title">${recipe.title}</h1>
+              <div style="text-align: center;">
+                <img src="${recipe.rawUrl}" class="print-recipe-img" alt="${recipe.title}">
+              </div>
+            </div>
+          `;
+        }
+      });
+
+      printSection.innerHTML = html;
+
+      // Small timeout to allow images in print section to be processed by browser before printing
+      setTimeout(() => {
+        window.print();
+      }, 300);
     }
 
     // Handle Image Load Error (Fallback to Pages, or Hide Card if Not in Repo!)
