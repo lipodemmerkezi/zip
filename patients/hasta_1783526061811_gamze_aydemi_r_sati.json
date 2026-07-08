@@ -3,9 +3,27 @@
   "isim": "GAMZE AYDEMİR SATI",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-07-05",
+      "bitis": "2026-07-11",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-08T15:54:21.811Z",
+  "sonGuncelleme": "2026-07-08T15:55:46.625Z",
   "githubKaydedildi": true
 }
