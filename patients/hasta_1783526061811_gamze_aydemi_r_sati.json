@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-07-05",
-      "bitis": "2026-07-11",
+      "baslangic": "2026-07-10",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GAMZE AYDEMİR SATI 10-19 TEMMUZ 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "GAMZE AYDEMİR SATI 10-19 TEMMUZ 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 10-19 TEMMUZ 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 10-19 TEMMUZ 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 10-19 TEMMUZ 1. HAFTA.pdf",
+      "kayitTarihi": "2026-07-08T15:56:06.750Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "07/10 - 07/19",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-08T15:55:46.625Z",
+  "sonGuncelleme": "2026-07-08T15:56:06.752Z",
   "githubKaydedildi": true
 }
