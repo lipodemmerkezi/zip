@@ -3151,24 +3151,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-13",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NİGAR ÇAKIROĞULLARI 13-19 TEMMUZ 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "NİGAR ÇAKIROĞULLARI 13-19 TEMMUZ 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/NİGAR ÇAKIROĞULLARI 13-19 TEMMUZ 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİGAR ÇAKIROĞULLARI 13-19 TEMMUZ 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİGAR ÇAKIROĞULLARI 13-19 TEMMUZ 12. HAFTA.pdf",
+      "kayitTarihi": "2026-07-08T07:44:27.547Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-08T07:44:08.645Z",
+  "sonGuncelleme": "2026-07-08T07:44:27.550Z",
   "githubKaydedildi": true
 }
