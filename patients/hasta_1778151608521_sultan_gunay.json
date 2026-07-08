@@ -2607,24 +2607,28 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-13",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SULTAN GÜNAY 13-19 TEMMUZ 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "SULTAN GÜNAY 13-19 TEMMUZ 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/SULTAN GÜNAY 13-19 TEMMUZ 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SULTAN GÜNAY 13-19 TEMMUZ 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SULTAN GÜNAY 13-19 TEMMUZ 10. HAFTA.pdf",
+      "kayitTarihi": "2026-07-08T08:25:47.157Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "LOW ZCARB A GEÇİYORUZ. EGZERSİZLERE BAŞLAMIŞ MI?\nMerhaba Sultan Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 10. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-07T11:00:08.521Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-08T08:21:32.420Z",
+  "sonGuncelleme": "2026-07-08T08:25:47.160Z",
   "githubKaydedildi": true
 }
