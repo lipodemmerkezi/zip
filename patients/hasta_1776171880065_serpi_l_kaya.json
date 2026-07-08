@@ -3674,24 +3674,27 @@
     },
     {
       "haftaNo": 14,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-13",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERPİL KAYA 13-19 TEMMUZ 14. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERPİL KAYA 13-19 TEMMUZ 14. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERPİL KAYA 13-19 TEMMUZ 14. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERPİL KAYA 13-19 TEMMUZ 14. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERPİL KAYA 13-19 TEMMUZ 14. HAFTA.pdf",
+      "kayitTarihi": "2026-07-08T06:32:49.608Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-14T13:04:40.065Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-08T06:32:29.640Z",
+  "sonGuncelleme": "2026-07-08T06:32:49.612Z",
   "githubKaydedildi": true
 }
