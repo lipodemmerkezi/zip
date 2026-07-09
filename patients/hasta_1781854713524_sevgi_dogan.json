@@ -821,24 +821,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-13",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEVGİ DOĞAN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEVGİ DOĞAN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEVGİ DOĞAN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVGİ DOĞAN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVGİ DOĞAN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "kayitTarihi": "2026-07-09T07:18:11.508Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-19T07:38:33.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-09T07:17:58.592Z",
+  "sonGuncelleme": "2026-07-09T07:18:11.510Z",
   "githubKaydedildi": true
 }
