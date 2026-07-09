@@ -747,24 +747,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-13",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "DEFNE SERİNKEN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "DEFNE SERİNKEN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/DEFNE SERİNKEN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/DEFNE SERİNKEN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/DEFNE SERİNKEN 13-19 TEMMUZ 4. HAFTA.pdf",
+      "kayitTarihi": "2026-07-09T06:50:04.110Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-18T06:27:42.620Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-09T06:49:50.874Z",
+  "sonGuncelleme": "2026-07-09T06:50:04.112Z",
   "githubKaydedildi": true
 }
