@@ -866,24 +866,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-13",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYSEL YEŞİL 13-19 TEMMUZ 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYSEL YEŞİL 13-19  TEMMUZ 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYSEL YEŞİL 13-19 TEMMUZ 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYSEL YEŞİL 13-19 TEMMUZ 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYSEL YEŞİL 13-19 TEMMUZ 4. HAFTA.pdf",
+      "kayitTarihi": "2026-07-09T07:14:36.317Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-17T14:34:01.085Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-09T07:14:23.398Z",
+  "sonGuncelleme": "2026-07-09T07:14:36.318Z",
   "githubKaydedildi": true
 }
