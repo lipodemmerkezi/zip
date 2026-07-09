@@ -464,7 +464,7 @@
       "pdfYolu": "pdfs/NURCEN YENİYAYLA 13-19 TEMMUZ 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURCEN YENİYAYLA 13-19 TEMMUZ 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURCEN YENİYAYLA 13-19 TEMMUZ 3. HAFTA.pdf",
-      "kayitTarihi": "2026-07-09T07:36:31.329Z",
+      "kayitTarihi": "2026-07-09T07:40:43.917Z",
       "tarifKartlar": [
         {
           "tarifAdi": "mantarlı tavuk sote (150 gr tavuk ile)",
@@ -613,7 +613,7 @@
         "ekmek ve fırın yemeklerini air fry da yapabilirsiniz."
       ],
       "gptMesaj": "Merhaba Nurcen Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 3. haftaya başlıyoruz.\n\nBu hafta, bedeninizdeki değişimi hızlandıracak ve uzun vadeli sağlığınız için temel oluşturacak önemli bir aşamaya geçiyoruz: Bağırsak florası. İlk iki haftalık eliminasyon süreci, sindirim sisteminizi rahatlatmak ve bağırsak florasında istenmeyen dengesizlikleri azaltmak için çok değerliydi. Şimdi ise bu temelin üzerine sağlıklı bir yapı inşa etmeye başlıyoruz.\n\nBu haftadan itibaren, probiyotik ve prebiyotik takviyelerle bağırsak floranızı güçlendirmeyi hedefliyoruz. Unutmayın, bağırsak florası, yani mikrobiyota dediğimiz sistem, bağışıklık sistemimizi güçlendiren, inflamasyonu azaltan ve hatta ruh halimizi bile etkileyebilen görünmez ama en güçlü sistemlerimizden biridir. Lipödem gibi kronik inflamatuar hastalıklarda bağırsak sağlığına odaklanmak bu yüzden çok kritik. Dengeli bir bağırsak florası, iştah kontrolü ve yeme alışkanlıklarınızda da olumlu değişiklikler yaratacak, tatlı isteği gibi durumların azalmasına yardımcı olacaktır.\n\nSizin için hazırladığımız listede, ilk iki hafta ara verdiğimiz süt ürünlerine kontrollü bir şekilde yeniden yer verdiğimizi göreceksiniz. Özellikle yoğurtlu salatalık mezesi ve tulum/kaşar peyniri gibi fermente, sindirimi kolay çeşitlerle başlıyoruz. Bu çeşitlilik, programınızı daha sürdürülebilir kılarken, bağırsak sağlığınıza da katkı sağlayacaktır. Ayrıca, yumurta miktarını biraz azaltarak gün içinde yaklaşık 30 gram kadar peynirle değişim yapma esnekliğiniz de olacak.\n\nÖğün saatlerinizle ilgili olarak, genel bir düzen olarak öğle ve akşam öğünlerini baz alıyoruz. Ancak vardiyalı çalışma düzeninizi göz önünde bulundurarak, bu saatlerde kendi koşullarınıza göre ufak değişiklikler yapmanızda bir sakınca yok. Önemli olan, öğün aralıklarını korumak ve bedeninizi dinlemek. Ayrıca, lipödem iyileşme ve kilo kontrolü sürecinde uykunun hormonal etkileri de büyük önem taşıyor. Yeterli ve kaliteli uyku, hormonal dengeyi sağlamak ve vücudunuzun kendini onarması için vazgeçilmezdir. Bu nedenle, mümkün olduğunca düzenli bir uyku alışkanlığı edinmeye çalışın.\n\nListenizdeki besinlere baktığımızda, lipödem tedavisini destekleyen pek çok değerli öğeyi bir arada görüyoruz. Örneğin, yumurta, balık (somon, çupra, levrek) ve tavuk gibi protein kaynakları, kas kütlenizi korumanıza yardımcı olurken, D vitamini ve selenyum gibi mikro besinleri de almanızı sağlar. Özellikle D vitamini, bağışıklık sistemi ve inflamasyon kontrolü için çok önemlidir. Yeşil yapraklı sebzeler (roka, marul, semizotu, maydanoz) ve kabak çekirdeği, magnezyum açısından zengindir. Magnezyum, kas ve sinir fonksiyonları için kritik olmasının yanı sıra, lipödemle ilişkili ödem ve ağrıların hafiflemesine de katkıda bulunabilir. Limon, domates ve biber gibi besinler ise C vitamini açısından zengin olup güçlü antioksidan etkileriyle inflamasyonu azaltır.\n\nKurşun geçirmez kahve, avokado, zeytinyağı ve hindistan cevizi yağı gibi sağlıklı yağ kaynakları, tokluk hissinizi artırırken, kan şekerinizi dengeleyerek yağ yakımını destekleyecektir. Kollajen takviyesi de doku onarımınızı ve cildinizin elastikiyetini desteklemeye devam ediyor. Su tüketiminiz için maden suyu ve limonlu su önerisi, lenfatik sisteminizin düzgün çalışması ve elektrolit dengenizin korunması açısından bu hafta da önemini koruyor.\n\nBu hafta, bağırsak sağlığınıza odaklanarak bedeninizi içeriden güçlendireceğimiz bir dönem. Her küçük adımın, lipödemle mücadelede ve genel iyi oluş halinizde ne kadar büyük fark yaratacağını birlikte göreceğiz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -718,6 +718,6 @@
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-09T07:40:40.755Z",
+  "sonGuncelleme": "2026-07-09T07:40:43.933Z",
   "githubKaydedildi": true
 }
