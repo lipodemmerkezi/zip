@@ -412,24 +412,28 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-13",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERAP ÜNAL 13-19 TEMMUZ 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERAP ÜNAL 13-19 TEMMUZ 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERAP ÜNAL 13-19 TEMMUZ 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERAP ÜNAL 13-19 TEMMUZ 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERAP ÜNAL 13-19 TEMMUZ 3. HAFTA.pdf",
+      "kayitTarihi": "2026-07-09T07:32:53.720Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "Merhaba Serap Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\nmesajlaşmamızdan örneklr:\n[10:41, 07.07.2026] Serap Ünal Almanya Lipödem Danışmanlık +yp: Hayırlı sabahlar, bir sorum olacaktı. Haşhaş ekmeği yerine başka alternatif varmı acaba?\n[11:04, 07.07.2026] Prof.Dr. Mustafa Saçar: Merhaba Serap Hanım, ekmek olaraktahin ekmeği de önereiblirim. Ama benzer yağ ve proteini 8-10 çiğ badem yiyerek de alabilirsiniz.\n[11:06, 07.07.2026] Serap Ünal Almanya Lipödem Danışmanlık +yp: Merhaba Serap Hanım, ekmek olaraktahin ekmeği de önereiblirim. Ama benzer yağ ve proteini 8-10 çiğ badem yiyerek de alabilirsiniz.\nSüper, tmm. Teşekkürler, iyi günler dilerim",
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-09T07:32:04.398Z",
+  "sonGuncelleme": "2026-07-09T07:32:53.721Z",
   "githubKaydedildi": true
 }
