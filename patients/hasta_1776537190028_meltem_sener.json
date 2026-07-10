@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/MELTEM ŞENER 20-26 NİSAN 1. HAFTA.pdf",
       "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/MELTEM ŞENER 20-26 NİSAN 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/MELTEM ŞENER 20-26 NİSAN 1. HAFTA.pdf",
-      "kayitTarihi": "2026-04-18T18:33:39.901Z",
+      "kayitTarihi": "2026-07-10T06:10:56.512Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -171,7 +171,7 @@
         "yemeklerinize ve salatalara seviyorsanız sarımsak ekleyebilirsiniz."
       ],
       "gptMesaj": "Merhaba Meltem Hanım,\n\nBen Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle sürecimize adım atıyoruz. Poliklinikte görüştüğümüzde genel hatlarını anlatmaya çalıştığım programımız boyunca sizinle adım adım ilerleyeceğimiz, sade ama bedeniniz için çok etkili olacak bir yapı oluşturduk.\n\nBiliyorsunuz, lipödem özellikle kollarda ve bacaklarda simetrik yağ birikimiyle kendini gösteren, lenfödem veya obeziteden tamamen farklı bir durum. Genetik ve hormonal temelli, kronik inflamatuar bir tablo olsa da, doğru beslenme ve yaklaşımla ilerlemesini durdurmak ve gerileme sağlamak kesinlikle mümkün. Biz de bu süreçte tam olarak bunu hedefliyoruz.\n\nMenünüzü incelediğinizde süt ve süt ürünlerinin bir süreliğine planda olmadığını fark edeceksiniz. Bunu vücuttaki inflamasyonu, yani yangıyı tetikleyen kaynakları azaltmak, gizli gıda duyarlılıklarını gözlemlemek ve bağırsak floramızı güçlendirmeye zemin hazırlamak için yapıyoruz. Merak etmeyin, üçüncü haftadan itibaren süt ürünlerini kontrollü bir şekilde yeniden menümüze dahil edeceğiz. \n\nBu süreçte en büyük destekçimiz ve temel protein kaynağımız yumurta olacak. Yumurta sadece doyurucu bir protein değil, aynı zamanda lipödem yönetiminde çok ihtiyacımız olan A, D, B12 vitaminleri, selenyum ve kolin gibi mikro besinler açısından da gerçek bir hazinedir. İlerleyen haftalarda süt ürünleri menüye döndükçe yumurta miktarını doğal olarak dengeleyeceğiz.\n\nBu hafta için hazırlanan listeniz, tamamen antiinflamatuar özelliklere sahip ve kan dolaşımınızı destekleyecek besinlerden oluşuyor. Örneğin somon füme, ceviz, badem ve kabak çekirdeği gibi kuruyemişler, içerdikleri sağlıklı yağlar, magnezyum ve çinko gibi minerallerle lenfatik sisteminizi rahatlatacak. Ispanak, pazı, semizotu ve bol yeşillikli salatalarımızla vücudunuza antioksidan ve C vitamini yüklüyoruz. Salatalarınıza ekleyeceğiniz sirke ve limon da sindiriminizi kolaylaştırıp kan şekerinizi dengelemenize yardımcı olacak. \n\nBadem unlu ekmek ve krep alternatifleriyle glutensiz, ödem tutmayan bir düzen kurduk. Ayrıca menünüze eklediğimiz toz kollajen, doku onarımını desteklemek, ödemi azaltmak ve cildin elastikiyetini artırmak adına bu dönemde bize çok yardımcı olacak. Kollajen dışında, dolaşımı desteklemek amacıyla ilerleyen günlerde ihtiyaç duyarsak farklı takviyelerden de destek alabiliriz. Üçüncü haftamızda bağırsak floramızı daha da güçlendirmek için probiyotik ve prebiyotik desteklerine de başlayacağız. Sağlıklı bir bağırsak, lipödemdeki inflamasyonu kontrol altına almanın en önemli anahtarıdır.\n\nSürecin takibi açısından sizden ricam, her iki haftada bir pazar günleri bel, kalça ve bacak çevresi gibi bölgelerden ölçüm alıp kaydetmenizdir. Bizim odak noktamız tartıdaki rakamlardan ziyade, bölgesel incelmeler ve bedeninizdeki o hafifleme hissi olacak. Bu hafiflemeyi içeriden desteklemek için günlük su tüketiminizi artırmanız çok kıymetli.\n\nBaşlangıçlar bazen alışma süreci gerektirebilir ama çok kısa süre içinde bedeninizdeki değişimleri hissetmeye başlayacaksınız. Bu süreci küçük ama etkili adımlarla, omuz omuza yöneteceğiz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum. \n\nSevgilerle.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3774,6 +3774,6 @@
   ],
   "olusturmaTarihi": "2026-04-18T18:33:10.028Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-08T07:33:49.535Z",
+  "sonGuncelleme": "2026-07-10T06:10:56.530Z",
   "githubKaydedildi": true
 }
