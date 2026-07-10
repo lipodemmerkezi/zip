@@ -2,7 +2,7 @@
   "id": 1776414065894,
   "isim": "REYHAN ÇAMKIR",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3852,6 +3852,6 @@
   ],
   "olusturmaTarihi": "2026-04-17T08:21:05.894Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-08T06:40:00.756Z",
+  "sonGuncelleme": "2026-07-10T06:10:21.361Z",
   "githubKaydedildi": true
 }
