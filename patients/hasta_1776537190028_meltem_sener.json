@@ -2,7 +2,7 @@
   "id": 1776537190028,
   "isim": "MELTEM ŞENER",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3774,6 +3774,6 @@
   ],
   "olusturmaTarihi": "2026-04-18T18:33:10.028Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-10T06:10:56.530Z",
+  "sonGuncelleme": "2026-07-10T06:11:09.123Z",
   "githubKaydedildi": true
 }
