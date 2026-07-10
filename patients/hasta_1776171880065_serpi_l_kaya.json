@@ -2,7 +2,7 @@
   "id": 1776171880065,
   "isim": "SERPİL KAYA",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3994,6 +3994,6 @@
   ],
   "olusturmaTarihi": "2026-04-14T13:04:40.065Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-08T06:35:49.785Z",
+  "sonGuncelleme": "2026-07-10T06:10:02.092Z",
   "githubKaydedildi": true
 }
