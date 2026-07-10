@@ -177,13 +177,6 @@
     "sonGuncelleme": "2026-07-09T06:13:54.858Z"
   },
   {
-    "id": 1776414065894,
-    "isim": "REYHAN ÇAMKIR",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-07-08T06:40:08.341Z"
-  },
-  {
     "id": 1782482866707,
     "isim": "SERAP ÜNAL",
     "not": "",
@@ -976,6 +969,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-11-18T17:56:01.534Z"
+  },
+  {
+    "id": 1776414065894,
+    "isim": "REYHAN ÇAMKIR",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-07-10T06:10:25.055Z"
   },
   {
     "id": 1772195725290,
