@@ -2473,7 +2473,7 @@
       "pdfYolu": "pdfs/SEZİN GÜRCAN AKYOL 20-26 TEMMUZ 10. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEZİN GÜRCAN AKYOL 20-26 TEMMUZ 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEZİN GÜRCAN AKYOL 20-26 TEMMUZ 10. HAFTA.pdf",
-      "kayitTarihi": "2026-07-14T07:17:50.512Z",
+      "kayitTarihi": "2026-07-14T07:22:09.655Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2665,7 +2665,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sezin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 10. haftaya başlıyoruz.\n\nHayatın içinde misafirler, sosyal ortamlar veya tatiller gibi yoğun dönemler hep olacak. Bu tür zamanlarda rutinlerin biraz dışına çıkmak çok doğaldır. Asıl önemli olan, bu dönemlerden sonra tekrar sürece adapte olabilmek ve ritmimize dönebilmektir. Bu yoğunlukta bile güne sirkeli su ve kahvenizle başlayıp takviyelerinizi aksatmamış olmanız, aslında ne kadar iyi bir temel alışkanlık kazandığınızı gösteriyor. Şimdi bu temelin üzerine yeniden inşa etme zamanı.\n\nBu hafta sizinle birlikte çok önemli bir geçiş yapıyoruz. Ketojenik beslenmeye bir süreliğine ara verip, artık daha esnek ama hâlâ kontrollü bir yapı olan düşük karbonhidratlı (LowCarb) beslenmeye başlıyoruz. Bu geçişin amacı, süreci uzun vadede daha sürdürülebilir ve keyifli hale getirmek. Ketojenik beslenme, özellikle inflamasyonu baskılamada çok güçlü bir araçtı. Şimdi ise vücudumuzun dengesini korumak için bu tür esnemelere ihtiyacımız var.\n\nBu hafta sizin için hazırladığımız listede bu yeni dönemin izlerini görebilirsiniz. Artık menünüzde karabuğday ekmeği, elma, karpuz gibi bazı mevsim meyveleri ve hatta tatlı patates gibi sağlıklı karbonhidrat kaynaklarına yer verdiğimizi fark edeceksiniz. Bu çeşitlilik, beslenmenizi hem daha renkli kılacak hem de sosyal yaşantınıza uyum sağlamanızı kolaylaştıracak. Örneğin somonlu roka ve avokado salatası gibi öğünler omega-3 ve sağlıklı yağlar açısından zenginken, fırında cevizli peynirli mantar dolması gibi tarifler hem lezzetli hem de besleyici alternatifler sunuyor. Kuzu güveç, kebap gibi protein ağırlıklı seçenekler B12 ve çinko alımınızı destekleyerek enerji seviyenize katkıda bulunurken, zeytinyağlı deniz börülcesi ve taze fasulye gibi yemekler de lif ve magnezyum sağlayarak sindirim sisteminizi düzenlemeye devam edecek. Kollajen takviyeniz de doku onarımı ve cilt sağlığı için önemini koruyor.\n\nMasaj konusunda belinizi zorlamayacak bir pozisyon bulmak çok önemli. Eğilmek yerine, oturduğunuz bir yerde ayaklarınızın altına bir tabure veya yükselti koyarak masajı yapmayı denemeniz, bel fıtığınızın tetiklenmesini önleyebilir. Bu şekilde hem kendinizi daha rahat hissedersiniz hem de lenf sisteminize gereken desteği sağlamış olursunuz. Unutmayın, geçen hafta başladığımız egzersizler de masajın etkisini tamamlayarak derin lenf sistemini çalıştırıyor. Belki bazı günler masaj yerine sadece egzersizlere odaklanmak size daha iyi gelebilir. Önemli olan, vücudunuza iyi gelen ve sürdürebileceğiniz bir denge kurmak.\n\nBu yeni LowCarb dönemi, hem bedeninizi hem de zihninizi rahatlatacak. En önemlisi, lipödem gibi uzun soluklu bir süreçte başarının anahtarının sürdürülebilirlik olduğunu bir kez daha göreceğiz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2777,6 +2777,6 @@
   ],
   "olusturmaTarihi": "2026-05-18T16:58:40.699Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T07:22:07.231Z",
+  "sonGuncelleme": "2026-07-14T07:22:12.309Z",
   "githubKaydedildi": true
 }
