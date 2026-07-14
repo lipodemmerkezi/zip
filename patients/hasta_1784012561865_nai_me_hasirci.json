@@ -2,7 +2,7 @@
   "id": 1784012561865,
   "isim": "NAİME HASIRCI",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -986,6 +986,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T07:02:41.865Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T07:06:24.548Z",
+  "sonGuncelleme": "2026-07-14T14:29:50.242Z",
   "githubKaydedildi": true
 }
