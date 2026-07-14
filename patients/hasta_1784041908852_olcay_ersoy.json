@@ -3,9 +3,27 @@
   "isim": "OLCAY ERSOY",
   "not": "ŞEKER HASTASI. SUYU HER MESAJDA HATIRLATACAĞIZ. LOW CARB BAŞLIYORUZ",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-07-12",
+      "bitis": "2026-07-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T15:11:48.852Z",
+  "sonGuncelleme": "2026-07-14T15:12:02.711Z",
   "githubKaydedildi": true
 }
