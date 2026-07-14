@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/MERAL GÖKCE 16-19 TEMMUZ 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÖKCE 16-19 TEMMUZ 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÖKCE 16-19 TEMMUZ 1. HAFTA.pdf",
-      "kayitTarihi": "2026-07-14T14:30:47.678Z",
+      "kayitTarihi": "2026-07-14T14:40:38.099Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -105,7 +105,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Perşembe günü itibariyle programımızda ilk haftaya başlıyoruz.\n\nAdım adım ilerleyeceğimiz, sade ama etkili bir süreç olacak bu. Lipödem, bildiğiniz gibi kronik bir iltihabi durum ve doğru beslenme yönetimiyle ilerlemesini durdurmak, hatta gerileme sağlamak mümkün. Bu haftanın temel hedefi, vücuttaki inflamasyonu tetikleyebilecek bazı kaynakları azaltarak sürece güçlü bir başlangıç yapmak.\n\nBu amaçla bu haftadan itibaren süt ve süt ürünlerini kısa bir süreliğine programdan çıkarıyoruz. Bu adım, hem olası gıda duyarlılıklarının etkisini gözlemlememize olanak tanıyacak hem de bağırsak florasını güçlendirmek için bir zemin hazırlayacak. Merak etmeyin, bu sadece geçici bir durum; 3. haftadan itibaren kontrollü bir şekilde geri dönecekler.\n\nBu dönemde protein ihtiyacını karşılamak için listenizde yumurtayı temel besin olarak görebilirsiniz. Yumurta, vücut için en iyi protein kaynaklarından biri olmasının yanı sıra A, D, B12 vitaminleri ve selenyum gibi lipödem sürecinde destekleyici mikro besinler açısından da oldukça zengindir. Listenize eklediğimiz ızgara balık seçenekleri de omega-3 yağ asitleri sayesinde iltihaplanmayı baskılamada bize yardımcı olacak.\n\nTurizm acentasındaki çalışma düzeninizi ve günübirlik gezilerinizi de dikkate aldık. Bu gezilerde yanınızda pratik ama sağlıksız seçenekler taşıma eğiliminin farkındayız. Bu durumu yönetmek için listenize özellikle kolay taşınabilir alternatifler ekledik. Tahin ekmeği, haşlanmış yumurta, çiğ badem veya kabak çekirdeği gibi seçenekler hem sizi tok tutacak hem de programımıza sadık kalmanızı sağlayacaktır. Bunları küçük kaplarda yanınıza almanız, süreci oldukça kolaylaştıracaktır.\n\nAyrıca her iki haftada bir, pazar günü ölçüm almanızı rica edeceğim. Bel, kalça, bacak çevresi gibi bölgelerin ölçümünü düzenli kaydetmeniz, değişimi daha net görebilmemiz açısından önemli. Unutmayın, bizim için öncelik tartıdaki rakam değil, mezuradaki incelme olacak.\n\nProgramın başı yeni alışkanlıklar edinme sürecidir, bu adımları birlikte atacağız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -176,6 +176,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T14:40:35.818Z",
+  "sonGuncelleme": "2026-07-14T14:40:38.112Z",
   "githubKaydedildi": true
 }
