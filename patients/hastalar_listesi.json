@@ -128,13 +128,6 @@
     "sonGuncelleme": "2026-07-09T07:24:46.508Z"
   },
   {
-    "id": 1784012561865,
-    "isim": "NAİME HASIRCI",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-07-14T07:06:27.133Z"
-  },
-  {
     "id": 1782473802017,
     "isim": "NECİBE ÇALIŞKAN ÇOBAN",
     "not": "",
@@ -878,6 +871,13 @@
     "not": "KETEN TOHUMU VE KETEN TOHUMU EKMEĞİ EKLEME",
     "arsiv": true,
     "sonGuncelleme": "2026-03-06T06:06:14.059Z"
+  },
+  {
+    "id": 1784012561865,
+    "isim": "NAİME HASIRCI",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-07-14T14:29:52.621Z"
   },
   {
     "id": 1770626667412,
