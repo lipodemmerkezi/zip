@@ -1547,7 +1547,7 @@
       "pdfYolu": "pdfs/ZÜBEYDE ÇAKMAK 20-26 TEMMUZ 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZÜBEYDE ÇAKMAK 20-26 TEMMUZ 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZÜBEYDE ÇAKMAK 20-26 TEMMUZ 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-14T07:54:16.353Z",
+      "kayitTarihi": "2026-07-14T07:55:30.165Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1732,7 +1732,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Zübeyde Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz.\n\nArtık beslenme düzeniniz ve geçen haftalarda eklediğimiz masaj gibi rutinler yavaş yavaş hayatınızın bir parçası haline gelmeye başladı. Bu harika bir temel. Bu hafta bu temelin üzerine, iyileşme sürecini hücresel düzeyde destekleyen en önemli yardımcılarımızdan, yani takviyelerden daha detaylı bahsetmek istiyorum.\n\nProgramın başında önerdiğimiz takviye listesi ilk bakışta biraz kalabalık görünebilir: Boswellia, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kolajen. Ancak her birinin lipödemli dokunun farklı bir ihtiyacına cevap veren özel bir görevi var.\n\nBoswellia serrata, dokulardaki o sessiz iltihaplanmayı yatıştırmada kilit bir rol oynar. Bu sayede lipödemin neden olduğu ağrı ve sertlik hissinin azalmasına, dokuların yumuşamasına yardımcı olur. Koenzim Q10 ise hücrelerimizin enerji santrali gibidir; vücudunuza daha fazla zindelik verirken, yağ dokusundaki çözülme sürecini de metabolik olarak destekler.\n\nKurkumin (zerdeçal özü) ve astaksantin gibi güçlü antioksidanlar, hücreleri strese karşı korur ve lenf sisteminin daha verimli çalışmasına zemin hazırlar. Özellikle astaksantin, cildin sıkılaşmasını desteklemesiyle de bizim için çok değerli. Ananastan elde edilen bromelain ise ödemin çözülmesine ve sertleşmiş dokuların daha geçirgen hale gelmesine yardımcı olur. Bu, masajın etkisini de artıran bir özelliktir. Resveratrol damar sağlığını desteklerken, kolajen de incelme sürecinde cildin elastikiyetini koruyarak toparlanmasına katkı sağlar.\n\nGördüğünüz gibi bu takviyeler birer sihirli değnek değil, ancak beslenme ve masajla birleştiğinde vücudun kendi kendini onarma mekanizmalarını harekete geçiren, süreci kolaylaştıran ve hızlandıran çok güçlü desteklerdir.\n\nBu hafta sizin için hazırladığımız listede de bu süreci besleyen harika seçenekler var. Örneğin patlıcanlı tavuk sote veya et sote gibi yemekler, hücresel onarım için gerekli olan çinko ve proteini sağlarken; cevizli kaşık salatası veya köz biber mezesi gibi seçenekler sağlıklı yağlarla hem tokluk hissinizi destekler hem de inflamasyonla mücadeleye yardımcı olur. Bol yeşillikli, sirkeli salatalarınız ise C vitamini ile kolajen üretimini ve doku onarımını desteklemeye devam ediyor.\n\nBu bilinç, süreci sadece fiziksel değil, zihinsel olarak da sahiplenmenizi sağlar. Bazen zorlandığımız anlarda, bedenimize bu kadar kapsamlı bir destek verdiğimizi bilmek, motivasyonumuzu yeniden tazeleyebilir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1832,6 +1832,6 @@
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T07:55:27.964Z",
+  "sonGuncelleme": "2026-07-14T07:55:30.181Z",
   "githubKaydedildi": true
 }
