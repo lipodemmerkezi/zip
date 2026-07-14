@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-16",
+      "bitis": "2026-07-19",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "OLCAY ERSOY 16-19 TEMMUZ 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "OLCAY ERSOY 16-19 TEMMUZ 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/OLCAY ERSOY 16-19 TEMMUZ 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/OLCAY ERSOY 16-19 TEMMUZ 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/OLCAY ERSOY 16-19 TEMMUZ 1. HAFTA.pdf",
+      "kayitTarihi": "2026-07-14T15:12:15.494Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T15:12:02.711Z",
+  "sonGuncelleme": "2026-07-14T15:12:15.495Z",
   "githubKaydedildi": true
 }
