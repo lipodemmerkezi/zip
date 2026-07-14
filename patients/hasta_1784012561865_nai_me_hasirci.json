@@ -3,9 +3,27 @@
   "isim": "NAİME HASIRCI",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-07-12",
+      "bitis": "2026-07-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-07-14T07:02:41.865Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T07:02:41.865Z",
+  "sonGuncelleme": "2026-07-14T07:03:02.308Z",
   "githubKaydedildi": true
 }
