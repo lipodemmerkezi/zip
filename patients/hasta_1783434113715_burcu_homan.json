@@ -427,24 +427,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "BURCU HOMAN 20-26 TEMMUZ 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "BURCU HOMAN 20-26 TEMMUZ 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/BURCU HOMAN 20-26 TEMMUZ 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/BURCU HOMAN 20-26 TEMMUZ 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/BURCU HOMAN 20-26 TEMMUZ 3. HAFTA.pdf",
+      "kayitTarihi": "2026-07-14T08:17:22.116Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T08:16:56.392Z",
+  "sonGuncelleme": "2026-07-14T08:17:22.117Z",
   "githubKaydedildi": true
 }
