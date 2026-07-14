@@ -2074,24 +2074,27 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "RAHİME İLEM 20-26 TEMMUZ 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "RAHİME İLEM 20-26 TEMMUZ 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/RAHİME İLEM 20-26 TEMMUZ 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RAHİME İLEM 20-26 TEMMUZ 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RAHİME İLEM 20-26 TEMMUZ 8. HAFTA.pdf",
+      "kayitTarihi": "2026-07-14T07:22:54.473Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-20T13:45:49.044Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T07:22:30.644Z",
+  "sonGuncelleme": "2026-07-14T07:22:54.476Z",
   "githubKaydedildi": true
 }
