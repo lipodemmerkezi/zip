@@ -246,24 +246,26 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-14",
+      "bitis": "2026-07-14",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NAİME HASIRCI - 2. hafta pdf.pdf",
+      "pdfOrijinalIsim": "NAİME HASIRCI - 2. hafta pdf.pdf",
+      "pdfYolu": "pdfs/NAİME HASIRCI - 2. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NAİME HASIRCI - 2. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NAİME HASIRCI - 2. hafta pdf.pdf",
+      "kayitTarihi": "2026-07-14T07:03:38.787Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-14T07:02:41.865Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T07:03:27.295Z",
+  "sonGuncelleme": "2026-07-14T07:03:38.787Z",
   "githubKaydedildi": true
 }
