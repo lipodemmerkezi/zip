@@ -345,7 +345,7 @@
       "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 20-26 TEMMUZ 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 20-26 TEMMUZ 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 20-26 TEMMUZ 2. HAFTA.pdf",
-      "kayitTarihi": "2026-07-14T08:14:10.856Z",
+      "kayitTarihi": "2026-07-14T08:15:37.802Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -525,7 +525,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "Merhaba Gamze Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda ikinci haftaya başlıyoruz.\n\nProgramın bu ikinci haftasında, geçen hafta attığımız temellerin üzerine yenilerini ekleyerek ilerleyeceğiz. Lipödem gibi kronik bir süreçte en önemli şeyin sabır ve istikrar olduğunu biliyoruz. Bu yüzden hızlı sonuçlar yerine, bedeninize kendini onarması için zaman tanıyan kalıcı alışkanlıklar oluşturmaya odaklanıyoruz.\n\nBu haftanın ana teması, vücudumuzdaki \"sessiz iltihap\" olarak da bilinen inflamasyonu kontrol altına almak. Lipödemin temelinde yatan bu durum, sadece bacaklardaki yağlanmayı değil, aynı zamanda insülin direnci ve hormonal dengesizlikler gibi başka tabloları da tetikleyebiliyor. Bu yüzden beslenme planımızla yaptığımız her müdahale, aslında bütünsel sağlığınız için atılmış bir adımdır.\n\nBu hafta sizin için hazırladığımız listede sağlıklı yağların ve kaliteli protein kaynaklarının ön planda olduğunu göreceksiniz. Özellikle güne başlarken insülin seviyesini düşük tutmak, yağ yakımını başlatmanın en etkili yollarından biridir. Listenizdeki tereyağlı yumurta çeşitleri, zeytinyağlı salatalar, ceviz ve badem gibi seçenekler tam olarak bu amaca hizmet ediyor. Sağlıklı yağlar, karbonhidratlar gibi kan şekerini aniden yükseltmez, böylece vücudunuza yağ depolamak yerine yağ yakması için sinyal gönderir.\n\nYumurta, balık, tavuk ve kırmızı et gibi protein kaynakları sadece tokluk hissini uzatmakla kalmıyor, aynı zamanda lipödem yönetiminde kritik rol oynayan mikro besinleri de sağlıyor. Örneğin, listenizdeki balık ve ceviz omega-3 yağ asitleri açısından zengindir ve bu da inflamasyonun azalmasına doğrudan yardımcı olur. Yumurta ve et ürünleri ise selenyum ve B12 vitamini gibi onarım süreçlerinde görev alan önemli bileşenleri içerir. Yeşil yapraklı sebzeler, semizotu ve çeşitli salatalar ise magnezyum gibi minerallerle dolu. Magnezyum, hem kas fonksiyonları hem de vücudun stres yanıtını yönetmek için gereklidir.\n\nŞu anki beslenme düzeninizle vücudunuza adeta yeni bir dil öğretiyoruz; enerji için şekere değil, yağlara yönelmesini sağlıyoruz. Bu adaptasyon süreci, lipödemle mücadelede en güçlü silahlarımızdan biri olacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -665,6 +665,6 @@
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T08:15:36.063Z",
+  "sonGuncelleme": "2026-07-14T08:15:39.490Z",
   "githubKaydedildi": true
 }
