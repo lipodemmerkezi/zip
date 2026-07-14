@@ -1699,7 +1699,7 @@
       "pdfYolu": "pdfs/FATMANA KUYBEN 20-26 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FATMANA KUYBEN 20-26 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FATMANA KUYBEN 20-26 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-14T07:58:42.652Z",
+      "kayitTarihi": "2026-07-14T08:00:42.108Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1871,7 +1871,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Fatmana Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz.\n\nBu hafta sizinle paylaştığınız geri bildirimler doğrultusunda programda bazı düzenlemeler yaptık. Özellikle iki öğün düzeninin bazen zorlayıcı olabildiğini ve açlık hissinin motivasyonu etkileyebileceğini anlıyorum. Bu çok doğal bir durum. Bu yüzden bu haftaki listenize, tokluk hissinizi desteklemek ve süreci daha keyifli hale getirmek amacıyla bakla unu ekmeğini dahil ettik. Ketojenik tost gibi alternatiflerle hem özlediğiniz lezzetlere daha yakın hem de doyurucu seçenekler oluşturduk. Unutmayın, bu süreçte amacımız sürdürülebilir bir denge kurmak; bedeninizin sinyallerine kulak vererek ilerlemek en doğrusu.\n\nBeslenme düzeniniz artık büyük ölçüde oturduğu için bu haftadan itibaren programın başında önerdiğimiz takviyelerin neden bu kadar önemli olduğunu biraz daha yakından konuşalım istiyorum. Bu takviyelerin her biri, lipödemli dokunun farklı bir ihtiyacını hedef alıyor.\n\nBoswellia serrata, vücuttaki sessiz inflamasyonu baskılayarak dokulardaki ağrı ve sertliğin azalmasına yardımcı olur. Koenzim Q10 ise hücrelerimizin enerji santrallerini destekleyerek metabolizmayı canlandırır. Kurkumin (zerdeçal ekstresi) ve astaksantin gibi güçlü antioksidanlar, hücreleri korur ve ödemin hafiflemesine destek olur. Ananastan elde edilen bromelain, özellikle sertleşmiş dokuların yumuşamasına katkı sağlarken, üzümden gelen resveratrol damar sağlığını destekler. Kollajen ise cildin elastikiyetini artırarak incelme sürecinde dokuların toparlanmasına yardımcı olur. Bu takviyeler, beslenme ve masajla bir araya geldiğinde, vücudu içeriden destekleyerek iyileşme sürecini daha verimli hale getirir.\n\nBu haftaki beslenme listenizde de bu süreci destekleyecek birçok değerli besin bulunuyor. Örneğin, listenize eklediğimiz bakla unu ekmeği ile hazırlayacağınız ketojenik tost veya kahvaltılarınızdaki yumurta ve peynir gibi protein kaynakları, güne tok başlamanızı ve kas kütlenizi korumanızı sağlayacak. Yumurta aynı zamanda tiroid sağlığınız için önemli olan selenyum ve D vitamini açısından da zengindir.\n\nMantar soslu köfte, kıymalı ıspanak yemeği ve ızgara balık gibi ana öğünleriniz, hem doyurucu hem de çinko ve B12 vitamini gibi sinir sistemi ve hücresel onarım için gerekli mikro besinleri içerir. Özellikle ıspanak ve semizotu gibi yeşil yapraklı sebzeler, magnezyum açısından zengindir ve kas fonksiyonlarını destekler.\n\nCeviz, çiğ badem, kabak çekirdeği ve zeytinyağı gibi sağlıklı yağlar, sadece tokluk hissini uzatmakla kalmaz, aynı zamanda D vitamini gibi yağda çözünen vitaminlerin emilimini artırır. Listenizdeki renkli salatalar ve sebzeler ise C vitamini deposudur; bu vitamin, kullandığınız kollajen takviyesinin vücutta daha etkili çalışmasını sağlar. Yoğurtlu kabak mezesi gibi fermente ürünler de bağırsak sağlığınızı destekleyerek tüm bu besinlerin emilimini kolaylaştırır.\n\nGördüğünüz gibi, listeye eklediğimiz ekmek alternatifi ve dondurma gibi küçük dokunuşlarla süreci sizin için daha yönetilebilir kılmayı hedefledik. Açlık hissettiğinizde listenizdeki çiğ badem, kabak çekirdeği gibi sağlıklı atıştırmalıkları veya salatalık gibi sebzeleri değerlendirebilirsiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1976,6 +1976,6 @@
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T08:00:39.915Z",
+  "sonGuncelleme": "2026-07-14T08:00:45.008Z",
   "githubKaydedildi": true
 }
