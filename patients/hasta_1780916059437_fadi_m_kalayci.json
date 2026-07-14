@@ -1624,7 +1624,7 @@
       "pdfYolu": "pdfs/FADİM KALAYCI 20-26 TEMMUZ 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 20-26 TEMMUZ 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 20-26 TEMMUZ 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-14T08:09:40.059Z",
+      "kayitTarihi": "2026-07-14T08:12:06.328Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1796,7 +1796,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Fadim Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda yedinci haftaya başlıyoruz.\n\nProgramla olan uyumunuz sayesinde beslenme düzeniniz büyük ölçüde oturdu ve vücudunuz bu yeni ritme adapte olmaya başladı. Bu harika bir temel. Şimdi bu temelin üzerine, iyileşme sürecini hücresel düzeyde destekleyecek çok önemli bir katman daha ekleyerek ilerleyeceğiz. Bu hafta sizinle programın başında önerdiğimiz takviyelerin lipödem tedavisindeki rollerini ve neden bu kadar önemli olduklarını konuşmak istiyorum.\n\nBaşlangıçta bu takviye listesi biraz kalabalık görünebilir: Boswellia serrata, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kollajen. Ancak her birinin lipödemli dokunun farklı bir ihtiyacını karşılayan özel bir görevi var.\n\nBoswellia serrata, vücuttaki sessiz inflamasyonu baskılamada oldukça etkilidir. Lipödemli dokularda ağrıya ve sertliğe neden olan mikroskobik iltihaplanmayı yatıştırarak dokuların yumuşamasına ve ödemin daha kolay atılmasına yardımcı olur.\n\nKoenzim Q10, hücrelerimizin enerji santralleri olan mitokondriler için bir yakıt gibidir. Bu destekle hem kendinizi daha dinç hissedersiniz hem de vücudun yağ dokusunu çözme süreci daha verimli hale gelir.\n\nKurkumin, yani zerdeçalın özü, güçlü bir antioksidandır. Hücreleri korur, lipödemli dokudaki oksidatif stresi ve şişkinliği azaltmaya destek olur.\n\nAstaksantin, doğadaki en güçlü antioksidanlardan biridir. Özellikle cilt dokusunu destekleyerek sıkılaşmayı teşvik eder ve lenf sisteminin işleyişine olumlu katkıda bulunur.\n\nBromelain, ananastan elde edilen ve ödemin çözülmesine yardımcı olan doğal bir enzimdir. Sertleşmiş dokuların daha geçirgen hale gelmesini sağlayarak masaj ve beslenmenin etkisini artırır.\n\nResveratrol ise damar sağlığını desteklerken bağışıklık sistemini düzenler. Sağlıklı bir damar yapısı ve düşük inflamasyon, lipödemli dokunun en temel ihtiyaçlarındandır.\n\nSon olarak kollajen, cildin elastikiyetini artırarak incelme sürecinde dokuların toparlanmasına ve sarkmaların önlenmesine yardımcı olur.\n\nBu takviyeler birer mucize değil, ancak doğru beslenme ve yaşam tarzı değişiklikleriyle birleştiklerinde süreci hızlandıran ve kolaylaştıran çok güçlü desteklerdir.\n\nBu hafta sizin için hazırladığımız listede de bu süreci destekleyecek pek çok değerli besin bulunuyor. Örneğin, listenizdeki ızgara balık, hem omega-3 yağ asitleri hem de selenyum açısından zengindir. Bu, takviyelerle hedeflediğimiz anti-inflamatuar etkiyi yiyecekler yoluyla da güçlendirir. Yumurta ve peynir çeşitleri D vitamini sağlarken, bol yeşillikli salatalar C vitamini ve magnezyum kaynağıdır. Özellikle C vitamini, aldığınız kollajen takviyesinin vücutta daha etkili kullanılmasını sağlar. Kıymalı ıspanak yemeği, tavuk pirzola gibi protein kaynakları kas dokunuzu korurken, ceviz ve kabak çekirdeği gibi sağlıklı yağlar hücre zarlarının sağlığını destekler. Yoğurtlu mezeler ve ev yapımı turşu ile de bağırsak sağlığınıza olan yatırımımız devam ediyor. Gördüğünüz gibi her bir öğün, büyük resmin önemli bir parçası.\n\nBu hafta takviyelerinizi kullanırken onların vücudunuzdaki bu çok yönlü etkilerini düşünerek daha bilinçli bir adım atmanızı istiyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1901,6 +1901,6 @@
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T08:12:04.152Z",
+  "sonGuncelleme": "2026-07-14T08:12:06.343Z",
   "githubKaydedildi": true
 }
