@@ -1612,10 +1612,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhaba Fadi̇m Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz.\nşeklinde başla mesaja. aynen.\nBu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\nzsaman zaman bize sorduğu sorularla süreci yakında takip ettiğini farkettiğimizi ifade edelim. bu şekidke dha aiy sonuç alacğaını vs anlatalım. lenf drenaj masajına yeterli zaman ayıraibliyor mu vs sorlaım"
+    },
+    {
+      "haftaNo": 7,
+      "baslangic": "2026-07-19",
+      "bitis": "2026-07-25",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-09T06:49:24.150Z",
+  "sonGuncelleme": "2026-07-14T08:08:57.746Z",
   "githubKaydedildi": true
 }
