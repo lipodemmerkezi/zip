@@ -842,7 +842,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Serap Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda dördüncü haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizin için hazırladığımız listede, metabolizmanızı desteklemeye ve doygunluk hissini ön planda tutmaya odaklandık. Lipödem sürecinde yapılan en büyük hatalardan biri, başarıya giden yolun \"az yemekten\" geçtiğine inanmaktır. Oysa sadece porsiyonları küçültmek, vücudun açlık hormonu olan ghrelin'i devreye sokar ve bu durum genellikle ani karbonhidrat krizlerine yol açar. Bizim amacımız ise bu döngüyü kırmak. Vücudunuza yeterli ve doğru enerjiyi vererek, onun kendini güvende hissetmesini ve yağ yakım moduna geçmesini sağlamak istiyoruz.\n\nÖlçümlerinizdeki ilerleme, vücudunuzun bu besleyici ve doyurucu yaklaşıma ne kadar iyi yanıt verdiğini gösteriyor. Bu nedenle, listenizdeki somon fleto, çıtır tavuk, tavuk güveç gibi protein açısından zengin öğünleri atlamamanız çok önemli. Bu tür hayvansal proteinler, kas dokusunu korurken, içerdikleri B12 vitamini ve çinko gibi mikro besinlerle de enerji üretiminize ve doku onarımına destek olur. Özellikle somon, içerdiği zengin omega-3 yağ asitleri ve D vitamini ile lipödemdeki iltihabi süreçleri baskılamada kilit bir rol oynar.\n\nGeçen hafta kontrollü bir şekilde eklediğimiz süt ürünleri bu hafta da tulum peyniri ve ev yoğurdu gibi seçeneklerle listenizde yer alıyor. Bu fermente gıdalar, bağırsak floranızı zenginleştirerek genel bağışıklığınızı ve sindirim sisteminizi güçlendirmeye devam edecek.\n\nListenize eklediğimiz avokadolu omlet ve çiğ badem gibi seçenekler, sağlıklı yağ kaynaklarıdır. Bu yağlar, hem uzun süreli tokluk sağlar hem de hormon dengenizi destekler. Ayrıca avokado, potasyum ve magnezyum açısından zengin bir kaynak olduğu için vücuttaki sıvı dengesinin sağlanmasına ve ödemin azalmasına yardımcı olur. Dondurma gibi keyifli bir seçeneği de listeye dahil ettik; bu, sürecin kısıtlayıcı değil, sürdürülebilir ve hayatın içinde bir yapıya sahip olduğunu hatırlatmak için güzel bir detay.\n\nElinizdeki tarif kartlarının makro değerlerini kullanarak zamanla kendi değişimlerinizi yapmaya başlayabilirsiniz. Özellikle yağ ve protein değerleri benzer olan tarifleri birbiriyle değiştirmek, size esneklik kazandırarak süreci daha keyifli hale getirecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -937,11 +937,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "ölçümleri iyi.\nMerhaba Serap Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:19:33.209Z",
+  "sonGuncelleme": "2026-07-15T06:21:13.632Z",
   "githubKaydedildi": true
 }
