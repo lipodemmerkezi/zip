@@ -1407,24 +1407,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERMİN DEVECİ 20-26 TEMMUZ 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERMİN DEVECİ 20-26 TEMMUZ 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERMİN DEVECİ 20-26 TEMMUZ 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERMİN DEVECİ 20-26 TEMMUZ 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERMİN DEVECİ 20-26 TEMMUZ 6. HAFTA.pdf",
+      "kayitTarihi": "2026-07-15T05:55:38.156Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-12T07:26:13.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T05:55:04.680Z",
+  "sonGuncelleme": "2026-07-15T05:55:38.158Z",
   "githubKaydedildi": true
 }
