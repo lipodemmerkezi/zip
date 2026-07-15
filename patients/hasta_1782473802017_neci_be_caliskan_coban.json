@@ -746,7 +746,7 @@
       "pdfYolu": "pdfs/NECİBE ÇALIŞKAN ÇOBAN 20-26 TEMMUZ 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 20-26 TEMMUZ 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 20-26 TEMMUZ 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-15T06:21:54.233Z",
+      "kayitTarihi": "2026-07-15T06:23:46.448Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -901,7 +901,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Necibe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda dördüncü haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle metabolizmanın çalışma prensibi ve yemek miktarı arasındaki hassas denge üzerine konuşmak istiyorum. Lipödem veya kilo yönetimi sürecinde yapılan en büyük hatalardan biri, başarının anahtarının \"az yemek\" olduğu yanılgısıdır. Sadece porsiyonları küçültmek, vücudu sürekli bir açlık moduna sokar. Bu durum, açlık hormonu olan ghrelin seviyelerini artırarak özellikle karbonhidrat ve tatlı krizlerini tetikler. Sonuç genellikle yorgunluk, isteksizlik ve ardından gelen kontrolsüz yeme atakları olur. Çok az yemek, dışarıdan kontrollü gibi görünse de içeride metabolizmayı yavaşlatır; vücut, enerji tasarrufuna geçerek kendini korumaya alır.\n\nBiz bu döngüyü kırmak ve metabolizmanızı desteklemek istiyoruz. İşte bu nedenle bu hafta sizin için hazırladığımız listede, hem doyurucu hem de besleyici değeri yüksek öğünler göreceksiniz. Avokadolu omlet, tavuk güveç, köfte ve somonlu salata gibi seçenekler, yeterli proteini ve sağlıklı yağları bir arada sunarak sizi uzun süre tok tutmayı ve metabolizmanızı aktif kılmayı hedefler. Vücudunuza \"kıtlık yok, güvendesin\" mesajı vererek yağ yakımını teşvik ediyoruz.\n\nListenizdeki somon, güçlü bir anti-inflamatuar olan omega-3 ve D vitamini açısından zenginken; avokado, zeytinyağı ve kabak çekirdeği gibi sağlıklı yağ kaynakları hem hücre sağlığını destekler hem de magnezyum gibi sinir sistemini rahatlatan önemli bir minerali sağlar. Yeşillikler ise C vitamini ile kolajen üretimini destekleyerek doku onarımına yardımcı olur. Geçen hafta programımıza yeniden dahil ettiğimiz ev yoğurdu ve tulum peyniri gibi fermente süt ürünleri de bu hafta listenizde yer almaya devam ederek bağırsak sağlığınızı destekliyor.\n\nGeçen haftaki ölçüm sonuçlarınız, bedensel incelmenin doğru yolda ilerlediğini gösteriyor. Bu, sadece tartıdaki bir rakamdan ziyade, vücudunuzun bu beslenme düzenine ne kadar olumlu yanıt verdiğinin bir kanıtı.\n\nArtık elinizdeki tarif kartlarını kullanarak değişimler yapmaya da başlayabilirsiniz. Kartların sağ tarafındaki makro değerlerine bakarak, özellikle yağ ve protein oranları benzer olan tarifleri birbiriyle değiştirmek, sürece esneklik katacak ve sürdürülebilirliği artıracaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -994,6 +994,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T11:36:42.017Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:23:44.725Z",
+  "sonGuncelleme": "2026-07-15T06:23:46.462Z",
   "githubKaydedildi": true
 }
