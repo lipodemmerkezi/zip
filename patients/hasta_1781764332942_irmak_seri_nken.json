@@ -1044,24 +1044,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "IRMAK SERİNKEN 20-26 TEMMUZ 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "IRMAK SERİNKEN 20-26 TEMMUZ 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/IRMAK SERİNKEN 20-26 TEMMUZ 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/IRMAK SERİNKEN 20-26 TEMMUZ 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/IRMAK SERİNKEN 20-26 TEMMUZ 10. HAFTA.pdf",
+      "kayitTarihi": "2026-07-15T05:49:35.664Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-18T06:32:12.942Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T05:49:21.163Z",
+  "sonGuncelleme": "2026-07-15T05:49:35.666Z",
   "githubKaydedildi": true
 }
