@@ -717,24 +717,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NURCEN YENİYAYLA 20-26 TEMMUZ 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "NURCEN YENİYAYLA 20-26 TEMMUZ 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/NURCEN YENİYAYLA 20-26 TEMMUZ 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURCEN YENİYAYLA 20-26 TEMMUZ 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURCEN YENİYAYLA 20-26 TEMMUZ 4. HAFTA.pdf",
+      "kayitTarihi": "2026-07-15T06:24:31.393Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:24:09.402Z",
+  "sonGuncelleme": "2026-07-15T06:24:31.394Z",
   "githubKaydedildi": true
 }
