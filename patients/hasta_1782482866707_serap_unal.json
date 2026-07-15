@@ -656,24 +656,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERAP ÜNAL 20-26 TEMMUZ 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERAP ÜNAL 20-26 TEMMUZ 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERAP ÜNAL 20-26 TEMMUZ 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERAP ÜNAL 20-26 TEMMUZ 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERAP ÜNAL 20-26 TEMMUZ 4. HAFTA.pdf",
+      "kayitTarihi": "2026-07-15T06:19:23.560Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:18:53.850Z",
+  "sonGuncelleme": "2026-07-15T06:19:23.562Z",
   "githubKaydedildi": true
 }
