@@ -1126,7 +1126,7 @@
       "pdfYolu": "pdfs/AYSEL BOZKURT 20-26 TEMMUZ 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYSEL BOZKURT 20-26 TEMMUZ 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYSEL BOZKURT 20-26 TEMMUZ 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-15T06:15:26.792Z",
+      "kayitTarihi": "2026-07-15T06:16:40.010Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bonfile steak",
@@ -1310,7 +1310,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Aysel Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta programımıza, iyileşme sürecinizi bir üst seviyeye taşıyacak çok değerli bir uygulama ekliyoruz: manuel lenf drenaj masajı. Bu, tamamen kendi kendinize, sadece ellerinizi kullanarak uygulayabileceğiniz, herhangi bir alete ihtiyaç duymayacağınız bir yöntem. Size bu masajın hem eğitim hem de uygulama videolarını ve 8 haftalık özel bir masaj takvimini ulaştıracağız. Bu takvimde hangi günlerde, ne sıklıkla masaj yapacağınız adım adım belirtiliyor.\n\nMasajı programın tam da bu aşamasına dahil etmemizin çok önemli bir mantığı var. Geçtiğimiz dört haftada uyguladığınız beslenme protokolü sayesinde, vücudunuz özellikle lipödemli dokularda biriken iltihabi sıvıyı atmaya başladı. Bu dönemde belki dokularınızda bir yumuşama hissetmiş olabilirsiniz; bu, aslında iltihabın azaldığının ve yağ hücrelerinin içindeki toksinlerin, kolesterol parçacıklarının ve sıvı yükünün serbest kalmaya başladığının bir işaretidir. Yıllardır baskı altında olan incecik lenf kanalları bu sayede rahatlar ve adeta nefes almaya başlar. İşte masaja tam da bu dönemde başlamak, lenf sistemini en doğru zamanda harekete geçirerek bu atılım sürecini güçlü bir şekilde desteklemek anlamına geliyor.\n\nBu süreçte tartıda bir yavaşlama veya duraklama gözlemlemeniz oldukça normaldir. İlk haftalardaki hızlı sıvı kaybından sonra vücut artık daha derin bir temizlik sürecine girer. Yağ hücreleri küçülürken içlerinde birikmiş olan toksinleri dolaşıma bırakır. Vücudun bu toksinleri karaciğer ve böbrekler yoluyla temizlemesi zaman alır ve bu durum geçici bir su tutulumuna neden olabilir. İşte bu yeni masaj rutini, tam da bu noktada devreye girerek bu toksinlerin ve ödemin vücuttan atılımını hızlandıracak en önemli destekçimiz olacak.\n\nBu haftaki beslenme düzeniniz de bu süreci destekleyecek şekilde yapılandırıldı. Listenizde yer alan ızgara ya da fırında balık gibi seçenekler, içerdikleri zengin omega-3 yağ asitleri ve selenyum ile iltihaplanmayı azaltırken, lenfatik dolaşımınızı da destekler. Bonfile, köfte, tavuk gibi kaliteli protein kaynakları doku onarımını sağlarken, yumurta D vitamini ve B12 açısından önemli bir rol oynamaya devam ediyor.\n\nSağlıklı yağ alımınız fındık, ceviz, kabak çekirdeği ve zeytinyağı ile dengelenmiş durumda. Özellikle kabak çekirdeği, içerdiği magnezyum ve çinko ile hem hormonal dengeye katkı sağlar hem de ödemin atılmasına yardımcı olur. Menünüzdeki roka salatası, semizotu salatası, göçmen salatası gibi bol yeşillikli ve çeşitli tarifler, antioksidan kapasitenizi artırarak vücudun bu temizlenme sürecinde ihtiyaç duyduğu C vitamini ve diğer mikro besinleri almanızı sağlar. Ara öğündeki maden suyu, kaya tuzu ve limon kombinasyonu ise mineral dengenizi koruyarak bu süreci kolaylaştırır.\n\nMasaj videolarını izlediğinizde uygulamanın ne kadar nazik ve yavaş yapıldığını göreceksiniz. Hatta bu kadar kolay bir uygulamanın nasıl bu kadar etkili olabileceğini sorgulayabilirsiniz. Ancak tecrübelerime dayanarak söyleyebilirim ki, masajı düzenli ve doğru şekilde uygulayan danışanlarımızda iyileşme süreci belirgin şekilde daha hızlı ve etkili oluyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1423,6 +1423,6 @@
   ],
   "olusturmaTarihi": "2026-06-20T12:51:48.572Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:16:38.072Z",
+  "sonGuncelleme": "2026-07-15T06:16:40.028Z",
   "githubKaydedildi": true
 }
