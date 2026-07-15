@@ -1004,10 +1004,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhaba Defne Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir. sürecin nasıl gittiğini vs soralım. kıymalı sebze yemekleri olduğunda hem proteini hem sebze yemeği kısımlarını ayrı pişirebileceğini vs önerelim. ayrıca tarif karlarının makrolarına bakarak yemekler araısnda zaman zaman de özellikle protien ve yağ makrolarına bezner olan diğe ryemek kartlarıyla dğeişinm yapabileckelerini\nu sayde sürdürülebilirliğin daha kolay olabilecğeini anlatalım."
+    },
+    {
+      "haftaNo": 5,
+      "baslangic": "2026-07-19",
+      "bitis": "2026-07-25",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-18T06:27:42.620Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-09T06:56:58.948Z",
+  "sonGuncelleme": "2026-07-15T05:45:40.349Z",
   "githubKaydedildi": true
 }
