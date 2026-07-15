@@ -898,24 +898,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEVİNÇ AĞCA MERAL 20-26 TEMMUZ 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEVİNÇ AĞCA MERAL 20-26 TEMMUZ 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEVİNÇ AĞCA MERAL 20-26 TEMMUZ 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVİNÇ AĞCA MERAL 20-26 TEMMUZ 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVİNÇ AĞCA MERAL 20-26 TEMMUZ 5. HAFTA.pdf",
+      "kayitTarihi": "2026-07-15T06:17:14.457Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-23T14:48:46.871Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:16:58.534Z",
+  "sonGuncelleme": "2026-07-15T06:17:14.459Z",
   "githubKaydedildi": true
 }
