@@ -1121,7 +1121,7 @@
       "pdfYolu": "pdfs/SEVGİ DOĞAN 20-26 TEMMUZ 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVGİ DOĞAN 20-26 TEMMUZ 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVGİ DOĞAN 20-26 TEMMUZ 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-15T06:04:12.244Z",
+      "kayitTarihi": "2026-07-15T06:07:09.500Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unlu poğaça (3 adet poğaça için)",
@@ -1299,7 +1299,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "Merhaba Sevgi Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta, beslenme düzenimize çok güçlü bir fiziksel destek ekleyerek süreci farklı bir boyuta taşıyoruz: kendi kendinize uygulayabileceğiniz manuel lenf drenaj masajı. Bu masaj için herhangi bir alete ihtiyacınız olmayacak, sadece ellerinizi kullanacaksınız. Size bu mesajla birlikte hem eğitim ve uygulama videolarını hem de 8 haftalık bir masaj takvimini ulaştıracağız. Bu takvimde hangi günlerde, ne sıklıkla masaj yapacağınız adım adım belirtiliyor.\n\nBeslenme programının ilk dört haftasında vücudunuz, özellikle lipödemli dokularda biriken iltihabi sıvı yükünü atmaya başladı. Bu dönemde yağ dokusunda hissettiğiniz yumuşama, aslında tam da bu iyileşmenin bir işaretidir. Yağ hücreleri içlerindeki toksinleri ve sıvı yükünü serbest bırakırken, baskı altında kalmış olan lenf kanalları da rahatlamaya başlar. İşte tam da bu noktada masaja başlamak, lenf sistemini en doğru zamanda harekete geçirerek bu temizlik sürecini hızlandıracaktır.\n\nBu dönemde tartıda bir yavaşlama veya duraksama gözlemleyebilirsiniz. Bu beklenen ve hatta olumlu bir işarettir. Yağ dokusu erimeye başladığında, içinde yıllardır depolanan toksinleri, kolesterol parçacıklarını ve iltihabi sıvıları serbest bırakır. Vücut bu maddeleri temizlemeye çalışırken geçici bir su tutulumu yaşayabilir. Bu, sürecin bir parçasıdır ve asıl incelmenin devam ettiğinin bir göstergesidir. Bu derinlemesine değişimi en iyi görebileceğimiz yerlerden biri de mezura ölçümleridir. Bu hafta sonu bel, kalça ve bacak çevresi ölçümlerinizi yenileyip bizimle paylaşmanızı rica ediyorum.\n\nBu hafta sizin için hazırladığımız listede, vücudun bu temizlik sürecini destekleyecek besinlere yer verdik. Izgara balık, içerdiği omega-3 ile bu iltihabi süreci yatıştırırken, selenyum ve D vitamini ile de bağışıklık sisteminizi destekler. Kuzu güveç, tavuklu hünkar beğendi gibi tarifler, doyurucu protein kaynakları olarak hem kas kütlenizi korur hem de demir ve çinko gibi minerallerle doku onarımına yardımcı olur. Közlenmiş patlıcan ve biber salataları gibi seçenekler, antioksidan kapasitesi yüksek sebzelerle menünüzü zenginleştiriyor.\n\nKereviz ya da kabak çökertme kebabı gibi tarifler, sebze alımınızı artırırken üzerine ekleyeceğiniz ev yoğurdu ile bağırsak sağlığınızı desteklemeye devam ediyor. Lor ekmeği, bakla unlu poğaça gibi seçenekler insülin dengenizi korumanıza yardımcı olurken, fındık ve ceviz gibi sağlıklı yağlar da magnezyum ve E vitamini sağlayarak enerji metabolizmanıza katkıda bulunur.\n\nBu hafta beslenme ve masaj birbiriyle tam bir uyum içinde çalışacak. Beslenme ile içeriden başlattığımız temizliği, masaj ile dışarıdan destekleyerek çok daha etkili sonuçlar almayı hedefliyoruz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1406,6 +1406,6 @@
   ],
   "olusturmaTarihi": "2026-06-19T07:38:33.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:07:07.787Z",
+  "sonGuncelleme": "2026-07-15T06:07:11.758Z",
   "githubKaydedildi": true
 }
