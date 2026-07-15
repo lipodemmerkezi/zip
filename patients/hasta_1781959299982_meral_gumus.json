@@ -1109,24 +1109,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MERAL GÜMÜŞ 20-26 TEMMUZ 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "MERAL GÜMÜŞ  20-26 TEMMUZ 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/MERAL GÜMÜŞ 20-26 TEMMUZ 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÜMÜŞ 20-26 TEMMUZ 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÜMÜŞ 20-26 TEMMUZ 5. HAFTA.pdf",
+      "kayitTarihi": "2026-07-15T06:09:56.904Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-20T12:41:39.982Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:07:40.454Z",
+  "sonGuncelleme": "2026-07-15T06:09:56.905Z",
   "githubKaydedildi": true
 }
