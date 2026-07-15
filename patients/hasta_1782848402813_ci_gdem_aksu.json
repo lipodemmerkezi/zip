@@ -678,7 +678,7 @@
       "pdfYolu": "pdfs/ÇİĞDEM AKSU 20-26 TEMMUZ 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÇİĞDEM AKSU 20-26 TEMMUZ 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÇİĞDEM AKSU 20-26 TEMMUZ 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-15T06:27:52.547Z",
+      "kayitTarihi": "2026-07-15T06:29:42.241Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -833,7 +833,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Çiğdem Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda dördüncü haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle metabolik hız ve yemek miktarının öneminden bahsetmek istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, “az yeme” fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Az yemeye çalışıp açlığı bastırmaya uğraştığımızda, günün sonunda hem yorgunluk hem de isteksizlik oluşur. Bazen de ani bir atakla elimiz ilk fırsatta karbonhidratlara ya da tatlılara gider. İşte bu durumun arkasında açlık hormonu olan ghrelin yatar. Uzun süreli açlık durumunda devreye girer ve beyne güçlü bir şekilde “yemek ye” sinyali gönderir.\n\nİşte bu nedenle biz bu süreçte kaloriyi kısıtlamaktan ziyade, insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya çalışıyoruz. Bu yaklaşımımızı, bu hafta sizin için hazırladığımız listede de net bir şekilde görebilirsiniz. Çıtır tavuk, köfte, patlıcan kebabı ve tavuk güveç gibi hayvansal protein kaynakları, hem sizi uzun süre tok tutar hem de kas dokunuzu korur. Bu besinler aynı zamanda enerji metabolizması için kritik olan B vitaminleri ve çinko açısından da zengindir.\n\nListenizde yer alan somonlu roka ve avokado salatası gibi öğünler, bu sistemin en güzel örneklerinden. Somon, vücuttaki iltihaplanmayı azaltan omega-3 yağ asitleri ve D vitamini sağlarken; avokado, sağlıklı yağlar ve magnezyum içeriğiyle enerji seviyenizi destekler. Yumurtalı ıspanak kavurma da hem kaliteli protein hem de demir ve magnezyum gibi mineralleri bir arada sunar. Gördüğünüz gibi amacımız az yemek değil, doğru ve besleyici yemek. Çünkü çok az yemek, dışarıdan kontrollü gibi görünse de içeride metabolizmayı yavaşlatır. Vücut enerji tasarrufuna geçer, bu da motivasyon kaybına yol açabilir. Biz bu döngüyü kırmak istiyoruz.\n\nGeçen hafta bağırsak sağlığınızı desteklemek amacıyla yeniden başladığımız ev yoğurdu ve tulum peyniri gibi fermente süt ürünleri de bu hafta listenizde yer alarak bu dengeyi korumanıza yardımcı olacak.\n\nZamanla listenizdeki yemeklerin değişimini de kendiniz yapabilmeye başlayacaksınız. Elinizde biriken tarif kartlarının sağ kısmındaki makro değerlerine bakarak, özellikle yağ ve protein makroları benzer olan diğer tarif kartlarıyla değişim yapabilirsiniz. Bu sayede beslenme açısından daha esnek olabilirsiniz ve bu durum sürecin sürdürülebilirliğini kolaylaştıracaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -926,6 +926,6 @@
   ],
   "olusturmaTarihi": "2026-06-30T19:40:02.813Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:29:40.440Z",
+  "sonGuncelleme": "2026-07-15T06:29:42.253Z",
   "githubKaydedildi": true
 }
