@@ -1589,7 +1589,7 @@
       "pdfYolu": "pdfs/ŞERİFE ÇARAY 20-26 TEMMUZ 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERİFE ÇARAY 20-26 TEMMUZ 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERİFE ÇARAY 20-26 TEMMUZ 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-15T05:58:33.728Z",
+      "kayitTarihi": "2026-07-15T06:00:09.415Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -1751,7 +1751,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Şerife Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz.\n\nÖncelikle, geçen haftalarda geçirdiğiniz bel fıtığı ameliyatı sonrası toparlanma sürecinizin iyi gittiğini umuyorum. Bu dönemde kendinizi fazla yormadan, dinlenerek ilerlemeniz çok önemli. Geçen hafta başladığımız manuel lenf drenaj masajlarını da zorlanmadan, oturduğunuz yerden uygulayabilirsiniz. Unutmayın, bu masajın en önemli özelliği nazik ve yavaş olmasıdır.\n\nYedinci haftaya girerken artık beslenme düzeniniz büyük ölçüde oturdu, vücudunuz bu ritme uyum sağlamaya başladı. Bu hafta, programın başından beri kullandığınız takviyelerin neden bu kadar önemli olduğunu ve lipödemli doku üzerinde nasıl çalıştıklarını biraz daha detaylı konuşalım istiyorum. Her birinin lipödemli dokuda ayrı bir görevi var.\n\nBoswellia serrata, vücutta sessizce süren inflamasyonu baskılamada çok etkilidir. Özellikle lipödemli dokularda ağrıya ve sertliğe yol açan mikroskobik iltihap süreçlerinin sakinleşmesine yardımcı olur. Koenzim Q10 ise hücrelerimizin enerji santrallerinin yakıtıdır. Bu takviyeyle vücut daha dinç hissederken, yağ dokusundaki çözülme süreci daha verimli ilerler. Kurkumin (zerdeçal ekstresi) ve astaksantin gibi güçlü antioksidanlar, hücreleri korur ve lipödemli dokudaki şişkinliğin hafiflemesine destek olur. Ananasın özünden gelen bromelain ödemin çözülmesine yardımcı olurken, üzüm kabuğunda bulunan resveratrol damar sağlığını destekler. Kollajen ise cildin elastikiyetini artırarak incelen bölgelerde sarkmaların önüne geçebilmek için önemli bir destektir.\n\nBu takviyelerin her biri, lipödemli dokunun farklı bir ihtiyacını hedefler. Amaç, vücudu içeriden destekleyerek süreci hem hızlandırmak hem de kalıcı hâle getirmektir. Unutmayın, bu takviyeler tek başına bir mucize değil; ancak doğru beslenme, masaj ve hareketle birleştiğinde gerçekten fark yaratıyorlar.\n\nBu hafta sizin için hazırladığımız listede, ameliyat sonrası toparlanma sürecinizi de destekleyecek zengin protein kaynakları göreceksiniz. Kuzu güveç, köfte, balık ve çeşitli yumurta tarifleri, doku onarımı için gerekli olan aminoasitleri bolca içerir. Özellikle ızgara balık, D vitamini ve omega-3 açısından zenginliğiyle hem bağışıklık sisteminizi güçlendirir hem de takviyelerimizin anti-inflamatuar etkisini beslenme yoluyla destekler.\n\nCeviz, badem, fındık ve zeytinyağı gibi sağlıklı yağlar ise hem uzun süreli tokluk sağlar hem de vücudunuzdaki inflamasyonla mücadeleye yardımcı olur. Kuruyemişler aynı zamanda tiroid sağlığı için önemli olan selenyum ve rahatlama sağlayan magnezyum gibi değerli mineraller içerir. Listenizdeki bol yeşillikli salatalar, semizotu ve roka gibi sebzeler, C vitamini ve potasyum açısından çok değerlidir. C vitamini, kullandığınız kolajenin vücutta daha etkili sentezlenmesine yardımcı olurken, potasyum da vücudun sıvı dengesini düzenleyerek ödemin atılmasına katkı sağlar.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1867,6 +1867,6 @@
   ],
   "olusturmaTarihi": "2026-06-16T07:59:54.081Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:00:06.542Z",
+  "sonGuncelleme": "2026-07-15T06:00:09.430Z",
   "githubKaydedildi": true
 }
