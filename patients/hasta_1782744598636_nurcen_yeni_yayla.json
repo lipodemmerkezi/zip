@@ -726,7 +726,7 @@
       "pdfYolu": "pdfs/NURCEN YENİYAYLA 20-26 TEMMUZ 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURCEN YENİYAYLA 20-26 TEMMUZ 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURCEN YENİYAYLA 20-26 TEMMUZ 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-15T06:24:31.393Z",
+      "kayitTarihi": "2026-07-15T06:26:29.944Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -907,7 +907,7 @@
         "ekmek ve fırın yemeklerini air fry da yapabilirsiniz."
       ],
       "gptMesaj": "Merhaba Nurcen Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle önemli bir konuyu, metabolizma hızımız ve \"yeterli yeme\" fikrini konuşmak istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, “az yeme” fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Az yemeye çalışıp açlığı bastırmaya uğraştığımızda, günün sonunda hem yorgunluk hem de isteksizlik oluşur. Bu durumun arkasında ise açlık hormonu olan ghrelin yatar. Uzun süreli açlık durumunda devreye giren bu hormon, beyne güçlü sinyaller göndererek bizi karbonhidratlara yönlendirir.\n\nİşte bu döngüyü kırmak için bu haftaki listenizi de bu felsefeye uygun olarak, hem doyurucu hem de besleyici bir yapıda oluşturduk. Listenizde göreceğiniz tavuk sote, köfte, hindi füme, fırında hamsi sarma gibi çeşitli hayvansal protein kaynakları tam da bu amaca hizmet ediyor. Yeterli protein alımı, kas kütlenizi koruyarak metabolizmanızın yavaşlamasını engeller ve tokluk hissini uzatır.\n\nAynı şekilde avokadolu omlet, zeytinyağlı salatalar, çiğ badem, kabak çekirdeği ve akşamları içeceğiniz kurşun geçirmez kahve gibi sağlıklı yağlar, size kalori kısıtlaması hissi yaşatmadan uzun süreli enerji ve tokluk sağlayacaktır. Bu yağlar, kan şekerinizi dengeleyerek açlık krizlerinin önüne geçmemize yardımcı olur.\n\nGeçen hafta kontrollü bir şekilde başladığımız süt ürünlerini bu hafta da yoğurt ve peynir gibi seçeneklerle programda tutmaya devam ediyoruz. Özellikle ev yapımı turşu ve yoğurt gibi fermente gıdalar, geçen hafta odaklandığımız bağırsak sağlığınızı desteklemeyi sürdürecek.\n\nListenizdeki besinlerin mikro besin zenginliğine de dikkat çekmek isterim. Örneğin somon ve hamsi gibi balıklar, hem iltihapla mücadelede kilit rol oynayan omega-3 yağ asitleri hem de bağışıklık sisteminiz için önemli olan D vitamini ve selenyum açısından çok değerlidir. Yeşil salatalarınızdaki roka ve dereotu gibi yeşillikler ile kabak çekirdeği, kas fonksiyonlarını destekleyen ve ödemin azalmasına yardımcı olan magnezyum alımınıza katkı sağlar.\n\nLupin unlu poğaça veya tavuklu kabak noodle gibi tarifler ise bu sürecin keyifli ve sürdürülebilir olmasına yardımcı olacak küçük dokunuşlar. Unutmayın, vardiyalı çalışma düzeninize göre öğün saatlerinizi esnetebilirsiniz. Önemli olan, bedeninizi dinleyerek doğru sinyalleri yakalamaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1014,6 +1014,6 @@
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:26:28.037Z",
+  "sonGuncelleme": "2026-07-15T06:26:29.957Z",
   "githubKaydedildi": true
 }
