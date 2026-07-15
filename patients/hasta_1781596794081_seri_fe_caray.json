@@ -1577,10 +1577,27 @@
         "közlenmiş kırmızı biber çorbası",
         "alinazik kebabı"
       ]
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-07-19",
+      "bitis": "2026-07-25",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-16T07:59:54.081Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-10T06:09:44.048Z",
+  "sonGuncelleme": "2026-07-15T05:58:09.235Z",
   "githubKaydedildi": true
 }
