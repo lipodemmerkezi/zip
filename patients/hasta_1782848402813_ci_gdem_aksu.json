@@ -669,24 +669,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-07-19",
-      "bitis": "2026-07-25",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÇİĞDEM AKSU 20-26 TEMMUZ 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÇİĞDEM AKSU 20-26 TEMMUZ 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÇİĞDEM AKSU 20-26 TEMMUZ 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÇİĞDEM AKSU 20-26 TEMMUZ 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÇİĞDEM AKSU 20-26 TEMMUZ 4. HAFTA.pdf",
+      "kayitTarihi": "2026-07-15T06:27:52.547Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-30T19:40:02.813Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T06:26:47.969Z",
+  "sonGuncelleme": "2026-07-15T06:27:52.549Z",
   "githubKaydedildi": true
 }
