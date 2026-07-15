@@ -1416,7 +1416,7 @@
       "pdfYolu": "pdfs/SERMİN DEVECİ 20-26 TEMMUZ 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERMİN DEVECİ 20-26 TEMMUZ 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERMİN DEVECİ 20-26 TEMMUZ 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-15T05:55:38.156Z",
+      "kayitTarihi": "2026-07-15T05:57:49.618Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1586,7 +1586,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sermin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda altıncı haftaya başlıyoruz.\n\nProgramın büyük bir kısmı artık oturmaya başladı. Beslenme düzenine alıştınız, geçen hafta masajları uygulamaya başladınız ve bedeninizde yavaş yavaş olan değişimleri de fark etmeye başladınız. Bu noktada hem genel bir değerlendirme yapmak hem de iyileşme sürecini bir üst seviyeye taşıyacak çok önemli bir konuyu sizinle paylaşmak istiyorum: mikrobesinlerin lipödem tedavisindeki rolü.\n\nBu aşamada artık hücresel düzeyde bir destek devreye giriyor. Mikrobesinler, yani vitamin ve mineraller, vücudumuzun çok küçük miktarlarda ihtiyaç duyduğu ama çok büyük görevler üstlenen bileşiklerdir. Özellikle D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum bu süreçte bizim için kilit rol oynar. Bu besinler, hücrelerimizin enerji santralleri olan mitokondrilerde çalışarak enerji üretimini artırır ve iyileşmeyi hızlandırır. Yetersiz kaldıklarında ise kişi kendini sürekli yorgun hissedebilir ve süreç yavaşlayabilir.\n\nBu hafta sizin için hazırladığımız listede bu mikrobesinleri destekleyecek pek çok lezzetli seçenek göreceksiniz. Örneğin, menünüzdeki yumurta, balık ve peynir çeşitleri, bağışıklık ve hormonal denge için kritik olan D vitamini ile sinir sistemi sağlığı için önemli B12 vitaminini almanıza yardımcı olacak. Köfte, kuzu ciğeri gibi seçenekler ise hücresel onarım ve yağ metabolizmasında rol oynayan çinko açısından zengindir.\n\nListenizdeki çiğ badem, fındık, kabak çekirdeği, ıspanak ve pazı gibi besinler, kas fonksiyonları ve uyku düzeni için değerli olan magnezyum kaynağıdır. Yeşillikler, közlenmiş biber ve domates gibi sebzelerle hazırlanan salatalar ise C vitamini alımınızı destekler. C vitamini, cildin sıkılaşması ve doku onarımı için gerekli olan kolajen üretiminde kullanılır. Balık ve yumurta aynı zamanda, lenfatik sistemin sağlıklı çalışmasını destekleyen güçlü bir antioksidan olan selenyum açısından da iyi birer kaynaktır.\n\nBeslenme bu sürecin temel taşı, ama asıl derin iyileşme bu mikro düzeyde gerçekleşiyor. Geçen hafta konuştuğumuz gibi, menüdeki günleri kendi yaşam akışınıza göre değiştirebileceğinizi veya dışarıda olduğunuzda ızgara ve salata gibi seçimler yapabileceğinizi unutmayın. Önemli olan, bu temel besin gruplarını dengeli bir şekilde almaya devam etmeniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1688,6 +1688,6 @@
   ],
   "olusturmaTarihi": "2026-06-12T07:26:13.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T05:57:47.721Z",
+  "sonGuncelleme": "2026-07-15T05:57:49.634Z",
   "githubKaydedildi": true
 }
