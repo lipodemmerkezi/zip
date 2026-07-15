@@ -1016,7 +1016,7 @@
       "pdfYolu": "pdfs/DEFNE SERİNKEN 20-26 TEMMUZ 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/DEFNE SERİNKEN 20-26 TEMMUZ 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/DEFNE SERİNKEN 20-26 TEMMUZ 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-15T05:46:13.281Z",
+      "kayitTarihi": "2026-07-15T05:48:57.710Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabak spagetti",
@@ -1173,7 +1173,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Defne Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta programımıza çok değerli ve yeni bir destek daha ekliyoruz: kendi kendinize kolayca uygulayabileceğiniz manuel lenf drenaj masajı. Size bu mesajla birlikte hem eğitim ve uygulama videolarını hem de 8 haftalık bir masaj takvimini ulaştıracağız. Bu takvimde hangi günlerde, ne sıklıkla masaj yapacağınız adım adım belirtiliyor olacak.\n\nİlk dört haftalık beslenme süreciyle vücudunuz, özellikle lipödemli dokularda biriken iltihaplı sıvı yükünü atmaya başladı. Bu dönemde yağ dokusunda hissettiğiniz yumuşama, aslında tam da bu iyileşmenin bir işaretidir. Yağ hücreleri içindeki toksinler ve fazla sıvı serbest kalırken, baskı altındaki lenf kanalları da rahatlamaya başlar. İşte tam da bu noktada masaja başlamak, lenf sistemini en doğru zamanda harekete geçirerek bu temizlik sürecini hızlandırmak anlamına geliyor.\n\nManuel lenf drenaj masajı, videolarda da göreceğiniz gibi çok hafif dokunuşlarla, yavaş ve ritmik bir şekilde uygulanır. Masaja başlamadan önce yapacağınız derin nefes egzersizleri, vücudun en büyük lenf düğümünü uyararak masajın etkinliğini artıracaktır. Bu uygulama sadece bacaklara değil, tüm vücudu saran lenf ağına etki ederek genel bir rahatlama ve arınma sağlar.\n\nBeslenme düzeniniz de bu süreci içeriden destekliyor. Bu hafta sizin için hazırladığımız listede yer alan ızgara balık, omega-3 içeriğiyle iltihapla mücadele ederken, lenf sisteminin işlevini kolaylaştırır. Listede görebileceğiniz yumurta, tulum peyniri ve çeşitli et yemekleri gibi protein kaynakları doku onarımını destekler. Yeşil salata, ıspanak borani ve mevsim yeşillikleri gibi seçenekler ise C vitamini ve magnezyum gibi mikro besinler sağlayarak kolajen üretimini ve toksinlerin atılımını hızlandırır. Badem ve fındık gibi kuruyemişlerdeki selenyum ve sağlıklı yağlar da bağışıklık sisteminizi dengeleyerek lenfatik sistemin daha verimli çalışmasına zemin hazırlıyor.\n\nProgramınızı daha esnek ve keyifli hale getirmek için size gönderdiğimiz et değişim listelerini kullanarak ana öğünlerinizde çeşitlilik yapabilirsiniz. Örneğin tavuk pirzola yerine listedeki eşdeğeri olan başka bir et türünü seçebilirsiniz. Bu esneklik, süreci uzun vadede daha sürdürülebilir kılacaktır.\n\nMasajın uygulanışının basitliği sizi yanıltmasın. Bazen bu kadar kolay bir uygulamanın ne kadar etkili olabileceğine inanmak zor gelebilir. Ancak tecrübelerime dayanarak söyleyebilirim ki, masajı düzenli olarak yapan danışanlarımızda iyileşme süreci belirgin şekilde daha hızlı ilerliyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1273,6 +1273,6 @@
   ],
   "olusturmaTarihi": "2026-06-18T06:27:42.620Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-15T05:48:55.589Z",
+  "sonGuncelleme": "2026-07-15T05:48:57.724Z",
   "githubKaydedildi": true
 }
