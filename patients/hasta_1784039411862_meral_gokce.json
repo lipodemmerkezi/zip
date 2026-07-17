@@ -184,7 +184,7 @@
       "pdfYolu": "pdfs/MERAL GÖKCE 20-26 TEMMUZ 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÖKCE 20-26 TEMMUZ 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÖKCE 20-26 TEMMUZ 2. HAFTA.pdf",
-      "kayitTarihi": "2026-07-14T14:59:32.561Z",
+      "kayitTarihi": "2026-07-17T05:58:17.059Z",
       "tarifKartlar": [
         {
           "tarifAdi": "köfte",
@@ -333,7 +333,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 2. haftaya başlıyoruz.\n\nProgramın bu ilk etabında temel hedefimiz, lipödemin altında yatan en önemli nedenlerden biri olan kronik inflamasyonu, yani vücuttaki o sessiz iltihap durumunu kontrol altına almak. Bu sürece sadece bir kilo verme programı olarak değil, vücudunuza hücresel düzeyde bir iyileşme fırsatı sunan bütüncül bir sağlık yolculuğu olarak bakmak çok değerli. Attığımız her adım, uzun vadede insülin direnci, hormonal dengesizlikler gibi başka sorunların da önüne geçmek için bir yatırım niteliğinde.\n\nBu hafta sizin için hazırladığımız listeyle bu antiinflamatuar temayı daha da derinleştiriyoruz. Listenizde bolca yer verdiğimiz yumurta, balık ve kırmızı et gibi kaliteli protein kaynakları, hem tokluk hissini uzatıyor hem de vücudun kendini onarması için gerekli olan B12 vitamini ve demir gibi değerli besinleri sağlıyor. Yanına eklediğimiz ıspanak, semizotu gibi yeşillikler ise magnezyum açısından zengin olduğu için kas ve sinir sistemini destekleyerek lipödeme bağlı ağrı ve krampların azalmasına yardımcı olabilir.\n\nÖzellikle balık ve ceviz gibi omega-3 kaynakları, iltihabı baskılamada en güçlü destekçilerimizden. Avokado, zeytinyağı, tereyağı ve kabak çekirdeği gibi sağlıklı yağlar ise kan şekerini dengeleyerek insülin hormonunun ani yükselişlerini engeller. Bu durum, vücudun yağ depolama modundan çıkıp yağ yakma moduna geçmesi için kritik bir adımdır. Bu sayede hem enerjiniz daha stabil kalır hem de lenfatik sistem üzerindeki yük azalır.\n\nAra öğünlerdeki fındık, ceviz gibi kuruyemiş seçenekleri, turizm acentasındaki yoğun ve hareketli günlerinizde pratik birer kurtarıcı olmaya devam edecek. Bu küçük ama etkili seçimler, programın sürdürülebilirliği açısından büyük önem taşıyor.\n\nUnutmayın, şu an vücudunuzu adeta yeniden programlıyoruz. Bu dönemde sabırlı olmak ve sürece güvenmek en önemli anahtar.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -440,6 +440,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-17T05:58:08.014Z",
+  "sonGuncelleme": "2026-07-17T05:58:17.070Z",
   "githubKaydedildi": true
 }
