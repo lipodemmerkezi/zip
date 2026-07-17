@@ -79,13 +79,6 @@
     "telefonAranacak": true
   },
   {
-    "id": 1783496243952,
-    "isim": "EMEL ARICI",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-07-14T06:35:40.530Z"
-  },
-  {
     "id": 1780916059437,
     "isim": "FADİM KALAYCI",
     "not": "",
@@ -510,6 +503,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-04-17T07:20:23.944Z"
+  },
+  {
+    "id": 1783496243952,
+    "isim": "EMEL ARICI",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-07-17T06:12:56.212Z"
   },
   {
     "id": 11,
