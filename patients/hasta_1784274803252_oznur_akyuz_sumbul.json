@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-07-12",
-      "bitis": "2026-07-18",
+      "baslangic": "2026-07-20",
+      "bitis": "2026-07-26",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZNUR AKYÜZ SÜMBÜL 20-26 TEMMUZ 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZNUR AKYÜZ SÜMBÜL 20-26 TEMMUZ 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZNUR AKYÜZ SÜMBÜL 20-26 TEMMUZ 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 20-26 TEMMUZ 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 20-26 TEMMUZ 1. HAFTA.pdf",
+      "kayitTarihi": "2026-07-17T07:54:05.166Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-17T07:53:36.122Z",
+  "sonGuncelleme": "2026-07-17T07:54:05.167Z",
   "githubKaydedildi": true
 }
