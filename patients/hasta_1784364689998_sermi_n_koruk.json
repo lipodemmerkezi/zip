@@ -3,9 +3,27 @@
   "isim": "ŞERMİN KÖRÜK",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-07-12",
+      "bitis": "2026-07-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-07-18T08:51:29.998Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-18T08:51:29.998Z",
+  "sonGuncelleme": "2026-07-18T08:59:01.278Z",
   "githubKaydedildi": true
 }
