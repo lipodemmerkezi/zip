@@ -3,9 +3,27 @@
   "isim": "HATİCE YİTİK",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-07-19",
+      "bitis": "2026-07-25",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-20T11:35:46.372Z",
+  "sonGuncelleme": "2026-07-20T11:35:58.381Z",
   "githubKaydedildi": true
 }
