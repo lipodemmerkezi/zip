@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/HATİCE YİTİK 22-26 TEMMUZ 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YİTİK 22-26 TEMMUZ 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YİTİK 22-26 TEMMUZ 1. HAFTA.pdf",
-      "kayitTarihi": "2026-07-20T11:36:50.178Z",
+      "kayitTarihi": "2026-07-20T11:39:04.701Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (2 dilim)",
@@ -136,7 +136,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Çarşamba günü itibariyle programımızda ilk haftamıza başlıyoruz.\n\nBu, bedenimizi daha yakından tanıyacağımız, sade ama çok etkili adımlarla ilerleyeceğimiz bir başlangıç olacak. Lipödem, vücutta kronik bir iltihabi durum yaratır ve bizim ilk hedefimiz bu iltihabı kontrol altına alarak süreci yönetmek. Bu amaçla bu hafta süt ve süt ürünlerini programımızdan geçici olarak çıkarıyoruz. Bu adım, olası gıda duyarlılıklarının etkisini görmek ve bağırsak florasını onarım sürecine hazırlamak için oldukça önemli. Endişelenmeyin, bu sadece kısa bir süreliğine; üçüncü haftada kontrollü bir şekilde geri dönecekler.\n\nBu ilk aşamada protein ihtiyacımızı karşılamak için yumurtayı temel besinimiz olarak belirledik. Listenizde de göreceğiniz gibi, güne sahanda yumurta veya sebzeli omlet gibi seçeneklerle başlayarak hem doyurucu hem de besleyici bir öğün oluşturmuş oluyoruz. Yumurta sadece kaliteli bir protein değil, aynı zamanda lipödem sürecinde doku onarımını destekleyen A ve D vitaminleri, sinir sistemi için önemli olan B12 vitamini ve selenyum gibi değerli mikro besinleri de içerir.\n\nSizin için hazırladığımız listede balık gibi omega-3 kaynaklarına da yer verdik. Omega-3 yağ asitleri, dolaşımı destekleyerek ödemin azalmasına doğrudan katkı sağlar. Listenizdeki tahin, ceviz, zeytinyağı gibi sağlıklı yağlar da vücuttaki iltihabi yanıtı dengelemeye yardımcı olur. Bol yeşillikli salatalar ise hem lif alımınızı artırarak sindirim sistemini destekler hem de antioksidanlarla vücudu korur. Programınıza eklediğimiz kollajen takviyesi ise cildin elastikiyetini ve bağ dokusunun sağlığını desteklemeyi hedefler. Bu, lipödemli dokunun onarım sürecinde önemli bir adımdır.\n\nSizden bir ricam olacak: Her iki haftada bir, pazar günleri, bel, kalça ve bacaklarınızın belirli noktalarından mezura ile ölçüm alıp not etmeniz. Sürecin başında tartıdaki rakamlardan çok, bu incelme değerlerine odaklanacağız.\n\nProgramın başlangıcı bazen zorlayıcı olabilir ama kısa sürede bedeninizdeki olumlu değişimleri hissetmeye başlayacaksınız. Bu süreci küçük ama kararlı adımlarla birlikte yöneteceğiz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -216,6 +216,6 @@
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-20T11:39:00.674Z",
+  "sonGuncelleme": "2026-07-20T11:39:04.715Z",
   "githubKaydedildi": true
 }
