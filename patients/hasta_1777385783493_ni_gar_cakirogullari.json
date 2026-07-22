@@ -3760,24 +3760,27 @@
     },
     {
       "haftaNo": 14,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NİGAR ÇAKIROĞULLARI 27 TEMMUZ -2 AĞUSTOS 14. HAFTA.pdf",
+      "pdfOrijinalIsim": "NİGAR ÇAKIROĞULLARI 27 TEMMUZ -2 AĞUSTOS 14. HAFTA.pdf",
+      "pdfYolu": "pdfs/NİGAR ÇAKIROĞULLARI 27 TEMMUZ -2 AĞUSTOS 14. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NİGAR ÇAKIROĞULLARI 27 TEMMUZ -2 AĞUSTOS 14. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NİGAR ÇAKIROĞULLARI 27 TEMMUZ -2 AĞUSTOS 14. HAFTA.pdf",
+      "kayitTarihi": "2026-07-22T13:07:22.413Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-22T13:07:00.661Z",
+  "sonGuncelleme": "2026-07-22T13:07:22.416Z",
   "githubKaydedildi": true
 }
