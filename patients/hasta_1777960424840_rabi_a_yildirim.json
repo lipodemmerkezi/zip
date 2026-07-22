@@ -3427,24 +3427,27 @@
     },
     {
       "haftaNo": 13,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "RABİA YILDIRIM 27 TEMMUZ -2 AĞUSTOS 13. HAFTA.pdf",
+      "pdfOrijinalIsim": "RABİA YILDIRIM 27 TEMMUZ -2 AĞUSTOS 13. HAFTA.pdf",
+      "pdfYolu": "pdfs/RABİA YILDIRIM 27 TEMMUZ -2 AĞUSTOS 13. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RABİA YILDIRIM 27 TEMMUZ -2 AĞUSTOS 13. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RABİA YILDIRIM 27 TEMMUZ -2 AĞUSTOS 13. HAFTA.pdf",
+      "kayitTarihi": "2026-07-22T13:13:16.204Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-22T13:12:47.021Z",
+  "sonGuncelleme": "2026-07-22T13:13:16.207Z",
   "githubKaydedildi": true
 }
