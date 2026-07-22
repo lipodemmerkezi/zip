@@ -2376,24 +2376,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "RAHİME İLEM 27 TEMMUZ -2 AĞUSTOS 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "RAHİME İLEM 27 TEMMUZ -2 AĞUSTOS 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/RAHİME İLEM 27 TEMMUZ -2 AĞUSTOS 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/RAHİME İLEM 27 TEMMUZ -2 AĞUSTOS 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/RAHİME İLEM 27 TEMMUZ -2 AĞUSTOS 9. HAFTA.pdf",
+      "kayitTarihi": "2026-07-22T13:40:33.155Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-20T13:45:49.044Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-22T13:40:11.725Z",
+  "sonGuncelleme": "2026-07-22T13:40:33.157Z",
   "githubKaydedildi": true
 }
