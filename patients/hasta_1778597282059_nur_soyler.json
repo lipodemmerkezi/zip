@@ -3078,24 +3078,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NUR SÖYLER 27 TEMMUZ - 2 AĞUSTOS 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "NUR SÖYLER 27 TEMMUZ - 2 AĞUSTOS 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/NUR SÖYLER 27 TEMMUZ - 2 AĞUSTOS 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NUR SÖYLER 27 TEMMUZ - 2 AĞUSTOS 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NUR SÖYLER 27 TEMMUZ - 2 AĞUSTOS 12. HAFTA.pdf",
+      "kayitTarihi": "2026-07-22T13:32:43.161Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-22T13:32:16.419Z",
+  "sonGuncelleme": "2026-07-22T13:32:43.164Z",
   "githubKaydedildi": true
 }
