@@ -2773,10 +2773,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Merhabalar\nTeşekkür ederim iyiyim\nBu hafta biraz yoğun geçti yazlıktaydım misafirlerim de vardı diyetime uymakta zorlandım , Masajı aksattım\nDüzenli yaptığım tek şey güne sirkeli ve zeytinyağlı su içerek başlamak, sonrasında tereyağlı kahvemi içmek ve ilaçlarımı kullanmak oldu.  Önümüzdeki hafta bu durumu toparlamayı umuyorum.\nMerhaba Sezi̇n Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 10. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.Masajları yapmakta zorlanıyorum ilk günlerde düzenli olarak yapıyordum ama genelde eğilerek masaj yaptığım için bel fıtığımdan dolayı bel ağrısı çekmeye başladım. Bel ağrım tetiklenmesin diye de çok masaj yapmadım yapamadım.Merhabalar Sezin Hanım masajlara biraz daha önem verelim. Oturduğunuz yerden ve  ayaklarınızın altına tabure koyarak yapabilirsiniz. Egzersizlere de başlayacağız. Masaj sayısını azatlmadan egzersizlere de başlayalım. Beslenmeye dikkat edelim. Toparlayacağınıza inanıyoruz BU ŞEKİLDE CEVAP VERDİK. LOW CARB A BAŞLIYORUZ."
+    },
+    {
+      "haftaNo": 11,
+      "baslangic": "2026-07-26",
+      "bitis": "2026-08-01",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-05-18T16:58:40.699Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T07:22:12.309Z",
+  "sonGuncelleme": "2026-07-22T13:35:02.163Z",
   "githubKaydedildi": true
 }
