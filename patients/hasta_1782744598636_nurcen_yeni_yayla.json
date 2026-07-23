@@ -1192,7 +1192,7 @@
         "vardiyalı çalışma düzeninize öğün saatlerini değiştirebilirsiniz.",
         "ekmek ve fırın yemeklerini air fry da yapabilirsiniz."
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nurcen Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta programımıza bedeninizi içeriden destekleyecek çok güçlü bir uygulama ekliyoruz: manuel lenf drenaj masajı. Bu, tamamen kendi kendinize, sadece ellerinizi kullanarak yapabileceğiniz, herhangi bir alete ihtiyaç duymayacağınız özel bir tekniktir. Size bu masajın hem eğitim hem de uygulama videolarını ve 8 haftalık bir takvimi ulaştıracağız. Takvimde hangi gün ne sıklıkla yapacağınız adım adım belirtiliyor.\n\nİlk dört haftalık beslenme süreci, vücudunuzun bu yeni adıma hazırlanması için bir zemin oluşturdu. Uyguladığınız beslenme protokolü sayesinde lipödemli dokularda biriken iltihaplı sıvı yükü azalmaya, yağ dokusu yumuşamaya başladı. Bu yumuşama, yağ hücrelerinin içindeki toksinlerin ve sıvı yükünün serbest kalmasıyla oluşur. İşte tam bu noktada, yıllardır baskı altında olan incecik lenf kanalları rahatlamaya başlarken, masajla bu sisteme destek vermek iyileşme sürecini belirgin şekilde hızlandırır.\n\nVardiyalı çalışma düzeninizin getirdiği zorlukları biliyorum. Bu masajı günün başında veya sonunda kendinize ayıracağınız bir sakinleşme ve bakım anı olarak görebilirsiniz. Oldukça hafif ve yavaş hareketlerle uygulandığı için aslında dinlendirici bir etkisi de vardır. Bu uygulama, dokularda biriken sıvının atılmasını hızlandırırken, kolajen üretimini uyararak cilt yapısını iyileştirir ve uyku kalitenize de olumlu yansır.\n\nBu yeni uygulamayı desteklerken, beslenme tarafında da vücudunuzun ihtiyaç duyduğu yapı taşlarını sağlamaya devam ediyoruz. Bu hafta sizin için hazırladığımız listede, hem doyuruculuğu yüksek hem de mikro besinler açısından zengin seçenekler göreceksiniz. Özellikle ızgara balık, hem omega-3 ile iltihapla mücadeleye devam ederken, içerdiği D vitamini ve selenyumla da bağışıklık sisteminizi destekler. Listenizdeki semizotu salatası, roka, kabak çekirdeği ve fındık gibi besinler, kas fonksiyonları ve ödemin atılması için önemli olan magnezyum alımınıza katkı sağlayacak.\n\nFırınlanmış peynirli taze fasulye graten, patlıcan yatağında tavuk sote gibi tarifler ise süreci keyifli hale getirirken, yeterli protein ve lif almanızı sağlayarak tokluk hissinizi destekler. Unutmayın, yoğun anlarınızda size gönderdiğimiz atıştırmalık tariflerinden de destek alabilirsiniz.\n\nMasajın çok kolay uygulanması bazen etkisini küçümsememize neden olabilir. Ancak tecrübelerimle söyleyebilirim ki, bu sürece masajı düzenli olarak dahil eden kişilerin iyileşme düzeyleri belirgin şekilde daha iyi oluyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1298,11 +1298,12 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "vardiyalı çalışma düzeninize öğün saatlerini değiştirebilirsiniz.",
         "ekmek ve fırın yemeklerini air fry da yapabilirsiniz."
-      ]
+      ],
+      "ekNotlar": "masajlara başlıyoruz. iş saatinde zorlandığını belirtti. atıştırmalık tarifler gönderdik. arada bunlardan tüketebileceğini söyledik.\nMerhaba Nurcen Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 5. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T05:54:17.793Z",
+  "sonGuncelleme": "2026-07-23T05:57:02.093Z",
   "githubKaydedildi": true
 }
