@@ -1360,7 +1360,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Sevinç Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz.\n\nAltıncı haftaya geçerken artık programın genel yapısı daha tanıdık gelmeye başlamıştır. Beslenme düzenine alıştınız, takviyeleri hayatınıza dahil ettiniz ve geçen hafta başladığınız masajlarla bedeninize daha derin bir bakım sunmaya başladınız. Bu noktada, sürecin en önemli konularından birini, yani mikrobesinlerin lipödem tedavisindeki rolünü konuşmanın tam zamanı.\n\nÖncelikle, lipödem tedavisinde asıl başarının tartıdaki değişimden çok, bölgesel incelme ve doku kalitesindeki iyileşme olduğunu tekrar hatırlatmak isterim. Kıyafetlerinizin bollaşması, aynadaki görünümünüz ve bedeninizdeki hafifleme hissi, en az ölçümler kadar değerli göstergelerdir.\n\nŞimdiye kadar beslenmeyle iltihabı azaltıp, masajla lenf sistemini harekete geçirdik. Artık iyileşmeyi hücresel düzeye taşıma zamanı. Burada devreye mikrobesinler giriyor. Bunlar, vitamin ve mineraller gibi küçük miktarlarda ihtiyaç duyduğumuz ama vücutta devasa görevler üstlenen bileşiklerdir. Özellikle D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum bu süreçte bizim için kilit rol oynar. Bu besinler, hücrelerimizin enerji santralleri olan mitokondrilerde çalışarak enerji üretimini artırır ve onarım süreçlerini hızlandırır. Eksikliklerinde ise hem kilo verme yavaşlar hem de kendimizi sürekli yorgun hissederiz.\n\nBu hafta sizin için hazırladığımız beslenme düzeninde, bu mikrobesinleri doğal yollarla almanız için bazı özel seçimler yaptık. Listenizdeki yumurta, mantar ve balık gibi seçenekler, bağışıklık ve hormonal denge için kritik olan D vitamini ve tiroit fonksiyonlarını destekleyen selenyum açısından zengindir. Akşamları eklediğimiz bir avuç kabak çekirdeği, badem ve fındık gibi kuruyemişler ise hem kas fonksiyonları ve uyku kalitesi için önemli olan magnezyumu hem de hücresel onarımda rol oynayan çinkoyu bolca içerir. Bu, aynı zamanda sindirim düzeninizi desteklemeye devam eden değerli bir alışkanlıktır.\n\nYeşilliklere ve taze sebzelere olan ihtiyacımız ise hiç azalmıyor. Özellikle köz biber salatası, semizotu salatası ve bol yeşillikli salatalarınız, kolajen üretimi için gerekli olan C vitaminini almanızı sağlar. Bu da cildin sıkılaşması ve bağ dokusunun güçlenmesi anlamına gelir; ki bu, kollajen takviyenizle birlikte harika bir sinerji yaratır.\n\nBu hafta menünüzde göreceğiniz fırında kabaklı börek, peynirli patlıcan rulosu, lupin unlu waffle börek gibi yeni tarifler, süreci daha keyifli ve sürdürülebilir kılmak için eklendi. Çeşitlilik, hem motivasyonu yüksek tutar hem de farklı besin gruplarından daha zengin bir mikrobesin profili elde etmemizi sağlar.\n\nUnutmayın, beslenme bu sürecin temel taşıdır, ancak asıl derin iyileşme bu mikro düzeyde gerçekleşir. Hem hücresel tamirat hem hormonal denge hem de bağışıklık sistemi, bu küçük ama güçlü besin öğeleri sayesinde yeniden düzenlenir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1461,11 +1461,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "Merhaba Sevi̇nç Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-23T14:48:46.871Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T06:01:36.383Z",
+  "sonGuncelleme": "2026-07-23T06:03:58.197Z",
   "githubKaydedildi": true
 }
