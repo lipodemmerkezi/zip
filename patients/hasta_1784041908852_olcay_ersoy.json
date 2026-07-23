@@ -341,24 +341,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "OLCAY ERSOY 27 TEMMUZ-2 AĞUSTOS 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "OLCAY ERSOY 27 TEMMUZ-2 AĞUSTOS 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/OLCAY ERSOY 27 TEMMUZ-2 AĞUSTOS 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/OLCAY ERSOY 27 TEMMUZ-2 AĞUSTOS 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/OLCAY ERSOY 27 TEMMUZ-2 AĞUSTOS 3. HAFTA.pdf",
+      "kayitTarihi": "2026-07-23T07:38:41.453Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:38:26.900Z",
+  "sonGuncelleme": "2026-07-23T07:38:41.454Z",
   "githubKaydedildi": true
 }
