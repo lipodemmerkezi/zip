@@ -351,17 +351,255 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/OLCAY ERSOY 27 TEMMUZ-2 AĞUSTOS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/OLCAY ERSOY 27 TEMMUZ-2 AĞUSTOS 3. HAFTA.pdf",
       "kayitTarihi": "2026-07-23T07:38:41.453Z",
-      "tarifKartlar": [],
-      "tarifler": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "kinoa lavaş (1 adet)",
+          "kartResmi": "kinoa_lavas.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kinoa_lavas.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuklu hünkar beğendi",
+          "kartResmi": "tavuklu_hunkar_begendi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuklu_hunkar_begendi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "cevizli kaşık salatası",
+          "kartResmi": "cevizli_kasik_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_kasik_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli karabuğday ekmeği",
+          "kartResmi": "cevizli_karabugday_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_karabugday_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli karabuğday ekmeği",
+          "kartResmi": "karabugday_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/karabugday_ekmegi.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "yulaflı börek low carb",
+          "kartResmi": "yulafli_borek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yulafli_borek.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "patlıcan musakka (100 gr kıyma ile)",
+          "kartResmi": "patlican_musakka.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_musakka.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "borani (yoğurtlu ıspanak)",
+          "kartResmi": "borani_yogurtlu_ispanak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/borani_yogurtlu_ispanak.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "nohut kraker",
+          "kartResmi": "nohut_kraker.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/nohut_kraker.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "lor peynirli avokado salatası",
+          "kartResmi": "lor_peynirli_avokado_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lor_peynirli_avokado_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırında kıymalı kabak sandal",
+          "kartResmi": "firinda_kiymali_kabak_sandal.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_kiymali_kabak_sandal.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu salatalık mezesi",
+          "kartResmi": "yogurtlu_salatalik_mezesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_salatalik_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tahinli smoothie",
+          "kartResmi": "tahinli_smoothie.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tahinli_smoothie.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "starbucks kurabiye",
+          "kartResmi": "starbucks_kurabiye.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/starbucks_kurabiye.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yeşil mercimekli kabak sandal",
+          "kartResmi": "mercimekli_kabak_sandal.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/mercimekli_kabak_sandal.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "nohutlu kabak salatası",
+          "kartResmi": "kabak_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_salatasi.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "lorlu gözleme",
+          "kartResmi": "lorlu_gozleme.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lorlu_gozleme.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "zeytinyağlı taze börülce",
+          "kartResmi": "zeytinyagli_taze_borulce.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/zeytinyagli_taze_borulce.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "mantar soslu köfte",
+          "kartResmi": "mantar_soslu_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/mantar_soslu_kofte.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "olcay ersoy / 27 temmuz -2 ağustos 2026",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "kinoa lavaş (1 adet)",
+        "tavuk fleto dilimleri",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber +1 yemek kaşığı",
+        "közlenmiş kapya biber ( 50 gr )",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "tavuklu hünkar beğendi",
+        "cevizli kaşık salatası",
+        "cevizli karabuğday ekmeği",
+        "toz kollajen 1 ölçek",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sucuklu yumurta (2 yumurta, 50 gr. kasap sucuk, istenilen baharatlar)",
+        "cevizli karabuğday ekmeği",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "elma veya 100 gram karpuz",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
+        "cevizli karabuğday ekmeği",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yulaflı börek low carb",
+        "tulum / kaşar peyniri (50 gram)",
+        "zeytin (5 adet)",
+        "yeşillikler (4 -5 yaprak marul, 4-5 dal maydanoz, limon ve sirke ile)",
+        "elma veya 5 adet çilek (100 gr)",
+        "akşam (tercihen hava kararınca)",
+        "patlıcan musakka (100 gr kıyma ile)",
+        "borani (yoğurtlu ıspanak)",
+        "nohut kraker",
+        "cevizli karabuğday ekmeği",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "lor peynirli avokado salatası",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "cevizli karabuğday ekmeği",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "fırında kıymalı kabak sandal",
+        "yoğurtlu salatalık mezesi",
+        "orta boy şeftali",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tahinli smoothie",
+        "starbucks kurabiye",
+        "nohut kraker low carb",
+        "kayısı",
+        "akşam (tercihen hava kararınca)",
+        "yeşil mercimekli kabak sandal",
+        "ev yoğurdu",
+        "cevizli karabuğday ekmeği",
+        "toz kollajen 1 ölçek",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (1 yumurta ile)",
+        "tulum peyniri veya kaşar peyniri (30 gram)",
+        "zeytin (5 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka,1 adet küçük salatalık",
+        "cevizli karabuğday ekmeği",
+        "akşam (tercihen hava kararınca)",
+        "tavuk ciğer sote",
+        "nohutlu kabak salatası",
+        "cevizli karabuğday ekmeği",
+        "elma (100 gr)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "lorlu gözleme",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "nohut kraker",
+        "akşam (tercihen hava kararınca)",
+        "zeytinyağlı taze börülce",
+        "mantar soslu köfte",
+        "ev yoğurdu",
+        "cevizli karabuğday ekmeği",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
       "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
-      "manuelKartlar": []
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "kinoa lavaş (1 adet)",
+        "tavuklu hünkar beğendi",
+        "cevizli kaşık salatası",
+        "cevizli karabuğday ekmeği",
+        "cevizli karabuğday ekmeği",
+        "köfte",
+        "cevizli karabuğday ekmeği",
+        "yulaflı börek low carb",
+        "patlıcan musakka (100 gr kıyma ile)",
+        "borani (yoğurtlu ıspanak)",
+        "nohut kraker",
+        "cevizli karabuğday ekmeği",
+        "lor peynirli avokado salatası",
+        "cevizli karabuğday ekmeği",
+        "fırında kıymalı kabak sandal",
+        "yoğurtlu salatalık mezesi",
+        "tahinli smoothie",
+        "starbucks kurabiye",
+        "yeşil mercimekli kabak sandal",
+        "cevizli karabuğday ekmeği",
+        "cevizli karabuğday ekmeği",
+        "nohutlu kabak salatası",
+        "cevizli karabuğday ekmeği",
+        "lorlu gözleme",
+        "nohut kraker",
+        "zeytinyağlı taze börülce",
+        "mantar soslu köfte",
+        "cevizli karabuğday ekmeği"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:38:41.454Z",
+  "sonGuncelleme": "2026-07-23T07:38:45.001Z",
   "githubKaydedildi": true
 }
