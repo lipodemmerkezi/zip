@@ -448,7 +448,7 @@
       "pdfYolu": "pdfs/MERAL GÖKCE 27 TEMMUZ -2 AĞUSTOS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÖKCE 27 TEMMUZ -2 AĞUSTOS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÖKCE 27 TEMMUZ -2 AĞUSTOS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T07:41:51.817Z",
+      "kayitTarihi": "2026-07-23T07:44:01.800Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -622,7 +622,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz.\n\nProgramın ilk iki haftasındaki eliminasyon sürecini başarıyla tamamladık. Bu dönem, sindirim sisteminizi dinlendirmek ve vücuttaki inflamasyon yükünü hafifletmek için attığımız çok önemli bir temeldi. Şimdi bu sağlam zemin üzerine yeni ve kalıcı alışkanlıklar inşa etmeye başlıyoruz.\n\nBu hafta itibarıyla beslenme listenize kontrollü bir şekilde süt ürünlerini yeniden ekliyoruz. Özellikle tulum veya kaşar peyniri gibi sindirimi daha kolay, fermente çeşitlerle başlıyoruz. Bu adımla eş zamanlı olarak, bağırsak floranızı güçlendirecek probiyotik ve prebiyotik takviyelere de başlıyoruz. Amacımız, sindirim sisteminizde yaşayan milyarlarca faydalı bakteriyi destekleyerek hem bağışıklığınızı güçlendirmek hem de lipödemle ilişkili kronik inflamasyonu içeriden yönetmek. Bağırsak sağlığındaki iyileşme sadece fiziksel değil, ruh halinize ve enerji seviyenize de yansıyacaktır. Tatlı isteği gibi durumların bu süreçte daha yönetilebilir hale geldiğini gözlemleyebilirsiniz.\n\nSizin için hazırladığımız listede bu felsefeyi destekleyen öğeler görebilirsiniz. Örneğin, kahvaltıda yumurtaya alternatif olarak eklediğimiz peynir, hem kalsiyum ihtiyacını karşılar hem de çeşitlilik sunar. Artık gün içinde iki yumurta yerine, yaklaşık 30 gram kadar peynirle değişim yapabilirsiniz. Listenizdeki bol çeşitli yeşillikler, semizotu, ıspanak gibi lifli gıdalar da bu yeni gelen faydalı bakteriler için harika bir besin kaynağı görevi görecek. Süreci daha keyifli hale getirmek için listenize badem unlu krep veya peynirli poğaça gibi yeni tarifler de ekledik. Bu tarifler, kan şekerinizi dengeleyen sağlıklı yağ ve protein yapısını korurken, farklı lezzetler denemenize olanak tanır.\n\nBu hafta, bağırsak sağlığını destekleyen her küçük adımın bedeninizdeki değişimi hızlandıracağı bir dönem. Bu nedenle önerilen takviyeleri düzenli kullanmak ve öğün dengesine dikkat etmek bu haftanın en önemli noktaları olacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ekNotlar": "süt ürünlerine başladığı gün prebiyotik ve probiyotiklere başlayacağız.\nMerhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -730,6 +730,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:43:59.686Z",
+  "sonGuncelleme": "2026-07-23T07:44:01.816Z",
   "githubKaydedildi": true
 }
