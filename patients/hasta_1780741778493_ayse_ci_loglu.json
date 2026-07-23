@@ -1991,7 +1991,7 @@
       "pdfYolu": "pdfs/AYŞE ÇİLOĞLU 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÇİLOĞLU 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÇİLOĞLU 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T08:18:01.028Z",
+      "kayitTarihi": "2026-07-23T08:23:31.193Z",
       "tarifKartlar": [
         {
           "tarifAdi": "pita ekmeği (1 adet)",
@@ -2179,7 +2179,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Ayşe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz.\n\nSekiz haftadır devam eden bu yolculukta artık bedeninizi daha iyi dinlemeye başladığınızı ve beslenmenin temel prensiplerinin oturduğunu düşünüyorum. Bu hafta, bu temelin üzerine çok daha incelikli bir katman ekleyeceğiz. Artık sadece ne yediğimiz değil, yiyecekleri hangi sırayla tükettiğimizin de ne kadar önemli olduğunu konuşacağız. Aynı tabaktaki besinleri farklı bir sırayla yemek, vücudumuzda bambaşka hormonal yanıtlar oluşturabilir.\n\nYemek sıralamasının temel amacı, kan şekerini ve buna bağlı olarak insülin seviyesini dengede tutmaktır. İnsülin, lipödemli dokulardaki yağ hücrelerinin büyümesini tetikleyen en önemli hormonlardan biri olduğu için bu denge bizim için hayati önem taşıyor.\n\nDoğru sıralama oldukça basit:\nÖnce lifli gıdalarla başlıyoruz. Öğüne salata veya zeytinyağlı sebzelerle başlamak, bağırsaklarda bir tür bariyer oluşturarak sonrasında yiyeceğimiz karbonhidratların emilimini yavaşlatır.\nArdından protein ve sağlıklı yağlar geliyor. Salatadan sonra et, balık, tavuk veya peynir gibi protein kaynaklarına geçmek, tokluk hissini artırır ve kan şekeri dalgalanmalarını önler.\nKarbonhidratlar ise her zaman en sona kalmalı. Eğer öğünde karbonhidrat içeren bir besin varsa, bunu en sonda tüketmek, insülin tepkisini minimumda tutar.\n\nBu hafta sizin için hazırladığımız listede bu sıralamayı kolayca uygulayabileceğiniz pek çok seçenek göreceksiniz. Yumurtadan sıkıldığınızı göz önünde bulundurarak kahvaltıları çeşitlendirdik. Badem unlu krep, kuru soğanlı cevizli lor kavurması veya yoğurtlu çılbır gibi alternatifler, güne farklı lezzetlerle başlamanızı sağlayacak. Örneğin kahvaltıda önce söğüş sebzelerinizi yiyip ardından peynir veya lor kavurması gibi protein ağırlıklı seçeneğe geçebilirsiniz. Yanında pita ekmeği varsa, onu en sona bırakmak bu haftanın temel prensibi olacak.\n\nListenizde yer alan ızgara balık, kuzu güveç ve köfte gibi seçenekler, hem selenyum ve çinko gibi değerli mineralleri almanızı sağlıyor hem de bu haftaki yemek sıralaması kuralına harika bir protein başlangıcı oluşturuyor. Yanındaki köz biber salatası, göçmen salatası veya bol yeşillik, öğüne başlamak için ideal lif kaynaklarıdır. Bu salatalardaki C vitamini ve antioksidanlar, lenf sisteminin temizlenmesine de destek olur.\n\nAyrıca, süreçten memnun olduğunuzu duymak çok güzel. Bu motivasyonla birlikte beslenmenize küçük ve keyifli eklemeler yapabiliriz. Bu hafta listenize çilek ekledik. Dilerseniz yaban mersini gibi diğer kırmızı meyveleri de haftada üç günü geçmeyecek şekilde, ana öğünlerinizin sonuna ekleyerek tüketebilirsiniz. Bu, tatlı ihtiyacınızı karşılarken kan şekeri dengenizi korumanıza yardımcı olacaktır.\n\nYemeğe oturmadan hemen önce bir bardak suya bir yemek kaşığı sirke ekleyip içmek de insülin kontrolü için çok etkilidir. Sirkenin içindeki asetik asit, karbonhidratların sindirimini yavaşlatarak kan şekerinin daha dengeli yükselmesini sağlar. Mide hassasiyetiniz yoksa bunu ana öğünlerinizden önce deneyebilirsiniz.\n\nBu küçük ama etkili alışkanlıklar, beslenme düzeninizin vücudunuz üzerindeki olumlu etkilerini katlayarak artıracaktır. Masaj ve takviyelerle birlikte bu bütüncül yaklaşım, dokularınızın daha da rahatlamasına yardımcı olacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2290,6 +2290,6 @@
   ],
   "olusturmaTarihi": "2026-06-06T10:29:38.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T08:22:32.801Z",
+  "sonGuncelleme": "2026-07-23T08:23:31.209Z",
   "githubKaydedildi": true
 }
