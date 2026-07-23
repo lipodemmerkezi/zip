@@ -1972,10 +1972,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "Diyet konusunda verilen şeylerin bana yetersiz geldiğini düşünüyorum çünkü açlık hissediyorum . motivasyon olarak düştüm açlık hissettiğim için . Yemeyi özlediğim şeyler de var . ben bu hafta çok açlık hissetim diğer hafta hiç ekmek de yok . Gidişatım çok iyi ama dediğim gibi 2 öğün olması beni çok zorluyor\nMerhaba Fatmana Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.açlık hissediyorsanız makroları biraz artırabiliriz. Özellikle de ekmek konusunda sıkıntı yaşıyorsanız öğünlere bakla unu ekmeği ekleyebiliriz. Günlük 2 dilim (bunu iki ayrı öğünde birer tane veya bir öğünde iki dilim şeklinde ayarlayabilirsiniz) ya da haşhaş ezmesi ekmeği de olabilir bu şekilde cevap verdik"
+    },
+    {
+      "haftaNo": 8,
+      "baslangic": "2026-08-23",
+      "bitis": "2026-08-29",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-14T08:00:45.008Z",
+  "sonGuncelleme": "2026-07-23T05:37:57.208Z",
   "githubKaydedildi": true
 }
