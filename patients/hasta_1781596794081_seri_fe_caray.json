@@ -1875,7 +1875,7 @@
       "pdfYolu": "pdfs/ŞERİFE ÇARAY 27 TEMMUZ -2 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERİFE ÇARAY 27 TEMMUZ -2 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERİFE ÇARAY 27 TEMMUZ -2 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T06:26:55.290Z",
+      "kayitTarihi": "2026-07-23T06:35:07.734Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lor ekmeği (1 dilim)",
@@ -2035,7 +2035,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "Merhaba Şerife Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz.\n\nBel ameliyatı sonrası bacaklarınızda hissettiğiniz ödemin yerini yumuşamaya bırakması, sürecin ne kadar doğru ilerlediğinin en güzel işaretlerinden biri. Bu yumuşama, tam olarak hedeflediğimiz gibi, lipödemli dokulardaki sıkışmış sıvının ve toksinlerin çözülmeye başladığını gösteriyor. Vücudunuz içeriden iyileşiyor ve bu da dışarıdan hissedilir hale geliyor.\n\nBu aşamada bazen tartıda bir yavaşlama görülebilir, bu tamamen beklenen ve doğal bir durumdur. Çünkü yağ hücreleri küçülürken içlerinde birikmiş olan metabolik atıkları ve toksinleri dolaşıma bırakırlar. Bu durum, vücutta geçici bir su tutulumuna neden olabilir. İşte o hissettiğiniz yumuşama, tam da bu sürecin bir parçası. Bu nedenle odağımızı tartıdan çok mezura ölçümlerine ve bedeninizdeki bu rahatlamaya veriyoruz.\n\nSekizinci haftaya ulaştığımıza göre, artık sadece ne yediğimizin değil, yiyecekleri hangi sırayla tükettiğimizin de ne kadar önemli olduğu bir aşamaya geçiyoruz. Bu hafta sizin için hazırladığımız listedeki besinleri doğru bir sıralama ile tüketmek, insülin seviyelerini dengeleyerek yağ yakımını en üst düzeye çıkarmamıza yardımcı olacak.\n\nDoğru sıralama şu şekilde olmalı:\n\n1.  Önce lifli gıdalar: Öğüne başlarken listenizdeki yeşil salata veya köz biber salatası gibi lifli seçeneklerle başlayın. Bu besinler, sindirim sisteminde bir tür bariyer oluşturarak karbonhidratların kana karışmasını yavaşlatır ve kan şekerinin ani yükselişini engeller.\n2.  Ardından protein ve yağlar: Salatanın bir kısmını tükettikten sonra kuzu güveç, köfte, sucuklu yumurta veya ızgara balık gibi protein ve yağ kaynaklarına geçebilirsiniz. Protein ve sağlıklı yağlar hem tokluk süresini uzatır hem de metabolizmayı destekler.\n3.  En sona karbonhidratlar: Eğer öğününüzde lor ekmeği gibi bir karbonhidrat kaynağı varsa, bunu en sona bırakmak insülin tepkisini ciddi ölçüde azaltır.\n\nBu haftaki listeniz, bu sıralamayı uygulamanız için oldukça uygun bir yapıya sahip. Örneğin bir öğünde kıymalı enginar dolması, yoğurt ve turşu varsa; önce turşu ve enginarın sebze kısmıyla başlayıp ardından kıyma ve yoğurtla devam etmek çok daha etkili olacaktır. Listenizde yer alan ızgara balık gibi seçenekler, D vitamini ve omega-3 açısından zenginliğiyle bu anti-inflamatuar süreci destekler. Fındık, çiğ badem, ceviz ve kabak çekirdeği gibi kuruyemişler ise magnezyum ve selenyum gibi değerli minerallerle hem tiroid fonksiyonlarınıza hem de kaslarınızın rahatlamasına yardımcı olur.\n\nBu hafta bir alışkanlık daha ekliyoruz: Sirke kullanımı. Yemeğe oturmadan hemen önce bir yemek kaşığı elma sirkesini yarım bardak suya karıştırıp içmek, kan şekeri kontrolünde müthiş bir etki yaratır. Sirkenin içindeki asetik asit, karbonhidratların sindirimini yavaşlatarak insülin salınımını dengeler.\n\nSon olarak, yemekten yaklaşık 20 dakika sonra yapılacak 15-20 dakikalık hafif bir aktivite, örneğin kısa bir yürüyüş, yükselen kan şekerinin kaslar tarafından insülinden bağımsız olarak kullanılmasını sağlar. Bu, lipödemle mücadelede çok güçlü bir araçtır.\n\nBu hafta, besinlerin gücünü sıralamanın gücüyle birleştirerek bedeninize çok daha derin bir iyileşme fırsatı tanıyacağız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2147,6 +2147,6 @@
   ],
   "olusturmaTarihi": "2026-06-16T07:59:54.081Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T06:35:05.949Z",
+  "sonGuncelleme": "2026-07-23T06:35:07.751Z",
   "githubKaydedildi": true
 }
