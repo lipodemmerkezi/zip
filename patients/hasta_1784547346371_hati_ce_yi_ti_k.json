@@ -224,7 +224,7 @@
       "pdfYolu": "pdfs/HATİCE YİTİK 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YİTİK 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YİTİK 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T07:36:42.430Z",
+      "kayitTarihi": "2026-07-23T07:37:59.883Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ketojenik tost (2 ince dilim haşhaş ezmesi ekmeği arasına 2 dilim ince tavuk fleto ya da 30 gram sucuk, yeşillikler,",
@@ -379,7 +379,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 2. haftaya başlıyoruz.\n\nProgramın bu ikinci haftasında, ilk hafta başlattığımız bedeni arındırma ve onarma sürecini bir adım daha ileri taşıyoruz. Lipödem gibi kronik bir durumda hızlı çözümler yerine, sabırla ve istikrarla kalıcı değişiklikler hedeflediğimizi hatırlatmak isterim. Attığınız her adım, sadece gözle görülen bir fark yaratmakla kalmıyor, aynı zamanda hücresel düzeyde bir iyileşme sürecini de tetikliyor.\n\nLipödemin temelinde yatan kronik inflamasyon (vücuttaki sessiz iltihap), yönetilmediğinde insülin direnci, hormonal dengesizlikler ve sindirim sorunları gibi başka tabloları da beraberinde getirebilir. Bu nedenle beslenme programımızı sadece bir kilo yönetimi aracı olarak değil, bütünsel bir sağlık yatırımı olarak tasarladık.\n\nBu hafta sizin için hazırladığımız listede, bu iltihapla mücadele sürecini destekleyecek şekilde sağlıklı yağları ve kaliteli proteinleri ön planda tuttuk. Listenizde göreceğiniz zeytinyağı, ceviz, fındık, kabak çekirdeği ve avokado gibi sağlıklı yağ kaynakları, insülin seviyelerini dengede tutarak vücudun yağ yakma moduna geçmesine yardımcı olur. Pek çok kişinin aksine, doğru kaynaklardan gelen ve yanında karbonhidrat olmadan tüketilen yağların kilo aldırmadığını, aksine tokluk hissini uzatarak süreci kolaylaştırdığını göreceksiniz.\n\nMenünüzdeki kırmızı et ve kabak çekirdeği gibi besinler çinko açısından zengindir; bu da doku onarımı ve bağışıklık sistemi için önemlidir. Yumurtalı ıspanak gibi seçenekler ve bitter çikolata ise magnezyum sağlayarak kas fonksiyonlarını ve genel rahatlama halini destekler. Balık tüketimiyle de omega-3 alımını sürdürerek dolaşımı desteklemeye devam ediyoruz. Kollajen takviyesine devam etmemiz de bağ dokusunu güçlendirme hedefimizin bir parçası.\n\nŞu anda vücudunuzu adeta bir yağ yakma antrenmanına sokmuş durumdayız. Bu sürece ne kadar istikrarlı devam ederseniz, hem lipödemle ilgili hem de genel sağlıkla ilgili kazanımlarınız o kadar belirgin olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -481,6 +481,6 @@
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:37:58.161Z",
+  "sonGuncelleme": "2026-07-23T07:37:59.896Z",
   "githubKaydedildi": true
 }
