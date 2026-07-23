@@ -923,7 +923,7 @@
       "pdfYolu": "pdfs/HATİCE TAMER 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE TAMER 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE TAMER 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T07:27:45.293Z",
+      "kayitTarihi": "2026-07-23T07:29:18.057Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1091,7 +1091,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle metabolizmamızın çalışma prensibi ve yemek miktarı arasındaki hassas denge üzerine konuşmak istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, “az yiyerek” sonuca ulaşılacağına inanmaktır. Oysa sadece porsiyonları küçülterek aç kalmak, çoğu zaman sürdürülemez bir yoldur. Vücut, yetersiz enerji aldığını hissettiğinde kendini korumaya alır ve metabolizma hızını yavaşlatır. Bu durum, açlık hormonu olan ghrelin seviyesini artırarak özellikle karbonhidrat ve şeker isteğini tetikler. Sonuç genellikle yorgunluk, isteksizlik ve ardından gelen yeme atakları olur.\n\nİşte biz bu döngüyü kırmak için kaloriyi kısıtlamaktan ziyade, insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturuyoruz. Sizin için hazırladığımız bu haftaki listede bu yaklaşımı net bir şekilde görebilirsiniz. Kahvaltılarda yer alan sahanda yumurta, menemen ve peynir çeşitleri gibi protein ve sağlıklı yağ açısından zengin seçenekler, güne kan şekerinizi dengeleyerek başlamanızı ve uzun süre tokluk hissetmenizi sağlar. Geçen hafta listenize yeniden eklediğimiz süt ürünlerinden olan tulum peyniri ve ev yoğurdu, hem kalsiyum hem de bağırsak sağlığınızı destekleyen probiyotikler açısından değerli kaynaklardır.\n\nAna öğünlerdeki köfte, tavuklu mantar sote, ızgara et ve fırında balık gibi kaliteli protein kaynakları, kas kütlenizi korumak için elzemdir. Unutmayın, vücut yeterli protein ve yağı alamazsa enerji için kas dokusunu kullanmaya başlayabilir. Bu da metabolizmanın daha da yavaşlamasına neden olur. Bu protein kaynakları aynı zamanda demir ve B12 vitamini gibi mikro besinleri içererek enerji seviyenizi yüksek tutmaya yardımcı olur. Yanlarında yer alan yeşil salata, göçmen salatası ve semizotu gibi bol lifli seçenekler ise sindirimi destekler ve anti-inflamatuar etkiyi güçlendirir.\n\nAra öğünlere eklediğimiz çiğ badem, ceviz ve kabak çekirdeği gibi kuruyemişler, sağlıklı yağların yanı sıra kas fonksiyonları ve sıvı dengesi için önemli olan magnezyum mineralini de sağlar. Bu sayede hem açlık hissini kontrol altında tutarız hem de vücudun mineral ihtiyacını karşılarız.\n\nZamanla listenizdeki yemeklerin değişimini de kendiniz yapabilmeye başlayacaksınız. Elinizde biriken tarif kartlarının sağ kısmındaki makro değerlerine bakarak, özellikle yağ ve protein makroları benzer olan diğer tariflerle değişim yapabilirsiniz. Bu esneklik, süreci daha keyifli ve sürdürülebilir kılacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1206,6 +1206,6 @@
   ],
   "olusturmaTarihi": "2026-07-01T14:36:08.239Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:29:14.857Z",
+  "sonGuncelleme": "2026-07-23T07:29:18.074Z",
   "githubKaydedildi": true
 }
