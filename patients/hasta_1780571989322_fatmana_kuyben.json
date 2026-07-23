@@ -1984,7 +1984,7 @@
       "pdfYolu": "pdfs/FATMANA KUYBEN 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FATMANA KUYBEN 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FATMANA KUYBEN 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T05:38:50.505Z",
+      "kayitTarihi": "2026-07-23T05:41:07.996Z",
       "tarifKartlar": [
         {
           "tarifAdi": "hindistancevizi unlu ispanaklı muffin",
@@ -2173,7 +2173,7 @@
         "lupin unlu ekmek yerine 1 adet yumurta, 10 adet çiğ badem ya da çeyrek avokado tüketebilirsiniz."
       ],
       "gptMesaj": "Merhaba Fatmana Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda sekizinci haftaya başlıyoruz.\n\nBu noktaya kadar beslenme düzeninizde önemli bir temel oluşturduk. Artık sadece ne yediğimiz değil, yiyecekleri hangi sırayla tükettiğimizin de ne kadar fark yarattığını konuşacağımız bir aşamadayız. Bu hafta odaklanacağımız bu küçük ama etkili detay, kan şekeri ve insülin dengeniz üzerinde kontrolü size vererek lipödemli dokular üzerindeki baskıyı azaltmamıza yardımcı olacak.\n\nBu haftaki temel prensibimiz, öğünleri doğru sıralamayla tüketmek. Ana mantık şu: Öğüne kan şekerini en yavaş yükselten besinlerle başlayıp, en hızlı yükseltenlerle bitirmek.\n\n1.  Önce Lif ve Sebzeler: Yemeğe oturduğunuzda ilk olarak tabağınızdaki salata veya sebzeli mezelerle başlamanızı öneririm. Listenizdeki mevsim yeşillikleri, yoğurtlu salatalık mezesi veya köz biber salatası gibi seçenekler bunun için harika bir başlangıç. Bu lifli besinler, sindirim sisteminde bir tür bariyer görevi görerek sonrasında yiyeceğiniz diğer besinlerin emilimini yavaşlatır.\n\n2.  Ardından Protein ve Yağ: Salatanızın bir kısmını bitirdikten sonra ana yemeğinize geçebilirsiniz. Mantarlı et sote, ızgara balık, köfte veya tavuk döner gibi protein ve sağlıklı yağ içeren besinleri bu aşamada tüketmek, hem tokluk sürenizi uzatır hem de kan şekeri dalgalanmalarını önler.\n\n3.  En Sona Karbonhidratlar: Listenizde bulunan lupin unlu ekmek veya ketojenik tost gibi seçenekleri öğünün en sonuna bırakmak, yaratacakları insülin tepkisini en aza indirir. Aynı dilim ekmek, öğünün başında yendiğinde kan şekerini daha hızlı yükseltirken, sonda yendiğinde bu etkisi önemli ölçüde azalır.\n\nBu sıralama, insülin hormonunun daha kontrollü salgılanmasını sağlar. Bildiğiniz gibi insülin, yağ hücrelerinin büyümesini tetikleyen bir hormondur ve lipödem sürecinde bu dengeyi korumak çok değerlidir.\n\nBu haftaki listeniz, bu prensibi uygulamanız için oldukça çeşitli ve destekleyici. Örneğin, bir öğünde ızgara balık, bol yeşillikli bir salata ve mantar sote var. Öğüne önce salata ile başlayıp, ardından balık ve mantarı yiyerek bu düzeni kolayca uygulayabilirsiniz. Tavuklu domates çorbası gibi protein içerikli çorbalar öğünün başında rahatlıkla tüketilebilir.\n\nAyrıca, bu hafta iki güçlü alışkanlığı daha hayatınıza katmanızı rica ediyorum. Birincisi, ana öğünlerden hemen önce bir bardak suya bir yemek kaşığı elma sirkesi ekleyip içmek. Sirke, karbonhidratların sindirimini yavaşlatarak kan şekeri kontrolüne ekstra bir destek sağlar. İkincisi ise yemekten 15-20 dakika sonra yapılacak 15 dakikalık hafif tempolu bir yürüyüş. Bu aktivite, kan şekerinin kaslar tarafından yakıt olarak kullanılmasını sağlayarak yağa dönüşme ihtimalini azaltır.\n\nListenizdeki besinler mikro besinler açısından da oldukça zengin. Balık, tiroid sağlığınızı destekleyen selenyum ve omega-3 açısından değerli bir kaynak. Levetron kullanımınızı da dikkate aldığımızda bu çok önemli. Avokadolu omlet veya fındık gibi seçenekler ise sağlıklı yağlar ve magnezyum sağlayarak enerji seviyenizi destekler.\n\nSüreçte çok güzel ilerliyorsunuz. Bu sekiz haftalık sürecin bedeninizdeki etkilerini daha net görebilmek adına, güncel ölçümlerinizi bizimle paylaşabilirseniz çok sevinirim. Unutmayın, tartıdaki rakamdan çok, giysilerinizdeki bollaşma ve bedeninizdeki incelme bizim için en değerli göstergeler.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2278,6 +2278,6 @@
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T05:41:05.722Z",
+  "sonGuncelleme": "2026-07-23T05:41:08.689Z",
   "githubKaydedildi": true
 }
