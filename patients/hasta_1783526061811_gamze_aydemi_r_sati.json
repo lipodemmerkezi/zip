@@ -584,7 +584,7 @@
       "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 27 TEMMUZ -2 AĞUSTOS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 27 TEMMUZ -2 AĞUSTOS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 27 TEMMUZ -2 AĞUSTOS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T05:41:40.454Z",
+      "kayitTarihi": "2026-07-23T05:43:49.585Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -722,7 +722,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Gamze Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda üçüncü haftaya başlıyoruz.\n\nProgramın ilk adımlarını geride bırakıp yeni bir aşamaya geçiyoruz. Bu hafta, sindirim sisteminizi rahatlattığımız ilk iki haftanın üzerine sağlıklı bir yapı inşa etmeye başlıyoruz. Bu doğrultuda, beslenme düzeninize kontrollü bir şekilde süt ürünlerini yeniden dahil ediyoruz. Bu geçiş, bağırsak floranızın sağlığını desteklemek ve vücudunuzun tepkilerini gözlemlemek adına önemli bir adım.\n\nBu haftadan itibaren başlayacağımız probiyotik ve prebiyotik takviyelerle birlikte, bağırsak floranızı güçlendirmeyi hedefliyoruz. Bağırsaklarımızdaki milyarlarca faydalı bakteri, sadece sindirimi değil, aynı zamanda bağışıklık sistemini, inflamasyon seviyesini ve hatta ruh halimizi bile doğrudan etkiliyor. Lipödem gibi kronik inflamatuar durumlarda, bağırsak sağlığını iyileştirmek, bedendeki genel iltihaplanmayı azaltmanın en temel yollarından biridir. Bu dengeyi kurdukça, tatlı isteği veya sürekli bir şeyler yeme ihtiyacı gibi durumların da zamanla azaldığını gözlemleyebilirsiniz.\n\nSizin için hazırladığımız bu haftaki listede, bu yeni döneme uygun düzenlemeler göreceksiniz. Özellikle yoğurtlu salatalık mezesi ve peynir gibi fermente, sindirimi daha kolay süt ürünleriyle başlıyoruz. Tulum veya kaşar peyniri, kalsiyum ve B12 vitamini açısından iyi bir kaynak olarak menünüzde yer alıyor. Ayrıca, listenizdeki ev yapımı turşu da doğal bir probiyotik kaynağı olarak bağırsaklarınızı destekleyecektir.\n\nBu hafta yumurta tüketimini biraz daha esnek hale getirdik. Gün içinde bir yumurta yerine yaklaşık 50 gram kadar peynirle değişim yapabilirsiniz. Bu, hem beslenmenize çeşitlilik katacak hem de süreci daha sürdürülebilir kılacaktır.\n\nListenizde bolca yer alan mevsim yeşillikleri, semizotu, ıspanak gibi lifli gıdalar, prebiyotik görevi görerek bağırsaklarınızdaki faydalı bakterileri besler. Salatalarınızda sirke ve limon kullanmaya devam etmeniz, hem sindirimi kolaylaştırır hem de besinlerin emilimini artırır. Izgara balık seçeneği ile alacağınız Omega-3 ve selenyum, ceviz ve bademden gelen magnezyum gibi mikro besinler de vücudun anti-inflamatuar mekanizmalarını desteklemeye devam ediyor.\n\nBu hafta, bağırsak sağlığını destekleyen her küçük adımın bedeninizdeki değişimi hızlandıracağı bir dönem. Bu nedenle önerilen takviyeleri düzenli kullanmak ve öğün dengesine dikkat etmek bu haftanın en önemli noktaları olacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -822,6 +822,6 @@
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T05:43:47.399Z",
+  "sonGuncelleme": "2026-07-23T05:43:49.601Z",
   "githubKaydedildi": true
 }
