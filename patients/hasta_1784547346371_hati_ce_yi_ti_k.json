@@ -215,24 +215,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HATİCE YİTİK 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "HATİCE YİTİK 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/HATİCE YİTİK 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YİTİK 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YİTİK 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "kayitTarihi": "2026-07-23T07:36:42.430Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:36:30.240Z",
+  "sonGuncelleme": "2026-07-23T07:36:42.430Z",
   "githubKaydedildi": true
 }
