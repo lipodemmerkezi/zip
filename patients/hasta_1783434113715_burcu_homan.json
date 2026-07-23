@@ -726,24 +726,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "BURCU HOMAN 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "BURCU HOMAN 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/BURCU HOMAN 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/BURCU HOMAN 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/BURCU HOMAN 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
+      "kayitTarihi": "2026-07-23T05:44:21.366Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T05:44:01.640Z",
+  "sonGuncelleme": "2026-07-23T05:44:21.368Z",
   "githubKaydedildi": true
 }
