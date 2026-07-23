@@ -280,7 +280,7 @@
       "pdfYolu": "pdfs/ÖZNUR AKYÜZ SÜMBÜL 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T07:31:52.871Z",
+      "kayitTarihi": "2026-07-23T07:33:12.162Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -415,7 +415,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Öznur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda ikinci haftaya başlıyoruz.\n\nProgramın bu ikinci haftasında, vücudunuzdaki iltihaplanma (inflamasyon) sürecini hedef alan eliminasyon adımlarına devam ediyoruz. Lipödemin temelinde yatan bu sessiz iltihap hali, sadece bölgesel yağlanmayı değil, zamanla insülin direncinden hormonal dengesizliklere kadar birçok farklı sağlık sorununu tetikleyebilir. Bu yüzden attığımız her adım, sadece lipödemi yönetmek için değil, genel sağlığınız için de bir yatırım niteliğinde.\n\nBu hafta sizin için hazırladığımız listede, bu anti-inflamatuar yaklaşımı destekleyecek şekilde sağlıklı yağları ve temiz protein kaynaklarını ön planda tuttuk. Sabahları güne başlarken insülin seviyesini düşük tutmak, vücudu yağ yakma moduna geçirmek için en etkili yöntemlerden biridir. Listenizdeki tereyağlı yumurta seçenekleri tam da bu amaca hizmet ediyor. Sağlıklı yağlar, kan şekerinde dalgalanmalara neden olmadan uzun süreli tokluk hissi verir ve metabolizmayı destekler.\n\nListenizde somon gibi yağlı balıklara yer verdik. Somon, güçlü bir anti-inflamatuar olan Omega-3 yağ asitleri açısından çok zengindir. Bu, hem dokulardaki ödemin azalmasına yardımcı olur hem de damar sağlığını destekler. Yine listenizdeki ceviz ve çiğ badem gibi kuruyemişler de E vitamini ve magnezyum gibi mikro besinler sağlayarak hücresel onarımı destekler. Özellikle magnezyum, kas fonksiyonları ve stres yönetimi için de kritik bir mineraldir.\n\nBu hafta et ve tavuk gibi protein kaynaklarının yanı sıra kıymalı sebze yemekleri ve kebap gibi seçenekler de bulunuyor. Bu, programın keyifli ve sürdürülebilir olmasını hedeflerken, vücudun ihtiyaç duyduğu demir ve B12 vitamini gibi önemli besinleri almanızı da sağlar. Yanında bol yeşillikli, zeytinyağlı ve sirkeli salatalar tüketmek, hem sindirimi kolaylaştırır hem de aldığınız vitamin ve minerallerin emilimini artırır. Roka, semizotu gibi yeşillikler C vitamini ve antioksidanlar açısından zengindir.\n\nAra öğün olarak eklediğimiz tuzlu ve limonlu maden suyu, özellikle karbonhidrat alımının azaldığı bu dönemde vücudun kaybedebileceği sodyum ve diğer mineralleri yerine koymak için basit ama çok etkili bir yöntemdir. Bu, olası yorgunluk veya krampların önüne geçmeye yardımcı olur.\n\nUnutmayın, şu an vücudunuza adeta yeni bir dil öğretiyoruz; enerjisini şeker yerine yağdan kullanma dilini. Bu adaptasyon süreci, sabır ve istikrarla çok daha kalıcı ve etkili sonuçlar verecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -518,6 +518,6 @@
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:33:10.008Z",
+  "sonGuncelleme": "2026-07-23T07:33:12.174Z",
   "githubKaydedildi": true
 }
