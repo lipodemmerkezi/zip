@@ -735,7 +735,7 @@
       "pdfYolu": "pdfs/BURCU HOMAN 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/BURCU HOMAN 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/BURCU HOMAN 27 TEMMUZ -2 AĞUSTOS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T05:44:21.366Z",
+      "kayitTarihi": "2026-07-23T05:45:53.693Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -911,7 +911,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Burcu Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz.\n\nİlk üç haftayı geride bırakarak önemli bir temel oluşturduk. Artık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz, çünkü bir düzen ancak zamanla ve tekrarla kalıcı hale geliyor.\n\nBu hafta sizinle metabolik hız ve yemek miktarının önemi hakkında konuşmak istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, “az yeme” fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Az yemeye çalıştığımızda, açlığı bastırmaya uğraştığımızda günün sonunda hem yorgunluk hem de isteksizlik başlar. Genellikle de ilk fırsatta elimiz karbonhidratlara ya da tatlılara gider. İşte bu durumun arkasında açlık hormonu olan ghrelin yatar.\n\nGhrelin, uzun süreli açlık ya da yetersiz enerji alımı durumunda devreye girer ve beyne güçlü “yemek ye” sinyalleri gönderir. Bu nedenle biz bu süreçte kaloriyi kısıtlamaktan ziyade insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya çalışıyoruz.\n\nBu hafta sizin için hazırladığımız listede, bu doyurucu ve besleyici yapıyı net bir şekilde görebilirsiniz. Yumurta, tulum peyniri, köfte, tavuk ve balık gibi kaliteli protein kaynakları, kas dokunuzu korurken uzun süre tok kalmanızı sağlar. Tereyağı, zeytinyağı, badem ve kabak çekirdeği gibi sağlıklı yağlar ise size gün boyu istikrarlı bir enerji verir. Geçen hafta programımıza yeniden dahil ettiğimiz yoğurt ve peynir gibi süt ürünleri de bu hafta listenizde yer almaya devam ediyor. Bu besinler hem kalsiyum hem de B vitaminleri açısından iyi birer kaynaktır.\n\nListenizdeki balık D vitamini ve omega-3 sağlarken, kırmızı et ve tavuk B12 vitamini ve çinko açısından önemlidir. Kabak çekirdeği ve badem gibi kuruyemişler ise kas fonksiyonları için gerekli olan magnezyumu almanıza yardımcı olur. Gördüğünüz gibi hedefimiz sadece doymak değil, aynı zamanda vücudun ihtiyaç duyduğu tüm mikro besinleri alarak içeriden onarımı desteklemek.\n\nZamanla listenizdeki yemeklerin değişimini de kendiniz yapabilmeye başlayacaksınız. Elinizde biriken tarif kartlarının sağ kısmındaki makro değerlerine bakarak, özellikle yağ ve protein oranları benzer olan diğer tariflerle değişim yapabilirsiniz. Bu durum, beslenme düzeninize esneklik katacak ve sürecin sürdürülebilirliğini artıracaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1027,6 +1027,6 @@
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T05:45:51.675Z",
+  "sonGuncelleme": "2026-07-23T05:45:53.708Z",
   "githubKaydedildi": true
 }
