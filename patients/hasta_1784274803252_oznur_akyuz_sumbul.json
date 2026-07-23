@@ -271,24 +271,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZNUR AKYÜZ SÜMBÜL 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZNUR AKYÜZ SÜMBÜL 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZNUR AKYÜZ SÜMBÜL 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 27 TEMMUZ -2 AĞUSTOS 2. HAFTA.pdf",
+      "kayitTarihi": "2026-07-23T07:31:52.871Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:29:36.894Z",
+  "sonGuncelleme": "2026-07-23T07:31:52.872Z",
   "githubKaydedildi": true
 }
