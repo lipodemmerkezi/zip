@@ -1387,24 +1387,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYSEL YEŞİL 27 TEMMUZ -2 AĞUSTOS 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYSEL YEŞİL 27 TEMMUZ -2 AĞUSTOS 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYSEL YEŞİL 27 TEMMUZ -2 AĞUSTOS 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYSEL YEŞİL 27 TEMMUZ -2 AĞUSTOS 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYSEL YEŞİL 27 TEMMUZ -2 AĞUSTOS 6. HAFTA.pdf",
+      "kayitTarihi": "2026-07-23T07:11:37.431Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-17T14:34:01.085Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:11:14.894Z",
+  "sonGuncelleme": "2026-07-23T07:11:37.433Z",
   "githubKaydedildi": true
 }
