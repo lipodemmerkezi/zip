@@ -1909,7 +1909,7 @@
       "pdfYolu": "pdfs/FADİM KALAYCI 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T06:10:59.889Z",
+      "kayitTarihi": "2026-07-23T06:13:20.991Z",
       "tarifKartlar": [
         {
           "tarifAdi": "hindistancevizi unlu ispanaklı muffin",
@@ -2093,7 +2093,7 @@
         "lupin unlu ekmek yerine 1 adet yumurta, 10 adet çiğ badem ya da çeyrek avokado tüketebilirsiniz."
       ],
       "gptMesaj": "Merhaba Fadim Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda sekizinci haftaya başlıyoruz.\n\nAğrılarınızda bir azalma olduğunu duymak, uyguladığımız programın doku düzeyinde olumlu yanıtlar vermeye başladığının en güzel işaretlerinden biri. Bu noktaya kadar sadece ne yediğimize odaklandık, şimdi ise sürece çok daha güçlü bir boyut katacağız: yiyecekleri hangi sırayla tükettiğimiz. Artık sadece tabakta ne olduğu değil, çatalımıza ilk neyin geldiği de önem kazanıyor.\n\nBu hafta sizinle yemek sıralamasının insülin üzerindeki etkisini konuşacağız. İnsülin, yağ hücrelerinin büyümesini ve genişlemesini tetikleyen en güçlü hormondur ve lipödemli dokular bu hormona karşı oldukça hassastır. Aynı yemeği farklı bir sırayla yiyerek insülin salınımını çok daha dengeli hale getirebiliriz. Doğru sıralama şu şekilde olmalı: önce lif, sonra protein ve yağ, en sonda ise karbonhidrat.\n\nBu hafta sizin için hazırladığımız listede bu sıralamayı kolayca uygulayabileceğiniz pek çok öğün var. Örneğin, ızgara balık yiyeceğiniz bir akşam yemeğinde, önce mevsim yeşillikleriyle hazırlanmış salatanızın bir kısmını tüketip ardından mantar soteniz ve balığınızla devam edebilirsiniz. Bu basit değişiklik bile kan şekeri yanıtınızı çok daha dengeli hale getirecektir. Listenizdeki köz biber salatası, yoğurtlu semizotu salatası gibi seçenekler de öğüne başlamak için harika lif kaynaklarıdır. Ardından köfte, tavuk döner, kıymalı enginar dolması gibi protein ve yağ içeren ana yemeklere geçmek, tokluk sürenizi uzatacak ve ani açlık krizlerini önleyecektir.\n\nBu sıralamanın etkisini daha da artırmak için sirkenin gücünden faydalanabiliriz. Ana öğünlerden hemen önce bir yemek kaşığı elma sirkesini yarım bardak suya karıştırıp içmek, karbonhidratların emilimini yavaşlatarak insülin dengesine müthiş bir katkı sağlar. Mide hassasiyetiniz yoksa bunu öğlen ve akşam yemekleri öncesinde uygulayabilirsiniz.\n\nAyrıca yemekten yaklaşık 15-20 dakika sonra yapılacak 20 dakikalık hafif tempolu bir yürüyüş, kasların kan şekerini insülinden bağımsız olarak kullanmasını sağlar. Bu da karbonhidratların yağa dönüşmeden enerji olarak yakılmasına yardımcı olur.\n\nListenizdeki besinler de bu süreci destekleyecek mikro besinler açısından oldukça zengin. Balık ve tavuk gibi protein kaynakları selenyum ve B12 vitamini sağlarken, fındık, avokado ve zeytinyağı gibi sağlıklı yağlar hücre sağlığını destekliyor. Bol yeşillikler ve turşu ise C vitamini, magnezyum ve probiyotik alımınızı güvence altına alarak hem bağışıklık sisteminize hem de bağırsak sağlığınıza yatırım yapmaya devam ediyor.\n\nBu arada, bu dönemde canınız meyve isterse, porsiyon kontrolüyle bir miktar çilek veya yaban mersini tüketebilirsiniz. Bildiğiniz gibi, daha çeşitli mevsim meyvelerine programımızın 10. haftası gibi daha ileri bir aşamada geçiş yapacağız.\n\nBu haftaki ilerleyişinizi daha net görebilmek adına güncel ölçümlerinizi de alıp bizimle paylaşabilirseniz çok sevinirim.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2199,6 +2199,6 @@
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T06:13:15.199Z",
+  "sonGuncelleme": "2026-07-23T06:13:21.007Z",
   "githubKaydedildi": true
 }
