@@ -561,7 +561,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Olcay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz.\n\nArtık programın ilk adımlarını geride bırakıp yeni bir aşamaya geçiyoruz. Bu hafta itibarıyla beslenme listenize kontrollü bir şekilde süt ürünlerini yeniden ekliyoruz. İlk iki haftadaki süreç, sindirim sisteminizi dinlendirmek ve bağırsak floranızdaki dengeyi yeniden kurmak için bir temel oluşturdu. Şimdi bu temel üzerine daha güçlü bir yapı inşa edeceğiz.\n\nBu süreci desteklemek için bu haftadan itibaren probiyotik ve prebiyotik takviyelere de başlıyoruz. Bu takviyelerle birlikte listenizdeki besinler, bağırsaklarınızdaki faydalı bakteri popülasyonunu artırarak hem bağışıklığınızı güçlendirecek hem de lipödemle ilişkili inflamasyonu azaltmaya yardımcı olacak. Bağırsak sağlığımız iyileştikçe tatlı isteği gibi dürtülerin de daha kontrol edilebilir hale geldiğini göreceksiniz.\n\nŞeker hastalığınızı da göz önünde bulundurarak, bu hafta kan şekerinizi dengede tutacak düşük karbonhidratlı ve lifli seçeneklere ağırlık verdik. Listenizde göreceğiniz karabuğday ekmeği, nohut kraker ve yulaflı tarifler bu dengeyi sağlamak için özel olarak planlandı. Aynı şekilde, yoğurt, lor ve tulum peyniri gibi fermente süt ürünleri de bu yeni dönemin ilk adımları. Bu besinler hem iyi birer protein kaynağıdır hem de probiyotik içerikleriyle bağırsak floranızı zenginleştirir.\n\nListenizdeki badem ve ceviz gibi kuruyemişler magnezyum açısından zengin olup kan şekeri dengenize destek olurken, tavuk ve kırmızı et gibi protein kaynakları da selenyum ve çinko içeriğiyle inflamasyonu baskılamaya yardımcı olacaktır.\n\nÖğünlerinize başlarken salata veya sebzelerle başlamak, ardından protein ve sağlıklı yağları, en son ise karbonhidrat kaynaklarını tüketmek kan şekeri yönetiminize ek bir katkı sağlayacaktır. Salatalarınızda elma sirkesi kullanmayı da ihmal etmeyin.\n\nBu süreçte yeterli su tüketiminin ne kadar önemli olduğunu bir kez daha hatırlatmak isterim; hem toksin atımını destekleyecek hem de metabolizmanızı canlı tutacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -663,11 +663,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "süt ürünlerine başladığımız gün prebiyotik ve probiyotiklere başlayacağız.\nMerhaba Olcay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:38:48.086Z",
+  "sonGuncelleme": "2026-07-23T07:40:45.244Z",
   "githubKaydedildi": true
 }
