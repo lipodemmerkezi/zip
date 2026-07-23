@@ -1444,7 +1444,7 @@
       "pdfYolu": "pdfs/MERAL GÜMÜŞ 27 TEMMUZ -2 AĞUSTOS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÜMÜŞ 27 TEMMUZ -2 AĞUSTOS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÜMÜŞ 27 TEMMUZ -2 AĞUSTOS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-23T07:22:03.647Z",
+      "kayitTarihi": "2026-07-23T07:24:03.399Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu salata",
@@ -1616,7 +1616,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz.\n\nGeçtiğimiz hafta programımıza yeni ve önemli bir uygulama olan manuel lenf drenaj masajını eklemiştik. Umarım videoları inceleme ve belki de deneme fırsatınız olmuştur. Bu yeni adıma başlarken aklınıza takılan herhangi bir şey olursa lütfen çekinmeden paylaşın, her adımı birlikte atlatabiliriz.\n\nAltıncı haftaya geçerken artık beslenme düzeni ve takviyeler gibi konular büyük ölçüde oturmaya başladı. Bu noktada artık daha derine, hücresel düzeyde bir iyileşmeye odaklanabiliriz. Bu haftanın konusu, lipödem tedavisinde kritik rol oynayan mikrobesinler. Bunlar vitamin ve mineraller gibi çok küçük miktarlarda ihtiyaç duyduğumuz ama vücutta çok büyük görevler üstlenen bileşiklerdir. Özellikle D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum bu süreçte öne çıkıyor.\n\nBu mikrobesinler, hücrelerimizin enerji santralleri olan mitokondrilerde çalışarak enerji üretimini artırır ve iyileşmeyi hızlandırır. Eksikliklerinde ise kişi hem daha yavaş kilo verir hem de kendini sürekli yorgun hissedebilir. Örneğin D vitamini inflamasyon kontrolü, C vitamini cildin sıkılaşması için gereken kolajen üretimi, selenyum ise lenfatik sistemin sağlıklı çalışması için gereklidir.\n\nBu hafta sizin için hazırladığımız listede bu mikrobesinleri doğal yollardan alabileceğiniz pek çok seçenek göreceksiniz. Örneğin, listenizdeki ızgara balık ve yumurta hem D vitamini hem de selenyum açısından zengin kaynaklardır. Salatalarınızda bolca yer alan roka gibi koyu yeşil yapraklı sebzeler C vitamini ve magnezyum sağlarken, ara öğünlerdeki kabak çekirdeği, badem ve fındık da çinko ve magnezyum alımınızı destekler. Köfte ve tavuk gibi protein kaynakları da çinko ve B12 vitamini ihtiyacınızı karşılamaya yardımcı olur. Bu küçük ama değerli besinler, hücresel düzeyde onarımı hızlandırarak iyileşme sürecinize doğrudan katkıda bulunuyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1719,6 +1719,6 @@
   ],
   "olusturmaTarihi": "2026-06-20T12:41:39.982Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T07:24:00.840Z",
+  "sonGuncelleme": "2026-07-23T07:24:03.902Z",
   "githubKaydedildi": true
 }
