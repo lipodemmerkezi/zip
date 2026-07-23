@@ -1900,24 +1900,27 @@
     },
     {
       "haftaNo": 8,
-      "baslangic": "2026-07-26",
-      "bitis": "2026-08-01",
+      "baslangic": "2026-07-27",
+      "bitis": "2026-08-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FADİM KALAYCI 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
+      "pdfOrijinalIsim": "FADİM KALAYCI 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
+      "pdfYolu": "pdfs/FADİM KALAYCI 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 27 TEMMUZ -2 AĞUSTOS 8. HAFTA.pdf",
+      "kayitTarihi": "2026-07-23T06:10:59.889Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-23T06:10:39.211Z",
+  "sonGuncelleme": "2026-07-23T06:10:59.892Z",
   "githubKaydedildi": true
 }
