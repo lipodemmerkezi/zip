@@ -526,7 +526,7 @@
       "pdfYolu": "pdfs/ÖZNUR AKYÜZ SÜMBÜL 3-9 AĞUSTOS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 3-9 AĞUSTOS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 3-9 AĞUSTOS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T11:36:08.459Z",
+      "kayitTarihi": "2026-07-27T11:38:47.897Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -696,7 +696,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Öznur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda üçüncü haftaya başlıyoruz.\n\nProgramın ilk adımlarını başarıyla geride bıraktık ve bedeniniz bu yeni düzene güzel bir yanıt vermeye başladı. Bu hafta, sürecin en kritik aşamalarından birine, yani bağırsak florasını yeniden yapılandırmaya odaklanıyoruz. İlk iki haftalık eliminasyon süreci, sindirim sisteminizi dinlendirmek ve vücuttaki inflamasyon yükünü hafifletmek için bir temel oluşturdu. Şimdi bu temelin üzerine sağlıklı bir mikrobiyota inşa etme zamanı.\n\nBu doğrultuda, listenize bu haftadan itibaren kontrollü bir şekilde süt ürünlerini yeniden ekledik. Özellikle tulum veya kaşar peyniri gibi fermente seçenekler, sindirimi daha kolay olduğu ve faydalı bakteriler içerdiği için iyi bir başlangıç olacaktır. Bu hafta itibarıyla, bağırsak floranızı desteklemek için probiyotik ve prebiyotik takviyelere de başlıyoruz. Bu destek, sindirim sisteminizin dengesini iyileştirirken, aynı zamanda iştah kontrolü ve özellikle tatlı isteği gibi durumların yönetilmesine de yardımcı olacaktır.\n\nSizin için hazırladığımız bu haftaki listede, bağırsak sağlığını destekleyen besinlere ağırlık verdik. Örneğin badem unu ile hazırlanan ekmek ve krepler, hem lif içeriğiyle iyi bakterileri besler hem de kan şekerinizi dengede tutar. Listenizdeki roka, semizotu, marul gibi bol çeşitli yeşillikler ve bunlara eklediğiniz sirke, sadece vitamin ve mineral sağlamakla kalmaz, aynı zamanda sindirimi kolaylaştırarak bağırsak ortamını da iyileştirir.\n\nYumurta tüketimini biraz daha çeşitlendirmek adına, gün içinde bir yumurta yerine yaklaşık 30 gram kadar peynirle değişim yapabilirsiniz. Bu, süreci daha keyifli ve sürdürülebilir kılacaktır. Listenizdeki somon gibi yağlı balıklar Omega-3 sağlarken, çiğ badem, ceviz ve kabak çekirdeği gibi kuruyemişler de magnezyum ve çinko gibi mineraller açısından zengindir. Bu mikro besinler, bağırsak duvarının bütünlüğünü korumak ve inflamasyonu azaltmak için kritik öneme sahiptir.\n\nUnutmayın, bağırsak sağlığı, lipödem gibi kronik inflamatuar durumlarda iyileşmenin anahtarıdır. Bu hafta atacağınız her adım, sadece sindiriminizi değil, genel enerji seviyenizi ve hatta ruh halinizi bile olumlu yönde etkileyecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -805,6 +805,6 @@
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T11:38:46.008Z",
+  "sonGuncelleme": "2026-07-27T11:38:47.912Z",
   "githubKaydedildi": true
 }
