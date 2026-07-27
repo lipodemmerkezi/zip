@@ -1236,7 +1236,7 @@
       "pdfYolu": "pdfs/SERAP ÜNAL 3-9 AĞUSTOS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERAP ÜNAL 3-9 AĞUSTOS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERAP ÜNAL 3-9 AĞUSTOS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T13:04:42.299Z",
+      "kayitTarihi": "2026-07-27T13:06:45.772Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu salata",
@@ -1407,7 +1407,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Serap Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 6. haftaya başlıyoruz.\n\nGeçtiğimiz hafta başladığınız masaj uygulamasının ve beslenme düzeninizin birleşimiyle vücudunuzda yeni bir iyileşme evresine girdik. Ölçümlerdeki olumlu gidişat, attığımız adımların ne kadar doğru olduğunu ve bedeninizin bu sürece ne kadar güzel yanıt verdiğini gösteriyor. Bu noktada, artık daha derin, hücresel düzeyde bir onarım sürecine odaklanabiliriz. Bu haftanın ana konusu, lipödem tedavisinin gizli kahramanları olan mikrobesinler.\n\nMikrobesinler, yani vitamin ve mineraller, vücudumuzun çok küçük miktarlarda ihtiyaç duyduğu ama olmadan da hayati fonksiyonlarını yerine getiremediği bileşiklerdir. Onları bir inşaatın görünmeyen ama en önemli malzemeleri gibi düşünebilirsiniz. Lipödem sürecinde özellikle D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum bizim için çok değerli. Bu besinler, hücrelerimizin enerji santralleri olan mitokondrilerde çalışarak enerji üretimini artırır, iltihabı baskılar ve doku onarımını hızlandırır. Eksikliklerinde ise hem kilo verme süreci yavaşlar hem de kendimizi sürekli yorgun ve halsiz hissedebiliriz.\n\nBu hafta sizin için hazırladığımız listede, bu mikrobesinleri doğal yollarla alabileceğiniz pek çok lezzetli seçenek bulunuyor. Örneğin, listenizdeki ızgara balık, hem kronik inflamasyonla savaşan D vitamini hem de tiroit ve lenfatik sistem sağlığı için kritik olan selenyum açısından zengin bir kaynaktır. Tepsi kebabı, kokoreç gibi hayvansal proteinler, enerji metabolizması ve sinir sistemi için önemli olan B12 vitamini ile doku onarımında görevli çinkoyu bolca içerir.\n\nYeşillikler, roka salatası ve köz biber salatası gibi seçenekler ise C vitamini alımınızı destekler. C vitamini, masajla birlikte uyardığımız kolajen üretiminin temel taşıdır; cildin sıkılaşmasına ve damar yapısının güçlenmesine yardımcı olur. Kabak çekirdeği, çiğ badem ve fındık gibi kuruyemişler de kas fonksiyonları ve uyku kalitesi için önemli olan magnezyum açısından harika kaynaklardır.\n\nGeçen hafta başladığınız masajları düzenli olarak uygulamaya devam etmeniz bu süreçte çok önemli. Masaj, lenfatik sisteminizi harekete geçirerek dokularda biriken sıvı ve toksinleri atarken, bu hafta odaklandığımız mikrobesinler de o dokuların onarılması ve güçlenmesi için gerekli malzemeyi sağlar. Bu ikisi birleştiğinde, iyileşme süreci katlanarak hızlanır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1509,6 +1509,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T13:06:43.782Z",
+  "sonGuncelleme": "2026-07-27T13:06:48.021Z",
   "githubKaydedildi": true
 }
