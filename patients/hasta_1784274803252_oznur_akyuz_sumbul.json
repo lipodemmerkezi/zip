@@ -517,24 +517,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-08-02",
-      "bitis": "2026-08-08",
+      "baslangic": "2026-08-03",
+      "bitis": "2026-08-09",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖZNUR AKYÜZ SÜMBÜL 3-9 AĞUSTOS 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÖZNUR AKYÜZ SÜMBÜL 3-9 AĞUSTOS 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÖZNUR AKYÜZ SÜMBÜL 3-9 AĞUSTOS 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 3-9 AĞUSTOS 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 3-9 AĞUSTOS 3. HAFTA.pdf",
+      "kayitTarihi": "2026-07-27T11:36:08.459Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T11:35:44.943Z",
+  "sonGuncelleme": "2026-07-27T11:36:08.460Z",
   "githubKaydedildi": true
 }
