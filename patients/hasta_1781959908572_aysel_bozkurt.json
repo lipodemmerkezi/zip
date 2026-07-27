@@ -1702,24 +1702,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-08-02",
-      "bitis": "2026-08-08",
+      "baslangic": "2026-08-03",
+      "bitis": "2026-08-09",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYSEL BOZKURT 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYSEL BOZKURT  3-9 AĞUSTOS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYSEL BOZKURT 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYSEL BOZKURT 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYSEL BOZKURT 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-07-27T12:57:35.155Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-20T12:51:48.572Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:57:15.292Z",
+  "sonGuncelleme": "2026-07-27T12:57:35.157Z",
   "githubKaydedildi": true
 }
