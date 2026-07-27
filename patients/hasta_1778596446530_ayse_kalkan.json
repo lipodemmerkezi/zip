@@ -3416,24 +3416,27 @@
     },
     {
       "haftaNo": 13,
-      "baslangic": "2026-08-02",
-      "bitis": "2026-08-08",
+      "baslangic": "2026-08-03",
+      "bitis": "2026-08-09",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE KALKAN 3-9 AĞUSTOS 13. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE KALKAN 3-9 AĞUSTOS 13. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE KALKAN 3-9 AĞUSTOS 13. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE KALKAN 3-9 AĞUSTOS 13. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE KALKAN 3-9 AĞUSTOS 13. HAFTA.pdf",
+      "kayitTarihi": "2026-07-27T06:48:01.062Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:34:06.530Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T06:47:41.642Z",
+  "sonGuncelleme": "2026-07-27T06:48:01.066Z",
   "githubKaydedildi": true
 }
