@@ -1905,7 +1905,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda yedinci haftaya başlıyoruz.\n\nYedinci haftaya girerken artık beslenme düzeniniz büyük ölçüde oturdu, vücudunuz bu yeni ritme uyum sağlamaya başladı. Bu dönem, bazen sürecin rutine bindiği ve motivasyonun dalgalanabildiği bir zaman olabilir, bu çok doğal. Bu yüzden bu hafta sizinle, programın en başından beri kullandığımız takviyelerin arkasındaki mantığı, yani bu sürecin \"neden\"lerini biraz daha derinlemesine konuşmak istiyorum.\n\nBelki de bu takviye listesi size başta biraz uzun gelmiş olabilir: Boswellia serrata, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kollajen. Ancak her birinin lipödemli dokunun iyileşme sürecinde çok özel bir görevi var.\n\nBoswellia serrata, vücudunuzdaki o sessiz ve yorucu iltihaplanmayı yatıştırmak için çalışır. Özellikle lipödemli dokularda ağrıya ve sertliğe yol açan mikroskobik iltihap süreçlerinin sakinleşmesine yardımcı olur. Bu, dokuların daha yumuşak hissedilmesini ve ödemin daha kolay atılmasını sağlar.\n\nKoenzim Q10 ise hücrelerimizin enerji santrallerinin yakıtı gibidir. Vücudun daha dinç hissetmesine yardımcı olurken, yağ dokusunda başlayan çözülme sürecinin daha verimli ilerlemesini destekler.\n\nKurkumin, yani zerdeçalın özü, güçlü bir antioksidandır. Vücuttaki hücresel stresi azaltarak şişkinliğin hafiflemesine ve dokuların kendini onarmasına destek olur.\n\nAstaksantin, cildin sıkılaşmasını ve kolajen üretimini teşvik eden en güçlü antioksidanlardan biridir. Lenf sisteminin taşıma kapasitesini de olumlu etkileyebilir.\n\nBromelain ise ananastan elde edilen ve özellikle ödemin çözülmesine yardımcı olan doğal bir enzimdir. Geçen haftalarda başladığımız masajla birleştiğinde, sertleşmiş dokuların yumuşaması için harika bir sinerji yaratır.\n\nResveratrol üzüm kabuğunda bulunur, damar sağlığını ve dolaşımı destekler. Sağlıklı bir dolaşım, lipödemli dokunun iyileşmesi için en temel ihtiyaçlardan biridir.\n\nKollajen ise cildin elastikiyetini artırarak incelen bölgelerde sarkmaların önüne geçmek için önemli bir destektir.\n\nBu hafta sizin için hazırladığımız listede bu süreci destekleyen harika besinler de var. Örneğin ızgara balık, hem omega-3 ile iltihabı azaltır hem de selenyum ile lenfatik sisteme destek olur. Köfte ve tavuk pirzola gibi protein kaynakları doku onarımını sağlarken, kabak çekirdeği ve çiğ badem gibi kuruyemişler çinko ve magnezyum gibi kritik mineralleri almanıza yardımcı olur. Listenizde dondurma, kabak lazanya gibi keyifli seçeneklerin de olduğunu göreceksiniz. Bu süreçte sürdürülebilirlik en az içerik kadar önemli.\n\nBu takviyeler birer sihirli değnek değil, ancak doğru beslenme ve masajla birleştiğinde, vücudunuzu içeriden destekleyerek iyileşme sürecini hem daha konforlu hem de daha etkili hale getirirler.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -2006,11 +2006,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "mesajlara cevap vermiyor. program uyumu nasıl?\nMerhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-20T12:41:39.982Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:52:07.273Z",
+  "sonGuncelleme": "2026-07-27T12:56:47.028Z",
   "githubKaydedildi": true
 }
