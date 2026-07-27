@@ -508,7 +508,7 @@
       "pdfYolu": "pdfs/ŞERMİN KÖRÜK 3-9 AĞUSTOS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERMİN KÖRÜK 3-9 AĞUSTOS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERMİN KÖRÜK 3-9 AĞUSTOS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T12:41:40.215Z",
+      "kayitTarihi": "2026-07-27T12:43:22.266Z",
       "tarifKartlar": [
         {
           "tarifAdi": "keten tohumu ekmeği",
@@ -646,7 +646,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Şermin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda üçüncü haftaya başlıyoruz.\n\nArtık programın ilk adımlarını geride bıraktık ve sindirim sistemimizi yeniden yapılandıracağımız yeni bir aşamaya geçiyoruz. İlk iki haftalık süreç, vücudunuzdaki olası hassasiyetleri gözlemlemek ve bağırsak duvarının onarımı için bir zemin hazırlamak adına çok önemliydi. Şimdi bu sağlam temel üzerine sağlıklı bir flora inşa etmeye başlıyoruz.\n\nBu hafta itibarıyla beslenme listenize kontrollü bir şekilde süt ürünlerini yeniden dahil ettik. Özellikle listenizde göreceğiniz tulum peyniri ve yoğurtlu salatalık mezesi gibi fermente seçenekler, bağırsak floranızı zenginleştirecek faydalı bakteriler, yani probiyotikler açısından oldukça değerlidir. Bu hafta başlayacağımız prebiyotik takviyeler ise bu faydalı bakterilerin besini olacak ve onların bağırsak sisteminizde çoğalmasını destekleyecektir. Bu ikili yaklaşım, sindirim sisteminizin dengesini iyileştirirken, iştah kontrolü ve tatlı isteği gibi durumların yönetilmesini de kolaylaştıracaktır.\n\nBağırsak sağlığı, lipödem gibi kronik inflamatuar durumlarda kilit bir rol oynar. Çünkü vücudumuzdaki inflamasyonun önemli bir kısmı kontrolsüz bir bağırsak florasından kaynaklanabilir. Bağırsaklardaki bu dengeyi sağladığımızda, sadece sindirimimiz rahatlamakla kalmaz, aynı zamanda bağışıklık sistemimiz güçlenir ve hatta ruh halimiz üzerinde bile olumlu etkiler gözlemleyebiliriz.\n\nListenize bu hafta eklediğimiz ev yapımı turşu da doğal bir probiyotik kaynağı olarak bu süreci destekleyecektir. Izgara balık ve roka salatası gibi öğünler, omega-3 ve C vitamini gibi antiinflamatuar bileşenlerle vücudunuzdaki iltihabi yanıtı azaltmaya yardımcı olurken; ceviz ve çiğ badem gibi kuruyemişler de selenyum ve magnezyum gibi mikro besinlerle hücresel onarımı destekler.\n\nSüt ürünleri listeye geri döndüğü için yumurta tüketimini biraz daha esnek hale getirdik. Dilerseniz bir yumurta yerine yaklaşık 30-50 gram kadar peynir tüketerek kahvaltılarınıza çeşitlilik katabilirsiniz. Bu, süreci daha sürdürülebilir kılmamıza yardımcı olacaktır.\n\nBu hafta, bağırsak sağlığını destekleyen her küçük adımın bedeninizdeki değişimi hızlandıracağı bir dönemdeyiz. Bu yüzden önerilen takviyeleri düzenli kullanmak ve öğün dengesine dikkat etmek bu haftanın en önemli noktaları olacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -746,6 +746,6 @@
   ],
   "olusturmaTarihi": "2026-07-18T08:51:29.998Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:43:20.570Z",
+  "sonGuncelleme": "2026-07-27T12:43:24.306Z",
   "githubKaydedildi": true
 }
