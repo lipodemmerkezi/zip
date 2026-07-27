@@ -1547,24 +1547,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-08-02",
-      "bitis": "2026-08-08",
+      "baslangic": "2026-08-03",
+      "bitis": "2026-08-09",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "DEFNE SERİNKEN 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "DEFNE SERİNKEN 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/DEFNE SERİNKEN 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/DEFNE SERİNKEN 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/DEFNE SERİNKEN 3-9 AĞUSTOS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-07-27T12:10:48.452Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-18T06:27:42.620Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:10:27.020Z",
+  "sonGuncelleme": "2026-07-27T12:10:48.454Z",
   "githubKaydedildi": true
 }
