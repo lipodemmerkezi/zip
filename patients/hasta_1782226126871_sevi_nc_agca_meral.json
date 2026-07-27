@@ -1497,10 +1497,44 @@
       "tarifler": [],
       "gptMesaj": "",
       "kilitli": false
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-08-14",
+      "bitis": "2026-08-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-08-20",
+      "bitis": "2026-08-26",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-23T14:48:46.871Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T13:01:27.499Z",
+  "sonGuncelleme": "2026-07-27T13:01:54.707Z",
   "githubKaydedildi": true
 }
