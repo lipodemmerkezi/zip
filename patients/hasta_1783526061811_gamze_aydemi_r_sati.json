@@ -830,7 +830,7 @@
       "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 3-9 AĞUSTOS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 3-9 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 3-9 AĞUSTOS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T12:35:22.074Z",
+      "kayitTarihi": "2026-07-27T12:38:18.532Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -1008,7 +1008,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Gamze Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda dördüncü haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle metabolik hız ve yemek miktarının öneminden bahsetmek istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, “az yeme” fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Az yemeye çalıştıkça açlık hormonu olan ghrelin devreye girer ve bu durum genellikle ani karbonhidrat veya tatlı isteklerine yol açar. Bu nedenle biz bu süreçte kaloriyi kısıtlamaktan ziyade insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya çalışıyoruz. Çok az yemek, dışarıdan kontrollü gibi görünse de içeride metabolizmayı yavaşlatır. Vücut enerji tasarrufuna geçer, bu da motivasyon kaybına yol açabilir. Biz bu döngüyü kırmak istiyoruz.\n\nBu hafta sizin için hazırladığımız listede bu dengeyi destekleyecek pek çok seçenek görebilirsiniz. Örneğin, çıtır tavuk, köfte ve somon fleto gibi hayvansal proteinler, kas dokusunu koruyarak metabolizmanızın yavaşlamasını önler ve uzun süre tok kalmanızı sağlar. Özellikle somon, hem güçlü bir anti-inflamatuar olan Omega-3 hem de lipödem sürecinde kritik öneme sahip D vitamini açısından zengin bir kaynaktır.\n\nGeçen hafta programımıza yeniden dahil ettiğimiz peynir ve ev yoğurdu gibi süt ürünleri bu hafta da listenizde yer alıyor. Bunlar kalsiyum ve B12 vitamini sağlarken, ev yoğurdu ve turşu gibi fermente gıdalar bağırsak floranızı desteklemeye devam edecek. Avokadolu omlet, çiğ badem, ceviz ve zeytinyağı gibi sağlıklı yağlar ise hem tokluk hissini artırır hem de vücudun iltihaplanma ile mücadelesine yardımcı olur. Bu besinler aynı zamanda magnezyum gibi sinir sistemi ve kas fonksiyonları için önemli bir minerali de içerir.\n\nProgramımızın bir parçası olan kollajen desteğini de hatırlatmak isterim. Listede toz formunu görmediğiniz günlerde tablet formunda devam edebilirsiniz. Ayrıca yeşillikleri dilediğiniz gibi çeşitlendirebilirsiniz; bu esneklik süreci daha keyifli hale getirecektir. Zamanla elinizdeki tarif kartlarının makro değerlerini kullanarak kendi değişimlerinizi yapmaya başlayacaksınız. Bu, beslenme düzeninizde daha esnek olmanızı ve sürecin sürdürülebilirliğini artırmanızı sağlayacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1108,6 +1108,6 @@
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:38:16.788Z",
+  "sonGuncelleme": "2026-07-27T12:38:18.549Z",
   "githubKaydedildi": true
 }
