@@ -2155,7 +2155,7 @@
       "pdfYolu": "pdfs/ŞERİFE ÇARAY 3-9 AĞUSTOS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERİFE ÇARAY 3-9 AĞUSTOS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERİFE ÇARAY 3-9 AĞUSTOS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T12:18:40.961Z",
+      "kayitTarihi": "2026-07-27T12:24:52.872Z",
       "tarifKartlar": [
         {
           "tarifAdi": "pita ekmeği (1 adet)",
@@ -2340,7 +2340,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nMerhaba Şerife Hanım, Dr. Mustafa ben. Umarım iyisinizdir ve ameliyat sonrası toparlanma süreciniz yolunda gidiyordur.\n\nProgramımızın 8. haftasındayız. Bu hafta, şimdiye kadar oluşturduğumuz temeli sağlamlaştırıyor ve bir sonraki adıma hazırlanıyoruz.\n\nİstikrarlı ilerlemeniz sayesinde önümüzdeki hafta itibarıyla programımızın üçüncü temel ayağı olan hedefe yönelik egzersizlere geçiş yapacağız. Bu hafta lenf drenaj masajına ve beslenmeye odaklanmaya devam ediyoruz. Gelecek hafta ise masaj sıklığını azaltıp yerine düzenli egzersizleri ekleyerek süreci bir üst seviyeye taşıyacağız.\n\nİlk haftalarda masajla yüzeydeki lenf sistemini uyardık. Yakında başlayacağımız egzersizlerle ise kasların pompalama etkisinden faydalanarak dolaşımın daha derin katmanlarını harekete geçireceğiz. Bu sayede beslenme, masaj ve egzersiz üçlüsü bir araya gelerek çok daha güçlü bir etki yaratacak.\n\nBu haftaki beslenme listeniz de vücudunuzu dinlendirmeye, onarmaya ve bir sonraki aşamaya hazırlamaya yönelik hazırlandı:\n\n   Protein Desteği: Kuzu güveç, köfte ve ızgara balık gibi seçenekler kas ve doku onarımını destekler.\n   Sağlıklı Yağlar ve Mineraller: Ceviz, fındık ve zeytinyağı tokluk hissi verirken kaslarınızın rahatlamasına yardımcı olur.\n   Lif ve Vitaminler: Kıymalı kabak dolması ve ıspanak gibi sebze yemekleri vücudunuza değerli mineraller sunar.\n   Bağırsak Sağlığı: Ev yoğurdu ve turşu gibi fermente gıdalar bağışıklığınızı güçlendirir.\n\nListenizdeki San Sebastian Cheesecake gibi keyifli bir seçenek, bu sürecin yasaklarla dolu bir diyet değil, sürdürülebilir bir yaşam tarzı olduğunu hatırlatır.\n\nVücudunuz bu sisteme artık uyum sağladı. Şimdiye kadar oluşturduğunuz bu düzenli rutin, hem fiziksel hem de ruhsal olarak size çok iyi gelecek.\n\nHer zaman olduğu gibi sorularınız için bize ulaşabilirsiniz. Bu haftaki gözlemlerinizi ve ilerlemenizi merakla bekliyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2449,6 +2449,6 @@
   ],
   "olusturmaTarihi": "2026-06-16T07:59:54.081Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:24:50.715Z",
+  "sonGuncelleme": "2026-07-27T12:24:53.386Z",
   "githubKaydedildi": true
 }
