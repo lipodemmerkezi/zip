@@ -1395,7 +1395,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Çiğdem Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz.\n\nArtık programın önemli bir kısmını geride bıraktık; beslenme düzeni oturdu, geçen hafta başladığımız masaj uygulamaları ile lenf sistemini de desteklemeye başladık. Bu noktada artık süreci daha derin bir katmana, yani hücresel düzeye taşımak istiyoruz. Bu haftaki konumuz, lipödem tedavisinde sessiz kahramanlar olan mikrobesinler.\n\nLipödem tedavisinde yalnızca ne yediğimiz değil, bu besinlerin içindeki vitamin ve minerallerin hücrelerimize ulaşıp onarımı başlatması da çok önemlidir. D vitamini ve selenyum gibi mikrobesinler vücuttaki inflamasyonun kontrolünde kilit rol oynarken, çinko ve C vitamini cildin sıkılaşması ve bağ dokusunun onarımı için gereklidir. Enerji seviyeniz ve kendinizi daha dinç hissetmeniz için ise B12 vitamini ve magnezyum gibi desteklere ihtiyaç duyarız. Yeterli mikrobesin alımı, hem iyileşmeyi hızlandırır hem de yorgunluk hissini azaltır.\n\nBu hafta sizin için hazırladığımız listede bu mikrobesinleri bolca bulabileceğiniz seçenekler oluşturduk. Örneğin, listenizdeki ciğer kavurma, B12 ve çinko açısından harika bir kaynaktır. Izgara balık seçeneği ile hem D vitamini hem de tiroit fonksiyonları için önemli olan selenyum alımınızı destekliyoruz. Günlük salatalarınızdaki bol yeşillik ve közlenmiş kapya biber C vitamini sağlarken, ara öğünlerdeki çiğ badem, ceviz ve kabak çekirdeği de magnezyum ihtiyacınızı karşılamaya yardımcı olacak.\n\nListenizde lor ekmeği ve kabak çekirdeği unlu tost gibi seçenekler var. Geçenlerde konuştuğumuz protein ekmeğini temin edebildiyseniz, bu tariflerle de değişim yapabilirsiniz. Bu tür esneklikler süreci daha keyifli hale getirecektir.\n\nBeslenme ve masajla dışarıdan başlattığımız bu iyileşme sürecini, şimdi mikrobesinlerle içeriden, yani hücresel düzeyde de güçlendirmiş oluyoruz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1486,11 +1486,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "program uyumu iyi. haşhaş ezmesi ekmeği yerine file deki protein ekmeği önerdik. temin edebilmiş mi\nMerhaba Çi̇ğdem Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-30T19:40:02.813Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T13:12:29.950Z",
+  "sonGuncelleme": "2026-07-27T13:14:11.464Z",
   "githubKaydedildi": true
 }
