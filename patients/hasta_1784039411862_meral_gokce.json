@@ -738,7 +738,7 @@
       "pdfYolu": "pdfs/MERAL GÖKCE 3-9 AĞUSTOS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÖKCE 3-9 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÖKCE 3-9 AĞUSTOS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T12:39:01.299Z",
+      "kayitTarihi": "2026-07-27T12:40:38.863Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -919,7 +919,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda dördüncü haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. İlk haftalar temel atmakla geçti, şimdi ise bu yapı üzerine daha kalıcı alışkanlıklar inşa etmeye başlıyoruz.\n\nBu hafta sizinle lipödem sürecinde sıkça düşülen bir yanılgı hakkında konuşmak istiyorum: \"başarılı olmak için çok az yemek gerektiği\" düşüncesi. Pek çok kişi kilo verme hedefine ulaşmak için porsiyonları aşırı küçültür, aç kalmaya çalışır. Ancak bu durum, vücudun kendini koruma altına almasına ve metabolizmayı yavaşlatmasına neden olur. Vücut bir \"kıtlık\" sinyali alır, enerji harcamasını azaltır, bu da yorgunluk, üşüme ve hatta motivasyon kaybı gibi sonuçlar doğurur. En önemlisi de açlık hormonu olan ghrelin seviyesini yükselterek ani ve kontrolsüz yeme ataklarına zemin hazırlar.\n\nBizim yaklaşımımız ise tam tersi. Kalorileri saymak yerine, vücudunuza doğru sinyalleri veren, besleyici ve doyurucu gıdalarla onu desteklemeyi hedefliyoruz. Bu hafta sizin için hazırladığımız listede bu doyuruculuk ilkesini net bir şekilde görebilirsiniz. Örneğin, güne başlarken avokadolu omlet veya öğünlerinizde yer alan somon, tavuk sote, köfte gibi seçenekler, yüksek kaliteli protein ve sağlıklı yağ içeriğiyle hem kas dokunuzu korur hem de sizi uzun saatler tok tutar. Bu sayede açlık krizlerinin ve karbonhidrat isteklerinin önüne geçmiş oluruz.\n\nListenize eklediğimiz somon fleto, sadece iyi bir protein kaynağı olmakla kalmaz, aynı zamanda içerdiği zengin omega-3 ve D vitamini ile lipödeme bağlı inflamasyonun baskılanmasına yardımcı olur. Geçen hafta programımıza geri dönen peynir ve bu hafta eklediğimiz ev yoğurdu gibi seçenekler ise hem kalsiyum ihtiyacını karşılar hem de üçüncü haftada desteklemeye başladığımız bağırsak floranız için faydalı probiyotikler sunar.\n\nSürecin keyifli ve sürdürülebilir olması da bizim için çok önemli. Bu nedenle listenizde tavuklu kabak noodle veya ketojenik pizza gibi hem lezzetli hem de programımıza uygun tarifler bulabilirsiniz. Bu tarifler, beslenmenin bir kısıtlama değil, bir keşif yolculuğu olabileceğini gösteriyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1027,6 +1027,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:40:37.095Z",
+  "sonGuncelleme": "2026-07-27T12:40:38.881Z",
   "githubKaydedildi": true
 }
