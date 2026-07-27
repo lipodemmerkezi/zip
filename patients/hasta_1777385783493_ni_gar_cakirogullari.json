@@ -2,7 +2,7 @@
   "id": 1777385783493,
   "isim": "NİGAR ÇAKIROĞULLARI",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4081,6 +4081,6 @@
   ],
   "olusturmaTarihi": "2026-04-28T14:16:23.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-22T13:12:18.935Z",
+  "sonGuncelleme": "2026-07-27T06:39:20.610Z",
   "githubKaydedildi": true
 }
