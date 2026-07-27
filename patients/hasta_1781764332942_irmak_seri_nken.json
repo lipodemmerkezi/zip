@@ -1593,7 +1593,7 @@
       "pdfYolu": "pdfs/IRMAK SERİNKEN 3-9 AĞUSTOS 12. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/IRMAK SERİNKEN 3-9 AĞUSTOS 12. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/IRMAK SERİNKEN 3-9 AĞUSTOS 12. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T12:12:37.922Z",
+      "kayitTarihi": "2026-07-27T12:15:16.782Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1780,7 +1780,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Irmak Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 12. haftaya başlıyoruz.\n\nOn ikinci haftaya ulaşmak, bedenin yeni çalışma düzenine ne kadar derinlemesine adapte olduğunun en güzel göstergesi. Bu aşamada artık vücudunuz enerji için karbonhidratlara bağımlı olmak yerine, yağları birincil yakıt olarak kullanma konusunda oldukça ustalaştı. Bu metabolik esneklik, lipödemle mücadelede hedeflediğimiz en temel kazanımlardan biri, çünkü bu durum hem sürekli bir anti-inflamatuar ortam yaratıyor hem de enerji seviyenizi gün boyu daha dengeli tutuyor. Program uyumunuzun bu kadar iyi olması, bu adaptasyon sürecini ne kadar başarılı bir şekilde yönettiğinizi de gösteriyor.\n\nBu hafta sizin için hazırladığımız liste de bu sürdürülebilirliği ve besin çeşitliliğini destekleyecek şekilde oluşturuldu. Ketojenik tost veya haşhaş ezmesi ekmeği gibi seçenekler, süreci keyifli ve sosyal hayata uyumlu hale getirirken, kan şekeri dengenizi korumanızı sağlıyor. Beşamel soslu karnabahar gibi tarifler ise alışkın olduğunuz lezzetleri lipödem dostu bir formda tüketmenize olanak tanıyarak bu beslenme tarzının bir diyetten çok, bir yaşam biçimine dönüşmesine yardımcı oluyor.\n\nListenizdeki patlıcanlı tavuk sote, ızgara balık ve sulu köfte gibi çeşitli protein kaynakları, doku onarımını desteklerken, selenyum ve çinko gibi lipödemli dokunun ihtiyaç duyduğu temel mineralleri almanıza yardımcı oluyor. Özellikle balık, içerdiği omega-3 ile inflamasyonu baskılamada kilit bir rol oynamaya devam ediyor. Avokado, ceviz, zeytinyağı ve tahin gibi sağlıklı yağlar, hormonal denge ve hücre sağlığı için vazgeçilmez. Yanında bolca yer verdiğimiz roka, semizotu ve ıspanak gibi koyu yeşil yapraklı sebzeler ise magnezyum ve C vitamini gibi mikro besinlerle hem detoks süreçlerini destekliyor hem de cildin kolajen üretimini teşvik ediyor.\n\nBu süreçte beslenmenin yanı sıra, düzenli masaj ve egzersiz rutinlerinin de önemini bir kez daha hatırlatmak isterim. Bedeniniz içeriden beslenirken, dışarıdan uygulanan lenf drenaj masajı, toksinlerin atılmasına ve ödemin çözülmesine ciddi anlamda destek olur. Bu iki yaklaşım birleştiğinde etki katlanarak artar.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1882,6 +1882,6 @@
   ],
   "olusturmaTarihi": "2026-06-18T06:32:12.942Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:15:13.969Z",
+  "sonGuncelleme": "2026-07-27T12:15:19.328Z",
   "githubKaydedildi": true
 }
