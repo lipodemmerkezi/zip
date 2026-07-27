@@ -1288,7 +1288,7 @@
       "pdfYolu": "pdfs/NECİBE ÇALIŞKAN ÇOBAN 3-9 AĞUSTOS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 3-9 AĞUSTOS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 3-9 AĞUSTOS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T13:07:53.173Z",
+      "kayitTarihi": "2026-07-27T13:09:05.293Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lor ekmeği (1 dilim)",
@@ -1464,7 +1464,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Necibe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda altıncı haftaya başlıyoruz.\n\nArtık beslenme düzeniniz, takviyeleriniz ve geçen hafta başladığımız masaj uygulamalarıyla birlikte programın büyük bir kısmı hayatınızda yer etmeye başladı. Bu noktada, bedensel iyileşmenin daha derin bir katmanına odaklanmak istiyorum: mikrobesinlerin lipödem tedavisindeki kritik rolü.\n\nBu süreçte sadece tartıdaki değişime değil, bölgesel incelmeye ve doku kalitesindeki iyileşmeye odaklandığımızı biliyorsunuz. Kıyafetlerinizdeki bollaşma, aynadaki görünümünüz ve genel olarak nasıl hissettiğiniz, en az ölçümler kadar değerli göstergelerdir. Şimdi bu iyileşmeyi hücresel düzeyde destekleme zamanı.\n\nMikrobesinler, yani vitamin ve mineraller, vücudumuzun çok küçük miktarlarda ihtiyaç duyduğu ama yaşamsal fonksiyonlar için devasa görevler üstlenen bileşiklerdir. Özellikle D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum, lipödem sürecinde öne çıkar. Bunlar, hücrelerimizin enerji santralleri olan mitokondrilerde çalışarak enerji üretimini artırır ve iyileşmeyi hızlandırır. Yetersiz olduklarında ise hem kilo verme süreci yavaşlar hem de kendimizi sürekli yorgun hissederiz.\n\nBu hafta sizin için hazırladığımız listede bu mikrobesinleri bolca bulabileceğiniz seçenekler göreceksiniz. Örneğin listenizdeki ızgara balık, hem bağışıklık sistemini düzenleyen D vitamini hem de lenfatik sistem için çok değerli olan selenyum açısından zengindir. Ciğer kavurma ve köfte gibi seçenekler, enerji metabolizmanız için kritik olan B12 vitamini ve çinko desteği sağlar. Salatalarınızda bolca yer verdiğimiz koyu yeşil yapraklı sebzeler ve közlenmiş biberler C vitamini ile kolajen üretimini desteklerken, ara öğünlerdeki çiğ badem ve kabak çekirdeği gibi kuruyemişler de kas fonksiyonları ve rahatlama için önemli olan magnezyumu karşılamanıza yardımcı olacak.\n\nGördüğünüz gibi, beslenme bu sürecin temel taşı olsa da, asıl derin iyileşme bu mikro düzeyde gerçekleşiyor. Bu hafta size bu konuyla ilgili detaylı bir bilgilendirme dosyası da göndereceğiz. Bu bilgiler ışığında, beslenmenize daha bilinçli yaklaşarak süreci daha da etkili hale getirebilirsiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1560,6 +1560,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T11:36:42.017Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T13:09:03.137Z",
+  "sonGuncelleme": "2026-07-27T13:09:07.693Z",
   "githubKaydedildi": true
 }
