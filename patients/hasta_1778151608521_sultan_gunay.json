@@ -3534,7 +3534,7 @@
       "pdfYolu": "pdfs/SULTAN GÜNAY 3-9 AĞUSTOS 13. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SULTAN GÜNAY 3-9 AĞUSTOS 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SULTAN GÜNAY 3-9 AĞUSTOS 13. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T06:43:15.371Z",
+      "kayitTarihi": "2026-07-27T06:44:38.497Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -3749,7 +3749,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sultan Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızın on üçüncü ve son haftasına ulaşıyoruz.\n\nBu, yolculuğumuzun son haftası ama aslında yeni bir yaşam tarzının kalıcı başlangıcı. Bu üç aylık süreçte birlikte çok değerli bir temel attık. Sadece beslenmenizi değil; öğün yapılarından su tüketimine, yeme sıralamasından atıştırmalıklara, masajdan egzersize kadar pek çok alışkanlığı hayatınızın doğal bir parçası haline getirdiniz. Bu, lipödem gibi kronik ve dirençli bir tablo karşısında elde edilmiş çok büyük bir başarı.\n\nAncak unutmamak gerekir ki bu hastalık bir günde oluşmadı. Bağ dokusunun yeniden yapılanması, lenf sisteminin onarılması ve inflamasyonun gerilemesi zaman isteyen, sabırla yürütülmesi gereken bir süreç. Bu 12 haftada attığımız temel çok sağlam, fakat bedenin içsel dönüşümünü tamamlayıp bunu dışarıya tam olarak yansıtması biraz daha devam edecektir.\n\nMotivasyonun her zaman en yüksek seviyede kalması kolay olmayabilir. Hayatın getirdiği yoğunluklar, sosyal ortamlar veya yorgunluk hissi bazen düzeni aksatmamıza neden olabilir. Bunlar çok insani durumlar. Önemli olan bu düşüşlerin kalıcı hale gelmemesi. Rotanız ve yönünüz artık belli. Elinizde ne yapacağınızı gösteren çok güçlü bir yol haritası var. Düştüğünüzde nasıl kalkacağınızı ve yola nasıl devam edeceğinizi artık biliyorsunuz.\n\nBu son hafta için size hazırladığımız listede de bu sürdürülebilir ve esnek yapıyı koruduk. Nohut yemeği, karabuğday ekmeği gibi seçenekler, kan şekerinizi dengede tutarken lif alımınızı destekler. Fırında hamsi gibi yağlı balıklar, hem D vitamini hem de antiinflamatuar omega-3 kaynağı olarak lipödem dokusunu rahatlatmaya yardımcı olur. Listede yer alan çiğ badem, magnezyum açısından zengindir ve özellikle stres yönetimine katkı sağlar. Köfte ve yumurta gibi protein kaynakları ise selenyum ve B12 vitamini desteği sunar. Yoğurtlu semizotu salatası, közlenmiş biber, bol yeşillik gibi seçenekler de sindirim sisteminizi ve bağırsak sağlığınızı desteklemeye devam ediyor. Tahin sufle ve orman meyveli muhallebi gibi tarifler ise, bu sürecin yasaklarla dolu değil, keyifli ve dengeli bir şekilde yönetilebileceğini gösteren güzel örnekler.\n\nŞimdi sizi küçük bir iç değerlendirmeye davet etmek istiyorum:\nBu süreç boyunca sizde en çok ne değişti?\nHangi alışkanlıkları kazandınız ve sürdürebileceğinizi düşünüyorsunuz?\nİlk başladığınız güne göre bugünkü halinizi nasıl tanımlarsınız?\nBu soruların cevapları, bundan sonraki yolculuğunuzda size ışık tutacaktır.\n\nUnutmayın, lipödem yönetilebilir bir durumdur. Eğer düzeni çok uzun süre bırakırsak tablo eskiye dönebilir. Ancak artık elinizdeki bilgilerle, gerektiğinde bu programa geri dönerek bedeninizi kolayca toparlayabilirsiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3858,6 +3858,6 @@
   ],
   "olusturmaTarihi": "2026-05-07T11:00:08.521Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T06:44:36.868Z",
+  "sonGuncelleme": "2026-07-27T06:44:40.870Z",
   "githubKaydedildi": true
 }
