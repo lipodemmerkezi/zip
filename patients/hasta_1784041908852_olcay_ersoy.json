@@ -677,7 +677,7 @@
       "pdfYolu": "pdfs/OLCAY ERSOY 3-9 AĞUSTOS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/OLCAY ERSOY 3-9 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/OLCAY ERSOY 3-9 AĞUSTOS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T13:14:43.145Z",
+      "kayitTarihi": "2026-07-27T13:17:00.662Z",
       "tarifKartlar": [
         {
           "tarifAdi": "alinazik kebabı",
@@ -870,7 +870,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Olcay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, geçen hafta süt ürünlerinin de eklenmesiyle sistemin yavaş yavaş oturduğunu tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha kalıcı kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle metabolizmanın çalışma prensibi ve porsiyon algısı üzerine konuşmak istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, başarının sadece “az yemekle” geleceğine inanmaktır. Oysa sadece porsiyonları küçültmek, açlıkla mücadele etmek çoğu zaman sürdürülemez bir yoldur. Vücut, yetersiz enerji aldığında kendini korumaya alır, metabolizmayı yavaşlatır ve açlık hormonu olan ghrelin seviyesini yükseltir. Bu durum, bir süre sonra kontrol edilemeyen yeme ataklarına ve özellikle karbonhidrat isteğine zemin hazırlar.\n\nBizim amacımız bu döngüyü kırmak. Kaloriyi kesmek yerine, insülin dengesini koruyan, besleyici ve en önemlisi doyurucu bir düzen oluşturmak. Bu hafta sizin için hazırladığımız listede bu doyurucu ve besleyici yaklaşımı net bir şekilde görebilirsiniz. Alinazik kebabı, peynirli tavuk sarma, güveç gibi protein açısından zengin ana öğünler hem sizi uzun süre tok tutacak hem de kas kütlenizi koruyacaktır. Bu, özellikle kan şekeri dengenizi korumak için çok önemli. Yeterli protein ve sağlıklı yağ aldığınızda, vücut enerji için kas dokusuna yönelmez, aksine yağ yakımını destekler.\n\nListenizdeki ızgara balık, lipödemle ilişkili inflamasyonu azaltan omega-3 yağ asitleri ve D vitamini açısından zengindir. Kırmızı et ve tavuk gibi kaynaklardan alacağınız çinko ve selenyum ise bağışıklık sisteminizi destekler. Kahvaltılardaki ve salatalardaki bol yeşillik ve ceviz gibi kuruyemişler de magnezyum sağlayarak kan şekeri yönetiminize yardımcı olur. Gördüğünüz gibi amaç aç kalmak değil, doğru besinlerle vücudu tamir etmektir.\n\nBu besleyici düzenin etkisini en üst düzeye çıkarmak için su tüketiminize özen göstermeye devam etmeniz çok değerli. Su, hem toksinlerin atılmasına hem de metabolizmanızın verimli çalışmasına yardımcı olacaktır.\n\nZamanla listenizdeki yemeklerin değişimini de kendiniz yapabilmeye başlayacaksınız. Elinizde biriken tarif kartlarının sağ kısmındaki makro değerlerine bakarak, özellikle yağ ve protein makroları benzer olan diğer tariflerle değişim yapabilirsiniz. Bu esneklik, süreci daha sürdürülebilir kılacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -972,6 +972,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T13:16:58.279Z",
+  "sonGuncelleme": "2026-07-27T13:17:03.157Z",
   "githubKaydedildi": true
 }
