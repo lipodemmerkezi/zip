@@ -1670,7 +1670,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Sevinç Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz.\n\nYedinci haftaya girerken artık beslenme düzeniniz büyük ölçüde oturdu, vücudunuz bu ritme uyum sağlamaya başladı. Bu hafta, bu sağlam temelin üzerine daha derin bir katman ekleyerek, programın başından beri kullandığınız takviyelerin neden bu kadar önemli olduğunu ve lipödem tedavisindeki rollerini konuşalım istiyorum.\n\nBelki de bu liste size başta biraz uzun gelmiş olabilir: Boswellia serrata, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kolajen. Şimdi bu isimleri daha yakından tanıyalım, çünkü her birinin lipödemli dokuda ayrı bir görevi var. Boswellia serrata, vücuttaki sessiz iltihabı baskılarken, koenzim Q10 hücrelerimize enerji vererek yağ dokusundaki çözülme sürecini daha verimli hale getirir. Kurkumin ve astaksantin gibi güçlü antioksidanlar hücreleri korur, şişkinliği hafifletir ve cildin sıkılaşmasını teşvik eder. Ananastan gelen bromelain enzimi ödemin çözülmesine yardımcı olurken, üzüm kabuğundan gelen resveratrol ise damar sağlığını destekler. Kollajen ise cildin elastikiyetini artırarak incelen bölgelerde toparlanmaya katkı sağlar.\n\nBu takviyelerin her biri, lipödemli dokunun farklı bir ihtiyacını hedefler. Amaçları, vücudu içeriden destekleyerek beslenme ve masajla başlattığımız süreci hem hızlandırmak hem de daha kalıcı kılmaktır. Bu hafta takviyelerinizi bu bilinçle kullanmanız, sürecinize farklı bir anlam katacaktır.\n\nBu içsel desteği, bu hafta sizin için hazırladığımız beslenme listesiyle de en üst seviyeye çıkarmayı hedefliyoruz. Geçen haftalarda yeşilliklerin tekdüzeliği konusunda aklınızda soru işaretleri olabileceğini düşünerek, bu hafta listenize daha fazla renk ve çeşitlilik katmaya çalıştık. Yeşilliklerin yanı sıra közlenmiş patlıcan salatası, cevizli köz biber mezesi, zeytinyağlı taze fasulye ve kabak spagetti gibi farklı sebze alternatifleri ekledik. Bu sayede hem farklı vitamin ve minerallerden faydalanmış olacaksınız hem de süreciniz daha keyifli hale gelecek.\n\nListenizdeki ızgara balık, D vitamini ve omega-3 yağ asitleri açısından zengin bir kaynak olarak inflamasyonla mücadelede takviyelerinize destek olur. Tavuk köftesi ve et sote gibi kaliteli proteinler kas dokunuzu korurken, ceviz, badem ve tahin gibi sağlıklı yağlar da hem sinir sisteminiz için önemli olan magnezyumu sağlar hem de tokluk hissinizi dengelemeye yardımcı olur. Lupin unlu poğaça ve haşhaş ezmesi ekmeği gibi alternatifler ise sosyal hayatınızda veya canınız farklı bir tat istediğinde size esneklik sunar.\n\nUnutmayın, bu takviyeler birer sihirli değnek değil. Ancak doğru planlanmış bir beslenme, geçen haftalarda başladığınız masaj ve bu desteklerle birleştiğinde gerçekten fark yaratıyorlar.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -1764,11 +1764,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "yeşilliklerden sıkılmış yerine sebze ekledik.\nMerhaba Sevi̇nç Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-23T14:48:46.871Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T13:02:54.470Z",
+  "sonGuncelleme": "2026-07-27T13:04:11.071Z",
   "githubKaydedildi": true
 }
