@@ -678,17 +678,229 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/OLCAY ERSOY 3-9 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/OLCAY ERSOY 3-9 AĞUSTOS 4. HAFTA.pdf",
       "kayitTarihi": "2026-07-27T13:14:43.145Z",
-      "tarifKartlar": [],
-      "tarifler": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "alinazik kebabı",
+          "kartResmi": "alinazik_kebabi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/alinazik_kebabi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
+          "kartResmi": "karabugday_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/karabugday_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırında sebzeli peynirli güveç",
+          "kartResmi": "firinda_sebzeli_peynirli_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_sebzeli_peynirli_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "yulaflı tost",
+          "kartResmi": "yulafli_tost.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yulafli_tost.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "peynirli tavuk sarma",
+          "kartResmi": "peynirli_tavuk_sarma.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/peynirli_tavuk_sarma.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "elmalı pancar salatası",
+          "kartResmi": "elmali_pancar_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/elmali_pancar_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "lorlu gözleme low carb",
+          "kartResmi": "lorlu_gozleme.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lorlu_gozleme.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "yeşil mercimek köftesi",
+          "kartResmi": "yesil_mercimek_koftesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yesil_mercimek_koftesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kakaolu puding",
+          "kartResmi": "kakaolu_puding.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kakaolu_puding.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kuzu ya da tavuk güveç",
+          "kartResmi": "kuzu_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kuzu_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kuzu ya da tavuk güveç",
+          "kartResmi": "tavuk_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuk_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "cevizli browni kek",
+          "kartResmi": "cevizli_browni_kek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_browni_kek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yulaflı börek",
+          "kartResmi": "yulafli_borek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yulafli_borek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "nohutlu sebze güveci",
+          "kartResmi": "nohutlu_sebze_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/nohutlu_sebze_guvec.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "mantar soslu köfte",
+          "kartResmi": "mantar_soslu_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/mantar_soslu_kofte.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "patlıcan salatası",
+          "kartResmi": "patlican_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "hurma topları",
+          "kartResmi": "hurma_toplari.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/hurma_toplari.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "olcay ersoy / 3-9 ağustos 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "domatesli yulaflı poğaça 2 adet",
+        "tulum / kaşar peyniri (30 gram)",
+        "yeşillikler (dereotu, maydanoz,marul + sirke ve limon i̇le)",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "alinazik kebabı",
+        "yulaf makarna",
+        "mevsim salata (marul, dereotu, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 tatlı kaşığı zeytinyağı)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (5 adet)",
+        "beyaz peynir",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal maydanoz, 4-5 dal tere, 2 adet küçük yeşil biber+ limon",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "akşam (tercihen hava kararınca)",
+        "yarım su bardağı nohut + 100 gr tavuk ya da kırmızı et ile nohut yemeği",
+        "fırında sebzeli peynirli güveç",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "karpuz",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yulaflı tost",
+        "yeşillikler (dereotu, maydanoz,marul,sirke ve limon ile)",
+        "zeytin (5 adet)",
+        "elma (100 gr)",
+        "akşam (tercihen hava kararınca)",
+        "peynirli tavuk sarma",
+        "elmalı pancar salatası",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "kabak çekirdeği (1 avuç)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "lorlu gözleme low carb",
+        "tulum / kaşar peyniri (30 gram)",
+        "salatalık (orta boy) ,cherry domates (2 adet), 4-5 yaprak marul, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek",
+        "akşam (tercihen hava kararınca)",
+        "yeşil mercimek köftesi",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+        "kakaolu puding",
+        "toz kollajen 1 ölçek",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "domatesli yulaflı poğaça 2 adet",
+        "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal maydanoz, 4-5 dal tere, 2 adet küçük yeşil biber",
+        "közlenmiş kapya biber ( 50 gr)",
+        "çiğ badem (10 adet)",
+        "elma (100 gram, orta boy) ya da 5 adet yeşil erik",
+        "akşam (tercihen hava kararınca)",
+        "kuzu ya da tavuk güveç",
+        "mevsim salata (marul, dereotu, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 tatlı kaşığı zeytinyağı)",
+        "cevizli browni kek",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yulaflı börek",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, maydanoz, marul, sirke, limon+1 yemek kaşığı zeytinyağı ile)",
+        "çiğ badem (10 adet)",
+        "kakaolu puding low carb",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "nohutlu sebze güveci",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "elma ya da 100 gram karpuz",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "tulum peyniri veya kaşar peyniri (30 gram)",
+        "yeşillikler (dereotu, maydanoz,marul,sirke,limon ile)",
+        "zeytin (5 adet)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "akşam (tercihen hava kararınca)",
+        "mantar soslu köfte",
+        "patlıcan salatası",
+        "hurma topları",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
       "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
-      "manuelKartlar": []
+      "manuelKartlar": [],
+      "ekNotlar": "Merhaba Olcay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "eslesenTarifler": [
+        "alinazik kebabı",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "fırında sebzeli peynirli güveç",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "yulaflı tost",
+        "peynirli tavuk sarma",
+        "elmalı pancar salatası",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "lorlu gözleme low carb",
+        "yeşil mercimek köftesi",
+        "kakaolu puding",
+        "kuzu ya da tavuk güveç",
+        "cevizli browni kek",
+        "yulaflı börek",
+        "nohutlu sebze güveci",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "mantar soslu köfte",
+        "patlıcan salatası",
+        "hurma topları"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T13:14:43.146Z",
+  "sonGuncelleme": "2026-07-27T13:14:47.792Z",
   "githubKaydedildi": true
 }
