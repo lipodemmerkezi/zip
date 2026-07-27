@@ -1035,7 +1035,7 @@
       "pdfYolu": "pdfs/BURCU HOMAN 3-9 AĞUSTOS 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/BURCU HOMAN 3-9 AĞUSTOS 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/BURCU HOMAN 3-9 AĞUSTOS 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T12:31:35.906Z",
+      "kayitTarihi": "2026-07-27T12:34:27.983Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unlu poğaça (3 adet poğaça için)",
@@ -1219,7 +1219,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "Merhaba Burcu Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta programımıza çok değerli bir destek daha ekliyoruz: kendi kendinize kolayca uygulayabileceğiniz manuel lenf drenaj masajı. Size bu mesajla birlikte hem eğitim videolarını hem de 8 haftalık özel bir masaj takvimini ulaştıracağız. Bu takvimde hangi günlerde, ne sıklıkla masaj yapacağınız adım adım belirtiliyor olacak.\n\nİlk dört haftalık beslenme süreciyle vücudunuzdaki inflamatuar sıvı yükünü azaltmak için çok sağlam bir temel attık. Bu dönemde lipödemli dokularda hissettiğiniz yumuşama, aslında inflamasyonun azaldığının ve iyileşmenin başladığının en güzel işaretlerinden biridir. Yağ hücrelerinin içindeki toksinler ve fazla sıvı serbest kalmaya başladığında, yıllardır baskı altında olan incecik lenf kanalları da rahatlar. İşte tam da bu dönemde masaja başlamak, lenf sistemini en doğru zamanda harekete geçirerek bu serbest kalan atıkların vücuttan uzaklaştırılmasını hızlandıracaktır.\n\nÖlçümlerinizdeki olumlu gidişat da bu sürecin doğru ilerlediğini gösteriyor. Ancak bu dönemde tartıdaki rakamın biraz yavaşladığını veya sabit kaldığını gözlemleyebilirsiniz. Bu tamamen beklenen ve hatta olumlu bir durumdur. Çünkü yağ dokusundan ayrışan toksinleri seyreltmek için vücut geçici olarak bir miktar su tutabilir. Bu, iyileşme sürecinin doğal bir parçasıdır. Asıl odak noktamız, ölçümlerdeki incelme ve bedeninizdeki hafifleme hissi olmalı.\n\nBu hafta sizin için hazırladığımız listede, masajın detoks etkisini destekleyecek besinlere yer verdik. Izgara balık gibi seçenekler, omega-3 alımınızı artırarak inflamasyonu azaltırken, aynı zamanda D vitamini desteği de sağlar. Kuzu güveç ve köfte gibi protein kaynakları, onarım süreçleri için gerekli olan B12 vitamini ve çinkoyu almanıza yardımcı olur. Listenizdeki ceviz, fındık ve kabak çekirdeği gibi sağlıklı yağ kaynakları ise kas fonksiyonları ve sinir sistemi için kritik olan magnezyumu sağlar. Kereviz ya da kabak çökertme kebabının üzerine eklediğimiz ev yoğurdu da, önceki haftalarda başlattığımız bağırsak florasını destekleme hedefimizi sürdürüyor.\n\nMasajın kendisi çok hafif dokunuşlarla, yavaş ve ritmik hareketlerle uygulanır. Videolarda da göreceğiniz gibi, başlamadan önce yapacağınız derin nefes egzersizleri, vücudun ana lenf merkezlerini uyararak masajın etkinliğini artırır. Bu uygulamanın en büyük sırrı, hafifliğinde ve nazikliğinde gizlidir. Bazen bu kadar basit bir uygulamanın ne kadar etkili olabileceğine inanmak zor gelebilir, ancak lenf sisteminin hassas yapısı tam da bu nazik dokunuşlara yanıt verir. Bu sürece ne kadar özen gösterirseniz, iyileşme düzeyiniz de o kadar belirgin olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1325,6 +1325,6 @@
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:34:26.168Z",
+  "sonGuncelleme": "2026-07-27T12:34:27.999Z",
   "githubKaydedildi": true
 }
