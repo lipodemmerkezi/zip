@@ -1556,7 +1556,7 @@
       "pdfYolu": "pdfs/DEFNE SERİNKEN 3-9 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/DEFNE SERİNKEN 3-9 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/DEFNE SERİNKEN 3-9 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T12:10:48.452Z",
+      "kayitTarihi": "2026-07-27T12:12:00.733Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1743,7 +1743,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Defne Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda yedinci haftaya başlıyoruz.\n\nYedinci haftaya girerken artık beslenme düzeniniz büyük ölçüde oturdu, vücudunuz bu ritme uyum sağlamaya başladı. Bu haftadan itibaren sizinle birlikte programın başında önerdiğimiz takviyelerin neden önemli olduğunu, bu takviyeleri neden özellikle lipödem tedavisinde kullandığımızı biraz daha yakından konuşalım istiyorum.\n\nBelki de bu liste size başta biraz uzun gelmiş olabilir: Boswellia serrata, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kolajen. Ama şimdi bu isimleri daha yakından tanıyalım, çünkü her birinin lipödemli dokuda ayrı bir görevi var.\n\nBoswellia serrata, vücutta sessiz bir şekilde süren iltihabı sakinleştirmede çok etkilidir. Özellikle lipödemli dokularda ağrıya ve sertliğe yol açan mikroskobik süreçlerin yatışmasına yardımcı olur. Koenzim Q10 ise hücrelerimizin enerji santrallerinin yakıtıdır; bu sayede vücut daha dinç hissederken, yağ dokusundaki çözülme süreci daha verimli ilerler. Kurkumin (zerdeçal ekstresi) ve astaksantin gibi güçlü antioksidanlar hücreleri korur, şişkinliğin hafiflemesine destek olur ve cilt dokusunda sıkılaşmayı teşvik eder. Ananastan elde edilen bromelain ödemin çözülmesine yardımcı olurken, üzüm kabuğunda bulunan resveratrol de damar sağlığını destekler. Son olarak kolajen, cildin elastikiyetini artırarak incelen bölgelerde sarkmaların önüne geçebilmek için önemli bir destektir.\n\nBu içten gelen desteği, bu hafta sizin için hazırladığımız beslenme listesiyle de en üst seviyeye çıkarmayı hedefliyoruz. Listenizdeki ızgara balık, omega-3 yağ asitleriyle bu sürece katkıda bulunurken, aynı zamanda değerli bir selenyum kaynağıdır. Yumurtalı mantar sote veya peynir gibi seçenekler D vitamini alımınızı desteklerken; roka, semizotu gibi bol yeşillik de C vitamini sağlayarak özellikle kolajen takviyesinin vücuttaki etkinliğini artıracaktır. Çiğ badem ve ceviz gibi kuruyemişler de magnezyum ve çinko gibi minerallerle bu hücresel yenilenme sürecine katkıda bulunur. Gördüğünüz gibi, beslenme ve takviyeler bir bütünün parçaları olarak, iyileşmenizi hızlandırmak için birlikte çalışıyor.\n\nUnutmayın, bu takviyeler mucize değildir. Ama doğru planlanmış bir beslenme düzeni, uygun egzersiz ve masaj programıyla birlikte kullanıldığında gerçekten fark yaratabilir. Bu hafta takviyeleri bu bilinçle kullanmanızı öneriyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1845,6 +1845,6 @@
   ],
   "olusturmaTarihi": "2026-06-18T06:27:42.620Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:11:59.023Z",
+  "sonGuncelleme": "2026-07-27T12:12:00.753Z",
   "githubKaydedildi": true
 }
