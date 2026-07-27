@@ -821,24 +821,27 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-08-02",
-      "bitis": "2026-08-08",
+      "baslangic": "2026-08-03",
+      "bitis": "2026-08-09",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GAMZE AYDEMİR SATI 3-9 AĞUSTOS 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "GAMZE AYDEMİR SATI 3-9 AĞUSTOS 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 3-9 AĞUSTOS 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 3-9 AĞUSTOS 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 3-9 AĞUSTOS 4. HAFTA.pdf",
+      "kayitTarihi": "2026-07-27T12:35:22.074Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:34:43.105Z",
+  "sonGuncelleme": "2026-07-27T12:35:22.076Z",
   "githubKaydedildi": true
 }
