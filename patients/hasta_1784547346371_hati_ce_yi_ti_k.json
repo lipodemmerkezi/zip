@@ -665,7 +665,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz.\n\nBu hafta, programımızın temelini sağlamlaştırdığımız ve yeni bir aşamaya geçtiğimiz önemli bir dönem. İlk iki haftalık süreç, vücudunuzdaki iltihabi yükü azaltmak ve sindirim sisteminizi dinlendirmek için bir hazırlık aşamasıydı. Artık bu temiz zeminin üzerine sağlıklı bir bağırsak florası inşa etmeye başlıyoruz. Bu amaçla, bu hafta itibarıyla beslenme düzeninize kontrollü bir şekilde süt ürünlerini yeniden dahil ediyoruz.\n\nBu geçişi desteklemek için bu haftadan itibaren prebiyotik ve probiyotik takviyelerine de başlıyoruz. Bağırsak florası, yani mikrobiyota, vücudumuzun ikinci beyni gibidir. Buradaki yararlı bakterilerin dengesi, sadece sindirimimizi değil, aynı zamanda bağışıklık sistemimizi, iştah kontrolümüzü ve hatta ruh halimizi doğrudan etkiler. Lipödem gibi kronik inflamasyonla seyreden durumlarda bu dengeyi sağlamak, tedavinin en kritik adımlarından biridir. Sağlıklı bir flora, tatlı krizlerinin ve sürekli bir şeyler yeme isteğinin azalmasına da yardımcı olacaktır.\n\nBu hafta sizin için oluşturduğumuz listeye baktığımızda, bu yeni döneme uygun besinleri görebilirsiniz. Tulum, kaşar veya lor peyniri gibi fermente süt ürünleri ile yoğurtlu semizotu salatası gibi seçenekler, bağırsaklarınızı yormadan bu geçişi yapmamızı sağlayacak. Listenizdeki ev yapımı turşu da bu süreci doğal yollardan destekleyerek bağırsaklarınızdaki iyi bakterileri beslemeye yardımcı olacak.\n\nAyrıca bu hafta beslenmenize biraz daha çeşitlilik katmak adına bir düzenleme yaptık. Gün içinde iki yumurta yerine, bir yumurta ve yaklaşık 50 gram kadar peynir tüketerek protein dengesini koruyabilirsiniz. Listenizdeki semizotu hem omega-3 içeriğiyle iltihapla mücadeleye devam ederken hem de iyi bir lif kaynağıdır. Kabak çekirdeği ise magnezyum ve çinko desteği sağlayarak doku onarımına katkıda bulunur. Ara öğün olarak eklediğimiz tuzlu ve limonlu maden suyu, özellikle bu dönemde mineral dengenizi korumak ve enerjinizi yüksek tutmak için güzel bir destek olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -774,11 +774,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "süt ürünlerine başladığımız gün prebiyotiklere başlayacağız.\nMerhaba Hati̇ce Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 3. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:44:17.101Z",
+  "sonGuncelleme": "2026-07-27T12:45:44.715Z",
   "githubKaydedildi": true
 }
