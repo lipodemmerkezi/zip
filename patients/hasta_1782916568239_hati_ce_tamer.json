@@ -1214,7 +1214,7 @@
       "pdfYolu": "pdfs/HATİCE TAMER 3-9 AĞUSTOS 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE TAMER 3-9 AĞUSTOS 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE TAMER 3-9 AĞUSTOS 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-27T12:25:37.686Z",
+      "kayitTarihi": "2026-07-27T12:30:26.199Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unlu poğaça (3 adet poğaça için)",
@@ -1398,7 +1398,7 @@
         "lor ekmeği yerine 1 adet yumurta , 10 adet çiğ badem ya da 30 gr peyniri arttırabilirsiniz."
       ],
       "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta programımıza çok önemli ve güçlü bir destek daha ekliyoruz: manuel lenf drenaj masajı. Bu, kendi kendinize, sadece ellerinizi kullanarak uygulayabileceğiniz, iyileşme sürecinizi bir üst seviyeye taşıyacak bir yöntem. Size bu masajın eğitim ve uygulama videolarını, ayrıca 8 haftalık bir takvimi de ulaştıracağız.\n\nİlk dört haftalık beslenme sürecinde vücudunuz, özellikle lipödemli dokularda biriken iltihabi sıvıyı yavaş yavaş atmaya başladı. Bu dönemde hissettiğiniz doku yumuşaması, aslında iltihabın azaldığının ve yağ hücrelerinin içindeki toksinler ile sıvı yükünün serbestleştiğinin bir işaretidir. İşte tam da bu aşamada lenf sistemini masajla desteklemek, serbestleşen bu maddelerin vücuttan atılımını hızlandırmak için en doğru zaman.\n\nBu hafta sizin için hazırladığımız listede, sindirim sisteminizi desteklemeye yönelik bazı detaylar da göreceksiniz. Özellikle salatalarınıza eklediğimiz zeytinyağı, fındık, ceviz, kabak çekirdeği gibi besinlerdeki sağlıklı yağlar ve bol lifli yeşillikler, bağırsak hareketlerinizi düzenlemeye yardımcı olacaktır. Bu süreçte sıvı tüketiminin ne kadar önemli olduğunu biliyoruz; masajla birlikte vücuttan atılacak toksinlerin de taşınması için bol su içmeye özen göstermeniz bu haftanın bir diğer kilit noktası olacak. Salatalarınıza bir miktar keten tohumu eklemek de bu süreci destekleyebilir.\n\nListenizdeki balık, omega-3 yağ asitleri ile iltihapla mücadeleye devam ederken; yumurta, peynir ve et gibi protein kaynakları kas dokunuzu korumanın yanı sıra enerji metabolizması için önemli olan B vitaminlerini sağlar. Kuruyemişler ve yeşil yapraklı sebzeler ise kas fonksiyonları ve sıvı dengesi için kritik olan magnezyum açısından zengindir.\n\nSize göndereceğimiz videolarda da göreceğiniz gibi, masaj çok hafif dokunuşlarla, yavaş ve ritmik bir şekilde uygulanır. Bu uygulamanın amacı dokularda biriken sıvının atılımını hızlandırmak, toksinlerin vücuttan uzaklaştırılmasına destek olmak, kolajen üretimini uyararak cilt yapısını iyileştirmek ve bağışıklık sistemini dengelemektir. Hatta birçok kişi uyku kalitesinde ve genel ruh halinde de olumlu değişimler gözlemler.\n\nBu masajın en zorlayıcı yanı, genellikle çok kolay ve nazik uygulanması nedeniyle etkisinin küçümsenebilmesidir. Ancak bu nazik dokunuşların lenf sistemi üzerinde ne kadar güçlü bir etki yarattığını zamanla siz de fark edeceksiniz. Bu sürece ne kadar önem verirseniz, alacağınız sonuçlar da o kadar belirgin olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1504,6 +1504,6 @@
   ],
   "olusturmaTarihi": "2026-07-01T14:36:08.239Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:30:24.073Z",
+  "sonGuncelleme": "2026-07-27T12:30:26.220Z",
   "githubKaydedildi": true
 }
