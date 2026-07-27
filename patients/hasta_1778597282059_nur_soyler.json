@@ -3566,7 +3566,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 13. haftaya başlıyoruz.\n\nBu, birlikte yürüdüğümüz yoğun programın son haftasına yaklaşırken bu bir bitiş değil, edindiğimiz tüm bu değerli alışkanlıkları hayatınıza kalıcı olarak entegre edeceğiniz yeni bir dönemin başlangıcı. Süreci bu kadar mutlu ve motive bir şekilde tamamlıyor olmanız, bu yeni yaşam tarzını ne kadar benimsediğinizin en güzel göstergesi.\n\nBu 12 haftalık süreçte sadece beslenmenizi değil, yaşam tarzınıza bakışınızı ve bedeninizle kurduğunuz ilişkiyi de yeniden şekillendirdik. Öğün yapılarından su tüketimine, yeme sıralamasından masaj ve egzersize kadar birçok başlığı hayatınızın doğal bir parçası haline getirdiniz. Lipödem gibi kronik bir tabloyla mücadele ederken bu adımları atmak ve sürdürmek gerçekten çok değerli bir çaba gerektirir.\n\nŞunu hatırlamakta fayda var; bu tablo bir günde oluşmadı. Dolayısıyla bağ dokusunun yeniden yapılanması, lenf sisteminin onarılması ve inflamasyonun gerilemesi gibi derin iyileşme süreçleri zaman ister. Biz bu 12 haftada çok sağlam bir temel attık. Bu temel üzerinde sabırla ve istikrarla ilerlediğinizde, bedensel değişimler de zamanla kendini daha net gösterecektir.\n\nBu yeni dönemin bir yansıması olarak, bu hafta sizin için hazırladığımız listede hem sürdürülebilirliği hem de besin çeşitliliğini ön planda tuttuk. Nohutlu et yemeği veya yeşil mercimekli tuzlu kek gibi seçenekler, bitkisel protein ve lif alımınızı destekleyerek kan şekeri dengenizi korumanıza ve uzun süreli tokluk sağlamanıza yardımcı olur. Bu besinler aynı zamanda magnezyum ve çinko gibi sinir sistemini destekleyen ve enerji metabolizmasında rol oynayan mikro besinler açısından da zengindir.\n\nListeye eklediğimiz fırında kaşarlı kuşkonmaz hem lezzetli bir alternatiftir hem de kuşkonmazın doğal diüretik etkisiyle vücuttaki fazla sıvının atılımını destekler. Orman meyveli muhallebi gibi tarifler ise tatlı ihtiyacınızı antioksidan zengini, sağlıklı bir yolla karşılamanızı sağlayarak duygusal yeme döngülerini yönetmenize yardımcı olur. Bu, geçtiğimiz haftalarda konuştuğumuz gibi, yasaklar yerine doğru alternatifler koyma stratejimizin bir devamı niteliğinde.\n\nArtık elinizde çok güçlü bir yol haritası var. Rotanız ve yönünüz belli. Motivasyonunuzun düştüğü veya sosyal hayatta zorlandığınız anlar olabilir, bu çok insani bir durum. Önemli olan, bu anların kalıcı hale gelmemesi. Düştüğünüzde nasıl kalkacağınızı ve rotanıza nasıl döneceğinizi artık çok iyi biliyorsunuz. İşte bu sizin en büyük gücünüz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -3659,11 +3659,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "program süreci iyi gidiyor. mutlu motive.\nMerhaba Nur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 13. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T06:55:52.211Z",
+  "sonGuncelleme": "2026-07-27T06:58:08.145Z",
   "githubKaydedildi": true
 }
