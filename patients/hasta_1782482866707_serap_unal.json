@@ -1517,7 +1517,7 @@
       "pdfYolu": "pdfs/SERAP ÜNAL 10-16 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERAP ÜNAL 10-16 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERAP ÜNAL 10-16 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T11:40:55.571Z",
+      "kayitTarihi": "2026-07-28T11:42:21.294Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kuymak",
@@ -1708,7 +1708,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Serap Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda yedinci haftaya başlıyoruz.\n\nYedinci haftaya girerken artık beslenme düzeniniz büyük ölçüde oturdu, vücudunuz bu ritme uyum sağlamaya başladı. Bu haftadan itibaren sizinle birlikte programın başında önerdiğimiz takviyelerin neden önemli olduğunu, bu takviyeleri neden özellikle lipödem tedavisinde kullandığımızı biraz daha yakından konuşalım istiyorum.\n\nBelki de bu liste size başta biraz uzun gelmiş olabilir: Boswellia serrata, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kolajen. Ama şimdi bu isimleri daha yakından tanıyalım, çünkü her birinin lipödemli dokuda ayrı bir görevi var.\n\nBoswellia serrata, vücutta sessiz bir şekilde süren inflamasyonu baskılamada çok etkilidir. Özellikle lipödemli dokularda, ağrıya ve sertliğe yol açan mikroskobik iltihap süreçlerinin sakinleşmesine yardımcı olur.\n\nKoenzim Q10, hücrelerimizin enerji üretiminde rol alan bir molekül, yani mitokondrilerin yakıtıdır. Bu takviyeyle vücut daha dinç hissederken, yağ dokusunda başlayan çözülme süreci daha verimli ilerler.\n\nKurkumin, yani zerdeçal ekstresi, vücutta antioksidan etki göstererek hücreleri korur. Lipödemli dokuda oksidatif stresin azalmasına ve şişkinliğin hafiflemesine destek olur.\n\nBromelain, ananasın özünden elde edilen bu doğal enzim, ödemin çözülmesine yardımcı olur. Özellikle sertleşmiş dokuların daha geçirgen hâle gelmesine destek olur ki bu da masajla birleştiğinde daha hızlı bir yumuşama süreci sağlar.\n\nResveratrol ise hem damar sağlığını destekler hem de bağışıklık sistemini güçlendirir. Bu takviyelerin her biri, lipödemli dokunun farklı bir ihtiyacını hedef alır ve vücudu içeriden destekleyerek süreci hem hızlandırır hem de kalıcı hâle getirir.\n\nBu takviyeler görevini en iyi şekilde yaparken, beslenme düzeniniz de onlara en doğru zemini hazırlıyor. Bu hafta sizin için hazırladığımız listede yer alan ızgara balık, içerdiği zengin omega-3 ve selenyum ile tıpkı takviyeler gibi iltihapla mücadeleye destek verir. Listenizdeki bol yeşillikli salatalardan alacağınız C vitamini, kullandığınız kollajen takviyesinin vücutta en verimli şekilde kullanılması için gereklidir. Et sote, tavuk köftesi gibi protein kaynakları ise doku onarımı için gereken çinko ve B12 vitaminini sağlarken, çiğ badem ve ceviz gibi kuruyemişler de magnezyum ihtiyacınızı karşılayarak kaslarınızı rahatlatır. Gördüğünüz gibi her parça birbiriyle uyum içinde çalışıyor.\n\nUnutmayın, bu takviyeler mucize değildir. Ama doğru planlanmış bir beslenme düzeni, geçen hafta başladığımız masaj programı ve bu desteklerle birlikte gerçekten fark yaratabilir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1808,6 +1808,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T11:42:19.329Z",
+  "sonGuncelleme": "2026-07-28T11:42:21.332Z",
   "githubKaydedildi": true
 }
