@@ -1941,10 +1941,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "ekNotlar": "İyi günler doktor bey kolay gelsin. Beslenme ve spor alanında hiçbir şekilde zorlanmıyorum gayet kolay ve güzel geçiyor. Ancak masaj da çok başarılı değilim yapmaya çalışıyorum elimden geldiğince sabah akşam. Ancak tam istediğim gibi değil\nMerhaba Aysel Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.Merhabalar Aysel hanım. Beslenmenin iyi geçmesine sevindim. Masajı da düzenli yaparsak daha iyi sonuç alacağız. Bol bol yüzme iyi olur. Şimdiden iyi tatiller diliyorum. ağustosun ilk haftası polikliniğe gelebilirsiniz. Gelmeden bir gün önce haber verirseniz ona göre randevunuzu ayarlarız.\nbu şekilde cevap verdik."
+    },
+    {
+      "haftaNo": 8,
+      "baslangic": "2026-08-09",
+      "bitis": "2026-08-15",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-17T14:34:01.085Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T12:48:02.715Z",
+  "sonGuncelleme": "2026-07-28T09:29:26.086Z",
   "githubKaydedildi": true
 }
