@@ -980,7 +980,7 @@
       "pdfYolu": "pdfs/OLCAY ERSOY 10-16 AĞUSTOS 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/OLCAY ERSOY 10-16 AĞUSTOS 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/OLCAY ERSOY 10-16 AĞUSTOS 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T12:16:33.736Z",
+      "kayitTarihi": "2026-07-28T12:18:20.498Z",
       "tarifKartlar": [
         {
           "tarifAdi": "nohut ekmeği",
@@ -1161,7 +1161,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Olcay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 5. haftaya başlıyoruz.\n\nBu hafta, beslenme düzeninize çok önemli bir fiziksel destek ekleyerek süreci bir üst seviyeye taşıyoruz: manuel lenf drenaj masajı. Bu, tamamen kendi kendinize, sadece ellerinizi kullanarak uygulayabileceğiniz, herhangi bir alete ihtiyaç duymayacağınız çok özel bir tekniktir. Size bu mesajla birlikte hem eğitim ve uygulama videolarını hem de 8 haftalık bir masaj takvimini ulaştıracağız. Takvimde hangi gün hangi sıklıkta masaj yapacağınız adım adım belirtiliyor.\n\nMasajı tam da bu döneme denk getirmemizin özel bir sebebi var. İlk dört haftalık beslenme protokolü sayesinde vücudunuz, özellikle lipödemli dokularda biriken inflamatuar sıvıyı atmaya başladı. Bu dönemde hissettiğiniz doku yumuşaması, aslında iyileşmenin bir işaretidir. Yağ hücreleri içlerindeki toksinleri ve sıvı yükünü serbest bırakırken, yıllardır baskı altında olan incecik lenf kanalları da rahatlamaya başlar. İşte tam bu noktada masajla lenf sistemini harekete geçirmek, iyileşme sürecini muazzam şekilde hızlandırır.\n\nBu masajın çok hafif dokunuşlarla, yavaş ve ritmik bir şekilde yapıldığını göreceksiniz. Unutmayın, lenf sistemi tüm vücudu saran bir ağ gibidir, bu yüzden masajın etkisi sadece bacaklarla sınırlı kalmayacak, genel sağlığınıza da olumlu yansıyacaktır. Dokulardaki sıvının atılımını hızlandırır, toksinlerin vücuttan uzaklaştırılmasına yardımcı olur, kolajen sentezini uyararak cilt yapısını iyileştirir ve uyku kalitenizi artırır.\n\nBu dönemde ölçümlerinizde veya tartıda bir yavaşlama fark ederseniz bu durumun son derece normal olduğunu bilmenizi isterim. Yağ hücreleri küçülürken içlerindeki toksinleri ve atıkları dolaşıma bırakır. Vücut bu atıkları temizlemek için geçici olarak su tutabilir. Bu, sürecin bir parçasıdır ve aslında içeride büyük bir temizliğin ve onarımın devam ettiğini gösterir. Masaj, bu sürecin daha verimli işlemesine de destek olacaktır.\n\nBu haftaki beslenme listenizi de bu onarım sürecini destekleyecek şekilde yapılandırdık. Listenizde göreceğiniz ızgara balık, hem lipödemle ilişkili inflamasyonu azaltan omega-3 yağ asitleri hem de bağışıklık sisteminiz için önemli olan D vitamini açısından zengin bir seçenek. Kuzu güveç ve kebap gibi yemekler ise doku onarımını destekleyen çinko ve selenyum içerir. Özellikle şeker hastalığınızı göz önünde bulundurarak kan şekeri dengeniz için çok değerli olan magnezyumu da ceviz, badem ve bol yeşilliklerden alıyor olacaksınız. Kabak spagetti ve nohut ekmeği gibi seçenekler, kan şekerinizde dalgalanma yaratmadan size keyifli öğünler sunmak için planlandı.\n\nTüm bu süreçte, hem toksinlerin atılımına yardımcı olması hem de metabolizmanızı desteklemesi adına su tüketiminize özen göstermeye devam etmeniz çok değerli.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1273,6 +1273,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T12:18:18.059Z",
+  "sonGuncelleme": "2026-07-28T12:18:23.298Z",
   "githubKaydedildi": true
 }
