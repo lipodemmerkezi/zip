@@ -1559,24 +1559,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-08-09",
-      "bitis": "2026-08-15",
+      "baslangic": "2026-08-10",
+      "bitis": "2026-08-16",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NECİBE ÇALIŞKAN ÇOBAN 10-16 AĞUSTOS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "NECİBE ÇALIŞKAN  ÇOBAN 10-16 AĞUSTOS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/NECİBE ÇALIŞKAN ÇOBAN 10-16 AĞUSTOS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 10-16 AĞUSTOS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 10-16 AĞUSTOS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-07-28T11:43:15.145Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-26T11:36:42.017Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T11:42:52.854Z",
+  "sonGuncelleme": "2026-07-28T11:43:15.147Z",
   "githubKaydedildi": true
 }
