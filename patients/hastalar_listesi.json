@@ -212,13 +212,6 @@
     "sonGuncelleme": "2026-07-27T07:01:34.136Z"
   },
   {
-    "id": 1778151608521,
-    "isim": "SULTAN GÜNAY",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-07-27T06:44:43.703Z"
-  },
-  {
     "id": 1781596794081,
     "isim": "ŞERİFE ÇARAY",
     "not": "",
@@ -1138,6 +1131,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-02-11T13:33:43.930Z"
+  },
+  {
+    "id": 1778151608521,
+    "isim": "SULTAN GÜNAY",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-07-28T07:27:54.711Z"
   },
   {
     "id": 23,
