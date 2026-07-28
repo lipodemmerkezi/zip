@@ -1035,7 +1035,7 @@
       "pdfYolu": "pdfs/MERAL GÖKCE 10-16 AĞUSTOS 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÖKCE 10-16 AĞUSTOS 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÖKCE 10-16 AĞUSTOS 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T12:13:45.454Z",
+      "kayitTarihi": "2026-07-28T12:15:43.105Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bonfile steak",
@@ -1219,7 +1219,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta, beslenme sürecini tamamlayacak ve iyileşme hızınızı artıracak çok değerli bir uygulamaya başlıyoruz: manuel lenf drenaj masajı. Bu, herhangi bir alete ihtiyaç duymadan, sadece kendi ellerinizle kolayca uygulayabileceğiniz bir tekniktir. Size bu masajın hem eğitim hem de uygulama videolarını ve 8 haftalık bir takvimini iletiyor olacağız.\n\nBu uygulamaya tam da bu hafta başlamamızın önemli bir nedeni var. İlk dört haftalık beslenme protokolü sayesinde vücudunuz, özellikle lipödemli dokularda biriken iltihabi sıvıyı atmaya başladı. Bu süreçte dokularda hissettiğiniz yumuşama, aslında yağ hücrelerinin içindeki toksinlerin ve sıvı yükünün serbest kalmaya başladığının bir işaretidir. Yıllardır baskı altında olan incecik lenf kanalları bu sayede rahatlamaya başlar. İşte masaj, tam da bu en doğru zamanda lenf sistemini harekete geçirerek bu birikmiş sıvı ve toksinlerin atılımını hızlandıracaktır.\n\nBu haftaki menünüzü de bu süreci destekleyecek şekilde yapılandırdık. Masajla birlikte harekete geçen toksinlerin vücuttan atılımını kolaylaştırmak için karaciğer ve böbrek fonksiyonlarını desteklemek çok önemlidir. Listenize eklediğimiz ızgara balık ve ceviz gibi omega-3 kaynakları iltihabı baskılarken, bol çeşitli yeşil salatalar, semizotu ve roka gibi besinler de içerdikleri magnezyum ve diğer minerallerle detoks sistemine yardımcı olur. Yumurta ve bonfile gibi kaliteli proteinler ise doku onarımını desteklerken, selenyum ve çinko gibi mikro besinleri de sağlar.\n\nBu dönemde tartıdaki rakamların yavaşladığını veya duraksadığını gözlemleyebilirsiniz. Bu beklenen ve hatta olumlu bir durumdur. Yağ hücreleri küçülürken içlerindeki toksinleri ve suyu doku arasına bırakırlar, bu da geçici bir ödem ve duraksamaya neden olabilir. Başladığımız masaj uygulaması, tam olarak bu sorunu çözmeye, yani doku arasında biriken bu sıvıyı lenf sistemi yoluyla dolaşıma katıp vücuttan atmaya yöneliktir. Yani şu an yaşadığınız durum, aslında derinlerde bir iyileşmenin başladığını gösteriyor.\n\nMasaj takviminizde göreceğiniz gibi uygulama belirli bir düzen içinde ilerleyecek. Başlangıçta daha sık, sonrasında azalan bir sıklıkta devam edecek. Bu uygulamayı ne kadar düzenli yaparsanız, hem incelme süreciniz o kadar hızlanır hem de cildinizin kalitesinde ve genel ruh halinizde belirgin bir iyileşme gözlemlersiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1332,6 +1332,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T12:15:41.600Z",
+  "sonGuncelleme": "2026-07-28T12:15:45.598Z",
   "githubKaydedildi": true
 }
