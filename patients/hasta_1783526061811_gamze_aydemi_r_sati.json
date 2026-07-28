@@ -1116,7 +1116,7 @@
       "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 10-16 AĞUSTOS 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 10-16 AĞUSTOS 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 10-16 AĞUSTOS 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T12:10:56.337Z",
+      "kayitTarihi": "2026-07-28T12:12:02.567Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabak spagetti",
@@ -1292,7 +1292,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Gamze Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta programımıza bedensel iyileşme sürecini çok daha ileri bir seviyeye taşıyacak yeni ve güçlü bir uygulama ekliyoruz: manuel lenf drenaj masajı. Bu, tamamen kendi kendinize, sadece ellerinizi kullanarak uygulayabileceğiniz basit ama son derece etkili bir yöntem. Size bu masajın hem eğitim hem de uygulama videolarını ve sekiz haftalık bir takvimini ayrıca ulaştıracağız.\n\nİlk dört haftalık beslenme düzeniyle vücudunuz, özellikle lipödemli dokularda biriken iltihaplı sıvı yükünü atmaya başladı. Bu dönemde yağ dokusunda hissettiğiniz yumuşama, aslında iyileşmenin en somut işaretlerinden biridir. Yağ hücreleri içlerindeki toksinleri, kolesterol parçacıklarını ve fazla sıvıyı serbest bırakırken, yıllardır baskı altında kalan incecik lenf kanalları da rahatlamaya başlar. İşte tam da bu noktada masajla devreye girerek, lenf sistemini en doğru zamanda harekete geçirmiş oluyoruz. Bu süreç, bedenin kendini onarma mekanizmalarını destekler.\n\nBazen bu dönemde tartıdaki rakamların yavaşladığını veya durduğunu gözlemleyebilirsiniz. Bu tamamen beklenen ve doğal bir durumdur. Çünkü yağ hücrelerinden serbest kalan bu atıklar, lenf sistemi tarafından temizlenene kadar vücutta geçici bir durgunluğa neden olabilir. Bu bir duraksama değil, aksine derinlemesine bir temizliğin ve yeniden yapılanmanın başladığının göstergesidir.\n\nBu hafta sizin için hazırladığımız listede, bu süreci destekleyecek besinleri ön planda tuttuk. Kuzu güveç, Adana kebap, balık gibi güçlü protein kaynakları, doku onarımını ve kas kütlesinin korunmasını sağlarken, aynı zamanda metabolizmanızın aktif kalmasına yardımcı olur. Özellikle ızgara balık, içerdiği Omega-3 ile iltihapla mücadeleye devam ederken, selenyum gibi değerli bir mineralle de tiroit ve bağışıklık fonksiyonlarınızı destekler. Borani ve semizotu salatası gibi seçenekler ise magnezyum açısından zengindir; bu da kasların gevşemesine ve genel olarak daha rahat hissetmenize katkı sağlar ki masajla birleştiğinde harika bir sinerji yaratır.\n\nEv yoğurdu ve turşu gibi fermente gıdalara devam ederek bağırsak floramızı güçlü tutuyoruz. Bu, vücudun toksinleri atma kapasitesini doğrudan etkileyen en önemli faktörlerden biridir. Listenizde görebileceğiniz bitter çikolata gibi küçük keyifler ise sürecin psikolojik olarak sürdürülebilirliği için önemlidir.\n\nMasaj uygulaması, beslenme ile birleştiğinde iyileşmenin daha kalıcı ve güçlü olmasına zemin hazırlayacak. Bu yeni adımı atarken bedeninizi dinlemeye devam edin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1393,6 +1393,6 @@
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T12:12:00.282Z",
+  "sonGuncelleme": "2026-07-28T12:12:05.663Z",
   "githubKaydedildi": true
 }
