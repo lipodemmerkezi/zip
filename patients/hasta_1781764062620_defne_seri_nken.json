@@ -1853,7 +1853,7 @@
       "pdfYolu": "pdfs/DEFNE SERİNKEN 10-16 AĞUSTOS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/DEFNE SERİNKEN 10-16 AĞUSTOS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/DEFNE SERİNKEN 10-16 AĞUSTOS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T09:13:49.735Z",
+      "kayitTarihi": "2026-07-28T09:15:43.066Z",
       "tarifKartlar": [
         {
           "tarifAdi": "sebzeli tuzlu kek",
@@ -2018,7 +2018,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Defne Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 8. haftaya başlıyoruz.\n\nSekizinci haftaya ulaştık ve bu noktaya kadar geldiğiniz için sürecin ne kadar yol aldığını görebilirsiniz. Artık sadece ne yediğimiz değil, ne zaman ve hangi sırayla yediğimizin de önemli olduğu bir aşamaya geliyoruz. Aynı tabaktaki yiyecekleri farklı sıralamayla tükettiğimizde vücutta oluşan etkiler birbirinden çok farklı olabilir. İşte bu hafta sizinle tam da bu konuya odaklanacağız.\n\nYemek sıralaması, özellikle insülin düzeylerini dengelemek, tokluk süresini uzatmak ve kan şekerinin hızlı yükselmesini önlemek açısından son derece önemli. Bu da doğrudan lipödemli dokular üzerinde olumlu etkiler yaratır. Çünkü insülin, yağ hücrelerinin büyümesini ve genişlemesini tetikleyen en güçlü hormonlardan biridir.\n\nBu hafta sizin için hazırladığımız listede bu prensibi kolayca uygulayabileceğiniz pek çok öğün var. Örneğin fırında tavuk pirzola ve yeşilliklerin olduğu bir öğünde, doğru sıralama şöyle olmalı:\n\n1.  Önce lifli gıdalar: Öğüne mutlaka yeşillikler veya közlenmiş patlıcan salatası gibi lifli seçeneklerle başlayın. Salatanızın yarısını yedikten sonra bir sonraki gruba geçebilirsiniz. Bu lifli besinler, bağırsaklarda adeta bir bariyer oluşturarak karbonhidratların kana karışmasını geciktirir. Bu da insülinin daha yavaş ve kontrollü salgılanmasını sağlar.\n\n2.  Ardından protein ve yağ grubu: Tavuk pirzola, köfte, balık gibi protein kaynaklarını salatayla birlikte tüketmeye devam edin. Bu hafta listenizde yer alan alinazik kebabı veya yoğurtlu tavuk salatası gibi yemekler, hem protein hem de sağlıklı yağları bir arada sunarak bu adımı mükemmel bir şekilde destekler. Protein ve yağ, hem uzun süreli tokluk sağlar hem de kan şekeri dalgalanmalarını önler.\n\n3.  En sona karbonhidratlar: Bu hafta listenizde lupin unlu ekmek veya kek gibi seçenekler var. Eğer tüketecekseniz, bunları mutlaka öğünün en sonuna bırakın. Aynı yiyecek, öğünün başında yenildiğinde çok daha yüksek insülin tepkisi oluştururken, en sona bırakıldığında bu etki ciddi anlamda azalır.\n\nBu hafta sirkenin etkisinden de en verimli şekilde faydalanacağız. Yemeğe oturmadan hemen önce bir yemek kaşığı sirkeyi yarım bardak suya karıştırarak içmek, insülin kontrolü açısından çok daha etkilidir. Sirkenin içindeki asetik asit, karbonhidratların emilimini sağlayan enzimlerin çalışmasını yavaşlatır. Mide hassasiyetiniz yoksa bunu ana öğünlerinizden önce uygulayabilirsiniz.\n\nListenizdeki besinler de bu süreci mikro düzeyde destekliyor. Balık, omega-3 ile iltihabı azaltırken, roka ve diğer yeşillikler C vitamini ve magnezyum sağlayarak doku sağlığını destekler. Çiğ badem ve kabak çekirdeğindeki çinko ve selenyum ise hücresel onarım için kritik öneme sahiptir.\n\nSon olarak, yemekten sonra yapacağınız 15-20 dakikalık hafif bir aktivite, örneğin kısa bir yürüyüş, vücudun yükselen kan şekerini insülinden bağımsız olarak doğrudan kas hücrelerine taşımasına yardımcı olur. Bu küçük alışkanlık, uzun vadede insülin dengenizi koruyarak süreci çok daha etkili hale getirecektir.\n\nAynı tabağın çok farklı etkiler yaratabileceğini gördükçe, bedeninizin bu düzene nasıl güzel yanıt verdiğini siz de hissedeceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2123,6 +2123,6 @@
   ],
   "olusturmaTarihi": "2026-06-18T06:27:42.620Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T09:15:37.413Z",
+  "sonGuncelleme": "2026-07-28T09:15:43.109Z",
   "githubKaydedildi": true
 }
