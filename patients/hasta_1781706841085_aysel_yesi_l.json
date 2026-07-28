@@ -1953,7 +1953,7 @@
       "pdfYolu": "pdfs/AYSEL YEŞİL 10-16 AĞUSTOS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYSEL YEŞİL 10-16 AĞUSTOS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYSEL YEŞİL 10-16 AĞUSTOS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T09:29:57.205Z",
+      "kayitTarihi": "2026-07-28T09:31:06.552Z",
       "tarifKartlar": [
         {
           "tarifAdi": "lupin unlu ekmek (1 dilim)",
@@ -2111,7 +2111,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Aysel Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 8. haftaya başlıyoruz.\n\nArtık programda önemli bir yol katettik ve vücudunuzun temel mekanizmalarını düzenlemeye başladık. Bu noktadan sonra sadece ne yediğimize değil, besinleri hangi sırayla tükettiğimize odaklanarak çok daha derin bir etki yaratabiliriz. Aynı tabaktaki yiyecekleri farklı bir sırayla yemek, kan şekeri ve insülin tepkimizi tamamen değiştirebilir. Bu hafta sizinle tam olarak bu konuyu ele alacağız.\n\nDoğru yemek sıralaması, insülin seviyelerini kontrol altında tutarak lipödemli dokuların büyümesini tetikleyen en önemli hormonlardan birini yönetmemizi sağlar. Bu basit ama güçlü alışkanlık, hem tokluk süresini uzatır hem de vücudun yağ depolama moduna geçmesini engeller.\n\nBu hafta sizin için hazırladığımız listede bu sıralamayı kolayca uygulayabileceğiniz pek çok seçenek var. Doğru sıralama şu şekilde olmalı:\n\n1.  Önce lifli gıdalar: Öğünlerinize eklediğimiz roka salatası, köz biber salatası veya diğer yeşilliklerle başlamanızı istiyoruz. Bu lifli başlangıçlar, bağırsaklarda bir tür bariyer oluşturarak karbonhidratların emilimini yavaşlatır ve insülinin ani yükselişini önler.\n\n2.  Ardından protein ve yağ grubu: Salatanızın bir kısmını yedikten sonra fırında tavuk pirzola, köfte, ızgara balık veya alinazik kebabı gibi protein ve sağlıklı yağ içeren ana yemeğinize geçebilirsiniz. Protein tokluk hissini artırırken, sağlıklı yağlar da hormonal dengeyi destekler.\n\n3.  En sona karbonhidratlar: Eğer öğününüzde lupin unlu ekmek veya ketojenik makarna gibi bir seçenek varsa, bunu yemeğin en sonuna bırakmak, kan şekeri üzerindeki etkisini önemli ölçüde azaltacaktır.\n\nBu sıralamayı desteklemek için sirkenin gücünden de faydalanacağız. Sabahları içtiğiniz sirkeli suya ek olarak, ana öğünlerden hemen önce bir yemek kaşığı elma sirkesini yarım bardak suya karıştırıp içmek, karbonhidratların sindirimini yavaşlatarak insülin dengesine muazzam bir katkı sağlar.\n\nListenizdeki besinler de bu süreci hücresel düzeyde destekliyor. Örneğin, ızgara balık hem değerli bir protein kaynağı hem de selenyum ve omega-3 gibi iltihapla savaşan mikrobesinler açısından zengin. Kuzu güveç ve köfte gibi seçenekler B12 ve çinko desteği sağlarken, çiğ badem ve kabak çekirdeği de özellikle masaj sürecinde kasların gevşemesine yardımcı olan magnezyum ihtiyacınızı karşılamaya devam ediyor. Sucuklu yumurta veya menemen gibi pratik kahvaltılıklar ise güne kan şekerinizi dengeleyerek başlamanızı sağlıyor.\n\nSon olarak, yemekten yaklaşık 15-20 dakika sonra yapacağınız kısa bir yürüyüş veya hareket, kaslarınızın kan şekerini insüline ihtiyaç duymadan kullanmasını sağlar. Bu, yediklerinizi yağa dönüştürmek yerine enerji olarak yakmanın en etkili yollarından biridir.\n\nSalatayı önce, proteini sonra, karbonhidratı en sona bırakmak; yemekten önce sirkeli su içmek ve yemekten sonra biraz hareket etmek... Bu üç basit adım, lipödemle mücadelede elinizdeki en güçlü araçlardan bazıları olacak. Bedeninizin bu yeni düzene ne kadar güzel yanıt verdiğini siz de fark edeceksiniz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2215,6 +2215,6 @@
   ],
   "olusturmaTarihi": "2026-06-17T14:34:01.085Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T09:31:04.622Z",
+  "sonGuncelleme": "2026-07-28T09:31:06.594Z",
   "githubKaydedildi": true
 }
