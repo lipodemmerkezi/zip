@@ -3673,7 +3673,7 @@
       "pdfYolu": "pdfs/NUR SÖYLER 10-16 AĞUSTOS 14. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NUR SÖYLER 10-16 AĞUSTOS 14. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NUR SÖYLER 10-16 AĞUSTOS 14. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T07:29:27.461Z",
+      "kayitTarihi": "2026-07-28T07:31:22.737Z",
       "tarifKartlar": [
         {
           "tarifAdi": "susamlı omlet",
@@ -3880,7 +3880,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 14. haftaya başlıyoruz.\n\nBu hafta, yoğun programımızın ardından edindiğimiz tüm alışkanlıkları ve bilgiyi kalıcı bir yaşam biçimine dönüştürdüğümüz yeni bir dönemin ilk adımı niteliğinde. Artık temelleri sağlam bir şekilde attık ve bu temel üzerinde kendi yaşam ritminizi oluşturmaya başlıyorsunuz. Bu süreç bir \"devam\" ve pekiştirme süreci olarak tasarlandı.\n\nBu hafta sizin için hazırladığımız listede, bu sürdürülebilirliği destekleyen hem keyifli hem de besleyici seçenekler görebilirsiniz. Örneğin, kahvaltılarda yer alan susamlı omlet veya kuru soğanlı cevizli lor kavurması gibi tarifler, güne protein ve sağlıklı yağlarla başlayarak kan şekerinizi dengelemenize ve gün boyu tokluk hissini korumanıza yardımcı olur. Bu, özellikle önceki haftalarda konuştuğumuz duygusal açlık ataklarını yönetmede size büyük bir konfor alanı sağlar.\n\nAna öğünlerdeki çeşitliliği de artırdık. Et sote, soslu antrikot gibi seçenekler demir ve B12 vitamini alımınızı desteklerken; yeşil mercimek salatası ve yeşil mercimek köftesi gibi bitkisel protein kaynakları lif, magnezyum ve çinko açısından zengin bir alternatif sunar. Bu çeşitlilik, hem farklı mikro besinleri almanızı sağlar hem de beslenme düzeninizi tekdüzelikten kurtarır.\n\nListenize eklediğimiz ketojenik pizza, ıspanaklı börek ve yulaf ekmeği gibi tarifler, sosyal yaşamda veya canınız farklı bir şeyler istediğinde sağlıklı sınırlarda kalmanızı sağlayacak harika araçlardır. Bu, yasaklarla dolu bir diyet yerine, doğru alternatiflerle keyifli ve kalıcı bir düzen kurma felsefemizin bir yansımasıdır.\n\nAra öğünlerdeki çiğ badem, ceviz ve kabak çekirdeği gibi kuruyemişler magnezyum ve selenyum gibi değerli mineraller sunarken, kayısı, şeftali, elma gibi meyveler porsiyon kontrolüyle tüketildiğinde hem tatlı ihtiyacınızı karşılar hem de vitamin ve lif alımınızı destekler. Listenizdeki havuçlu yoğurtlu semizotu salatası gibi bir meze, yoğurttan gelen probiyotiklerle bağırsak sağlığınıza katkıda bulunurken, semizotunun içerdiği bitkisel omega-3 ile antiinflamatuar etkiyi sürdürür.\n\nBu yeni dönem, öğrendiğiniz her şeyi bilinçli bir şekilde uygulama ve bedeninizi dinleyerek kendi doğrularınızı bulma zamanıdır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3984,6 +3984,6 @@
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T07:31:20.974Z",
+  "sonGuncelleme": "2026-07-28T07:31:22.784Z",
   "githubKaydedildi": true
 }
