@@ -813,7 +813,7 @@
       "pdfYolu": "pdfs/ÖZNUR AKYÜZ SÜMBÜL 10-16 AĞUSTOS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 10-16 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 10-16 AĞUSTOS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T12:18:55.358Z",
+      "kayitTarihi": "2026-07-28T12:20:03.106Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -993,7 +993,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Öznur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda dördüncü haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bu haftadan itibaren beslenme alışkanlıklarıyla ilgili daha yapısal kazanımlar elde etmeye başlıyoruz. Çünkü bir düzen, ancak zamanla ve tekrarla yerleşiyor.\n\nBu hafta sizinle proteinlerin, özellikle de hayvansal proteinlerin önemi hakkında konuşmak istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, “az yeme” fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, çoğu zaman sürdürülemez bir yoldur. Az yemeye çalıştığımızda açlığı bastırmaya uğraşırız ama günün sonunda hem yorgunluk hem de isteksizlik oluşur. Bu durumun arkasında ise açlık hormonu olan ghrelin yatar. Uzun süreli açlık durumunda devreye girer ve genellikle karbonhidratlara yönelme eğilimimizi artırır.\n\nİşte bu nedenle biz bu süreçte kaloriyi kısıtlamaktan ziyade, insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya çalışıyoruz. Bu hafta sizin için hazırladığımız listede, bu doyurucu ve besleyici yapıyı destekleyen pek çok seçenek göreceksiniz. Mantarlı tavuk sote, köfte, somon gibi güçlü protein kaynakları hem kas dokunuzu korumaya yardımcı olacak hem de sizi uzun süre tok tutacak. Yumurtadaki ve avokadodaki sağlıklı yağlar ise güne başlarken kan şekerinizi dengeleyerek enerji seviyenizi gün boyu stabil tutmanızı sağlar.\n\nGeçen hafta programımıza yeniden dahil ettiğimiz peynir ve yoğurt gibi fermente süt ürünleri de bu haftaki listenizde yer alıyor. Bunlar hem protein desteği sağlar hem de bağırsak sağlığınızı güçlendirmeye devam eder. Listenizdeki somon, zengin Omega-3 içeriğiyle iltihaplanmayı azaltırken; kabak çekirdeği ve badem gibi kuruyemişler de sinir sistemi ve kas fonksiyonları için çok önemli olan magnezyumu almanıza yardımcı olur.\n\nÇok az yemek, dışarıdan bakıldığında kontrollü gibi görünse de içeride metabolizmayı yavaşlatır. Vücut enerji tasarrufuna geçer ve bir süre sonra motivasyon kaybı yaşanabilir. Biz bu döngüyü kırmak istiyoruz. Hem besin içeriği açısından zengin hem de porsiyon olarak sizi doyuran bir sistemle ilerliyoruz.\n\nZamanla listenizdeki yemeklerin değişimini de kendiniz yapabilmeye başlayacaksınız. Elinizde biriken tarif kartlarının sağ kısmındaki makro değerlerine bakarak, özellikle yağ ve protein makroları benzer olan diğer tarif kartlarıyla değişim yapabilirsiniz. Bu sayede beslenme açısından daha esnek olabilirsiniz ve bu durum sürecin sürdürülebilirliğini kolaylaştıracaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1099,6 +1099,6 @@
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T12:20:01.269Z",
+  "sonGuncelleme": "2026-07-28T12:20:03.150Z",
   "githubKaydedildi": true
 }
