@@ -2021,7 +2021,7 @@
       "pdfYolu": "pdfs/SEVGİ DOĞAN 10-16 AĞUSTOS 8. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVGİ DOĞAN 10-16 AĞUSTOS 8. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVGİ DOĞAN 10-16 AĞUSTOS 8. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T09:31:57.888Z",
+      "kayitTarihi": "2026-07-28T09:33:19.714Z",
       "tarifKartlar": [
         {
           "tarifAdi": "pita ekmeği (1 adet)",
@@ -2207,7 +2207,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sevgi Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda sekizinci haftaya başlıyoruz.\n\nBu noktaya kadar geldiğimizde artık bedeninizde hem hissedilir hem de gözle görülür değişimler olmaya başlamıştır. Şimdi, bu temelin üzerine çok güçlü bir alışkanlık daha ekleyeceğiz. Artık sadece ne yediğimiz değil, besinleri hangi sırayla tükettiğimizin de ne kadar önemli olduğunu konuşacağız. Aynı tabaktaki yiyecekleri farklı bir sırayla yemek, vücudun verdiği tepkiyi tamamen değiştirebilir.\n\nYemek sıralaması, özellikle insülin düzeylerini dengelemek ve kan şekerinin ani yükselişlerini önlemek için kritik bir yöntemdir. Bu durum, lipödemli dokular üzerinde doğrudan olumlu bir etki yaratır, çünkü insülin yağ hücrelerinin büyümesini tetikleyen en güçlü hormonlardan biridir. Doğru sıralama ile bu etkiyi en aza indirebiliriz.\n\nPeki bu sıralamayı nasıl uygulayacağız? Oldukça basit:\nÖnce lifli gıdalarla başlıyoruz. Öğüne mutlaka salata, közlenmiş biber veya yoğurtlu semizotu gibi lifli bir seçenekle başlayın. Listenizde yer alan mevsim yeşillikleri veya göçmen salatası gibi seçenekler bunun için harika. Bu lifli besinler, bağırsaklarda bir tür bariyer oluşturarak karbonhidratların kana karışmasını yavaşlatır.\n\nArdından protein ve yağ grubuna geçiyoruz. Salatadan sonra listenizdeki köfte, sebzeli tavuk, ızgara balık veya kuzu güveç gibi ana yemeğinizi tüketebilirsiniz. Protein ve sağlıklı yağlar hem tokluk süresini uzatır hem de kan şekeri dalgalanmalarını önler.\n\nEn sona ise karbonhidratları bırakıyoruz. Örneğin listenizdeki pita ekmeğini yemeğin en sonunda tüketmek, başında yemeye kıyasla kan şekeriniz üzerinde çok daha kontrollü bir etki yaratacaktır.\n\nBu hafta listenizde yer alan besinler de bu süreci destekleyecek şekilde planlandı. Izgara balık, omega-3 ile iltihaplanmayı azaltırken, D vitamini ve selenyum ile bağışıklık sisteminizi destekler. Kuzu güveç, kıymalı ıspanak gibi yemekler B12 vitamini, demir ve çinko sağlayarak hücresel onarımı ve enerji metabolizmanızı güçlendirir. Cevizli biber yoğurtlaması veya salatalarınızdaki ceviz ve fındık gibi kuruyemişler ise magnezyum açısından zengindir, bu da kas fonksiyonlarını ve dinlenmeyi destekler.\n\nBu sıralamaya ek olarak sirkenin etkisini de artırabiliriz. Yemeğe oturmadan hemen önce bir yemek kaşığı elma sirkesini yarım bardak suya karıştırıp içmek, karbonhidratların emilimini yavaşlatarak insülin kontrolüne ciddi anlamda yardımcı olur.\n\nSon olarak, bu dönemde tartıdaki rakamların yavaşladığını veya duraksadığını gözlemleyebilirsiniz. Bu, sürecin tamamen doğal ve beklenen bir parçasıdır. Yağ hücreleri erimeye başladığında, içlerinde depolanan toksinleri ve iltihabi sıvıları serbest bırakırlar. Vücut bu temizliği yaparken geçici bir su tutulumu yaşayabilir. Bu durum, asıl incelmenin devam ettiğinin ve bedenin derinlemesine bir iyileşme sürecine girdiğinin bir işaretidir. Esas odağımız mezura ölçümleri ve kıyafetlerinizdeki bollaşma olmalı.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2317,6 +2317,6 @@
   ],
   "olusturmaTarihi": "2026-06-19T07:38:33.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T09:33:17.583Z",
+  "sonGuncelleme": "2026-07-28T09:33:21.711Z",
   "githubKaydedildi": true
 }
