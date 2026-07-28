@@ -1596,7 +1596,7 @@
       "pdfYolu": "pdfs/NURCEN YENİYAYLA 10-16 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NURCEN YENİYAYLA 10-16 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NURCEN YENİYAYLA 10-16 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T11:52:50.960Z",
+      "kayitTarihi": "2026-07-28T11:54:11.975Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1752,7 +1752,7 @@
         "ekmek ve fırın yemeklerini air fry da yapabilirsiniz."
       ],
       "gptMesaj": "Merhaba Nurcen Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda yedinci haftaya başlıyoruz.\n\nYedinci haftaya girerken artık beslenme düzeniniz büyük ölçüde oturdu, vücudunuz bu ritme uyum sağlamaya başladı. Bu noktada, süreci bir adım daha ileri taşıyarak bedeninize içeriden çok güçlü bir destek sağlamanın tam zamanı. Bu hafta sizinle birlikte, programın başında önerdiğimiz takviyelerin neden bu kadar önemli olduğunu ve lipödem tedavisinde nasıl bir rol oynadıklarını biraz daha yakından konuşalım istiyorum.\n\nBelki de bu liste size başta biraz uzun gelmiş olabilir: Boswellia serrata, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kolajen. Ama şimdi bu isimleri daha yakından tanıyalım, çünkü her birinin lipödemli dokuda ayrı bir görevi var ve bu hafta sizin için hazırladığımız beslenme listesi de bu takviyelerin etkisini artıracak şekilde tasarlandı.\n\nBoswellia serrata ve kurkumin (zerdeçal ekstresi), vücuttaki sessiz inflamasyonu baskılamada çok etkilidir. Lipödemli dokulardaki ağrıya ve sertliğe yol açan bu iltihaplanmayı azalttığımızda, dokular yumuşar ve ödemini daha kolay bırakır. Listenizdeki ızgara balık, zeytinyağı ve ceviz gibi besinler omega-3 açısından zengin olduğu için takviyelerinizin iltihapla mücadeledeki etkisini doğal yoldan güçlendirir.\n\nKoenzim Q10, hücrelerimizin enerji santrallerinin yakıtıdır. Bu takviyeyle vücut daha dinç hissederken, yağ dokusunda başlayan çözülme süreci daha verimli ilerler. Astaksantin ve resveratrol ise doğadaki en güçlü antioksidanlardandır. Hücreleri korur, lenf sistemini destekler ve damar sağlığını iyileştirirler. Cevizli köz biber mezesi, çilek ve bol yeşillikli salatalarınızdaki C vitamini ve diğer antioksidanlar da hücrelerinizi koruyarak bu sürece destek olur.\n\nBromelain, ananas özünden elde edilen ve ödemin çözülmesine yardımcı olan doğal bir enzimdir. Özellikle sertleşmiş dokuların daha geçirgen hale gelmesine destek olur. Bu da geçen haftalarda başladığımız masajla birleştiğinde daha hızlı bir yumuşama süreci sağlar.\n\nListenizde yine yer alan kolajen takviyesi ise özellikle manuel lenf drenaj masajıyla birlikte cildin sıkılaşmasına ve dokuların toparlanmasına yardımcı oluyor. Bu süreçte incelme yaşandıkça cildin kendini toparlaması için bu destek çok değerlidir.\n\nUnutmayın, bu takviyeler mucize değildir. Ama doğru planlanmış bir beslenme düzeniyle birlikte kullanıldığında gerçekten fark yaratabilirler. Vardiyalı çalışma düzeninize göre öğün saatlerinizi yine esnetebileceğinizi hatırlatmak isterim. Bu hafta takviyeleri biraz daha bilinçli şekilde kullanarak bu iyileşme sürecini içeriden desteklemeye odaklanacağız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1858,6 +1858,6 @@
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T11:54:10.003Z",
+  "sonGuncelleme": "2026-07-28T11:54:12.018Z",
   "githubKaydedildi": true
 }
