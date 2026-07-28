@@ -1500,7 +1500,7 @@
       "pdfYolu": "pdfs/ÇİĞDEM AKSU 10-16 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÇİĞDEM AKSU 10-16 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÇİĞDEM AKSU 10-16 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T11:55:31.476Z",
+      "kayitTarihi": "2026-07-28T11:57:04.315Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1665,7 +1665,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Çiğdem Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda yedinci haftaya başlıyoruz.\n\nYedinci haftaya girerken artık beslenme düzeniniz büyük ölçüde oturdu, vücudunuz bu ritme uyum sağlamaya başladı. Bu haftadan itibaren sizinle birlikte, programın başında önerdiğimiz takviyelerin neden önemli olduğunu, bu takviyeleri neden özellikle lipödem tedavisinde kullandığımızı biraz daha yakından konuşalım istiyorum.\n\nBelki de bu liste size başta biraz uzun gelmiş olabilir: Boswellia serrata, koenzim Q10, kurkumin, astaksantin, bromelain, resveratrol ve kolajen. Ama şimdi bu isimleri daha yakından tanıyalım, çünkü her birinin lipödemli dokuda ayrı bir görevi var. Bu takviyeler, beslenme ve masajla başlattığımız iyileşme sürecini içeriden, hücresel düzeyde destekleyen güçlü yardımcılardır.\n\nBoswellia serrata, vücutta sessiz bir şekilde süren inflamasyonu baskılamada çok etkilidir. Özellikle lipödemli dokularda, ağrıya ve sertliğe yol açan mikroskobik iltihap süreçlerinin sakinleşmesine yardımcı olur.\n\nKoenzim Q10, hücrelerimizin enerji santralleri olan mitokondrilerin yakıtıdır. Bu takviyeyle vücut daha dinç hissederken, yağ dokusunda başlayan çözülme süreci de daha verimli ilerler.\n\nKurkumin, yani zerdeçal ekstresi, vücutta antioksidan etki göstererek hücreleri korur. Lipödemli dokuda oksidatif stresin azalmasına ve şişkinliğin hafiflemesine destek olur.\n\nAstaksantin, doğadaki en güçlü antioksidanlardan biridir. Cilt dokusunda kolajen üretimini destekleyerek sıkılaşmayı teşvik eder.\n\nBromelain, ananasın özünden elde edilen bu doğal enzim, özellikle sertleşmiş ve sıkışmış dokulardaki ödemin çözülmesine yardımcı olur. Bu da masajla birleştiğinde daha hızlı bir yumuşama süreci sağlar.\n\nResveratrol, üzüm kabuğunda bulunan bu madde, hem damar sağlığını destekler hem de bağışıklık sistemini güçlendirir.\n\nKollajen ise cildin elastikiyetini artırarak, özellikle incelen bölgelerde sarkmaların önüne geçebilmek için önemli bir destektir.\n\nBu hafta sizin için hazırladığımız liste de bu süreci içeriden besliyor. Listenizdeki ızgara balık ve semizotu salatası gibi seçenekler, omega-3 alımınızı artırarak bu antiinflamatuar takviyelerin etkisini güçlendirir. Közlenmiş kapya biber ve bol yeşillik, C vitamini sağlayarak kollajen takviyesinin vücutta daha iyi kullanılmasına yardımcı olur. Tavuk köftesi ve kebap gibi protein kaynakları ise enerji metabolizmanız için gerekli olan B vitaminlerini ve çinkoyu sağlarken, ara öğünlerdeki ceviz ve çiğ badem magnezyum ihtiyacınızı karşılar.\n\nUnutmayın, bu takviyeler mucize değildir. Ancak doğru planlanmış bir beslenme düzeni ve masaj programıyla birlikte kullanıldığında gerçekten fark yaratabilir. Bu hafta takviyeleri bu bilinçle kullanmanızı öneriyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1763,6 +1763,6 @@
   ],
   "olusturmaTarihi": "2026-06-30T19:40:02.813Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T11:57:01.754Z",
+  "sonGuncelleme": "2026-07-28T11:57:04.358Z",
   "githubKaydedildi": true
 }
