@@ -2,7 +2,7 @@
   "id": 1777960424840,
   "isim": "RABİA YILDIRIM",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4080,6 +4080,6 @@
   ],
   "olusturmaTarihi": "2026-05-05T05:53:44.840Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-27T06:42:30.375Z",
+  "sonGuncelleme": "2026-07-28T07:26:42.114Z",
   "githubKaydedildi": true
 }
