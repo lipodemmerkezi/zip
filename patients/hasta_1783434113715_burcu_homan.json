@@ -1333,7 +1333,7 @@
       "pdfYolu": "pdfs/BURCU HOMAN 10-16 AĞUSTOS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/BURCU HOMAN 10-16 AĞUSTOS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/BURCU HOMAN 10-16 AĞUSTOS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T12:06:33.683Z",
+      "kayitTarihi": "2026-07-28T12:09:11.861Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unu ekmeği (1 dilim)",
@@ -1508,7 +1508,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Burcu Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda altıncı haftaya başlıyoruz.\n\nProgramın bu aşamasında artık beslenme düzeniniz büyük ölçüde oturdu, geçen hafta başladığımız masaj uygulamalarıyla da sürece bedensel bir destek ekledik. Bu noktada, iyileşme sürecini bir kat daha derine taşımak ve hücresel düzeyde neler olup bittiğini anlamak için çok önemli bir konuya odaklanacağız: mikrobesinlerin lipödem tedavisindeki rolü.\n\nLipödem tedavisinde yalnızca kilo kaybı değil, bölgesel incelme ve doku kalitesinde iyileşme de son derece önemlidir. Bu nedenle tartıdaki değişim kadar, kıyafetlerinizdeki bollaşma ve bedeninizdeki hafifleme hissi bizim için en değerli göstergelerdir. Şu anda asıl iyileşme içeride, hücrelerinizin seviyesinde gerçekleşiyor. Bu derin onarım sürecini destekleyen en önemli kahramanlar ise vitamin ve mineraller, yani mikrobesinlerdir.\n\nD vitamini, B12 vitamini, çinko, magnezyum, C vitamini ve selenyum bu süreçte özellikle öne çıkar. D vitamini, lipödemli dokulardaki kronik inflamasyonu kontrol etmede kilit rol oynarken, B12 vitamini enerji seviyenizi yüksek tutarak sürece olan motivasyonunuzu destekler. Çinko, hücresel onarım ve cilt sağlığı için gereklidir. Magnezyum ise kas fonksiyonlarını düzenler ve uyku kalitenizi artırır. Tüm bu mikrobesinler, hücrelerimizin enerji santralleri olan mitokondrilerde çalışır. Onları doğru beslediğimizde, vücudun kendini onarma ve yağ yakma kapasitesi de artar.\n\nBu hafta sizin için hazırladığımız listede bu mikrobesinleri doğal yollardan alabileceğiniz pek çok seçenek bulunuyor. Örneğin, listenizdeki ızgara balık, hem inflamasyonu azaltan omega-3 hem de D vitamini açısından zengin bir kaynak. Sucuklu yumurta, omlet gibi yumurta bazlı kahvaltılar ise selenyum ve B12 alımınızı destekler. Kuzu güveç ve köfte gibi kırmızı et içeren öğünleriniz, hücresel onarım için gerekli olan çinko ihtiyacınızı karşılamaya yardımcı olacak. Ara öğünlerdeki fındık, badem ve kabak çekirdeği ise kas fonksiyonları için önemli olan magnezyumu size sağlayacaktır. Bol yeşillikli ve kırmızı biberli salatalarınız da kolajen üretimi için kritik olan C vitamini almanıza destek olur.\n\nGördüğünüz gibi, beslenme planınızdaki her bir öğün, sadece doymanızı değil, aynı zamanda vücudunuzun derinlemesine iyileşmesini destekleyecek şekilde özenle yapılandırıldı.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1624,6 +1624,6 @@
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T12:09:09.297Z",
+  "sonGuncelleme": "2026-07-28T12:09:11.900Z",
   "githubKaydedildi": true
 }
