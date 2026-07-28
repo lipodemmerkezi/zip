@@ -1568,7 +1568,7 @@
       "pdfYolu": "pdfs/NECİBE ÇALIŞKAN ÇOBAN 10-16 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 10-16 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 10-16 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T11:43:15.145Z",
+      "kayitTarihi": "2026-07-28T11:46:33.147Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -1733,7 +1733,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Necibe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda yedinci haftaya başlıyoruz.\n\nYedinci haftaya girerken, beslenme düzeninizin artık büyük ölçüde oturduğunu ve vücudunuzun bu yeni ritme uyum sağladığını düşünüyorum. Bu sağlam temel üzerine, şimdi iyileşme sürecini içeriden destekleyen önemli bir konuya, yani takviyelere daha yakından bakmanın tam zamanı. Programın başında önerdiğimiz takviyelerin lipödem tedavisinde neden bu kadar önemli olduğunu ve her birinin vücudunuzda nasıl bir görev üstlendiğini bu hafta birlikte inceleyelim.\n\nBu takviyelerin her biri, lipödemli dokunun farklı bir ihtiyacını hedef alır: Boswellia serrata, vücutta süregelen sessiz inflamasyonu baskılayarak dokulardaki ağrı ve sertliğin azalmasına yardımcı olur. Koenzim Q10, hücrelerimize enerji sağlayarak metabolizmayı canlandırır ve yağ dokusundaki çözülme sürecini daha verimli hale getirir. Kurkumin (zerdeçal ekstresi) ve resveratrol gibi güçlü antioksidanlar ise hücreleri korur, damar sağlığını destekler ve şişkinliğin hafiflemesine katkıda bulunur.\n\nÖzellikle ödemin çözülmesinde etkili olan bromelain, sertleşmiş dokuların yumuşamasına destek olurken, astaksantin ve kollajen cildin sıkılaşmasını ve elastikiyetini artırmayı hedefler. Bu, özellikle incelme sürecinde dokuların toparlanması ve sarkmaların önlenmesi için çok değerlidir.\n\nBu haftaki takviye sohbetimizi, sizin için hazırladığımız beslenme listesiyle de bütünleştirelim. Göreceğiniz gibi, bu hafta da vücudun kendi onarım mekanizmalarını destekleyen mikrobesinler açısından zengin bir yapı oluşturduk. Örneğin, listenizdeki ızgara balık, hem D vitamini hem de selenyum açısından zengindir; bu da takviyelerle hedeflediğimiz anti-inflamatuar etkiyi beslenme yoluyla güçlendirir. Bolca yer verdiğimiz semizotu, ıspanak ve roka gibi yeşillikler, C vitamini içeriğiyle kolajen üretimini desteklerken, ceviz ve avokado gibi sağlıklı yağlar da magnezyum sağlayarak dokuların rahatlamasına yardımcı olur. Ayrıca listenizde doğrudan göreceğiniz toz kollajen de bu haftaki konumuzun en somut yansımalarından biri.\n\nUnutmayın, bu takviyeler tek başlarına birer mucize değildir. Ancak sizin uyguladığınız gibi doğru planlanmış bir beslenme düzeni, masaj ve egzersiz programıyla bir araya geldiklerinde iyileşme sürecini hem hızlandırır hem de çok daha konforlu hale getirirler. Bu hafta takviyelerinizi bu bilgiler ışığında daha bilinçli bir şekilde kullanmanızı rica ediyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1831,6 +1831,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T11:36:42.017Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T11:46:29.248Z",
+  "sonGuncelleme": "2026-07-28T11:46:33.190Z",
   "githubKaydedildi": true
 }
