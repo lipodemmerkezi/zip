@@ -754,7 +754,7 @@
       "pdfYolu": "pdfs/ŞERMİN KÖRÜK 10-16 AĞUSTOS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERMİN KÖRÜK 10-16 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERMİN KÖRÜK 10-16 AĞUSTOS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T12:23:44.028Z",
+      "kayitTarihi": "2026-07-28T12:24:50.963Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -926,7 +926,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Şermin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda dördüncü haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Bir düzen, ancak zamanla ve tekrarla yerleşiyor ve bu ilk ayın sonuna yaklaşırken attığınız adımlar çok değerli.\n\nBu hafta sizinle metabolik hız ve yeterli beslenmenin önemi hakkında konuşmak istiyorum. Lipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, “az yeme” fikrinin başarıya götüreceğine inanmaktır. Oysa sadece porsiyonları azaltmak, vücudun enerji ihtiyacını karşılamadığı için sürdürülebilir bir yol değildir. Vücut, yeterli enerji alamadığında bir kıtlık sinyali alır, metabolizmayı yavaşlatır ve enerji tasarrufu moduna geçer. Bu durum, yorgunluk, isteksizlik ve özellikle karbonhidratlara yönelik güçlü yeme ataklarına zemin hazırlar.\n\nİşte bu nedenle biz bu süreçte kaloriyi kısıtlamaktan ziyade, insülin dengesini koruyan ama doyurucu bir beslenme düzeni oluşturmaya odaklanıyoruz. Bu hafta sizin için hazırladığımız listede bu doyuruculuğu sağlamak adına protein çeşitliliğini artırdık. Örneğin, köfte, tavuk güveç ve somon fleto gibi seçenekler, hem sizi uzun süre tok tutacak hem de kas dokunuzu korumak için gerekli olan temel aminoasitleri sağlayacaktır. Özellikle somon, sadece kaliteli bir protein kaynağı olmakla kalmaz, aynı zamanda omega-3 yağ asitleri sayesinde vücudunuzdaki inflamasyonla mücadeleye devam eder.\n\nListenizdeki avokadolu omlet, çiğ badem ve zeytin gibi sağlıklı yağ kaynakları ise hem enerji seviyenizi gün boyu dengede tutar hem de yağda çözünen D vitamini gibi mikro besinlerin emilimini destekler. Geçen hafta programımıza geri dönen süt ürünlerini bu hafta da tulum peyniri ve ev yoğurdu gibi seçeneklerle dengeli bir şekilde kullanmaya devam ediyoruz. Bu fermente ürünler, bağırsak floranızı destekleyerek genel sağlığınıza katkıda bulunur.\n\nZamanla listenizdeki yemeklerin değişimini de kendiniz yapabilmeye başlayacaksınız. Elinizde biriken tarif kartlarının sağ kısmındaki makro değerlerine bakarak, özellikle yağ ve protein makrolarına benzer olan diğer tarif kartlarıyla değişim yapabilirsiniz. Bu sayede beslenme açısından daha esnek olabilirsiniz ve sürdürülebilirlik açısından bu durum süreci kolaylaştıracaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1026,6 +1026,6 @@
   ],
   "olusturmaTarihi": "2026-07-18T08:51:29.998Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T12:24:49.509Z",
+  "sonGuncelleme": "2026-07-28T12:24:53.334Z",
   "githubKaydedildi": true
 }
