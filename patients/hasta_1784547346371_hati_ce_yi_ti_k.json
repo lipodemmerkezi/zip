@@ -788,7 +788,7 @@
       "pdfYolu": "pdfs/HATİCE YİTİK 10-16 AĞUSTOS 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YİTİK 10-16 AĞUSTOS 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YİTİK 10-16 AĞUSTOS 4. HAFTA.pdf",
-      "kayitTarihi": "2026-07-28T12:27:22.236Z",
+      "kayitTarihi": "2026-07-28T12:28:19.332Z",
       "tarifKartlar": [
         {
           "tarifAdi": "avokadolu omlet",
@@ -959,7 +959,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz.\n\nArtık yeni beslenme düzeninize daha çok alıştığınızı, birçok davranışın yavaş yavaş oturmaya başladığını tahmin ediyorum. Geçen hafta süt ürünlerini kontrollü bir şekilde yeniden hayatımıza dahil ederek önemli bir adım atmıştık. Bu hafta ise beslenme alışkanlıklarıyla ilgili daha yapısal bir konuya, metabolizma hızımıza ve yemek miktarına odaklanacağız.\n\nLipödem ya da kilo yönetimi sürecinde yapılan en büyük hatalardan biri, başarının sadece “az yemekle” geleceğine inanmaktır. Oysa sadece porsiyonları küçültmek, açlıkla mücadele etmek çoğu zaman sürdürülemez bir yoldur ve vücudun açlık hormonu olan ghrelin'i devreye sokar. Bu hormon, güçlü bir şekilde karbonhidrat ve tatlı isteği yaratır, bu da genellikle plansız yeme ataklarına yol açar. Çok az yemek, dışarıdan kontrollü gibi görünse de içeride metabolizmayı yavaşlatır, vücut enerji tasarrufuna geçer ve bu durum motivasyon kaybına neden olabilir.\n\nBiz bu döngüyü kırmak için, kaloriyi kısıtlamak yerine insülin dengesini koruyan ve sizi gerçekten doyuran bir düzen oluşturuyoruz. Bu hafta sizin için hazırladığımız listede bu doyuruculuk ilkesini net bir şekilde görebilirsiniz. Soslu antrikot, kremalı mantarlı tavuk veya kıymalı enginar dolması gibi öğünler, hem lezzetli hem de metabolizmanızı destekleyecek yeterli protein ve sağlıklı yağları içeriyor. Bu tür öğünler, sizi uzun süre tok tutarak açlık krizlerinin önüne geçer.\n\nListenizdeki somon fleto, sadece doyurucu bir protein kaynağı olmakla kalmıyor, aynı zamanda içerdiği omega-3 yağ asitleri ve D vitamini ile iltihapla mücadele sürecimize ve bağışıklık sisteminize güçlü bir destek sağlıyor. Ispanaklı tarifler ve çiğ badem gibi seçenekler magnezyum alımınıza katkıda bulunurken, kırmızı et ve tavuk gibi besinler de doku onarımı için gerekli olan çinkoyu içerir. Geçen hafta başlattığımız süt ürünleri geçişini bu hafta da yoğurtlu ve peynirli seçeneklerle sürdürerek bağırsak floramızı desteklemeye devam ediyoruz.\n\nAyrıca listenize eklediğimiz lupin unlu poğaça veya ekmek gibi alternatifler, sosyal hayatınızda veya canınız farklı bir tat istediğinde size esneklik sağlayarak sürecin sürdürülebilirliğine yardımcı olacaktır. Unutmayın, hedefimiz aç kalmak değil, doğru besinlerle bedeni besleyerek onu onarmaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1063,6 +1063,6 @@
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T12:28:17.326Z",
+  "sonGuncelleme": "2026-07-28T12:28:19.373Z",
   "githubKaydedildi": true
 }
