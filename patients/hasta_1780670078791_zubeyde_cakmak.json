@@ -2374,24 +2374,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-08-09",
-      "bitis": "2026-08-15",
+      "baslangic": "2026-08-10",
+      "bitis": "2026-08-16",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ZÜBEYDE ÇAKMAK 10-16 AĞUSTOS 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "ZÜBEYDE ÇAKMAK 10-16 AĞUSTOS 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/ZÜBEYDE ÇAKMAK 10-16 AĞUSTOS 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ZÜBEYDE ÇAKMAK 10-16 AĞUSTOS 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ZÜBEYDE ÇAKMAK 10-16 AĞUSTOS 10. HAFTA.pdf",
+      "kayitTarihi": "2026-07-28T07:51:47.392Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-05T14:34:38.791Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T07:51:31.373Z",
+  "sonGuncelleme": "2026-07-28T07:51:47.396Z",
   "githubKaydedildi": true
 }
