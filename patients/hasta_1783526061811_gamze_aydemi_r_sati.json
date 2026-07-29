@@ -1401,7 +1401,7 @@
       "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 17-23 AĞUSTOS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 17-23 AĞUSTOS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 17-23 AĞUSTOS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T06:30:50.737Z",
+      "kayitTarihi": "2026-07-29T06:32:11.280Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu salata",
@@ -1572,7 +1572,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Gamze Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda altıncı haftaya başlıyoruz.\n\nArtık programın büyük bir kısmının oturduğunu, yeni düzeninize alıştığınızı düşünüyorum. Geçen hafta masajla birlikte başlattığımız bedensel onarım sürecini bu hafta daha derin bir katmana, hücresel seviyeye taşıyoruz. Bu noktada sizinle lipödem tedavisinin en önemli konularından birini konuşmak istiyorum: mikrobesinler.\n\nLipödemde hedefimiz yalnızca tartıdaki değişim değil, aynı zamanda doku kalitesini iyileştirmek ve bölgesel incelmeyi sağlamaktır. Bu iyileşme, hücrelerimizin enerji santralleri olan mitokondrilerde başlar. İşte bu santrallerin verimli çalışması için ihtiyaç duyduğu yakıtlar da vitamin ve mineraller, yani mikrobesinlerdir. Yeterli D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum olmadan vücut kendini onaramaz, enerji üretemez ve iyileşme süreci yavaşlar. Bu durum, kişinin kendini sürekli yorgun hissetmesine ve sürecin yavaş ilerlemesine neden olabilir.\n\nBu hafta sizin için hazırladığımız listede, bu mikrobesinleri doğal yollarla alabileceğiniz pek çok lezzetli seçenek bulunuyor. Örneğin, balık ve yumurta gibi temel protein kaynaklarımız, hem D vitamini hem de selenyum açısından oldukça zengindir. Bu ikili, bağışıklık sistemini düzenlerken lenfatik sisteminize de destek olur. Tepsi kebabı, tavuk güveç gibi et yemekleri ve kabak çekirdeği gibi atıştırmalıklar çinko ihtiyacınızı karşılamaya yardımcı olurken; bolca yer verdiğimiz yeşillikler, badem, fındık ve hatta küçük bir keyif olarak eklediğimiz bitter çikolata magnezyum alımınızı destekleyecektir. Magnezyum, özellikle masajla birlikte kaslarınızın daha rahatlamasına ve gevşemenize yardımcı olur.\n\nListenizde göreceğiniz köz biber salatası, roka salatası gibi bol çeşitli ve renkli salatalar ise C vitamini alımınızı artırarak kolajen üretimini destekler. Bu da cildinizin sıkılaşması ve doku onarımı için kritik bir öneme sahiptir. Bakla unu ekmeği, badem unlu lavaş gibi alternatiflerle de süreci tekdüzelikten çıkarıp daha keyifli hale getirmeyi amaçladık.\n\nBeslenme bu sürecin temel taşı olsa da, asıl derin iyileşme bu mikro düzeyde gerçekleşiyor. Altıncı haftadan itibaren bu derin katmana daha bilinçli yaklaşmak, süreci çok daha etkili hâle getirecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1674,6 +1674,6 @@
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:32:08.961Z",
+  "sonGuncelleme": "2026-07-29T06:32:13.870Z",
   "githubKaydedildi": true
 }
