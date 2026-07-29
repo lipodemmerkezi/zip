@@ -1071,7 +1071,7 @@
       "pdfYolu": "pdfs/HATİCE YİTİK 17-23 AĞUSTOS 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YİTİK 17-23 AĞUSTOS 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YİTİK 17-23 AĞUSTOS 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T06:41:57.823Z",
+      "kayitTarihi": "2026-07-29T06:42:59.595Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1267,7 +1267,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 5. haftaya başlıyoruz.\n\nBu hafta, beslenme ile başlattığımız iyileşme sürecini bedeninize dokunarak destekleyeceğimiz çok özel bir aşamaya geçiyoruz. Programımıza manuel lenf drenaj masajını, yani kendi kendinize kolayca uygulayabileceğiniz bir tekniği dahil ediyoruz. Bu masaj için herhangi bir alete ihtiyacınız olmayacak, sadece kendi ellerinizi kullanacaksınız. Size bu mesajla birlikte hem nasıl yapıldığını gösteren videoları hem de 8 haftalık bir masaj takvimini ulaştıracağız.\n\nİlk dört haftalık beslenme süreci, vücudunuzdaki iltihabi yükü azaltarak lipödemli dokularda biriken sıvının atılmasını sağladı. Bu dönemde dokularda hissettiğiniz yumuşama, aslında iyileşmenin en güzel işaretlerinden biridir. Bu yumuşama, yağ hücrelerinin içindeki toksinlerin ve sıvı yükünün serbest kalmasıyla oluşur. İşte tam da bu noktada masaja başlamak, adeta nefes almaya başlayan lenf kanallarını harekete geçirerek bu serbest kalan atıkların vücuttan uzaklaştırılmasını hızlandıracaktır.\n\nBu süreçte beslenme düzeniniz de masajın etkisini güçlendirecek şekilde tasarlandı. Sizin için hazırladığımız listede göreceğiniz ızgara balık gibi omega-3 kaynakları, kan dolaşımını iyileştirerek masajın etkinliğini artırır. Bonfile, köfte, tavuk gibi kaliteli proteinler ve yumurta, kolajen takviyesiyle birlikte cildin sıkılaşmasına ve bağ dokusunun onarılmasına destek olur. Semizotu ve roka gibi yeşillikler antioksidanlarla karaciğerinize yardımcı olurken, kabak çekirdeği ve ceviz gibi kuruyemişler de doku onarımı için gerekli olan çinko ve magnezyum gibi mineralleri sağlar.\n\nBu dönemde tartıdaki rakamların biraz yavaşladığını veya duraksadığını gözlemleyebilirsiniz. Bu tamamen beklenen ve doğal bir durumdur. Vücut, yağ hücrelerinden açığa çıkan toksinleri seyreltmek için geçici olarak bir miktar su tutabilir. Bu, aslında içerde derin bir temizliğin ve onarımın devam ettiğini gösterir. Önemli olan mezura ölçümlerindeki incelmedir ve lenf masajı tam da bu incelmeyi hızlandıracak en önemli destekçimiz olacak.\n\nMasajın kendisi oldukça nazik ve yavaş hareketlerle uygulanır. Videolarda da göreceğiniz gibi, başlamadan önce yapacağınız derin nefes egzersizleri lenf sistemini uyarmak için çok değerlidir. Bu uygulamanın ne kadar basit göründüğüne aldanmayın; tecrübelerime dayanarak söyleyebilirim ki, masajı düzenli olarak yapan danışanlarımın iyileşme süreçleri her zaman daha belirgin oluyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1382,6 +1382,6 @@
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:42:57.989Z",
+  "sonGuncelleme": "2026-07-29T06:42:59.611Z",
   "githubKaydedildi": true
 }
