@@ -2957,24 +2957,27 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE ÇİLOĞLU 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE ÇİLOĞLU 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE ÇİLOĞLU 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÇİLOĞLU 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÇİLOĞLU 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T05:42:53.492Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-06T10:29:38.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:42:33.791Z",
+  "sonGuncelleme": "2026-07-29T05:42:53.495Z",
   "githubKaydedildi": true
 }
