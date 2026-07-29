@@ -1340,7 +1340,7 @@
       "pdfYolu": "pdfs/MERAL GÖKCE 17-23 AĞUSTOS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÖKCE 17-23 AĞUSTOS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÖKCE 17-23 AĞUSTOS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T06:32:53.691Z",
+      "kayitTarihi": "2026-07-29T06:34:30.760Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tavuklu salata",
@@ -1507,7 +1507,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz.\n\nArtık programın genel yapısı ve temel alışkanlıklar oturmaya başladı. Beslenme düzenine alıştınız, takviyeleri kullanıyorsunuz ve geçen hafta başladığımız masajlarla sürece farklı bir boyut ekledik. Bu noktada, iyileşme sürecini daha derin bir seviyeye taşımak için çok önemli bir konuya odaklanacağız: mikrobesinlerin lipödem tedavisindeki rolü.\n\nİlk haftalarda vücuttaki inflamasyonu azaltmaya ve sindirim sistemini rahatlatmaya odaklandık. Şimdi ise hücresel düzeyde bir onarım ve destek dönemine giriyoruz. Bu süreçte D vitamini, B12, çinko, magnezyum, C vitamini ve selenyum gibi vitamin ve mineraller kritik bir rol oynar. Bunlar, hücrelerimizin enerji santralleri olan mitokondrilerin verimli çalışmasını sağlar. Yeterli alındıklarında enerji üretiminiz artar, iyileşme hızlanır ve kendinizi daha zinde hissedersiniz.\n\nBu hafta sizin için hazırladığımız listeyi de bu mikrobesin zenginliğini göz önünde bulundurarak oluşturduk. Listenizdeki yumurta, balık, tepsi kebabı ve tavuk güveç gibi protein kaynakları, yorgunluk hissini azaltmaya yardımcı olan B12 vitamini ve hücresel onarım için kritik olan çinko gibi değerli mikrobesinleri almanızı sağlıyor. Yanında bolca yer verdiğimiz roka, ıspanak ve semizotu gibi yeşillikler, kas fonksiyonlarını ve uyku kalitesini destekleyen magnezyum açısından oldukça zengindir. Ara öğünlerdeki çiğ badem ve kabak çekirdeği de bu desteği pekiştirir.\n\nAyrıca köz biber salatası veya menemen gibi seçeneklerdeki biber ve domates, kolajen üretimini destekleyerek cilt sıkılaşmasına yardımcı olan C vitaminini sağlarken, balık ve ceviz gibi kaynaklar da tiroit fonksiyonları ve lenfatik sistem için önemli olan selenyumu içerir. Geçen hafta başladığınız masajla harekete geçen toksinlerin atılımı ve doku onarımı, tam da bu vitamin ve mineraller sayesinde daha verimli hale geliyor.\n\nBu nedenle tartıdaki değişimden çok, kıyafetlerinizdeki bollaşma ve kendinizi daha enerjik hissetmeniz gibi işaretlere odaklanmak bu dönemde çok daha anlamlıdır. Asıl derin iyileşme bu mikro düzeyde gerçekleşiyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1612,6 +1612,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:34:28.289Z",
+  "sonGuncelleme": "2026-07-29T06:34:33.517Z",
   "githubKaydedildi": true
 }
