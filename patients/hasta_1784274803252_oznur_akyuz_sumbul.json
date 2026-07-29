@@ -1107,7 +1107,7 @@
       "pdfYolu": "pdfs/ÖZNUR AKYÜZ SÜMBÜL 17-23 AĞUSTOS 5. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 17-23 AĞUSTOS 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖZNUR AKYÜZ SÜMBÜL 17-23 AĞUSTOS 5. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T06:37:30.868Z",
+      "kayitTarihi": "2026-07-29T06:39:27.361Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1304,7 +1304,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Öznur Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda beşinci haftaya başlıyoruz.\n\nBu hafta sürecimize çok değerli bir destek daha ekliyoruz: manuel lenf drenaj masajı, yani kendi kendinize kolayca uygulayabileceğiniz bir teknik. Size bu mesajla birlikte hem eğitim ve uygulama videolarını hem de 8 haftalık bir masaj takvimini ulaştıracağız. Bu takvimde hangi günlerde, ne sıklıkla masaj yapacağınız adım adım belirtiliyor.\n\nİlk dört haftalık beslenme düzeniyle vücudunuzdaki inflamatuar sıvı yükü azalmaya başladı. Bu süreçte dokularda hissettiğiniz yumuşama, aslında iyileşmenin bir işareti. Yağ hücreleri içlerindeki toksinleri ve birikmiş sıvıları serbest bırakıyor. Bu durum bazen tartıda bir duraksamaya neden olabilir, bu çok doğal bir tepkidir. İşte tam bu aşamada masajı devreye sokarak, serbest kalan bu maddelerin lenf sistemi aracılığıyla vücuttan atılımını hızlandırıyoruz. Yani masaj, beslenmenin başlattığı temizlik sürecini bir üst seviyeye taşıyor.\n\nBu hafta sizin için hazırladığımız listede de, lenf sisteminin bu temizlik görevini destekleyecek besinlere odaklandık. Listenizdeki ızgara balık ve ceviz gibi seçenekler, Omega-3 yağ asitleriyle damar sağlığını ve dolaşımı desteklerken, iltihaplanmayı azaltır. Yeşil salatalar ve semizotu, C vitamini ve antioksidanlar açısından zengindir; bu da doku onarımını ve bağışıklık sistemini güçlendirir. Kabak çekirdeği ve fındık gibi kuruyemişler ise kasların gevşemesi ve mineral dengesi için gerekli olan magnezyumu sağlar. Bu mikro besinler, masajın etkisini içeriden de güçlendirmiş olacak.\n\nManuel lenf drenaj masajı, cilde neredeyse hiç bastırmadan, çok hafif ve yavaş hareketlerle uygulanır. Videolarda da göreceğiniz gibi, masaja başlamadan önce yapacağınız derin nefes egzersizleri, vücudun ana lenf merkezlerini uyararak uygulamanın etkinliğini artırır. Bu masaj sadece bacaklara değil, tüm vücudu bir ağ gibi saran lenf sisteminin tamamına etki eder.\n\nMasajın en zorlayıcı kısmı, aslında uygulamasının çok basit olmasıdır. Bu kadar hafif dokunuşların nasıl bu kadar etkili olabileceğine inanmak bazen güç gelebilir. Ancak bu noktada tecrübelerime dayanarak söyleyebilirim ki, sürece masajı düzenli dahil edenlerin iyileşme düzeyleri her zaman daha belirgin oluyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1409,6 +1409,6 @@
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:39:24.739Z",
+  "sonGuncelleme": "2026-07-29T06:39:29.855Z",
   "githubKaydedildi": true
 }
