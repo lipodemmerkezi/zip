@@ -1623,24 +1623,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "BURCU HOMAN 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "BURCU HOMAN 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/BURCU HOMAN 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/BURCU HOMAN 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/BURCU HOMAN 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T06:28:33.532Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:28:13.457Z",
+  "sonGuncelleme": "2026-07-29T06:28:33.535Z",
   "githubKaydedildi": true
 }
