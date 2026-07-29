@@ -1392,24 +1392,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GAMZE AYDEMİR SATI 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "GAMZE AYDEMİR SATI 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T06:30:50.737Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:30:36.794Z",
+  "sonGuncelleme": "2026-07-29T06:30:50.739Z",
   "githubKaydedildi": true
 }
