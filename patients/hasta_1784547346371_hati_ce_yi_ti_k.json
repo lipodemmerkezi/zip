@@ -1062,24 +1062,27 @@
     },
     {
       "haftaNo": 5,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HATİCE YİTİK 17-23 AĞUSTOS 5. HAFTA.pdf",
+      "pdfOrijinalIsim": "HATİCE YİTİK 17-23 AĞUSTOS 5. HAFTA.pdf",
+      "pdfYolu": "pdfs/HATİCE YİTİK 17-23 AĞUSTOS 5. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YİTİK 17-23 AĞUSTOS 5. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YİTİK 17-23 AĞUSTOS 5. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T06:41:57.823Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:41:41.239Z",
+  "sonGuncelleme": "2026-07-29T06:41:57.824Z",
   "githubKaydedildi": true
 }
