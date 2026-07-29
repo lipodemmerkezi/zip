@@ -2309,10 +2309,27 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ]
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-08-16",
+      "bitis": "2026-08-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-20T12:51:48.572Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-28T09:38:19.615Z",
+  "sonGuncelleme": "2026-07-29T06:08:34.489Z",
   "githubKaydedildi": true
 }
