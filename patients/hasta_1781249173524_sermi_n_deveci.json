@@ -2566,7 +2566,7 @@
       "pdfYolu": "pdfs/SERMİN DEVECİ 17-23 AĞUSTOS 10. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERMİN DEVECİ 17-23 AĞUSTOS 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERMİN DEVECİ 17-23 AĞUSTOS 10. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T05:54:11.737Z",
+      "kayitTarihi": "2026-07-29T05:55:21.739Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2758,7 +2758,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sermin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 10. haftaya başlıyoruz.\n\nBu hafta sizinle birlikte programımızda çok önemli ve keyifli bir geçiş yapıyoruz. İlk dokuz haftalık ketojenik beslenme sürecini başarıyla tamamladık; bu dönemde vücudunuzdaki inflamasyonu azaltmaya ve insülin dengesini sağlamaya odaklandık. Artık bu sağlam temel üzerine, süreci daha esnek ve uzun vadede sürdürülebilir kılacak yeni bir yapı inşa etme zamanı geldi: düşük karbonhidratlı (LowCarb) beslenme düzenine geçiyoruz.\n\nBu değişikliğin temel amacı, size daha fazla çeşitlilik sunarken lipödem yönetiminin temel prensiplerinden uzaklaşmamaktır. Ketojenik beslenmenin getirdiği katı kurallar bazen sosyal yaşamı zorlayabilir. Düşük karbonhidratlı beslenme ise bize sağlıklı karbonhidrat kaynaklarını kontrollü bir şekilde hayatımıza yeniden dahil etme imkanı tanır.\n\nBu geçişi yansıtacak şekilde, bu hafta sizin için hazırladığımız listede bazı yenilikler göreceksiniz. Örneğin menünüze artık karabuğday ekmeği, elma, kayısı, karpuz gibi daha önce yer vermediğimiz besinleri ekledik. Ayrıca tatlı patatesli omlet veya zeytinyağlı taze fasulye gibi seçeneklerle sofranızı daha da zenginleştirdik. Bu besinler, lif ve değerli vitaminler sağlarken, porsiyon kontrolüyle kan şekeri dengenizi korumaya devam edecek.\n\nBu yeni dönemde, geçtiğimiz haftalarda konuştuğumuz yemek sıralaması prensibi, yani öğüne lifle başlayıp protein ve yağı tükettikten sonra karbonhidratı en sona bırakmak, daha da önem kazanıyor. Bu sayede karabuğday ekmeği veya meyve gibi besinlerin kan şekerinize olan etkisini en aza indirmiş olacağız.\n\nListenizde yer alan somon, ızgara balık gibi seçenekler D vitamini ve selenyum alımınızı destekleyerek lenfatik sisteminize yardımcı olmaya devam ederken; kuzu güveç ve kebap gibi yemekler çinko ve B12 vitamini ihtiyacınızı karşılayacaktır. Avokado, çiğ badem, fındık ve yeşillikler ise magnezyum açısından zengin kaynaklar olarak kas fonksiyonlarınızı ve enerji seviyenizi destekler. Bu kontrollü karbonhidrat artışı, geçen hafta başladığınız egzersizler için de size daha sürdürülebilir bir enerji sağlayacaktır.\n\nKetojenik dönemde oluşturduğumuz alışkanlıklar ve tarifler sizin için artık değerli bir arşiv. Şimdi bu arşivinize bir de düşük karbonhidratlı beslenme düzenini ekliyoruz. İlerleyen zamanlarda bu iki düzen arasında bilinçli geçişler yaparak, hem bedensel hem de psikolojik dengeyi koruyabilirsiniz. Bu esneklik, lipödem gibi kronik bir durumu yönetirken en güçlü aracımız olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2870,6 +2870,6 @@
   ],
   "olusturmaTarihi": "2026-06-12T07:26:13.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:55:19.612Z",
+  "sonGuncelleme": "2026-07-29T05:55:24.703Z",
   "githubKaydedildi": true
 }
