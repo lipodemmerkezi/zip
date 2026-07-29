@@ -2557,24 +2557,27 @@
     },
     {
       "haftaNo": 10,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SERMİN DEVECİ 17-23 AĞUSTOS 10. HAFTA.pdf",
+      "pdfOrijinalIsim": "SERMİN DEVECİ 17-23 AĞUSTOS 10. HAFTA.pdf",
+      "pdfYolu": "pdfs/SERMİN DEVECİ 17-23 AĞUSTOS 10. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SERMİN DEVECİ 17-23 AĞUSTOS 10. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SERMİN DEVECİ 17-23 AĞUSTOS 10. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T05:54:11.737Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-12T07:26:13.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:53:44.937Z",
+  "sonGuncelleme": "2026-07-29T05:54:11.739Z",
   "githubKaydedildi": true
 }
