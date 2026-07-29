@@ -2316,24 +2316,27 @@
     },
     {
       "haftaNo": 9,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEVGİ DOĞAN 17-23 AĞUSTOS 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEVGİ DOĞAN 17-23 AĞUSTOS 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEVGİ DOĞAN 17-23 AĞUSTOS 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVGİ DOĞAN 17-23 AĞUSTOS 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVGİ DOĞAN 17-23 AĞUSTOS 9. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T06:03:54.250Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-19T07:38:33.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:03:31.050Z",
+  "sonGuncelleme": "2026-07-29T06:03:54.252Z",
   "githubKaydedildi": true
 }
