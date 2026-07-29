@@ -1281,7 +1281,7 @@
       "pdfYolu": "pdfs/OLCAY ERSOY 17-23 AĞUSTOS 6. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/OLCAY ERSOY 17-23 AĞUSTOS 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/OLCAY ERSOY 17-23 AĞUSTOS 6. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T06:35:10.531Z",
+      "kayitTarihi": "2026-07-29T06:36:47.601Z",
       "tarifKartlar": [
         {
           "tarifAdi": "cevizli karabuğday ekmeği",
@@ -1473,7 +1473,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Olcay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 6. haftaya başlıyoruz.\n\nArtık programın büyük bir kısmı oturmaya başladı. Beslenme düzenine alıştınız, takviyeleri tanıdınız ve geçen hafta başladığımız masajları uygulayarak bedeninize farklı bir destek daha sağladınız. Bu noktada artık iyileşme sürecini daha derin bir katmana, yani hücresel düzeye taşımamızın zamanı geldi. Bu haftaki konumuz, lipödem tedavisinde devasa rol oynayan mikrobesinler.\n\nLipödem sürecinde tartıdaki değişimden çok, kıyafetlerinizin bollaşması, doku kalitenizdeki iyileşme gibi hissettiğiniz değişimler bizim için daha değerli göstergelerdir. Bu iyileşmenin temelinde ise vitamin ve mineraller gibi küçük ama etkili yardımcılar yatıyor. Vücudumuzun enerji santralleri olan mitokondriler, ancak bu mikrobesinler yeterli olduğunda verimli çalışır. Aksi halde hem metabolizma yavaşlar hem de kendimizi sürekli yorgun hissederiz.\n\nBu hafta sizin için hazırladığımız listeyi de bu hücresel onarım sürecini en üst düzeyde destekleyecek şekilde yapılandırdık. Örneğin, listenizdeki ızgara balık, lipödemle ilişkili inflamasyonu baskılayan omega-3 ve bağışıklık için kritik olan D vitamini sağlar. Tepsi kebabı ve tavuk güveç gibi yemeklerden alacağınız çinko ve selenyum, doku onarımını hızlandırır. Yumurtalı öğünleriniz enerji metabolizmanız için önemli olan B12 vitamini içerirken, salatalarınızdaki bol yeşillik, limon ve közlenmiş biber gibi besinler de cildin sıkılaşmasını destekleyen C vitamini ihtiyacınızı karşılar.\n\nŞeker hastalığınızı da göz önünde bulundurarak kan şekeri dengeniz için çok değerli olan magnezyumu listenizdeki ceviz, badem, fındık gibi kuruyemişlerden ve yeşil mercimek gibi baklagillerden bolca alacaksınız. Bu besinler, insülin duyarlılığını artırmaya yardımcı olur.\n\nTüm bu hücresel temizlik ve onarım sürecinde, toksinlerin vücuttan atılmasına yardımcı olmak için su tüketiminize özen göstermeniz her zamanki gibi çok önemli. Bu mikrobesinlerin vücutta doğru yerlere taşınması ve atıkların uzaklaştırılması için su kilit bir rol oynuyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -1584,6 +1584,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:36:44.440Z",
+  "sonGuncelleme": "2026-07-29T06:36:47.620Z",
   "githubKaydedildi": true
 }
