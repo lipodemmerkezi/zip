@@ -3442,24 +3442,27 @@
     },
     {
       "haftaNo": 13,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE ÖNCAN 17-23 AĞUSTOS 13. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE ÖNCAN 17-23 AĞUSTOS 13. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE ÖNCAN 17-23 AĞUSTOS 13. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE ÖNCAN 17-23 AĞUSTOS 13. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE ÖNCAN 17-23 AĞUSTOS 13. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T05:34:42.450Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-05-21T14:01:43.810Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:34:16.161Z",
+  "sonGuncelleme": "2026-07-29T05:34:42.453Z",
   "githubKaydedildi": true
 }
