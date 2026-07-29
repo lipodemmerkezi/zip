@@ -2770,24 +2770,27 @@
     },
     {
       "haftaNo": 11,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FADİM KALAYCI 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "pdfOrijinalIsim": "FADİM KALAYCI 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "pdfYolu": "pdfs/FADİM KALAYCI 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 17-23 AĞUSTOS 11. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T05:45:13.755Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:44:53.187Z",
+  "sonGuncelleme": "2026-07-29T05:45:13.757Z",
   "githubKaydedildi": true
 }
