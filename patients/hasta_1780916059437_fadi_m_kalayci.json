@@ -2779,7 +2779,7 @@
       "pdfYolu": "pdfs/FADİM KALAYCI 17-23 AĞUSTOS 11. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FADİM KALAYCI 17-23 AĞUSTOS 11. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FADİM KALAYCI 17-23 AĞUSTOS 11. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T05:45:13.755Z",
+      "kayitTarihi": "2026-07-29T05:47:18.230Z",
       "tarifKartlar": [
         {
           "tarifAdi": "nohut ekmeği",
@@ -2959,7 +2959,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Fadim Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda on birinci haftaya başlıyoruz.\n\nBu noktaya kadar beslenme, masaj ve egzersizle bedensel olarak harika bir temel oluşturduk. Şimdi bu sürecin bir diğer önemli ve çoğu zaman göz ardı edilen yönüne, yani yeme davranışlarımızın arkasındaki duygusal nedenlere odaklanacağız. Lipödemle yaşarken hissedilen yorgunluk, stres veya can sıkıntısı gibi durumlar, bizi kolayca buzdolabının önüne getirebilir. Bu anlarda hissettiğimiz açlık, genellikle bedensel değil, ruhsal bir boşluğu doldurma isteğidir. Beynimiz, hızlı bir rahatlama ve ödül hissi için bizi tatlı veya karbonhidrat ağırlıklı yiyeceklere yönlendirir.\n\nBu mekanizmayı anlamak, onu yönetmenin ilk adımıdır. İşte bu hafta, bu duygusal yeme döngüsünü kırmak için hem farkındalık kazanacağız hem de pratik çözümler üreteceğiz.\n\nBu yüzden bu hafta sizin için hazırladığımız listeye, bu tür anlarda elinizin altında güvenli bir sığınak olacak browni kurabiye ve ketojenik pizza gibi seçenekler ekledik. Bu tarifleri önceden hazırlayıp acil durumlar için bir kenarda bulundurmak, kriz anlarında kontrolü kaybetmenizi önler ve size pişmanlık yerine tatmin hissi verir. Bu, bir \"kaçamak\" değil, planlı ve bilinçli bir yönetim stratejisidir.\n\nListenizdeki diğer öğünler de bu süreci destekleyecek şekilde tasarlandı. Tatlı patates omleti gibi besleyici ve doyurucu seçenekler, kan şekerinizi dengede tutarak ani tatlı isteklerinin önüne geçmeye yardımcı olur. Ispanaklı ya da pazılı tavuk dolması, sebzeli et tava gibi protein ve lif açısından zengin yemekler tokluk sürenizi uzatır. Öğünlerinizdeki ıspanak, semizotu ve diğer yeşillikler, içerdikleri magnezyum ile sinir sistemini sakinleştirerek stres yönetiminize de dolaylı olarak katkı sağlar. Izgara balık ise içerdiği selenyum ve omega-3 ile hem inflamasyonu baskılar hem de genel ruh halinize olumlu etki eder.\n\nBazen bu süreçte ölçümlerdeki yavaşlamalar veya duraksamalar da motivasyon kaybına ve duygusal yemeye neden olabilir. Bu çok doğal bir durumdur. Unutmayın, vücut yağ kaybettikçe yeni bir denge noktası arar ve bu adaptasyon sürecinde tartı bir süre sabit kalabilir. Bu bir başarısızlık değil, bedenin kendini yeniden programlamasıdır. Bu dönemlerde odağımızı tartıdan alıp giysilerimizdeki rahatlamaya, ağrılardaki azalmaya ve artan enerji seviyemize çevirmek çok daha anlamlıdır.\n\nGeçtiğimiz haftalarda öğrendiğimiz yeme sıralaması ve insülin dengesi prensipleri, bu duygusal dalgalanmalara karşı da en büyük kalkanımız olacak. Ayrıca geçen hafta başladığınız egzersizler, stresi yönetmek ve ruh halini iyileştirmek için harika bir araçtır.\n\nBu hafta kendinizi gözlemlemenizi istiyorum. Bir yeme isteği geldiğinde kendinize sorun: Gerçekten aç mıyım, yoksa sıkıldım mı, üzgün müyüm? Bu farkındalık, sürecin en değerli kazanımlarından biri olacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3067,6 +3067,6 @@
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:47:16.104Z",
+  "sonGuncelleme": "2026-07-29T05:47:21.497Z",
   "githubKaydedildi": true
 }
