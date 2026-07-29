@@ -2,7 +2,7 @@
   "id": 1778597282059,
   "isim": "NUR SÖYLER",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3984,6 +3984,6 @@
   ],
   "olusturmaTarihi": "2026-05-12T14:48:02.059Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:24:57.665Z",
+  "sonGuncelleme": "2026-07-29T05:25:20.695Z",
   "githubKaydedildi": true
 }
