@@ -1808,24 +1808,27 @@
     },
     {
       "haftaNo": 7,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HATİCE TAMER 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "pdfOrijinalIsim": "HATİCE TAMER 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "pdfYolu": "pdfs/HATİCE TAMER 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE TAMER 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE TAMER 17-23 AĞUSTOS 7. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T06:25:56.405Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-01T14:36:08.239Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:25:32.411Z",
+  "sonGuncelleme": "2026-07-29T06:25:56.407Z",
   "githubKaydedildi": true
 }
