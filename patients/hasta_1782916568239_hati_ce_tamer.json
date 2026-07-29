@@ -1817,7 +1817,7 @@
       "pdfYolu": "pdfs/HATİCE TAMER 17-23 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE TAMER 17-23 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE TAMER 17-23 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T06:25:56.405Z",
+      "kayitTarihi": "2026-07-29T06:27:52.510Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unlu tava ekmeği",
@@ -1989,7 +1989,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda yedinci haftaya başlıyoruz.\n\nYedinci haftaya girerken artık beslenme düzeniniz büyük ölçüde oturdu, vücudunuz bu yeni ritme uyum sağlamaya başladı. Bu haftadan itibaren sizinle birlikte, programın başından beri kullandığımız takviyelerin neden bu kadar önemli olduğunu ve lipödem tedavisinde neden özellikle bu kombinasyonu tercih ettiğimizi biraz daha yakından konuşalım istiyorum.\n\nBu desteklerin her biri, lipödemli dokunun farklı bir ihtiyacını hedef alıyor. Boswellia serrata, vücuttaki sessiz inflamasyonu baskılayarak dokulardaki ağrı ve sertliğin azalmasına yardımcı olur. Koenzim Q10, hücrelerimize enerji sağlayarak metabolizmayı canlandırır ve yağ yakım sürecini daha verimli hale getirir. Kurkumin (zerdeçal ekstresi) ve astaksantin gibi güçlü antioksidanlar ise hücreleri korur, şişkinliğin hafiflemesine ve cilt dokusunun sıkılaşmasına destek olur. Ananastan elde edilen bromelain enzimi ödemin çözülmesine yardımcı olurken, üzüm kabuğunda bulunan resveratrol de damar sağlığını destekler. Kollajen ise incelme sürecinde cildin elastikiyetini koruyarak toparlanmasına katkı sağlar.\n\nBu takviyeler, bu hafta sizin için hazırladığımız beslenme listesiyle bir bütün olarak çalışıyor. Listenizde yer alan ızgara balık, ceviz ve semizotu salatası gibi seçimler, omega-3 alımınızı artırarak bu anti-inflamatuar etkiyi içeriden destekler. Kuzu güveç ve köfte gibi yemekler, hücresel onarım için gerekli olan çinko ve B12 vitamini açısından zengindir. Ara öğünlerdeki fındık, çiğ badem ve kabak çekirdeği ise kas fonksiyonları için önemli olan magnezyumu sağlar.\n\nGördüğünüz gibi, her bir parça birbiriyle uyum içinde. Beslenmeyle iltihabı baskılarken, takviyelerle bu süreci hücresel düzeyde güçlendiriyoruz. Listenize eklediğimiz browni kurabiye veya tahinli ceviz gibi küçük lezzetler ise bu yolculuğu katı bir diyet olmaktan çıkarıp, sürdürülebilir ve keyifli bir yaşam tarzı haline getirmemize yardımcı oluyor. Bu denge, sürecin psikolojik olarak da sağlıklı ilerlemesi için çok değerli.\n\nUnutmayın, bu takviyeler tek başına birer mucize değil. Ancak doğru bir beslenme planı ve masaj uygulamalarıyla birleştiğinde, vücudunuzun kendini onarma kapasitesini katbekat artırırlar.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2103,6 +2103,6 @@
   ],
   "olusturmaTarihi": "2026-07-01T14:36:08.239Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:27:50.584Z",
+  "sonGuncelleme": "2026-07-29T06:27:52.527Z",
   "githubKaydedildi": true
 }
