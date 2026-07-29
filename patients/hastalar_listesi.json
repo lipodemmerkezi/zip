@@ -29,13 +29,6 @@
     "sonGuncelleme": "2026-07-28T07:51:20.309Z"
   },
   {
-    "id": 1778596446530,
-    "isim": "AYŞE KALKAN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-07-29T05:27:29.278Z"
-  },
-  {
     "id": 1779372103810,
     "isim": "AYŞE ÖNCAN",
     "not": "",
@@ -303,6 +296,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-07-03T08:27:39.391Z"
+  },
+  {
+    "id": 1778596446530,
+    "isim": "AYŞE KALKAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-07-29T05:28:38.547Z"
   },
   {
     "id": 1753368154662,
