@@ -2775,7 +2775,7 @@
       "pdfYolu": "pdfs/ŞERİFE ÇARAY 17-23 AĞUSTOS 10. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERİFE ÇARAY 17-23 AĞUSTOS 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERİFE ÇARAY 17-23 AĞUSTOS 10. HAFTA.pdf",
-      "kayitTarihi": "2026-07-29T05:56:34.733Z",
+      "kayitTarihi": "2026-07-29T05:59:50.963Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ispanaklı ya da pazılı tava böreği",
@@ -2964,7 +2964,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "\n\nMerhaba Şerife Hanım, ben Dr. Mustafa. Umarım iyisinizdir.\n\nProgramımızda 10. haftaya girerken, beslenmemizde önemli bir adım atarak düşük karbonhidrat (low carb) düzenine geçiyoruz.\n\nGeçen haftalarda egzersizi hayatınıza katarak harika bir başlangıç yaptınız. Bu hafta ise fiziksel değişimin yanı sıra yeme alışkanlıklarımızın duygusal yönüne odaklanacağız. Lipödemin psikolojik olarak da zorlayıcı olabildiğini biliyoruz. Bu nedenle, süreci zihinsel olarak da destekleyerek bütünsel bir iyileşme hedefliyoruz.\n\nGün içinde stres, yorgunluk veya can sıkıntısı gibi nedenlerle aniden gelen yeme isteği, genellikle fiziksel değil, duygusal açlıktır. Bu anlarda beynimiz, geçici bir rahatlama için karbonhidrat ağırlıklı yiyeceklere yönelir ancak bu durum sonrasında pişmanlık hissine yol açabilir.\n\nBu haftaki listeniz, tam da bu durumu yönetmenize yardımcı olmak için tasarlandı. Tatlı krizleri için hazırladığımız cevizli tahin veya browni kurabiye gibi tarifler, bu anları sağlıklı atlatmanızı sağlayacak. Bu alternatifler kontrolün sizde olduğunu hissettirerek bu süreci yasaklarla dolu bir diyet olmaktan çıkarıp sürdürülebilir bir yaşam tarzına dönüştürmenize yardımcı olur.\n\nListenizdeki besinleri de bu yeni düzeni destekleyecek şekilde seçtik:\n\n   Enerji ve Stres Yönetimi: Ciğer kavurma gibi B12 ve demir zengini besinler enerjinizi yüksek tutarak yorgunluğa bağlı yeme ataklarını önler. Fındık ve badem gibi kuruyemişler ise sağlıklı yağlar ve magnezyum içeriğiyle sinir sisteminizi sakinleştirir.\n   Onarım ve İyileşme: Egzersiz sonrası onarım için tavuk, kuzu güveç ve ızgara balık gibi kaliteli proteinler ekledik. Özellikle balıktaki omega-3 inflamasyonu azaltırken, D vitamini ruh halinizi destekler.\n   Vitamin ve Lif Desteği: Ispanaklı tava böreği ve lorlu pazı sarması gibi sebze ağırlıklı tarifler, lif ve mineral alımınızı artırır.\n\nUnutmayın, bu süreçte mükemmel olmak zorunda değilsiniz. Önemli olan, zorlandığınız anları fark edip kendinize şefkatle yaklaşmaktır. Biz bu yolda size destek olmak için buradayız.\n\nGözlemlerinizi ve sorularınızı benimle paylaşmanızı rica ederim.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3080,6 +3080,6 @@
   ],
   "olusturmaTarihi": "2026-06-16T07:59:54.081Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:59:50.664Z",
+  "sonGuncelleme": "2026-07-29T05:59:53.716Z",
   "githubKaydedildi": true
 }
