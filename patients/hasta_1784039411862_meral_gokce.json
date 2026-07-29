@@ -1331,24 +1331,27 @@
     },
     {
       "haftaNo": 6,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MERAL GÖKCE 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "pdfOrijinalIsim": "MERAL GÖKCE 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "pdfYolu": "pdfs/MERAL GÖKCE 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÖKCE 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÖKCE 17-23 AĞUSTOS 6. HAFTA.pdf",
+      "kayitTarihi": "2026-07-29T06:32:53.691Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T06:32:38.014Z",
+  "sonGuncelleme": "2026-07-29T06:32:53.692Z",
   "githubKaydedildi": true
 }
