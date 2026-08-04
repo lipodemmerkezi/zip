@@ -6,7 +6,7 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-08-06",
+      "baslangic": "2026-08-03",
       "bitis": "2026-08-09",
       "aciklama": "",
       "pdf": null,
@@ -16,17 +16,117 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NACİYE ULUBAHŞİ 6-9 AĞUSTOS 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NACİYE ULUBAHŞİ 6-9 AĞUSTOS 1. HAFTA.pdf",
       "kayitTarihi": "2026-08-04T18:18:50.816Z",
-      "tarifKartlar": [],
-      "tarifler": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "tahin ekmeği (1 dilim)",
+          "kartResmi": "tahin_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tahin_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kıymalı taze fasulye / kabak yemeği",
+          "kartResmi": "kiymali_taze_fasulye.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kiymali_taze_fasulye.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı taze fasulye / kabak yemeği",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "sulu et kızartması",
+          "kartResmi": "sulu_et_kizartmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sulu_et_kizartmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli kaşık salatası",
+          "kartResmi": "cevizli_kasik_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_kasik_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "sulu köfte",
+          "kartResmi": "sulu_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sulu_kofte.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
+      "tarifler": [
+        "naci̇ye ulubahşi̇",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)",
+        "hafta",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 5 yaprak ıspanak / pazı, 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke ve limon + 1 tatlı kaşığı zeytinyağı ile)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "tahin ekmeği (1 dilim)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kıymalı taze fasulye / kabak yemeği",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+        "tahin ekmeği (1 dilim)",
+        "kollajen (1 ölçek 10 gram)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 yemek kaşığı",
+        "tahin ekmeği (1 dilim)",
+        "zeytin (10 adet)",
+        "bitter çikolata (2 kare)",
+        "akşam (tercihen hava kararınca)",
+        "sulu et kızartması",
+        "cevizli kaşık salatası",
+        "toz kollajen 1 ölçek",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı",
+        "kısık ateşte arkalı önlü pişirin.)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + 1 yemek kaşığı zeytinyağı)",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararmadan önce)",
+        "sulu köfte",
+        "tahin ekmeği (1 dilim)",
+        "kabak çekirdeği (1 avuç)",
+        "toz kollajen 1 ölçek",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
+        "yemeklerinize ve salatalara seviyorsanız sarımsak ekleyebilirsiniz.",
+        "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
+        "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
+      ],
       "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
-      "manuelKartlar": []
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "tahin ekmeği (1 dilim)",
+        "kıymalı taze fasulye / kabak yemeği",
+        "tahin ekmeği (1 dilim)",
+        "tahin ekmeği (1 dilim)",
+        "sulu et kızartması",
+        "cevizli kaşık salatası",
+        "sulu köfte",
+        "tahin ekmeği (1 dilim)"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:18:24.321Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-04T18:18:50.819Z",
+  "sonGuncelleme": "2026-08-04T18:18:56.201Z",
   "githubKaydedildi": true
 }
