@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-08-02",
-      "bitis": "2026-08-08",
+      "baslangic": "2026-08-06",
+      "bitis": "2026-08-09",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HESNA BAŞTEPE 6-9 AĞUSTOS 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "HESNA BAŞTEPE  6-9 AĞUSTOS 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/HESNA BAŞTEPE 6-9 AĞUSTOS 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HESNA BAŞTEPE 6-9 AĞUSTOS 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HESNA BAŞTEPE 6-9 AĞUSTOS 1. HAFTA.pdf",
+      "kayitTarihi": "2026-08-04T18:26:15.920Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:24:19.066Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-04T18:26:00.457Z",
+  "sonGuncelleme": "2026-08-04T18:26:15.923Z",
   "githubKaydedildi": true
 }
