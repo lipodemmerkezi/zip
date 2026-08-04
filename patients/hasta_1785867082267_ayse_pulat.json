@@ -3,9 +3,27 @@
   "isim": "AYŞE PULAT",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-08-02",
+      "bitis": "2026-08-08",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-08-04T18:11:22.267Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-04T18:11:22.269Z",
+  "sonGuncelleme": "2026-08-04T18:11:34.394Z",
   "githubKaydedildi": true
 }
