@@ -3,9 +3,27 @@
   "isim": "ŞERİFE GÜLEŞ",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-08-02",
+      "bitis": "2026-08-08",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-08-04T18:32:21.274Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-06T09:37:36.836Z",
+  "sonGuncelleme": "2026-08-06T09:43:35.206Z",
   "githubKaydedildi": true
 }
