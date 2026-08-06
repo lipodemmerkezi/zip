@@ -438,27 +438,57 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE PULAT 17-23 AĞUSTOS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE PULAT 17-23 AĞUSTOS 3. HAFTA.pdf",
       "kayitTarihi": "2026-08-06T10:33:02.717Z",
-      "tarifKartlar": [],
-      "tarifler": [],
-      "gptMesaj": "",
-      "kilitli": false,
-      "ozelTabFormat": false,
-      "pdfFile": {},
-      "manuelKartlar": [],
-      "eslesenTarifler": [
-        "keten tohumu ekmeği",
-        "köfte",
-        "kabak dizme",
-        "keten tohumu ekmeği",
-        "zeytinyağlı taze börülce",
-        "somonlu roka ve avokado salatası",
-        "cevizli kaşık salatası",
-        "maydanozlu poğaça",
-        "keten tohumu ekmeği",
-        "maydanozlu poğaça",
-        "lahmacun"
+      "tarifKartlar": [
+        {
+          "tarifAdi": "keten tohumu ekmeği",
+          "kartResmi": "keten_tohumu_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keten_tohumu_ekmegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kabak dizme",
+          "kartResmi": "kabak_dizme.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_dizme.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "zeytinyağlı taze börülce",
+          "kartResmi": "zeytinyagli_taze_borulce.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/zeytinyagli_taze_borulce.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "somonlu roka ve avokado salatası",
+          "kartResmi": "somonlu_roka_ve_avokado_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/somonlu_roka_ve_avokado_salatasi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "cevizli kaşık salatası",
+          "kartResmi": "cevizli_kasik_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_kasik_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "maydanozlu poğaça",
+          "kartResmi": "maydanozlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/maydanozlu_pogaca.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "lahmacun",
+          "kartResmi": "lahmacun.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lahmacun.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
       ],
-      "eslesmeyenTarifler": [
+      "tarifler": [
         "ayşe pulat",
         "her sabah güne başlarken:",
         "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
@@ -467,10 +497,12 @@
         "pazartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
         "haşlanmış yumurta (2 adet)",
+        "keten tohumu ekmeği",
         "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs + limon, sirke +1 tatlı kaşığı zeytinyağı ile",
         "zeytin (5 adet)",
         "çiğ badem (10 adet)",
         "akşam (tercihen hava kararınca)",
+        "köfte",
         "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
         "turşu (organik, ev yapımı)",
         "sali",
@@ -479,6 +511,7 @@
         "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber",
         "ceviz (3 adet)",
         "akşam (tercihen hava kararınca)",
+        "kabak dizme",
         "mevsim salata (1tatlı kaşığı zeytinyağı ile)",
         "çiğ badem (10 adet)",
         "kollajen (1 ölçek 10 gram)",
@@ -490,6 +523,8 @@
         "zeytin (5 adet)",
         "çiğ badem (10 adet)",
         "akşam (tercihen hava kararınca)",
+        "zeytinyağlı taze börülce",
+        "somonlu roka ve avokado salatası",
         "turşu (organik, ev yapımı)",
         "kollajen (1 ölçek 10 gram)",
         "perşembe",
@@ -512,8 +547,10 @@
         "ceviz (3 adet)",
         "akşam (tercihen hava kararınca)",
         "tavuk ya da et pirzola",
+        "cevizli kaşık salatası",
         "cumartesi̇",
         "öğle (tercihen saat 12:00 civarında)",
+        "maydanozlu poğaça",
         "tulum / kaşar peyniri (30 gram)",
         "zeytin (10 adet)",
         "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 tatlı kaşığı zeytinyağı",
@@ -529,16 +566,35 @@
         "çiğ badem (20 adet)",
         "yeşillikler (dereotu, roka, maydanoz, marul vs. sirke ve limon ile)",
         "akşam (tercihen hava kararınca)",
+        "lahmacun",
         "yeşil salata (marul, dereotu, roka, kırmızı lahana, tercihen 1/4 soğan,1 yemek kaşığı zeytinyağı)",
         "yaban mersini, çilek ya da orman meyveleri",
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "gptMesaj": "",
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": [],
+      "eslesenTarifler": [
+        "keten tohumu ekmeği",
+        "köfte",
+        "kabak dizme",
+        "keten tohumu ekmeği",
+        "zeytinyağlı taze börülce",
+        "somonlu roka ve avokado salatası",
+        "cevizli kaşık salatası",
+        "maydanozlu poğaça",
+        "keten tohumu ekmeği",
+        "maydanozlu poğaça",
+        "lahmacun"
       ]
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:11:22.267Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-06T10:33:02.718Z",
+  "sonGuncelleme": "2026-08-06T10:33:06.417Z",
   "githubKaydedildi": true
 }
