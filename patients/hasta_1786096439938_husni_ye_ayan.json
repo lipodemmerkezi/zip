@@ -272,24 +272,27 @@
     },
     {
       "haftaNo": 2,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-17",
+      "bitis": "2026-08-23",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HÜSNİYE AYAN 17-23 AĞUSTOS 2. HAFTA.pdf",
+      "pdfOrijinalIsim": "HÜSNİYE AYAN 17-23 AĞUSTOS 2. HAFTA.pdf",
+      "pdfYolu": "pdfs/HÜSNİYE AYAN 17-23 AĞUSTOS 2. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HÜSNİYE AYAN 17-23 AĞUSTOS 2. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HÜSNİYE AYAN 17-23 AĞUSTOS 2. HAFTA.pdf",
+      "kayitTarihi": "2026-08-07T10:04:49.536Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-08-07T09:53:59.938Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-07T10:04:36.207Z",
+  "sonGuncelleme": "2026-08-07T10:04:49.537Z",
   "githubKaydedildi": true
 }
