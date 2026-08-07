@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-08-02",
-      "bitis": "2026-08-08",
+      "baslangic": "2026-08-08",
+      "bitis": "2026-08-16",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SEMİHA UYSAL 8-16 AĞUSTOS 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "SEMİHA UYSAL 8-16 AĞUSTOS 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/SEMİHA UYSAL 8-16 AĞUSTOS 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEMİHA UYSAL 8-16 AĞUSTOS 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEMİHA UYSAL 8-16 AĞUSTOS 1. HAFTA.pdf",
+      "kayitTarihi": "2026-08-07T07:36:14.526Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "08/08 - 08/16",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-08-07T07:33:48.633Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-07T07:36:04.049Z",
+  "sonGuncelleme": "2026-08-07T07:36:14.526Z",
   "githubKaydedildi": true
 }
