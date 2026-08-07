@@ -2,7 +2,7 @@
   "id": 1786089071748,
   "isim": "LOW CARB",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -1205,6 +1205,6 @@
   ],
   "olusturmaTarihi": "2026-08-07T07:51:11.748Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-07T09:51:00.874Z",
+  "sonGuncelleme": "2026-08-07T09:53:40.848Z",
   "githubKaydedildi": true
 }
