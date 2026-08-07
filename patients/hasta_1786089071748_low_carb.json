@@ -911,24 +911,26 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-08-09",
-      "bitis": "2026-08-15",
+      "baslangic": "2026-08-07",
+      "bitis": "2026-08-07",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "LOW CARB ÖRNEK 80 KG - 4. HAFTA PDF.pdf",
+      "pdfOrijinalIsim": "LOW CARB ÖRNEK 80 KG - 4. HAFTA PDF.pdf",
+      "pdfYolu": "pdfs/LOW CARB ÖRNEK 80 KG - 4. HAFTA PDF.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/LOW CARB ÖRNEK 80 KG - 4. HAFTA PDF.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/LOW CARB ÖRNEK 80 KG - 4. HAFTA PDF.pdf",
+      "kayitTarihi": "2026-08-07T07:53:26.898Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-08-07T07:51:11.748Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-07T07:53:15.263Z",
+  "sonGuncelleme": "2026-08-07T07:53:26.899Z",
   "githubKaydedildi": true
 }
