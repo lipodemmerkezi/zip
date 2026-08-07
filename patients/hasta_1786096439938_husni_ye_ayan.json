@@ -3,9 +3,27 @@
   "isim": "HÜSNİYE AYAN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-08-02",
+      "bitis": "2026-08-08",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-08-07T09:53:59.938Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-07T09:53:59.938Z",
+  "sonGuncelleme": "2026-08-07T09:54:10.409Z",
   "githubKaydedildi": true
 }
