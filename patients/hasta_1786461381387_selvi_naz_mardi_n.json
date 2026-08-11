@@ -3,9 +3,27 @@
   "isim": "SELVİNAZ MARDİN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-08-09",
+      "bitis": "2026-08-15",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-08-11T15:16:21.387Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-11T15:16:21.387Z",
+  "sonGuncelleme": "2026-08-11T15:16:41.926Z",
   "githubKaydedildi": true
 }
