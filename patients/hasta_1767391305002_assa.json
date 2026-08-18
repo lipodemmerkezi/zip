@@ -20,49 +20,49 @@
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/hashas_ezmesi_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/hashas_ezmesi_ekmegi.jpg",
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "köfte",
           "kartResmi": "keto_kofte.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "tavuklu mantar sote (150 gr tavuk ile)",
           "kartResmi": "tavuklu_mantar_sote.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/tavuklu_mantar_sote.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuklu_mantar_sote.jpg",
           "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "kıymalı kabak /patlıcan yemeği(150 gr kıyma)",
           "kartResmi": "kiymali_kabak_yemegi.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kiymali_kabak_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kiymali_kabak_yemegi.jpg",
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "kıymalı kabak /patlıcan yemeği(150 gr kıyma)",
           "kartResmi": "patlican_musakka.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/patlican_musakka.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_musakka.jpg",
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "yumurtalı ıspanak /pazı /semizotu",
           "kartResmi": "yumurtali_ispanak.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/yumurtali_ispanak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yumurtali_ispanak.jpg",
           "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "tavuk pirzola ya da kanat",
           "kartResmi": "firinda_tavuk_kanat.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/firinda_tavuk_kanat.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_tavuk_kanat.jpg",
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
           "tarifAdi": "közlenmiş patlıcan salatası",
           "kartResmi": "kozlenmis_patlican_salatasi.jpg",
-          "kartData": "https://mustafasacar35.github.io/lipodem-takip-paneli/tarifler/kozlenmis_patlican_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kozlenmis_patlican_salatasi.jpg",
           "eslesmeTuru": "tam eşleşme"
         }
       ],
@@ -777,18 +777,24 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-08-31",
-      "bitis": "2026-09-06",
+      "baslangic": "2026-08-18",
+      "bitis": "2026-08-18",
       "aciklama": "",
       "pdf": null,
-      "pdfName": "ADNAN_ATALAN_AMELİYAT_RAPORU.pdf",
-      "pdfOrijinalIsim": "ADNAN_ATALAN_AMELİYAT_RAPORU.pdf",
-      "pdfYolu": "pdfs/ADNAN_ATALAN_AMELİYAT_RAPORU.pdf",
-      "githubUrl": "https://github.com/mustafasacar35/lipodem-takip-paneli/blob/main/pdfs/ADNAN_ATALAN_AMELİYAT_RAPORU.pdf",
-      "indirmeUrl": "https://raw.githubusercontent.com/mustafasacar35/lipodem-takip-paneli/main/pdfs/ADNAN_ATALAN_AMELİYAT_RAPORU.pdf",
-      "kayitTarihi": "2026-02-18T10:03:58.176Z",
+      "pdfName": "assa - 3. hafta pdf.pdf",
+      "pdfOrijinalIsim": "assa - 3. hafta pdf.pdf",
+      "pdfYolu": "pdfs/assa - 3. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/assa - 3. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/assa - 3. hafta pdf.pdf",
+      "kayitTarihi": "2026-08-18T20:00:07.842Z",
       "tarifKartlar": [],
-      "tarifler": [
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": [],
+      "eslesenTarifler": [],
+      "eslesmeyenTarifler": [
         "özel denizli cerrahi hastanesi",
         "epikriz",
         "adı soyadı",
@@ -1012,16 +1018,11 @@
         "e4052000 i̇şlem tarihi",
         "05.2023 miktar",
         ""
-      ],
-      "gptMesaj": "",
-      "kilitli": false,
-      "pdfFile": {},
-      "manuelKartlar": [],
-      "eslesenTarifler": []
+      ]
     }
   ],
   "olusturmaTarihi": "2026-01-02T22:01:45.002Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-02-18T10:04:06.034Z",
+  "sonGuncelleme": "2026-08-18T20:00:07.849Z",
   "githubKaydedildi": true
 }
