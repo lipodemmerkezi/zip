@@ -2,7 +2,7 @@
   "id": 1779372103810,
   "isim": "AYŞE ÖNCAN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3744,6 +3744,6 @@
   ],
   "olusturmaTarihi": "2026-05-21T14:01:43.810Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:36:17.409Z",
+  "sonGuncelleme": "2026-08-18T14:18:18.901Z",
   "githubKaydedildi": true
 }
