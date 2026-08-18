@@ -29,13 +29,6 @@
     "sonGuncelleme": "2026-07-29T05:44:32.219Z"
   },
   {
-    "id": 1779372103810,
-    "isim": "AYŞE ÖNCAN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-07-29T05:36:20.459Z"
-  },
-  {
     "id": 1785867082267,
     "isim": "AYŞE PULAT",
     "not": "",
@@ -352,6 +345,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-10-19T12:24:09.570Z"
+  },
+  {
+    "id": 1779372103810,
+    "isim": "AYŞE ÖNCAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-08-18T14:18:22.695Z"
   },
   {
     "id": 1756892141471,
