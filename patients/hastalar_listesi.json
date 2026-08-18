@@ -233,13 +233,6 @@
     "sonGuncelleme": "2026-07-29T06:14:00.929Z"
   },
   {
-    "id": 1779123520699,
-    "isim": "SEZİN GÜRCAN AKYOL",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-07-29T05:31:02.889Z"
-  },
-  {
     "id": 1781596794081,
     "isim": "ŞERİFE ÇARAY",
     "not": "",
@@ -1187,6 +1180,13 @@
     "arsiv": true,
     "sonGuncelleme": "2025-08-15T12:54:31.611Z",
     "telefonAranacak": false
+  },
+  {
+    "id": 1779123520699,
+    "isim": "SEZİN GÜRCAN AKYOL",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-08-18T14:17:24.191Z"
   },
   {
     "id": 1763105671727,
