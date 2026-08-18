@@ -2,7 +2,7 @@
   "id": 1779123520699,
   "isim": "SEZİN GÜRCAN AKYOL",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3990,6 +3990,6 @@
   ],
   "olusturmaTarihi": "2026-05-18T16:58:40.699Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:31:00.254Z",
+  "sonGuncelleme": "2026-08-18T14:17:18.976Z",
   "githubKaydedildi": true
 }
