@@ -2,7 +2,7 @@
   "id": 1781764332942,
   "isim": "IRMAK SERİNKEN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 6,
@@ -2452,6 +2452,6 @@
   ],
   "olusturmaTarihi": "2026-06-18T06:32:12.942Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-07-29T05:53:03.268Z",
+  "sonGuncelleme": "2026-08-18T14:17:46.725Z",
   "githubKaydedildi": true
 }
