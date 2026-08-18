@@ -128,13 +128,6 @@
     "sonGuncelleme": "2026-08-07T10:05:59.141Z"
   },
   {
-    "id": 1781764332942,
-    "isim": "IRMAK SERİNKEN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-07-29T05:53:05.771Z"
-  },
-  {
     "id": 1784039411862,
     "isim": "MERAL GÖKCE",
     "not": "",
@@ -864,6 +857,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-11-18T06:01:33.019Z"
+  },
+  {
+    "id": 1781764332942,
+    "isim": "IRMAK SERİNKEN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-08-18T14:17:49.391Z"
   },
   {
     "id": 1767951379228,
