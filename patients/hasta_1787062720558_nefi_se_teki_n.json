@@ -3,9 +3,27 @@
   "isim": "NEFİSE TEKİN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-08-16",
+      "bitis": "2026-08-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-08-18T14:18:40.558Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-18T14:18:40.558Z",
+  "sonGuncelleme": "2026-08-18T14:18:55.714Z",
   "githubKaydedildi": true
 }
