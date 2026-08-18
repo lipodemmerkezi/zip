@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/NEFİSE TEKİN 20-23 AĞUSTOS 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NEFİSE TEKİN 20-23 AĞUSTOS 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NEFİSE TEKİN 20-23 AĞUSTOS 1. HAFTA.pdf",
-      "kayitTarihi": "2026-08-18T14:19:08.876Z",
+      "kayitTarihi": "2026-08-18T14:25:05.468Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -105,7 +105,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Nefise Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Perşembe günü itibariyle programımızda ilk haftaya başlıyoruz.\n\nBu ilk haftanın temel amacı, vücuttaki iltihabi süreci (inflamasyonu) kontrol altına alacak adımları atmak ve bedeninize dinlenmesi için bir fırsat sunmak. Lipödem, kronik bir iltihabi durum olduğu için bu başlangıç adımı oldukça önemli. Bu doğrultuda, sindirim sistemini rahatlatmak ve olası gıda duyarlılıklarının etkisini gözlemlemek amacıyla bu hafta süt ve süt ürünlerini programımızdan çıkarıyoruz. Bu sadece geçici bir durum, üçüncü haftadan itibaren kontrollü bir şekilde tekrar menümüze dahil edeceğiz.\n\nBu dönemde protein ihtiyacını karşılamak için yumurtayı temel besinlerimizden biri olarak kullanacağız. Listenizde göreceğiniz mantarlı omlet veya sahanda yumurta gibi seçenekler hem kaliteli protein almanızı sağlayacak hem de lipödem sürecinde destekleyici olan D vitamini, selenyum ve B12 gibi değerli mikrobesinleri size sunacak.\n\nSizin için hazırladığımız listede balık gibi seçenekleri de görebilirsiniz. Balık, güçlü bir anti-inflamatuar olan Omega-3 yağ asitleri açısından çok zengindir ve dolaşım sistemini desteklemeye yardımcı olur. Yanında yer alan roka ve semizotu salataları gibi bol yeşillikler ise antioksidan kapasiteleriyle vücudun onarım sürecine katkıda bulunur. Avokado, çiğ badem ve ceviz gibi sağlıklı yağ kaynakları da hormonal denge ve tokluk hissi için programımıza dahil edildi. Özellikle badem ve ceviz, bu süreçte ihtiyaç duyacağımız magnezyum gibi mineraller için de iyi birer kaynaktır.\n\nAyrıca listenize eklediğimiz kolajen takviyesi, doku onarımını ve cilt elastikiyetini desteklemek için bu süreçte bize yardımcı olacak.\n\nBu programda tartıdaki rakamdan çok, mezura ile alacağınız ölçümlere odaklanacağız. Bu nedenle pazar günü bel, kalça ve bacaklarınızın belirli noktalarından ölçüm alıp kaydetmenizi rica ediyorum. Gerçek ilerlemeyi bu incelme değerlerinde göreceğiz.\n\nProgramın başlangıcı yeni alışkanlıklar edinme dönemi olduğu için biraz adaptasyon gerektirebilir. Ancak bu adımlar, kısa sürede kendinizi daha hafif ve enerjik hissetmenizi sağlayacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -174,6 +174,6 @@
   ],
   "olusturmaTarihi": "2026-08-18T14:18:40.558Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-18T14:24:39.537Z",
+  "sonGuncelleme": "2026-08-18T14:25:05.487Z",
   "githubKaydedildi": true
 }
