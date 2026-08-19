@@ -28160,7 +28160,7 @@ IMPORTANT RULES:
             // Hastaları al
             let hastalarHTML = '';
             const guncelHastalar = await hastaListesiYukle() || [];
-            const aktifHastalar = guncelHastalar.filter(h => h.durumu === 'aktif');
+            const aktifHastalar = guncelHastalar.filter(h => !h.arsiv);
             
             aktifHastalar.forEach(hasta => {
                 hastalarHTML += `
@@ -28515,20 +28515,7 @@ IMPORTANT RULES:
 
 
         async function startBulkDrivePdfImport(tarihFiltre, seciliHastaIdleri = null) {
-            // Hasta listesini GitHub'dan yükle
-            const tumHastalar = await hastaListesiYukle();
-            if (!tumHastalar || tumHastalar.length === 0) {
-                alert("Sistemde hasta bulunamadı! Lütfen GitHub token'ınızı kontrol edin.");
-                return;
-            }
-
-            // Google API'yi başlat
-            const signedIn = await signInToGoogle();
-            if (!signedIn) return;
-
-            const githubDurumu = document.getElementById('githubDurumu');
-            if (githubDurumu) githubDurumu.innerHTML = `☁️ Toplu Google Sheets PDF Tarama Başladı...`;
-
+            // UI Oluştur (Hemen kullanıcıya tepki ver)
             const progressDiv = document.createElement('div');
             progressDiv.style.cssText = `
                 position: fixed; top: 20px; right: 20px; background: white; 
@@ -28540,7 +28527,7 @@ IMPORTANT RULES:
                 <div style="width:100%; height:8px; background:#e0e0e0; border-radius:4px; margin-bottom:10px;">
                     <div id="bulkDriveProgressFill" style="width:0%; height:100%; background:#1a73e8; border-radius:4px; transition:width 0.3s;"></div>
                 </div>
-                <div id="bulkDriveProgressText" style="font-size:13px; color:#555;">Başlıyor...</div>
+                <div id="bulkDriveProgressText" style="font-size:13px; color:#555;">Sistem hazırlanıyor...</div>
                 <div style="font-size:12px; margin-top:8px; color:#666;">
                     ✅ <span id="bulkDriveSuccessCount" style="color:green; font-weight:bold;">0</span>
                     | ❌ <span id="bulkDriveErrorCount" style="color:red; font-weight:bold;">0</span>
@@ -28548,6 +28535,32 @@ IMPORTANT RULES:
                 </div>
             `;
             document.body.appendChild(progressDiv);
+
+            const updateProgress = (text, percent) => {
+                document.getElementById('bulkDriveProgressText').textContent = text;
+                if (percent !== undefined) {
+                    document.getElementById('bulkDriveProgressFill').style.width = percent + '%';
+                }
+            };
+
+            updateProgress("Hasta listesi kontrol ediliyor...", 5);
+            const tumHastalar = await hastaListesiYukle();
+            if (!tumHastalar || tumHastalar.length === 0) {
+                alert("Sistemde hasta bulunamadı! Lütfen GitHub token'ınızı kontrol edin.");
+                document.body.removeChild(progressDiv);
+                return;
+            }
+
+            // Google API'yi başlat
+            updateProgress("Google Drive'a bağlanıyor... (Popup açılabilir)", 10);
+            const signedIn = await signInToGoogle();
+            if (!signedIn) {
+                document.body.removeChild(progressDiv);
+                return;
+            }
+
+            const githubDurumu = document.getElementById('githubDurumu');
+            if (githubDurumu) githubDurumu.innerHTML = `☁️ Toplu Google Sheets PDF Tarama Başladı...`;
 
             let basarili = 0;
             let hatali = 0;
@@ -28560,15 +28573,17 @@ IMPORTANT RULES:
             const token = document.getElementById('githubToken').value.trim() || localStorage.getItem('github_api_token') || githubSettings.token;
 
             // Önce tarih filtresi ile eşleşen hasta/haftaları bul
-            for (const hasta of tumHastalar) {
-                if (seciliHastaIdleri && !seciliHastaIdleri.includes(hasta.id)) {
-                    continue; // Sadece seçilen hastaları tara
-                }
+            const taranacakHastalar = tumHastalar.filter(h => !seciliHastaIdleri || seciliHastaIdleri.includes(h.id));
+            
+            for (let i = 0; i < taranacakHastalar.length; i++) {
+                const hasta = taranacakHastalar[i];
+                updateProgress(`GitHub verisi alınıyor: ${hasta.isim} (${i+1}/${taranacakHastalar.length})`, 10 + Math.round((i / taranacakHastalar.length) * 20));
+                
                 const tamHasta = await getHastaData(hasta.id, githubRepo, token, hasta.isim);
                 if (!tamHasta || !tamHasta.haftalar) continue;
 
-                for (let i = 0; i < tamHasta.haftalar.length; i++) {
-                    const hafta = tamHasta.haftalar[i];
+                for (let j = 0; j < tamHasta.haftalar.length; j++) {
+                    const hafta = tamHasta.haftalar[j];
                     
                     // Tarih Filtresi uyumu
                     if (filtreLower && hafta.tarihAraligi) {
@@ -28581,14 +28596,14 @@ IMPORTANT RULES:
 
                     islemGorenHastaHaftalari.push({
                         hasta: tamHasta,
-                        haftaIndeks: i
+                        haftaIndeks: j
                     });
                 }
             }
 
             const totalTasks = islemGorenHastaHaftalari.length;
             if (totalTasks === 0) {
-                alert(`"${tarihFiltre}" tarihi ile eşleşen hiçbir hasta/hafta bulunamadı!`);
+                alert(`"${tarihFiltre}" tarihi ile eşleşen hiçbir hafta bulunamadı!`);
                 document.body.removeChild(progressDiv);
                 if (githubDurumu) githubDurumu.innerHTML = '';
                 return;
@@ -28602,9 +28617,7 @@ IMPORTANT RULES:
                 const hafta = hasta.haftalar[haftaIndeks];
 
                 // UI Güncelle
-                const percent = Math.round(((i) / totalTasks) * 100);
-                document.getElementById('bulkDriveProgressFill').style.width = percent + '%';
-                document.getElementById('bulkDriveProgressText').textContent = `[${i + 1}/${totalTasks}] ${hasta.isim} - ${hafta.haftaNo}. Hafta aranıyor...`;
+                updateProgress(`[${i + 1}/${totalTasks}] ${hasta.isim} - ${hafta.haftaNo}. Hafta aranıyor...`, 30 + Math.round(((i) / totalTasks) * 70));
 
                 // Zaten yüklü mü?
                 if (hafta.pdfVar || hafta.pdfYolu || hafta.pdfName) {
