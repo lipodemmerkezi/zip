@@ -774,7 +774,7 @@
                 <div style="display: flex; gap: 10px; align-items: center;">
                     <div id="googleDriveStatus" style="font-size: 12px; color: #666;">Drive: Bağlantı Yok</div>
                     <input type="file" id="bulkMessageUpload" webkitdirectory directory multiple style="display: none;" onchange="processBulkMessages(event)">
-                    <button onclick="document.getElementById('bulkMessageUpload').click()" style="
+                    <button onclick="showBulkImportModal()" style="
             padding: 6px 10px; 
             background: #17a2b8; 
             color: white; 
@@ -10662,9 +10662,11 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                           ${hafta.kilitli ? 'disabled' : ''}>${hafta.gptMesaj || ''}</textarea>
                 
                 <div style="margin-top: 12px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
-                  <div style="display: flex; gap: 8px;">
+                  <div style="display: flex; gap: 8px; flex-wrap: wrap;">
                     <button onclick="gptMesajKaydet(${i}, 'manuel')" style="background: #28a745; color: white; border: none; padding: 8px 12px; border-radius: 4px; font-size: 11px; cursor: pointer;" ${hafta.kilitli ? 'disabled' : ''}>💾 Kaydet</button>
                     <button onclick="kopyalaGptMesaj(${i})" style="background: #6c757d; color: white; border: none; padding: 8px 12px; border-radius: 4px; font-size: 11px; cursor: pointer;">📋 Kopyala</button>
+                    <input type="file" id="tekMesajUpload_${i}" accept=".txt" style="display:none;" onchange="tekMesajYukle(event, ${i})">
+                    <button onclick="document.getElementById('tekMesajUpload_${i}').click()" style="background: #e83e8c; color: white; border: none; padding: 8px 12px; border-radius: 4px; font-size: 11px; cursor: pointer;" title="Bu haftaya tek TXT dosyası yükle" ${hafta.kilitli ? 'disabled' : ''}>📄 TXT Yükle</button>
                   </div>
                   <button onclick="zipEslesenGorseller(${i})" style="
                     background: #17a2b8; 
@@ -27834,6 +27836,214 @@ IMPORTANT RULES:
             
             event.target.value = '';
         }
+
+        // ===== TEK DOSYA YÜKLEME (Hasta Sekmesindeki Buton) =====
+        async function tekMesajYukle(event, haftaIndex) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            const content = await new Promise((resolve) => {
+                const reader = new FileReader();
+                reader.onload = (e) => resolve(e.target.result);
+                reader.readAsText(file);
+            });
+            
+            // Hem ana hem sync textarea'yı güncelle
+            const anaTextarea = document.getElementById('gptMesaj_' + haftaIndex);
+            const syncTextarea = document.getElementById('gptMesajSync_' + haftaIndex);
+            
+            if (anaTextarea) anaTextarea.value = content;
+            if (syncTextarea) syncTextarea.value = content;
+            
+            // Kaydet
+            gptMesajKaydet(haftaIndex, 'sync');
+            
+            alert('📄 TXT dosyası başarıyla yüklendi ve kaydedildi!');
+            event.target.value = '';
+        }
+
+        // ===== TOPLU İÇE AKTARMA MODALI =====
+        function showBulkImportModal() {
+            // Mevcut modal varsa kaldır
+            let existing = document.getElementById('bulkImportModal');
+            if (existing) existing.remove();
+            
+            const modal = document.createElement('div');
+            modal.id = 'bulkImportModal';
+            modal.style.cssText = 'position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.6); z-index:100000; display:flex; justify-content:center; align-items:center;';
+            modal.innerHTML = `
+                <div style="background: white; border-radius: 12px; padding: 30px; max-width: 500px; width: 90%; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
+                    <h3 style="margin: 0 0 20px 0; color: #17a2b8; font-size: 18px;">📥 Toplu GPT Mesajı İçe Aktar</h3>
+                    
+                    <div style="margin-bottom: 15px;">
+                        <label style="display: block; margin-bottom: 5px; font-weight: bold; font-size: 13px; color: #333;">📅 Tarih Aralığı Filtresi (opsiyonel):</label>
+                        <input type="text" id="bulkImportTarihFiltre" placeholder="Örn: 24-30 veya boş bırakın (tümünü aktar)" 
+                               style="width: 100%; padding: 10px; border: 2px solid #17a2b8; border-radius: 6px; font-size: 13px; box-sizing: border-box;">
+                        <small style="color: #888; font-size: 11px;">Boş bırakırsanız klasördeki tüm TXT dosyaları aktarılır. Tarih yazarsanız sadece o aralığı içeren dosyalar seçilir.</small>
+                    </div>
+                    
+                    <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px;">
+                        <button onclick="document.getElementById('bulkImportModal').remove()" 
+                                style="padding: 10px 20px; background: #6c757d; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px;">İptal</button>
+                        <button onclick="startBulkImport()" 
+                                style="padding: 10px 20px; background: #17a2b8; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: bold;">📂 Klasör Seç ve Başlat</button>
+                    </div>
+                </div>
+            `;
+            
+            // Modal dışına tıklayınca kapansın
+            modal.addEventListener('click', (e) => { if (e.target === modal) modal.remove(); });
+            document.body.appendChild(modal);
+        }
+
+        function startBulkImport() {
+            // Tarih filtresini global değişkene kaydet
+            const filtreInput = document.getElementById('bulkImportTarihFiltre');
+            window._bulkImportTarihFiltre = filtreInput ? filtreInput.value.trim() : '';
+            
+            // Modalı kapat
+            document.getElementById('bulkImportModal').remove();
+            
+            // Dosya seçiciyi aç
+            document.getElementById('bulkMessageUpload').click();
+        }
+
+        // ===== GÜNCELLENMIŞ TOPLU İŞLEM (Tarih Filtreli) =====
+        // Orijinal processBulkMessages'ı override ediyoruz
+        const _originalProcessBulkMessages = processBulkMessages;
+        processBulkMessages = async function(event) {
+            const tarihFiltre = window._bulkImportTarihFiltre || '';
+            let files = Array.from(event.target.files).filter(f => f.name.toLowerCase().endsWith('.txt'));
+            
+            if (files.length === 0) {
+                alert('Klasörde hiç .txt dosyası bulunamadı!');
+                return;
+            }
+            
+            // Tarih filtresi uygulanacaksa dosyaları filtrele
+            if (tarihFiltre) {
+                const oncekiSayi = files.length;
+                files = files.filter(f => f.name.includes(tarihFiltre));
+                if (files.length === 0) {
+                    alert(`"${tarihFiltre}" tarih aralığını içeren hiçbir dosya bulunamadı! (${oncekiSayi} dosya tarandı)`);
+                    event.target.value = '';
+                    return;
+                }
+                console.log(`📅 Tarih filtresi "${tarihFiltre}": ${oncekiSayi} dosyadan ${files.length} tanesi eşleşti.`);
+            }
+            
+            if (!confirm(`${files.length} adet mesaj içe aktarılacak${tarihFiltre ? ' (Filtre: ' + tarihFiltre + ')' : ''}. Onaylıyor musunuz?`)) {
+                event.target.value = '';
+                return;
+            }
+            
+            const githubDurumu = document.getElementById('githubDurumu');
+            let basarili = 0;
+            let hatali = 0;
+            let hataliDosyalar = [];
+            
+            if (githubDurumu) githubDurumu.innerHTML = '🔄 Toplu İçe Aktarma Başladı...';
+            
+            for (const file of files) {
+                const fileName = file.name.replace('.txt', '');
+                const parts = fileName.split('_');
+                
+                let haftaNoMatch = null;
+                let hastaAdiParts = [];
+                
+                for (const part of parts) {
+                    if (part.includes('.HAFTA')) {
+                        haftaNoMatch = parseInt(part.replace('.HAFTA', ''));
+                        break;
+                    }
+                    hastaAdiParts.push(part);
+                }
+                
+                if (!haftaNoMatch || hastaAdiParts.length === 0) {
+                    console.error('Dosya adı formatı hatalı: ' + file.name);
+                    hataliDosyalar.push(file.name + ' (format hatalı)');
+                    hatali++;
+                    continue;
+                }
+                
+                const ad1 = hastaAdiParts[0].toLowerCase();
+                const ad2 = hastaAdiParts.length > 1 ? hastaAdiParts[1].toLowerCase() : '';
+                
+                const hastaOzet = hastaListesi.find(h => {
+                    const hIsim = h.isim.toLowerCase();
+                    if (hastaAdiParts.join(' ').toLowerCase() === hIsim) return true;
+                    if (ad2 && hIsim.includes(ad1) && hIsim.includes(ad2)) return true;
+                    if (!ad2 && hIsim.includes(ad1)) return true;
+                    return false;
+                });
+                
+                if (!hastaOzet) {
+                    console.error('Sistemde hasta bulunamadı: ' + hastaAdiParts.join(' '));
+                    hataliDosyalar.push(file.name + ' (hasta bulunamadı)');
+                    hatali++;
+                    continue;
+                }
+                
+                try {
+                    const token = document.getElementById('githubToken').value.trim() || localStorage.getItem('github_api_token') || JSON.parse(localStorage.getItem('githubSettings') || '{}').token;
+                    
+                    const tamHasta = await getHastaData(hastaOzet.id, null, token, hastaOzet.isim);
+                    
+                    if (!tamHasta || !tamHasta.haftalar) {
+                        console.error('Hasta JSON detayları alınamadı: ' + hastaOzet.isim);
+                        hataliDosyalar.push(file.name + ' (JSON alınamadı)');
+                        hatali++;
+                        continue;
+                    }
+                    
+                    const haftaIndex = tamHasta.haftalar.findIndex(h => parseInt(h.haftaNo) === haftaNoMatch);
+                    
+                    if (haftaIndex === -1) {
+                        console.error(`${hastaOzet.isim} için ${haftaNoMatch}. Hafta bulunamadı.`);
+                        hataliDosyalar.push(file.name + ' (hafta bulunamadı)');
+                        hatali++;
+                        continue;
+                    }
+                    
+                    const content = await new Promise((resolve) => {
+                        const reader = new FileReader();
+                        reader.onload = (e) => resolve(e.target.result);
+                        reader.readAsText(file);
+                    });
+                    
+                    tamHasta.haftalar[haftaIndex].gptMesaj = content;
+                    
+                    await hastayiAyriKaydet(tamHasta);
+                    basarili++;
+                    
+                    if (githubDurumu) githubDurumu.innerHTML = `🔄 İşleniyor: ${basarili + hatali}/${files.length} (${hastaOzet.isim})`;
+                    
+                    await new Promise(r => setTimeout(r, 600));
+                    
+                } catch (error) {
+                    console.error('İşlem hatası: ' + file.name, error);
+                    hataliDosyalar.push(file.name + ' (' + error.message + ')');
+                    hatali++;
+                }
+            }
+            
+            let sonucMesaj = `Toplu İçe Aktarma Tamamlandı!\n✅ Başarılı: ${basarili}\n❌ Hatalı: ${hatali}`;
+            if (hataliDosyalar.length > 0) {
+                sonucMesaj += '\n\nHatalı dosyalar:\n' + hataliDosyalar.join('\n');
+            }
+            alert(sonucMesaj);
+            if (githubDurumu) githubDurumu.innerHTML = `✅ İçe aktarma bitti (${basarili} başarılı)`;
+            
+            if (window.seciliHasta) {
+                const isOpened = files.find(f => f.name.toLowerCase().includes(window.seciliHasta.isim.toLowerCase().split(' ')[0]));
+                if (isOpened && typeof getHastaData === 'function') {
+                    getHastaData(window.seciliHasta.id);
+                }
+            }
+            
+            event.target.value = '';
+            window._bulkImportTarihFiltre = '';
+        };
     </script>
 
 </body>
