@@ -27338,98 +27338,31 @@ IMPORTANT RULES:
             }
 
             // Global last-used ve context'e kaydet
-            if (githubDurumu) githubDurumu.innerHTML = '📂 Toplu İçe Aktarma Başladı...';
-            
-            const progressDiv = document.createElement('div');
-            progressDiv.style.cssText = `
-                position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
-                background: white; padding: 20px; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-                z-index: 100000; min-width: 300px; text-align: center;
-            `;
-            progressDiv.innerHTML = `
-                <h4 style="margin-top:0; color:#17a2b8;">Toplu GPT Mesajı Aktarılıyor</h4>
-                <div id="progressBar" style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0;">
-                    <div id="progressFill" style="width: 0%; height: 100%; background: linear-gradient(45deg, #17a2b8, #20c997); transition: width 0.3s;"></div>
-                </div>
-                <div id="progressText">0 / ${files.length}</div>
-            `;
-            document.body.appendChild(progressDiv);
+            const db = getFixKartData();
+            if (!db.settings) db.settings = {};
+            if (!db.settings.contextPrefixes) db.settings.contextPrefixes = {};
 
-            const updateProgress = () => {
-                const islenen = basarili + hatali;
-                const progress = (islenen / files.length) * 100;
-                const pFill = document.getElementById('progressFill');
-                const pText = document.getElementById('progressText');
-                if (pFill) pFill.style.width = progress + '%';
-                if (pText) pText.textContent = `${islenen} / ${files.length}`;
-            };
-            
-            for (const file of files) {
-                const db = getFixKartData();
-                if (!db.settings) db.settings = {};
-                if (!db.settings.contextPrefixes) db.settings.contextPrefixes = {};
+            // ⚡ Global last-used prefix kaydet (sayfa yenilendiğinde geri yüklenecek)
+            if (type === 'tarif') db.settings.lastUsedPrefixTarif = val;
+            else db.settings.lastUsedPrefixUpload = val;
 
-                // ⚡ Global last-used prefix kaydet (sayfa yenilendiğinde geri yüklenecek)
-                if (type === 'tarif') db.settings.lastUsedPrefixTarif = val;
-                else db.settings.lastUsedPrefixUpload = val;
+            // Context-specific prefix kaydet (hafta/tarih bazında)
+            if (fixKartSeciliAnahtar) {
+                const contextKey = fixKartSeciliMod === 'hafta' ? `hafta_${fixKartSeciliAnahtar}` : `tarih_${fixKartSeciliAnahtar}`;
 
-                // Context-specific prefix kaydet (hafta/tarih bazında)
-                if (fixKartSeciliAnahtar) {
-                    const contextKey = fixKartSeciliMod === 'hafta' ? `hafta_${fixKartSeciliAnahtar}` : `tarih_${fixKartSeciliAnahtar}`;
-
-                    let currentContext = db.settings.contextPrefixes[contextKey];
-                    if (typeof currentContext !== 'object' || currentContext === null) {
-                        currentContext = { tarif: typeof currentContext === 'string' ? currentContext : 'EK_', upload: '_Bilgilendirme_' };
-                    }
-
-                    if (type === 'tarif') currentContext.tarif = val;
-                    else currentContext.upload = val;
-
-                    db.settings.contextPrefixes[contextKey] = currentContext;
+                let currentContext = db.settings.contextPrefixes[contextKey];
+                if (typeof currentContext !== 'object' || currentContext === null) {
+                    currentContext = { tarif: typeof currentContext === 'string' ? currentContext : 'EK_', upload: '_Bilgilendirme_' };
                 }
 
-                saveFixKartData(db);
-                fixKartPrefixPaneliGuncelle();
-                
-                try {
-                    const content = await new Promise((resolve) => {
-                        const reader = new FileReader();
-                        reader.onload = (e) => resolve(e.target.result);
-                        reader.readAsText(file);
-                    });
-                    
-                    if (tamHasta.haftalar[haftaIndex].gptMesaj && tamHasta.haftalar[haftaIndex].gptMesaj.trim() !== '') {
-                        if (!confirm(`${hastaOzet.isim} isimli hastanın ${haftaNoMatch}. haftasında zaten bir GPT Mesajı mevcut.\nÜzerine yazılsın mı?`)) {
-                            hataliDosyalar.push(file.name + ' (Kullanıcı tarafından atlandı)');
-                            hatali++;
-                            updateProgress();
-                            continue;
-                        }
-                    }
-                    
-                    tamHasta.haftalar[haftaIndex].gptMesaj = content;
-                    
-                    await hastayiAyriKaydet(tamHasta);
-                    basarili++;
-                    
-                    if (githubDurumu) githubDurumu.innerHTML = `📂 İşleniyor: ${basarili + hatali}/${files.length} (${hastaOzet.isim})`;
-                    updateProgress();
-                    
-                    await new Promise(r => setTimeout(r, 600));
-                    
-                } catch (error) {
-                    console.error('İşlem hatası: ' + file.name, error);
-                    hataliDosyalar.push(file.name + ' (' + error.message + ')');
-                    hatali++;
-                    updateProgress();
-                }
+                if (type === 'tarif') currentContext.tarif = val;
+                else currentContext.upload = val;
+
+                db.settings.contextPrefixes[contextKey] = currentContext;
             }
-            
-            if (document.body.contains(progressDiv)) {
-                document.body.removeChild(progressDiv);
-            }
-            
-            let sonucMesaj = `Toplu İçe Aktarma Tamamlandı!\n✅ Başarılı: ${basarili}\n❌ Hatalı veya Atlanan: ${hatali}`;
+
+            saveFixKartData(db);
+            fixKartPrefixPaneliGuncelle();
         }
 
 
@@ -28009,21 +27942,41 @@ IMPORTANT RULES:
                     alert(`"${tarihFiltre}" tarih aralığını içeren hiçbir dosya bulunamadı! (${oncekiSayi} dosya tarandı)`);
                     event.target.value = '';
                     return;
-                }
-                console.log(`📅 Tarih filtresi "${tarihFiltre}": ${oncekiSayi} dosyadan ${files.length} tanesi eşleşti.`);
-            }
-            
-            if (!confirm(`${files.length} adet mesaj içe aktarılacak${tarihFiltre ? ' (Filtre: ' + tarihFiltre + ')' : ''}. Onaylıyor musunuz?`)) {
+if (!confirm(`${files.length} adet mesaj içe aktarılacak${tarihFiltre ? ' (Filtre: ' + tarihFiltre + ')' : ''}. Onaylıyor musunuz?`)) {
                 event.target.value = '';
                 return;
             }
             
-            const githubDurumu = document.getElementById('githubDurumu');
+                        const githubDurumu = document.getElementById('githubDurumu');
             let basarili = 0;
             let hatali = 0;
             let hataliDosyalar = [];
             
             if (githubDurumu) githubDurumu.innerHTML = '🔄 Toplu İçe Aktarma Başladı...';
+            
+            const progressDiv = document.createElement('div');
+            progressDiv.style.cssText = `
+                position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                background: white; padding: 20px; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+                z-index: 100000; min-width: 300px; text-align: center;
+            `;
+            progressDiv.innerHTML = `
+                <h4 style="margin-top:0; color:#17a2b8;">Toplu GPT Mesajı Aktarılıyor</h4>
+                <div id="progressBar" style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0;">
+                    <div id="progressFill" style="width: 0%; height: 100%; background: linear-gradient(45deg, #17a2b8, #20c997); transition: width 0.3s;"></div>
+                </div>
+                <div id="progressText">0 / ${files.length}</div>
+            `;
+            document.body.appendChild(progressDiv);
+
+            const updateProgress = () => {
+                const islenen = basarili + hatali;
+                const progress = (islenen / files.length) * 100;
+                const pFill = document.getElementById('progressFill');
+                const pText = document.getElementById('progressText');
+                if (pFill) pFill.style.width = progress + '%';
+                if (pText) pText.textContent = `${islenen} / ${files.length}`;
+            };
             
             for (const file of files) {
                 const fileName = file.name.replace('.txt', '');
@@ -28109,12 +28062,22 @@ IMPORTANT RULES:
                         reader.readAsText(file);
                     });
                     
+                    if (tamHasta.haftalar[haftaIndex].gptMesaj && tamHasta.haftalar[haftaIndex].gptMesaj.trim() !== '') {
+                        if (!confirm(`${hastaOzet.isim} isimli hastanın ${haftaNoMatch}. haftasında zaten bir GPT Mesajı mevcut.\nÜzerine yazılsın mı?`)) {
+                            hataliDosyalar.push(file.name + ' (Kullanıcı tarafından atlandı)');
+                            hatali++;
+                            updateProgress();
+                            continue;
+                        }
+                    }
+                    
                     tamHasta.haftalar[haftaIndex].gptMesaj = content;
                     
                     await hastayiAyriKaydet(tamHasta);
                     basarili++;
                     
                     if (githubDurumu) githubDurumu.innerHTML = `🔄 İşleniyor: ${basarili + hatali}/${files.length} (${hastaOzet.isim})`;
+                    updateProgress();
                     
                     await new Promise(r => setTimeout(r, 600));
                     
@@ -28122,10 +28085,15 @@ IMPORTANT RULES:
                     console.error('İşlem hatası: ' + file.name, error);
                     hataliDosyalar.push(file.name + ' (' + error.message + ')');
                     hatali++;
+                    updateProgress();
                 }
             }
             
-            let sonucMesaj = `Toplu İçe Aktarma Tamamlandı!\n✅ Başarılı: ${basarili}\n❌ Hatalı: ${hatali}`;
+            if (document.body.contains(progressDiv)) {
+                document.body.removeChild(progressDiv);
+            }
+            
+            let sonucMesaj = `Toplu İçe Aktarma Tamamlandı!\n✅ Başarılı: ${basarili}\n❌ Hatalı veya Atlanan: ${hatali}`;
             if (hataliDosyalar.length > 0) {
                 sonucMesaj += '\n\nHatalı dosyalar:\n' + hataliDosyalar.join('\n');
             }
@@ -28216,6 +28184,30 @@ IMPORTANT RULES:
             
             if (githubDurumu) githubDurumu.innerHTML = '🔄 Toplu PDF Yükleme Başladı...';
             
+            const progressDiv = document.createElement('div');
+            progressDiv.style.cssText = `
+                position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                background: white; padding: 20px; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+                z-index: 100000; min-width: 300px; text-align: center;
+            `;
+            progressDiv.innerHTML = `
+                <h4 style="margin-top:0; color:#17a2b8;">Toplu PDF Yükleniyor</h4>
+                <div id="progressBar" style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0;">
+                    <div id="progressFill" style="width: 0%; height: 100%; background: linear-gradient(45deg, #17a2b8, #20c997); transition: width 0.3s;"></div>
+                </div>
+                <div id="progressText">0 / ${files.length}</div>
+            `;
+            document.body.appendChild(progressDiv);
+
+            const updateProgress = () => {
+                const islenen = basarili + hatali;
+                const progress = (islenen / files.length) * 100;
+                const pFill = document.getElementById('progressFill');
+                const pText = document.getElementById('progressText');
+                if (pFill) pFill.style.width = progress + '%';
+                if (pText) pText.textContent = `${islenen} / ${files.length}`;
+            };
+            
             for (const file of files) {
                 try {
                     // PDF dosya adını parse et (mevcut sistemi kullan)
@@ -28241,6 +28233,15 @@ IMPORTANT RULES:
                     // Haftayı bul veya oluştur (TAB YOKSA OTOMATIİK OLUŞTUR)
                     const mevcutHaftalar = hasta.haftalar || [];
                     const haftaVarMi = mevcutHaftalar.find(h => parseInt(h.haftaNo) === parsed.haftaNo);
+                    
+                    if (haftaVarMi && (haftaVarMi.pdfVar === true || haftaVarMi.pdfYolu || haftaVarMi.pdfName)) {
+                        if (!confirm(`${parsed.hastaAdi} isimli hastanın ${parsed.haftaNo}. haftasında zaten bir PDF yüklü.\nÜzerine yazılsın mı?`)) {
+                            hataliDosyalar.push(file.name + ' (Kullanıcı tarafından atlandı)');
+                            hatali++;
+                            updateProgress();
+                            continue;
+                        }
+                    }
                     
                     if (!haftaVarMi) {
                         tabOlusturulan++;
@@ -28271,6 +28272,7 @@ IMPORTANT RULES:
                     basarili++;
                     
                     if (githubDurumu) githubDurumu.innerHTML = `🔄 PDF: ${basarili + hatali}/${files.length} (${parsed.hastaAdi})`;
+                    updateProgress();
                     
                     await new Promise(r => setTimeout(r, 800));
                     
@@ -28278,10 +28280,15 @@ IMPORTANT RULES:
                     console.error('PDF işlem hatası: ' + file.name, error);
                     hataliDosyalar.push(file.name + ' (' + error.message + ')');
                     hatali++;
+                    updateProgress();
                 }
             }
             
-            let sonucMesaj = `Toplu PDF Yükleme Tamamlandı!\n✅ Başarılı: ${basarili}\n➕ Yeni Tab: ${tabOlusturulan}\n❌ Hatalı: ${hatali}`;
+            if (document.body.contains(progressDiv)) {
+                document.body.removeChild(progressDiv);
+            }
+            
+            let sonucMesaj = `Toplu PDF Yükleme Tamamlandı!\n✅ Başarılı: ${basarili}\n➕ Yeni Tab: ${tabOlusturulan}\n❌ Hatalı veya Atlanan: ${hatali}`;
             if (hataliDosyalar.length > 0) {
                 sonucMesaj += '\n\nHatalı dosyalar:\n' + hataliDosyalar.join('\n');
             }
@@ -28296,27 +28303,243 @@ IMPORTANT RULES:
         function startBulkDriveImport(fileType) {
             if (fileType === 'pdf') {
                 const filtreInput = document.getElementById('bulkPdfTarihFiltre');
-                window._bulkPdfTarihFiltre = filtreInput ? filtreInput.value.trim() : '';
+                const tarihFiltre = filtreInput ? filtreInput.value.trim() : '';
                 document.getElementById('bulkPdfModal').remove();
+                
+                if (!tarihFiltre) {
+                    if(!confirm("Tarih filtresi girmediniz. Tüm sistemdeki eksik PDF'ler aranıp yüklenecek! Bu çok uzun sürebilir. Emin misiniz?")) return;
+                }
+                
+                // Google Picker kullanmadan kendi mantığımızla devam et
+                startBulkDrivePdfImport(tarihFiltre);
             } else {
                 const filtreInput = document.getElementById('bulkImportTarihFiltre');
                 window._bulkImportTarihFiltre = filtreInput ? filtreInput.value.trim() : '';
                 document.getElementById('bulkImportModal').remove();
+                openGooglePickerForBulk(fileType);
             }
-            openGooglePickerForBulk(fileType);
         }
 
-        async function openGooglePickerForBulk(fileType) {
-            const apiKey = localStorage.getItem('googleDriveApiKey');
-            const clientId = localStorage.getItem('googleDriveClientId');
-            
-            if (!apiKey || !clientId) {
-                alert('Google Drive API ayarları eksik!\n\nLütfen API Ayarları bölümünden anahtarlarınızı girin.');
+        async function startBulkDrivePdfImport(tarihFiltre) {
+            if (!window.tumHastalar || window.tumHastalar.length === 0) {
+                alert("Sistemde hasta bulunamadı!");
                 return;
             }
 
+            // Google API'yi başlat
+            const signedIn = await signInToGoogle();
+            if (!signedIn) return;
+
+            const githubDurumu = document.getElementById('githubDurumu');
+            if (githubDurumu) githubDurumu.innerHTML = `☁️ Toplu Google Sheets PDF Tarama Başladı...`;
+
+            const progressDiv = document.createElement('div');
+            progressDiv.style.cssText = `
+                position: fixed; top: 20px; right: 20px; background: white; 
+                padding: 15px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); 
+                z-index: 9999; min-width: 300px; font-family: sans-serif;
+            `;
+            progressDiv.innerHTML = `
+                <h4 style="margin:0 0 10px 0; color:#1a73e8;">☁️ Google Sheets PDF İşlemi</h4>
+                <div style="width:100%; height:8px; background:#e0e0e0; border-radius:4px; margin-bottom:10px;">
+                    <div id="bulkDriveProgressFill" style="width:0%; height:100%; background:#1a73e8; border-radius:4px; transition:width 0.3s;"></div>
+                </div>
+                <div id="bulkDriveProgressText" style="font-size:13px; color:#555;">Başlıyor...</div>
+                <div style="font-size:12px; margin-top:8px; color:#666;">
+                    ✅ <span id="bulkDriveSuccessCount" style="color:green; font-weight:bold;">0</span>
+                    | ❌ <span id="bulkDriveErrorCount" style="color:red; font-weight:bold;">0</span>
+                    | ⏭️ <span id="bulkDriveSkipCount" style="color:orange; font-weight:bold;">0</span>
+                </div>
+            `;
+            document.body.appendChild(progressDiv);
+
+            let basarili = 0;
+            let hatali = 0;
+            let atlanan = 0;
+            let islemGorenHastaHaftalari = [];
+            
+            const filtreLower = tarihFiltre.toLowerCase();
+            const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
+            const githubRepo = `${githubSettings.owner || 'lipodemmerkezi'}/${githubSettings.repo || 'zip'}`;
+            const token = document.getElementById('githubToken').value.trim() || localStorage.getItem('github_api_token') || githubSettings.token;
+
+            // Önce tarih filtresi ile eşleşen hasta/haftaları bul
+            for (const hasta of window.tumHastalar) {
+                const tamHasta = await getHastaData(hasta.id, githubRepo, token, hasta.isim);
+                if (!tamHasta || !tamHasta.haftalar) continue;
+
+                for (let i = 0; i < tamHasta.haftalar.length; i++) {
+                    const hafta = tamHasta.haftalar[i];
+                    
+                    // Tarih Filtresi uyumu
+                    if (filtreLower && hafta.tarihAraligi) {
+                        if (!hafta.tarihAraligi.toLowerCase().includes(filtreLower)) {
+                            continue;
+                        }
+                    } else if (filtreLower && !hafta.tarihAraligi) {
+                        continue; // filtre var ama tarih yoksa atla
+                    }
+
+                    islemGorenHastaHaftalari.push({
+                        hasta: tamHasta,
+                        haftaIndeks: i
+                    });
+                }
+            }
+
+            const totalTasks = islemGorenHastaHaftalari.length;
+            if (totalTasks === 0) {
+                alert(`"${tarihFiltre}" tarihi ile eşleşen hiçbir hasta/hafta bulunamadı!`);
+                document.body.removeChild(progressDiv);
+                if (githubDurumu) githubDurumu.innerHTML = '';
+                return;
+            }
+
+            // Şimdi bu haftalar için Sheets'e git ve PDF çek
+            for (let i = 0; i < totalTasks; i++) {
+                const item = islemGorenHastaHaftalari[i];
+                const hasta = item.hasta;
+                const haftaIndeks = item.haftaIndeks;
+                const hafta = hasta.haftalar[haftaIndeks];
+
+                // UI Güncelle
+                const percent = Math.round(((i) / totalTasks) * 100);
+                document.getElementById('bulkDriveProgressFill').style.width = percent + '%';
+                document.getElementById('bulkDriveProgressText').textContent = `[${i + 1}/${totalTasks}] ${hasta.isim} - ${hafta.haftaNo}. Hafta aranıyor...`;
+
+                // Zaten yüklü mü?
+                if (hafta.pdfVar || hafta.pdfYolu || hafta.pdfName) {
+                    console.log(`${hasta.isim} - ${hafta.haftaNo}. Hafta zaten PDF var, atlanıyor.`);
+                    atlanan++;
+                    document.getElementById('bulkDriveSkipCount').textContent = atlanan;
+                    continue;
+                }
+
+                // Kilitli mi?
+                if (hafta.kilitli) {
+                    console.log(`${hasta.isim} - ${hafta.haftaNo}. Hafta kilitli, atlanıyor.`);
+                    atlanan++;
+                    document.getElementById('bulkDriveSkipCount').textContent = atlanan;
+                    continue;
+                }
+
+                // Arka planda Sheets işlemi yap
+                try {
+                    document.getElementById('bulkDriveProgressText').textContent = `[${i + 1}/${totalTasks}] ${hasta.isim} - Sheets Taranıyor...`;
+                    const sonuc = await processPatientSheetToPdfBulk(hasta, haftaIndeks, githubRepo, token);
+                    if (sonuc.success) {
+                        basarili++;
+                        document.getElementById('bulkDriveSuccessCount').textContent = basarili;
+                    } else {
+                        console.warn(sonuc.message);
+                        hatali++;
+                        document.getElementById('bulkDriveErrorCount').textContent = hatali;
+                    }
+                } catch (error) {
+                    console.error(`Hasta ${hasta.isim} işleminde beklenmeyen hata:`, error);
+                    hatali++;
+                    document.getElementById('bulkDriveErrorCount').textContent = hatali;
+                }
+            }
+
+            document.getElementById('bulkDriveProgressFill').style.width = '100%';
+            document.getElementById('bulkDriveProgressText').textContent = 'İşlem Tamamlandı!';
+            
+            if (githubDurumu) githubDurumu.innerHTML = '';
+            alert(`☁️ Google Sheets Toplu PDF Çekme Tamamlandı!\n\n✅ Başarılı: ${basarili}\n❌ Bulunamayan/Hatalı: ${hatali}\n⏭️ Zaten Var/Kilitli (Atlanan): ${atlanan}`);
+            
+            setTimeout(() => {
+                if (document.body.contains(progressDiv)) {
+                    document.body.removeChild(progressDiv);
+                }
+            }, 5000);
+
+            // Ekranı güncelle
+            if (window.seciliHasta) {
+                hastaDetayGoster(window.seciliHasta);
+            }
+        }
+
+        async function processPatientSheetToPdfBulk(hasta, haftaIndeks, githubRepo, token) {
+            const hafta = hasta.haftalar[haftaIndeks];
+            const hastaAdi = hasta.hastaIsim || hasta.isim;
+            const haftaNo = haftaIndeks + 1;
+
+            // Hasta sheet'ini ara
+            const patientSheet = await findPatientSheet(hastaAdi);
+            if (!patientSheet) {
+                return { success: false, message: `${hastaAdi} için Google Sheets dosyası bulunamadı.` };
+            }
+
+            // PDF tab ismini oluştur - farklı varyasyonları dene
+            const possibleTabNames = [
+                `${haftaNo}. hafta pdf`,
+                `${haftaNo}.hafta pdf`,
+                `${haftaNo} hafta pdf`,
+                `${haftaNo}hafta pdf`,
+                `${haftaNo}. hafta`,
+                `hafta ${haftaNo}`,
+                `Sayfa${haftaNo}`,
+                `Sheet${haftaNo}`,
+            ];
+
+            let pdfBlob = null;
+            let foundTabName = null;
+
+            for (const tabName of possibleTabNames) {
+                try {
+                    pdfBlob = await exportSheetTabAsPdf(patientSheet.id, tabName);
+                    foundTabName = tabName;
+                    break;
+                } catch (error) {
+                    continue;
+                }
+            }
+
+            if (!pdfBlob) {
+                return { success: false, message: `${hastaAdi} - ${haftaNo}. hafta tab'ı bulunamadı.` };
+            }
+            
+            let pdfFileName;
+            if (hafta.tarihAraligi) {
+                pdfFileName = `${hastaAdi} ${hafta.tarihAraligi} ${haftaNo}. HAFTA.pdf`;
+            } else {
+                pdfFileName = `${hastaAdi}_${haftaNo}_hafta.pdf`;
+            }
+
+            // GitHub'a kaydet
+            const arrayBuffer = await pdfBlob.arrayBuffer();
+            const base64Data = arrayBufferToBase64(arrayBuffer);
+            
+            const tarihStr = new Date().toISOString().split('T')[0].replace(/-/g, '');
+            const sonDosyaAdi = `${hastaAdi}_${haftaNo}.HAFTA_${tarihStr}.pdf`;
+            
+            const pdfGithubYolu = await githubSaveFile(githubRepo, token, `pdf/${sonDosyaAdi}`, base64Data);
+            
+            if (pdfGithubYolu) {
+                hafta.pdfName = sonDosyaAdi;
+                hafta.pdfYolu = pdfGithubYolu;
+                hafta.pdfVar = true;
+                
+                // Hastayı güncelle
+                await hastayiAyriKaydet(hasta);
+                return { success: true, message: `Başarılı: ${foundTabName}` };
+            }
+
+            return { success: false, message: `GitHub'a kaydedilemedi.` };
+        }
+
+        async function openGooglePickerForBulk(fileType) {
             try {
-                if (!gapi.client.drive) {
+                const apiKey = localStorage.getItem('googleDriveApiKey');
+                const clientId = localStorage.getItem('googleDriveClientId');
+                if (!apiKey || !clientId) {
+                    alert("API key eksik");
+                    return;
+                }
+
+                if (!gapi.client) {
+                    await new Promise((resolve) => gapi.load('client:auth2:picker', resolve));
                     await gapi.client.init({
                         apiKey: apiKey,
                         clientId: clientId,
