@@ -3078,12 +3078,13 @@
       "kayitTarihi": "2026-08-19T14:19:21.301Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "",
-      "pdfFile": {}
+      "gptMesaj": "Merhaba Fadim Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 12. haftaya geçiyoruz.\n\nProgramı toparlama dönemine girerken ölçümleriniz bize tartı dışında da önemli bilgi veriyor. 8 Haziran ile 27 Temmuz arasında bel çevreniz 101 cm’den 99 cm’ye, kalça çevreniz 128 cm’den 123 cm’ye gerilemiş. Üst bacaklarda sağda 9, solda 10 cm; dizlerde sağda 4, solda 5 cm azalma var. Bazı bölgelerde ölçümlerin dönem dönem dalgalanması normaldir; asıl anlamlı olan, aynı koşullarda alınan ölçümlerin genel yönüdür.\n\n12. haftada amacımız yeni ve daha sert bir kural eklemek değil, işe yarayan yapıyı kalıcı hale getirmek. Fırında kıymalı kabak sandal ve cevizli cacık, kıymadan gelen protein ile kabağın lifini; yoğurt ve cevizin fermente gıda ve sağlıklı yağ tarafını aynı tabakta tamamlıyor. Nohutlu kıymalı kabak dolması ile borani de hem hayvansal hem bitkisel protein, ıspanak, yoğurt ve lif açısından dengeli bir öğün oluşturuyor.\n\nSomon ve yeşil salata, omega-3 ve selenyum desteği için haftanın önemli seçimi. Buna karşılık patlıcan lazanya, tahin sufle ve hurma topları gibi daha keyifli tarifler de planın içinde belirli bir yeri olduğu için bulunuyor. Bu seçenekleri ana öğünün yerine veya başka günlere ek porsiyon şeklinde taşımadan, yazıldığı gün ve miktarda kullanın. Karabuğday ekmeği, elma, kivi ya da karpuz gibi karbonhidrat kaynaklarını da protein ve sebzenin ardından tüketmek önceki haftalarda öğrendiğimiz yemek sırası alışkanlığını korur.\n\nBu hafta kendinize şu soruyu sorun: Programdan sonra da sürdürebileceğiniz üç temel alışkanlık hangileri? Düzenli iki ana öğün, sebze-protein dengesi, ölçülü meyve, su, masaj veya egzersizden size en uygun olanları belirleyin. Tartıda yavaşlama olsa bile bel, kalça ve üst bacak ölçülerindeki ilerlemeyi görmezden gelmeyin. Bacaklarda ağırlık, ağrı ve ödem hissinin önceki haftalara göre nasıl değiştiğini de not edin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-08T10:54:19.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T14:19:21.303Z",
+  "sonGuncelleme": "2026-08-19T14:39:24.328Z",
   "githubKaydedildi": true
 }
