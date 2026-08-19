@@ -28189,6 +28189,12 @@ IMPORTANT RULES:
                         <input type="text" id="drivePdfTarihFiltre" placeholder="Örn: 24-30 veya boş bırakın" 
                                style="width: 100%; padding: 10px; border: 2px solid #4285F4; border-radius: 6px; font-size: 13px; box-sizing: border-box;">
                     </div>
+                    <div style="margin-bottom: 15px; display: flex; align-items: center; gap: 8px;">
+                        <input type="checkbox" id="drivePdfOverwriteCheckbox" style="width: 16px; height: 16px; cursor: pointer;">
+                        <label for="drivePdfOverwriteCheckbox" style="font-size: 13px; color: #333; cursor: pointer;">
+                            Zaten var olan PDF'lerin üzerine yazarak güncelle
+                        </label>
+                    </div>
                     
                     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
                         <label style="font-weight: bold; font-size: 13px; color: #333;">👥 Taranacak Hastalar (${aktifHastalar.length} Aktif Hasta):</label>
@@ -28653,7 +28659,7 @@ IMPORTANT RULES:
             const token = document.getElementById('githubToken').value.trim() || localStorage.getItem('github_api_token') || githubSettings.token;
 
             // Önce tarih filtresi ile eşleşen hasta/haftaları bul
-            const taranacakHastalar = tumHastalar.filter(h => !seciliHastaIdleri || seciliHastaIdleri.includes(h.id));
+            const taranacakHastalar = tumHastalar.filter(h => !seciliHastaIdleri || seciliHastaIdleri.includes(String(h.id)));
             
             for (let i = 0; i < taranacakHastalar.length; i++) {
                 const hasta = taranacakHastalar[i];
