@@ -1393,12 +1393,13 @@
       "kayitTarihi": "2026-08-19T14:20:08.355Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "",
-      "pdfFile": {}
+      "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 6. haftaya geçiyoruz.\n\nGeçen hafta manuel lenf drenajını programa ekledik. Bu hafta beslenmenin mikrobesin yönüne, yani protein miktarının ötesinde vitamin ve minerallerin hangi yemeklerle sağlandığına bakıyoruz. Polikistik over öykünüz ve yüksek seyreden insülin düzeyiniz nedeniyle, mikrobesinleri dengeli öğün yapısından ayırmadan düşünmek önemli; tek bir besini ya da takviyeyi mucize gibi değerlendirmiyoruz.\n\nBalık ve roka salatası bu haftada omega-3, selenyum ve kaliteli protein sağlarken roka, limon ve diğer yeşillikler folat ve C vitamini yönünü tamamlıyor. Köfte ile semizotu salatasında etten demir, B12 ve çinko; semizotu, zeytinyağı ve sebzelerden lif, magnezyum ve doymamış yağ alıyoruz. Tavuklu bamya ile yoğurtlu semizotu salatası da protein ve sebze lifini fermente süt ürünüyle bir araya getiriyor.\n\nYumurtayı sahanda, mantarlı omlet, kavurmalı yumurta ve menemen gibi farklı biçimlerde vermemizin nedeni haftayı tekdüzeleştirmeden protein, kolin, B12 ve selenyum alımını sürdürmek. Kabak çekirdeği, badem, tahin ve ceviz gibi kaynaklar magnezyum ve sağlıklı yağ sağlar; ancak enerji yoğun oldukları için listede yazan miktarı aşmayın. Peynir sevginiz nedeniyle miktarı özellikle korumak, protein katkısını alırken toplam porsiyonu kontrol altında tutar.\nBu hafta masaj sonrasında bacaklarda yumuşama veya ağırlık değişimini, ayrıca bağırsak düzeni, açlık ve enerji durumunuzu not edin. Mikrobesin desteğinin temeli, takviyeden önce düzenli ve çeşitli öğünlerdir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T14:20:08.355Z",
+  "sonGuncelleme": "2026-08-19T14:46:38.626Z",
   "githubKaydedildi": true
 }
