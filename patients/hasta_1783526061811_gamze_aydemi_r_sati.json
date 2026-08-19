@@ -1685,12 +1685,13 @@
       "kayitTarihi": "2026-08-19T14:19:46.033Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "",
-      "pdfFile": {}
+      "gptMesaj": "Merhaba Gamze Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 7. haftaya geçiyoruz.\n\n16 Ağustos ölçümünüz, başlangıca göre hem tartıda hem çevre ölçülerinde birlikte ilerleme olduğunu gösteriyor. Ağırlığınız yaklaşık 72 kilodan 64,95 kiloya, bel çevreniz 74 cm’den 67 cm’ye, kalçanız 120 cm’den 114 cm’ye gerilemiş. Üst bacaklarda 4’er cm, baldırlarda sağda 4 ve solda 5 cm azalma var. Bu değişimi yalnız kilo kaybı olarak değil, düzenli beslenme, hareket ve sıvı dengesinin birlikte oluşturduğu bir sonuç olarak görmek daha doğru.\n\n7. haftada takviyelerin programdaki yerini netleştiriyoruz. Takviyeler beslenmenin yerine geçmez ve daha yüksek doz daha iyi sonuç anlamına gelmez; kullandığınız ürünleri önerilen doz ve zamanlamada sürdürün, kendi kendinize ekleme yapmayın. Yakın dönemde ağır bağırsak enfeksiyonu ve sıvı kaybı yaşamış olmanız nedeniyle su tüketimi, bağırsak düzeni ve olası çarpıntı gibi belirtileri özellikle izlemeye devam etmeniz önemli.\n\nMenünüzde patlıcanlı tavuk sote ile cevizli kaşık salatası protein, renkli sebze ve sağlıklı yağı birleştiriyor. Hellim peynirli ıspanak, kalsiyum ve proteinle birlikte ıspanaktan folat ve magnezyum almanıza katkı sağlıyor. Balık ile avokado-roka salatası ise omega-3, selenyum ve doymamış yağlar bakımından haftanın güçlü eşleşmesi. Tahin-ceviz ilavesi de magnezyum ve E vitamini yönünü destekliyor; ancak bunlar enerji yoğun olduğu için yazılı miktarı koruyun.\n\nSüt ürünlerinin geçmişte şişkinlik, yorgunluk ve kabızlıkla ilişkili olabildiğini gördüğümüz için kuymak, peynir, hellim veya yoğurtlu tariflerden sonra belirgin bir değişiklik olup olmadığını not edin. Hepsini tek bir grupta değerlendirmek yerine hangi ürünün, ne miktarda ve hangi belirtiyle ilişkili olduğunu ayırmaya çalışın. Bu hafta takviyeleri düzenli alırken aynı zamanda su, bağırsak hareketleri, bacak ağırlığı ve enerji düzeyinizi kısa bir günlükle izlemeniz bize daha anlamlı bilgi verecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T14:19:46.034Z",
+  "sonGuncelleme": "2026-08-19T14:42:58.955Z",
   "githubKaydedildi": true
 }
