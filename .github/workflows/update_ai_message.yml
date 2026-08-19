@@ -1,0 +1,71 @@
+name: Process AI Messages Queue
+
+on:
+  push:
+    paths:
+      - 'ai_requests/**.json'
+  repository_dispatch:
+    types: [update_ai_message]
+
+permissions:
+  contents: write
+
+jobs:
+  process-queue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Process AI Requests
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const requestsDir = path.join(process.env.GITHUB_WORKSPACE, 'ai_requests');
+            const processedDir = path.join(process.env.GITHUB_WORKSPACE, 'ai_processed');
+            if (context.eventName === 'repository_dispatch') {
+              if (!fs.existsSync(requestsDir)) fs.mkdirSync(requestsDir, { recursive: true });
+              const payload = context.payload.client_payload;
+              if (payload && payload.patient_file) {
+                 fs.writeFileSync(path.join(requestsDir, `dispatch_${Date.now()}.json`), JSON.stringify(payload));
+              }
+            }
+            if (!fs.existsSync(requestsDir)) {
+              console.log('ai_requests klasoru yok, islem yapilmayacak.'); return;
+            }
+            if (!fs.existsSync(processedDir)) fs.mkdirSync(processedDir, { recursive: true });
+            const files = fs.readdirSync(requestsDir).filter(f => f.endsWith('.json'));
+            if (files.length === 0) { console.log('Islenecek yeni AI istegi bulunamadi.'); return; }
+            for (const file of files) {
+              const reqPath = path.join(requestsDir, file);
+              let payload;
+              try { payload = JSON.parse(fs.readFileSync(reqPath, 'utf8')); } catch (e) { continue; }
+              if (!payload.patient_file || payload.week_index === undefined || !payload.message) continue;
+              const patientFileName = path.basename(payload.patient_file);
+              const patientFilePath = path.join(process.env.GITHUB_WORKSPACE, 'patients', patientFileName);
+              if (!fs.existsSync(patientFilePath)) continue;
+              let data;
+              try { data = JSON.parse(fs.readFileSync(patientFilePath, 'utf8')); } catch (e) { continue; }
+              const weekIndex = parseInt(payload.week_index, 10);
+              if (!data.haftalar || !data.haftalar[weekIndex]) continue;
+              data.haftalar[weekIndex].gptMesaj = payload.message;
+              try {
+                fs.writeFileSync(patientFilePath, JSON.stringify(data, null, 2), 'utf8');
+                const processedPath = path.join(processedDir, file);
+                fs.renameSync(reqPath, processedPath);
+              } catch (e) { console.error(e); }
+            }
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add patients/ ai_requests/ ai_processed/
+          if git diff --staged --quiet; then
+            echo "Degisiklik yok, commit atlaniyor."
+          else
+            git commit -m "🤖 AI Kuyrugu Islendi: Hastalar Guncellendi"
+            git push
+          fi
