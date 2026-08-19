@@ -28153,13 +28153,14 @@ IMPORTANT RULES:
             document.body.appendChild(modal);
         }
 
-        function showDriveImportPanel() {
+        async function showDriveImportPanel() {
             let existing = document.getElementById('driveImportPanel');
             if (existing) existing.remove();
             
             // Hastaları al
             let hastalarHTML = '';
-            const aktifHastalar = (typeof hastaListesi !== 'undefined' ? hastaListesi : []).filter(h => h.durumu === 'aktif');
+            const guncelHastalar = await hastaListesiYukle() || [];
+            const aktifHastalar = guncelHastalar.filter(h => h.durumu === 'aktif');
             
             aktifHastalar.forEach(hasta => {
                 hastalarHTML += `
