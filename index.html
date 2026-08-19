@@ -28137,6 +28137,12 @@ IMPORTANT RULES:
                                style="width: 100%; padding: 10px; border: 2px solid #e83e8c; border-radius: 6px; font-size: 13px; box-sizing: border-box;">
                         <small style="color: #888; font-size: 11px;">Boş bırakırsanız seçtiğiniz tüm PDF\'ler yüklenir.</small>
                     </div>
+                    <div style="margin-bottom: 15px; display: flex; align-items: center; gap: 8px; margin-top: 15px;">
+                        <input type="checkbox" id="bulkPdfOverwriteCheckbox" style="width: 16px; height: 16px; cursor: pointer;">
+                        <label for="bulkPdfOverwriteCheckbox" style="font-size: 13px; color: #333; cursor: pointer;">
+                            Zaten var olan PDF'lerin üzerine yazarak güncelle
+                        </label>
+                    </div>
                     
                     <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px;">
                         <button onclick="document.getElementById('bulkPdfModal').remove()" 
@@ -28513,6 +28519,80 @@ IMPORTANT RULES:
         }
 
 
+        function normalizeForSearch(text) {
+            if (!text) return '';
+            // Küçük harfe çevir
+            let normalized = text.toLowerCase();
+            // Türkçe karakterleri standartlaştırma (isteğe bağlı ama faydalı)
+            normalized = normalized.replace(/ı/g, 'i').replace(/ö/g, 'o').replace(/ü/g, 'u').replace(/ş/g, 's').replace(/ğ/g, 'g').replace(/ç/g, 'c');
+            // Boşlukları ve tireleri sil
+            normalized = normalized.replace(/[\s\-]/g, '');
+            return normalized;
+        }
+
+        async function searchGoogleSheetForDate(hastaAdi, dateString) {
+            const patientSheet = await findPatientSheet(hastaAdi);
+            if (!patientSheet) return null;
+
+            try {
+                // 1. Spreadsheet metadata'yı al (sekmeleri görmek için)
+                const response = await gapi.client.sheets.spreadsheets.get({
+                    spreadsheetId: patientSheet.id
+                });
+                
+                const sheets = response.result.sheets;
+                if (!sheets || sheets.length === 0) return null;
+
+                // "pdf" kelimesi geçen sekmeleri bul
+                const pdfTabs = sheets.filter(s => s.properties.title.toLowerCase().includes('pdf'));
+                if (pdfTabs.length === 0) return null;
+
+                // 2. Bu sekmelerin sadece üst kısımlarını (A1:F10) çek
+                const ranges = pdfTabs.map(s => `'${s.properties.title}'!A1:F10`);
+                
+                const valuesResponse = await gapi.client.sheets.spreadsheets.values.batchGet({
+                    spreadsheetId: patientSheet.id,
+                    ranges: ranges
+                });
+
+                const valueRanges = valuesResponse.result.valueRanges;
+                const dateLower = normalizeForSearch(dateString);
+
+                // 3. Değerler içinde tarihi ara
+                for (let i = 0; i < valueRanges.length; i++) {
+                    const vr = valueRanges[i];
+                    if (vr.values) {
+                        let found = false;
+                        for (let row of vr.values) {
+                            for (let cell of row) {
+                                if (cell && normalizeForSearch(cell.toString()).includes(dateLower)) {
+                                    found = true;
+                                    break;
+                                }
+                            }
+                            if (found) break;
+                        }
+
+                        if (found) {
+                            // Bulduk! Sekme isminden hafta numarasını çıkaralım
+                            const tabName = pdfTabs[i].properties.title;
+                            const match = tabName.match(/(\d+)/); // ilk sayıyı al
+                            if (match) {
+                                return {
+                                    haftaNo: parseInt(match[1]),
+                                    tabName: tabName,
+                                    spreadsheetId: patientSheet.id
+                                };
+                            }
+                        }
+                    }
+                }
+            } catch (e) {
+                console.error("Sheet arama hatası:", e);
+            }
+            return null;
+        }
+
         async function startBulkDrivePdfImport(tarihFiltre, seciliHastaIdleri = null) {
             // UI Oluştur (Hemen kullanıcıya tepki ver)
             const progressDiv = document.createElement('div');
@@ -28567,6 +28647,7 @@ IMPORTANT RULES:
             let islemGorenHastaHaftalari = [];
             
             const filtreLower = tarihFiltre.toLowerCase();
+            const overwrite = document.getElementById('bulkPdfOverwriteCheckbox') ? document.getElementById('bulkPdfOverwriteCheckbox').checked : false;
             const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
             const githubRepo = `${githubSettings.owner || 'lipodemmerkezi'}/${githubSettings.repo || 'zip'}`;
             const token = document.getElementById('githubToken').value.trim() || localStorage.getItem('github_api_token') || githubSettings.token;
@@ -28579,18 +28660,55 @@ IMPORTANT RULES:
                 updateProgress(`GitHub verisi alınıyor: ${hasta.isim} (${i+1}/${taranacakHastalar.length})`, 10 + Math.round((i / taranacakHastalar.length) * 20));
                 
                 const tamHasta = await getHastaData(hasta.id, githubRepo, token, hasta.isim);
-                if (!tamHasta || !tamHasta.haftalar) continue;
+                if (!tamHasta) continue;
+                if (!tamHasta.haftalar) tamHasta.haftalar = [];
+                
+                let smartMatch = null;
+                if (filtreLower) {
+                     updateProgress(`[${i+1}/${taranacakHastalar.length}] ${hasta.isim} - Akıllı Arama yapılıyor...`, 10 + Math.round((i / taranacakHastalar.length) * 20));
+                     smartMatch = await searchGoogleSheetForDate(hasta.isim, filtreLower);
+                     // API Limit koruması: Çok az bekleme yap
+                     await new Promise(r => setTimeout(r, 600));
+                }
 
+                if (smartMatch) {
+                     const bulananHaftaNo = smartMatch.haftaNo;
+                     
+                     let haftaIndeks = tamHasta.haftalar.findIndex(h => h.haftaNo === bulananHaftaNo);
+                     if (haftaIndeks === -1) {
+                          // HAFTA JSON'DA YOK! SIFIRDAN OLUŞTUR
+                          tamHasta.haftalar.push({
+                               haftaNo: bulananHaftaNo,
+                               tarihAraligi: tarihFiltre,
+                               pdfVar: false
+                          });
+                          tamHasta.haftalar.sort((a,b) => a.haftaNo - b.haftaNo);
+                          haftaIndeks = tamHasta.haftalar.findIndex(h => h.haftaNo === bulananHaftaNo);
+                     } else {
+                          // Hafta var ama tarihi eksikse güncelle
+                          if (!tamHasta.haftalar[haftaIndeks].tarihAraligi) {
+                               tamHasta.haftalar[haftaIndeks].tarihAraligi = tarihFiltre;
+                          }
+                     }
+
+                     islemGorenHastaHaftalari.push({
+                         hasta: tamHasta,
+                         haftaIndeks: haftaIndeks,
+                         smartMatch: smartMatch
+                     });
+                     continue; 
+                }
+
+                // AKILLI EŞLEŞME YOKSA ESKİ JSON FİLTRESİNE BAK
                 for (let j = 0; j < tamHasta.haftalar.length; j++) {
                     const hafta = tamHasta.haftalar[j];
                     
-                    // Tarih Filtresi uyumu
                     if (filtreLower && hafta.tarihAraligi) {
                         if (!hafta.tarihAraligi.toLowerCase().includes(filtreLower)) {
                             continue;
                         }
                     } else if (filtreLower && !hafta.tarihAraligi) {
-                        continue; // filtre var ama tarih yoksa atla
+                        continue; 
                     }
 
                     islemGorenHastaHaftalari.push({
@@ -28602,7 +28720,7 @@ IMPORTANT RULES:
 
             const totalTasks = islemGorenHastaHaftalari.length;
             if (totalTasks === 0) {
-                alert(`"${tarihFiltre}" tarihi ile eşleşen hiçbir hafta bulunamadı!`);
+                alert(`"${tarihFiltre}" tarihi ile eşleşen hiçbir hafta bulunamadı! (Google Sheets içi de tarandı)`);
                 document.body.removeChild(progressDiv);
                 if (githubDurumu) githubDurumu.innerHTML = '';
                 return;
@@ -28613,13 +28731,15 @@ IMPORTANT RULES:
                 const item = islemGorenHastaHaftalari[i];
                 const hasta = item.hasta;
                 const haftaIndeks = item.haftaIndeks;
+                const smartMatch = item.smartMatch;
                 const hafta = hasta.haftalar[haftaIndeks];
 
                 // UI Güncelle
                 updateProgress(`[${i + 1}/${totalTasks}] ${hasta.isim} - ${hafta.haftaNo}. Hafta aranıyor...`, 30 + Math.round(((i) / totalTasks) * 70));
 
                 // Zaten yüklü mü?
-                if (hafta.pdfVar || hafta.pdfYolu || hafta.pdfName) {
+                // Zaten yüklü mü?
+                if ((hafta.pdfVar || hafta.pdfYolu || hafta.pdfName) && !overwrite) {
                     console.log(`${hasta.isim} - ${hafta.haftaNo}. Hafta zaten PDF var, atlanıyor.`);
                     atlanan++;
                     document.getElementById('bulkDriveSkipCount').textContent = atlanan;
@@ -28636,8 +28756,8 @@ IMPORTANT RULES:
 
                 // Arka planda Sheets işlemi yap
                 try {
-                    document.getElementById('bulkDriveProgressText').textContent = `[${i + 1}/${totalTasks}] ${hasta.isim} - Sheets Taranıyor...`;
-                    const sonuc = await processPatientSheetToPdfBulk(hasta, haftaIndeks, githubRepo, token);
+                    document.getElementById('bulkDriveProgressText').textContent = `[${i + 1}/${totalTasks}] ${hasta.isim} - Sheets'ten İndiriliyor...`;
+                    const sonuc = await processPatientSheetToPdfBulk(hasta, haftaIndeks, githubRepo, token, smartMatch);
                     if (sonuc.success) {
                         basarili++;
                         document.getElementById('bulkDriveSuccessCount').textContent = basarili;
@@ -28651,6 +28771,8 @@ IMPORTANT RULES:
                     hatali++;
                     document.getElementById('bulkDriveErrorCount').textContent = hatali;
                 }
+                // API Limit koruması: her pdf işleminden sonra bekleme
+                await new Promise(r => setTimeout(r, 1000));
             }
 
             document.getElementById('bulkDriveProgressFill').style.width = '100%';
@@ -28671,40 +28793,46 @@ IMPORTANT RULES:
             }
         }
 
-        async function processPatientSheetToPdfBulk(hasta, haftaIndeks, githubRepo, token) {
+        async function processPatientSheetToPdfBulk(hasta, haftaIndeks, githubRepo, token, smartMatch = null) {
             const hafta = hasta.haftalar[haftaIndeks];
             const hastaAdi = hasta.hastaIsim || hasta.isim;
             const haftaNo = haftaIndeks + 1;
 
-            // Hasta sheet'ini ara
-            const patientSheet = await findPatientSheet(hastaAdi);
-            if (!patientSheet) {
-                return { success: false, message: `${hastaAdi} için Google Sheets dosyası bulunamadı.` };
-            }
-
-            // PDF tab ismini oluştur - farklı varyasyonları dene
-            const possibleTabNames = [
-                `${haftaNo}. hafta pdf`,
-                `${haftaNo}.hafta pdf`,
-                `${haftaNo} hafta pdf`,
-                `${haftaNo}hafta pdf`,
-                `${haftaNo}. hafta`,
-                `hafta ${haftaNo}`,
-                `Sayfa${haftaNo}`,
-                `Sheet${haftaNo}`,
-            ];
-
             let pdfBlob = null;
             let foundTabName = null;
 
-            for (const tabName of possibleTabNames) {
-                try {
-                    pdfBlob = await exportSheetTabAsPdf(patientSheet.id, tabName);
-                    foundTabName = tabName;
-                    break;
-                } catch (error) {
-                    continue;
-                }
+            if (smartMatch) {
+                 // Akıllı arama zaten tab'ı buldu ve spreadsheetId'yi biliyoruz
+                 pdfBlob = await exportSheetTabAsPdf(smartMatch.spreadsheetId, smartMatch.tabName);
+                 foundTabName = smartMatch.tabName;
+            } else {
+                 // Eski mantık: Hasta sheet'ini ara
+                 const patientSheet = await findPatientSheet(hastaAdi);
+                 if (!patientSheet) {
+                     return { success: false, message: `${hastaAdi} için Google Sheets dosyası bulunamadı.` };
+                 }
+
+                 // PDF tab ismini oluştur - farklı varyasyonları dene
+                 const possibleTabNames = [
+                     `${haftaNo}. hafta pdf`,
+                     `${haftaNo}.hafta pdf`,
+                     `${haftaNo} hafta pdf`,
+                     `${haftaNo}hafta pdf`,
+                     `${haftaNo}. hafta`,
+                     `hafta ${haftaNo}`,
+                     `Sayfa${haftaNo}`,
+                     `Sheet${haftaNo}`,
+                 ];
+
+                 for (const tabName of possibleTabNames) {
+                     try {
+                         pdfBlob = await exportSheetTabAsPdf(patientSheet.id, tabName);
+                         foundTabName = tabName;
+                         break;
+                     } catch (error) {
+                         continue;
+                     }
+                 }
             }
 
             if (!pdfBlob) {
