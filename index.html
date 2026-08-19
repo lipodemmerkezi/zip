@@ -23641,8 +23641,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                     try {
                         console.log('🚀 OAuth popup açılıyor...');
                         window.tokenClient.requestAccessToken({
-                            prompt: 'consent',
-                            hint: 'Lütfen Google Drive erişim izinlerini onaylayın'
+                            prompt: 'consent'
                         });
                     } catch (requestError) {
                         console.error('❌ OAuth istek hatası:', requestError);
