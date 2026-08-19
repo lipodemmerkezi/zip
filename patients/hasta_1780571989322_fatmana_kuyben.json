@@ -3157,12 +3157,13 @@
       "kayitTarihi": "2026-08-19T14:19:33.923Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "",
-      "pdfFile": {}
+      "gptMesaj": "Merhaba Fatmana Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 12. haftaya geçiyoruz.\n\nBu haftaya kadar olan ölçümler genel olarak belirgin bir çevresel incelmeye işaret ediyor. 8 Haziran ile 2 Ağustos arasında bel çevreniz 98 cm’den 89 cm’ye, kalçanız 125 cm’den 120 cm’ye gerilemiş. Üst bacaklarda sağda 5, solda 9 cm; kollarda sağda 5, solda 4 cm azalma görülüyor. Her bölge aynı hızda değişmez; bu nedenle sonuçları tek bir ölçüye indirgemeden bütün olarak değerlendirmek gerekir.\n\n12. haftanın amacı programı sıkılaştırmak değil, öğrendiklerinizi kendi düzeniniz haline getirmek. Ispanaklı kabak böreği ile yumurta ve peynir, sebze-protein dengesini kahvaltıda kuruyor. Nohutlu sebze güveci ve borani ise nohutun lif ve bitkisel proteinini, ıspanağın folat ve magnezyumunu, yoğurdun fermente yapısını bir araya getiriyor. Balığı daha az tercih ettiğinizi bildiğimiz için menüdeki somonu tek ve güçlü bir öğün olarak planladık; omega-3 ve selenyum yönünden haftaya çeşitlilik kazandırıyor.\n\nTiroid öykünüz ve kullandığınız ilacı düşünerek, beslenmeyi tedavinin yerine koymuyoruz; düzenli ilaç ve hekim takibi aynen devam etmeli. Burada yaptığımız, köfte, yumurta, tavuk ve ölçülü somon gibi proteinlerle kas dokusunu; sebze ve yeşilliklerle lif ve mikrobesin alımını desteklemek. Karabuğday ekmeği, elma, şeftali, kivi ya da karpuz gibi kaynaklar düşük karbonhidratlı yapının içinde yalnızca yazılan miktarda yer almalı.\n\nGeç yatma alışkanlığınızın açlık ve atıştırma düzenini etkileyebileceğini de unutmayın. Bu hafta akşam öğününden sonra mutfağa dönüş olup olmadığını ve daha erken uyuduğunuz günlerde bunun değişip değişmediğini gözlemleyin. Manuel lenf drenajı ve egzersiz programında size gerçekçi gelen sıklığı koruyun. Ölçümlerdeki ilerlemeyi sürdürmenin anahtarı, kısa süreli kusursuzluk değil bu temel davranışlara geri dönebilmektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T14:19:33.925Z",
+  "sonGuncelleme": "2026-08-19T14:40:14.359Z",
   "githubKaydedildi": true
 }
