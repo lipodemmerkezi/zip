@@ -20831,8 +20831,8 @@ ${mesajlar.join('\n')}
             }
 
             // Google API ayarlarını kontrol et
-            const apiKey = localStorage.getItem('googleDriveApiKey');
-            const clientId = localStorage.getItem('googleDriveClientId');
+            const apiKey = localStorage.getItem('googleDriveApiKey')?.trim();
+            const clientId = localStorage.getItem('googleDriveClientId')?.trim();
 
             if (!apiKey || !clientId) {
                 alert('Google Drive API ayarları eksik!\n\n🔧 Çözüm:\n1. "⚙️ API Ayarları" butonuna tıklayın\n2. Google Drive API Key ve Client ID girin\n3. Kaydet butonuna tıklayın');
@@ -23504,8 +23504,8 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 console.log('🔄 Google Drive\'a giriş yapılıyor...');
 
                 // API anahtarlarını kontrol et
-                const googleApiKey = localStorage.getItem('googleDriveApiKey');
-                const googleClientId = localStorage.getItem('googleDriveClientId');
+                const googleApiKey = localStorage.getItem('googleDriveApiKey')?.trim();
+                const googleClientId = localStorage.getItem('googleDriveClientId')?.trim();
 
                 if (!googleApiKey || !googleClientId) {
                     showToast('❌ Google API ayarları eksik! Ayarları kontrol edin.', 'error');
@@ -23559,7 +23559,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
 
                         const tokenConfig = {
                             client_id: googleClientId,
-                            scope: 'https://www.googleapis.com/auth/drive.readonly',
+                            scope: 'https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/spreadsheets.readonly',
                             callback: '', // Callback'i aşağıda set edeceğiz
                         };
 
@@ -23868,8 +23868,8 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
         }
 
         function saveGoogleApiConfig() {
-            const apiKey = document.getElementById('modalApiKey').value;
-            const clientId = document.getElementById('modalClientId').value;
+            const apiKey = document.getElementById('modalApiKey').value.trim();
+            const clientId = document.getElementById('modalClientId').value.trim();
 
             if (apiKey) localStorage.setItem('googleDriveApiKey', apiKey);
             if (clientId) localStorage.setItem('googleDriveClientId', clientId);
@@ -28405,8 +28405,8 @@ IMPORTANT RULES:
         }
 
         async function openGooglePickerForBulk(fileType) {
-            const apiKey = localStorage.getItem('googleDriveApiKey');
-            const clientId = localStorage.getItem('googleDriveClientId');
+            const apiKey = localStorage.getItem('googleDriveApiKey')?.trim();
+            const clientId = localStorage.getItem('googleDriveClientId')?.trim();
             
             if (!apiKey || !clientId) {
                 alert('Google Drive API ayarları eksik!\n\nLütfen API Ayarları bölümünden anahtarlarınızı girin.');
