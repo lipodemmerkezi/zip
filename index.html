@@ -28142,7 +28142,7 @@ IMPORTANT RULES:
                     <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 20px;">
                         <button onclick="document.getElementById('bulkPdfModal').remove()" 
                                 style="padding: 10px 20px; background: #6c757d; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px;">İptal</button>
-                        <button onclick="startBulkDriveImport('pdf')" 
+                        <button onclick="document.getElementById('bulkPdfModal').remove(); showDriveImportPanel();" 
                                 style="padding: 10px 20px; background: #4285F4; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: bold;">☁️ Drive'dan Seç</button>
                         <button onclick="startBulkPdfImport()" 
                                 style="padding: 10px 20px; background: #e83e8c; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: bold;">📂 Klasör Seç</button>
@@ -28153,6 +28153,81 @@ IMPORTANT RULES:
             document.body.appendChild(modal);
         }
 
+        function showDriveImportPanel() {
+            let existing = document.getElementById('driveImportPanel');
+            if (existing) existing.remove();
+            
+            // Hastaları al
+            let hastalarHTML = '';
+            const aktifHastalar = (typeof hastaListesi !== 'undefined' ? hastaListesi : []).filter(h => h.durumu === 'aktif');
+            
+            aktifHastalar.forEach(hasta => {
+                hastalarHTML += `
+                    <label style="display: flex; align-items: center; gap: 8px; padding: 5px; border-bottom: 1px solid #eee; cursor: pointer;">
+                        <input type="checkbox" class="drive-hasta-checkbox" value="${hasta.id}" checked>
+                        <span style="font-size: 13px;">${hasta.isim}</span>
+                    </label>
+                `;
+            });
+            
+            const modal = document.createElement('div');
+            modal.id = 'driveImportPanel';
+            modal.style.cssText = 'position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.6); z-index:100000; display:flex; justify-content:center; align-items:center;';
+            modal.innerHTML = `
+                <div style="background: white; border-radius: 12px; padding: 25px; max-width: 600px; width: 90%; max-height: 90vh; display: flex; flex-direction: column; box-shadow: 0 20px 60px rgba(0,0,0,0.3);">
+                    <h3 style="margin: 0 0 15px 0; color: #4285F4; font-size: 18px;">☁️ Drive'dan Toplu PDF Aktarımı</h3>
+                    <p style="color: #555; font-size: 13px; margin-bottom: 15px;">Taranacak hastaları ve aramak istediğiniz tarih aralığını belirleyin. Sadece seçili hastalar kontrol edilecektir.</p>
+                    
+                    <div style="margin-bottom: 15px;">
+                        <label style="display: block; margin-bottom: 5px; font-weight: bold; font-size: 13px; color: #333;">📅 Tarih Aralığı Filtresi (opsiyonel ama ÖNERİLİR):</label>
+                        <input type="text" id="drivePdfTarihFiltre" placeholder="Örn: 24-30 veya boş bırakın" 
+                               style="width: 100%; padding: 10px; border: 2px solid #4285F4; border-radius: 6px; font-size: 13px; box-sizing: border-box;">
+                    </div>
+                    
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
+                        <label style="font-weight: bold; font-size: 13px; color: #333;">👥 Taranacak Hastalar (${aktifHastalar.length} Aktif Hasta):</label>
+                        <div>
+                            <button onclick="document.querySelectorAll('.drive-hasta-checkbox').forEach(cb => cb.checked = true)" style="padding: 4px 8px; font-size: 11px; background: #eee; border: 1px solid #ccc; border-radius: 4px; cursor: pointer;">Tümünü Seç</button>
+                            <button onclick="document.querySelectorAll('.drive-hasta-checkbox').forEach(cb => cb.checked = false)" style="padding: 4px 8px; font-size: 11px; background: #eee; border: 1px solid #ccc; border-radius: 4px; cursor: pointer;">Temizle</button>
+                        </div>
+                    </div>
+                    
+                    <div style="flex: 1; overflow-y: auto; border: 1px solid #ddd; border-radius: 6px; padding: 10px; margin-bottom: 20px; max-height: 300px;">
+                        ${hastalarHTML || '<div style="padding: 10px; color: #777; text-align: center; font-size: 13px;">Aktif hasta bulunamadı.</div>'}
+                    </div>
+                    
+                    <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: auto;">
+                        <button onclick="document.getElementById('driveImportPanel').remove()" 
+                                style="padding: 10px 20px; background: #6c757d; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px;">İptal</button>
+                        <button onclick="submitDriveImportPanel()" 
+                                style="padding: 10px 20px; background: #4285F4; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 13px; font-weight: bold;">☁️ Taramayı Başlat</button>
+                    </div>
+                </div>
+            `;
+            modal.addEventListener('click', (e) => { if (e.target === modal) modal.remove(); });
+            document.body.appendChild(modal);
+        }
+
+        function submitDriveImportPanel() {
+            const filtreInput = document.getElementById('drivePdfTarihFiltre');
+            const tarihFiltre = filtreInput ? filtreInput.value.trim() : '';
+            
+            const selectedCheckboxes = document.querySelectorAll('.drive-hasta-checkbox:checked');
+            if (selectedCheckboxes.length === 0) {
+                alert("Lütfen en az bir hasta seçin!");
+                return;
+            }
+            
+            const seciliHastaIdleri = Array.from(selectedCheckboxes).map(cb => cb.value);
+            
+            document.getElementById('driveImportPanel').remove();
+            
+            if (!tarihFiltre) {
+                if(!confirm("Tarih filtresi girmediniz. Seçilen hastaların tüm PDF'leri aranacak. Emin misiniz?")) return;
+            }
+            
+            startBulkDrivePdfImport(tarihFiltre, seciliHastaIdleri);
+        }
         function startBulkPdfImport() {
             const filtreInput = document.getElementById('bulkPdfTarihFiltre');
             window._bulkPdfTarihFiltre = filtreInput ? filtreInput.value.trim() : '';
@@ -28438,7 +28513,7 @@ IMPORTANT RULES:
         }
 
 
-        async function startBulkDrivePdfImport(tarihFiltre) {
+        async function startBulkDrivePdfImport(tarihFiltre, seciliHastaIdleri = null) {
             // Hasta listesini GitHub'dan yükle
             const tumHastalar = await hastaListesiYukle();
             if (!tumHastalar || tumHastalar.length === 0) {
@@ -28485,6 +28560,9 @@ IMPORTANT RULES:
 
             // Önce tarih filtresi ile eşleşen hasta/haftaları bul
             for (const hasta of tumHastalar) {
+                if (seciliHastaIdleri && !seciliHastaIdleri.includes(hasta.id)) {
+                    continue; // Sadece seçilen hastaları tara
+                }
                 const tamHasta = await getHastaData(hasta.id, githubRepo, token, hasta.isim);
                 if (!tamHasta || !tamHasta.haftalar) continue;
 
