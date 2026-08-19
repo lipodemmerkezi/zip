@@ -27797,7 +27797,9 @@ IMPORTANT RULES:
                 try {
                     const token = document.getElementById('githubToken').value.trim() || localStorage.getItem('github_api_token') || JSON.parse(localStorage.getItem('githubSettings') || '{}').token;
                     
-                    const tamHasta = await getHastaData(hastaOzet.id, null, token, hastaOzet.isim);
+                    const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
+                    const githubRepo = `${githubSettings.owner || 'lipodemmerkezi'}/${githubSettings.repo || 'zip'}`;
+                    const tamHasta = await getHastaData(hastaOzet.id, githubRepo, token, hastaOzet.isim);
                     
                     if (!tamHasta || !tamHasta.haftalar) {
                         console.error('Hasta JSON detayları alınamadı: ' + hastaOzet.isim);
@@ -27997,7 +27999,9 @@ IMPORTANT RULES:
                 try {
                     const token = document.getElementById('githubToken').value.trim() || localStorage.getItem('github_api_token') || JSON.parse(localStorage.getItem('githubSettings') || '{}').token;
                     
-                    const tamHasta = await getHastaData(hastaOzet.id, null, token, hastaOzet.isim);
+                    const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
+                    const githubRepo = `${githubSettings.owner || 'lipodemmerkezi'}/${githubSettings.repo || 'zip'}`;
+                    const tamHasta = await getHastaData(hastaOzet.id, githubRepo, token, hastaOzet.isim);
                     
                     if (!tamHasta || !tamHasta.haftalar) {
                         console.error('Hasta JSON detayları alınamadı: ' + hastaOzet.isim);
