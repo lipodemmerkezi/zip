@@ -3281,12 +3281,13 @@
       "kayitTarihi": "2026-08-19T14:18:26.693Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "",
-      "pdfFile": {}
+      "gptMesaj": "Merhaba Ayşe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 12. haftaya geçiyoruz.\n\nSon ölçümünüz, programı toparladığımız bu haftaya güçlü ve somut bir veriyle girmemizi sağlıyor. Başlangıçtan 17 Ağustos’a ağırlığınız 106 kilodan 96,5 kiloya, bel çevreniz 110 cm’den 99 cm’ye ve kalça çevreniz 140 cm’den 134 cm’ye gerilemiş. Üst bacaklarda 7 ve 8 cm, kollarda ise 3 ve 5 cm azalma var. Dönem içinde ailedeki sağlık sorunları nedeniyle düzenin aksadığı günler olmuş olsa da genel eğilimin korunmuş olması, tek tek kusursuz günlerden çok yeniden düzene dönebilmenin önemli olduğunu gösteriyor.\n\n12. haftada hedefimiz daha fazla kısıtlamak değil; şimdiye kadar işe yarayan yapıyı sürdürülebilir hale getirmek. Sulu köfteyi mevsim salatası ve nohut ekmeğiyle vermemiz, protein, sebze lifi ve ölçülü karbonhidratı aynı öğünde bir araya getiriyor. Kırmızı etli nohut yemeği ile köz patlıcan ve yoğurt eşleşmesi de benzer biçimde uzun tokluk sağlayan protein-lif dengesini kuruyor. Yumurtayı sade biçimde tercih etmediğinizi bildiğimiz için tatlı patates omleti, sebzeli omlet ve kavurmalı yumurta gibi farklı formlara yer verdik.\n\nMeyve isteğinizin zorlayıcı olduğu dönemleri düşünerek elma, şeftali, çilek ya da karpuzu yasaklamak yerine miktarlandırıyoruz. Bu porsiyonları listede yazıldığı şekilde, mümkünse ana öğünün ardından tüketin; gün içine ek meyve porsiyonları taşımayın. Izgara balık ve yeşil salata ise haftanın omega-3, selenyum ve protein yönünü güçlendiriyor. Balığı düzenli kullanmak, sevdiğiniz bir kaynak üzerinden planı sürdürmeyi de kolaylaştırır.\n\nBu aşamada tartıda kısa süreli duraklama olursa bunu başarısızlık olarak yorumlamayın. Bel, kalça, bacak ve kol ölçülerinin yönü; kıyafetlerin oturuşu; ağrı, ödem ve hareket rahatlığı birlikte değerlendirilmelidir. Manuel lenf drenajı ve egzersiz düzeninizde sürdürebildiğiniz gerçekçi ritmi koruyun. Bu hafta özellikle meyve porsiyonlarının ardından açlık ve tatlı isteğinin nasıl seyrettiğini, bağırsak düzeninizi ve bacaklardaki ağırlık hissini not etmenizi istiyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-06T10:29:38.493Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T14:18:26.695Z",
+  "sonGuncelleme": "2026-08-19T14:28:19.301Z",
   "githubKaydedildi": true
 }
