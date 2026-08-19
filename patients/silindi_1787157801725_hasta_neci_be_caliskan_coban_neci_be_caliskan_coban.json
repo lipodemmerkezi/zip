@@ -1,0 +1,32 @@
+{
+  "id": "neci_be_caliskan_coban",
+  "isim": "NECİBE ÇALIŞKAN  ÇOBAN",
+  "ad": "NECİBE ÇALIŞKAN  ÇOBAN",
+  "not": "",
+  "arsiv": false,
+  "kayitTarihi": "2026-08-19T14:21:04.983Z",
+  "haftalar": [
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-08-24",
+      "bitis": "2026-08-30",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": "NECİBE ÇALIŞKAN ÇOBAN 24-30 AĞUSTOS 9. HAFTA.pdf",
+      "pdfOrijinalIsim": "NECİBE ÇALIŞKAN  ÇOBAN 24-30 AĞUSTOS 9. HAFTA.pdf",
+      "pdfYolu": "pdfs/NECİBE ÇALIŞKAN ÇOBAN 24-30 AĞUSTOS 9. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 24-30 AĞUSTOS 9. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 24-30 AĞUSTOS 9. HAFTA.pdf",
+      "kayitTarihi": "2026-08-19T14:21:15.744Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
+    }
+  ],
+  "durumu": "aktif",
+  "olusturmaTarihi": "2026-08-19T14:21:04.983Z",
+  "yeniSistem": true,
+  "sonGuncelleme": "2026-08-19T14:21:15.744Z",
+  "githubKaydedildi": true
+}
