@@ -3336,9 +3336,10 @@
             // let hastalar = JSON.parse(localStorage.getItem('lipedem_hasta_kayitlari') || '[]');
 
             // Mevcut hastayı ara (global hastalar dizisinde)
+            const normalizedHastaAdi = normalizeTurkish(hastaAdi);
             let hasta = hastalar.find(h =>
-                (h.ad && h.ad.toUpperCase() === hastaAdi.toUpperCase()) ||
-                (h.isim && h.isim.toUpperCase() === hastaAdi.toUpperCase())
+                (h.ad && normalizeTurkish(h.ad) === normalizedHastaAdi) ||
+                (h.isim && normalizeTurkish(h.isim) === normalizedHastaAdi)
             );
 
             if (!hasta) {
@@ -4972,6 +4973,17 @@
             const hastaId = hasta.id || temizIsim;
 
             return `hasta_${hastaId}_${temizIsim}.json`;
+        }
+
+        function normalizeTurkish(str) {
+            if (!str) return '';
+            return str.replace(/İ/g, 'I').replace(/ı/g, 'I').replace(/i/g, 'I')
+                      .replace(/Ş/g, 'S').replace(/ş/g, 'S')
+                      .replace(/Ğ/g, 'G').replace(/ğ/g, 'G')
+                      .replace(/Ü/g, 'U').replace(/ü/g, 'U')
+                      .replace(/Ö/g, 'O').replace(/ö/g, 'O')
+                      .replace(/Ç/g, 'C').replace(/ç/g, 'C')
+                      .toUpperCase();
         }
 
         function generatePatientId(isim) {
@@ -27984,39 +27996,41 @@ IMPORTANT RULES:
             
             for (const file of files) {
                 const fileName = file.name.replace('.txt', '');
-                const parts = fileName.split('_');
                 
                 let haftaNoMatch = null;
-                let hastaAdiParts = [];
+                let hastaAdiStr = "";
+                let tarihAraligi = "";
                 
-                for (const part of parts) {
-                    if (part.includes('.HAFTA')) {
-                        haftaNoMatch = parseInt(part.replace('.HAFTA', ''));
-                        break;
-                    }
-                    hastaAdiParts.push(part);
+                // Format: HASTA ADI_3. hafta_24-30 Ağustos 2026 veya HASTA ADI_3.HAFTA_24-30 Ağustos 2026
+                const regex = /^(.+?)_(\d+)\.?\s*HAFTA_?(.*?)$/i;
+                const match = fileName.match(regex);
+                
+                if (match) {
+                    hastaAdiStr = match[1].trim();
+                    haftaNoMatch = parseInt(match[2]);
+                    tarihAraligi = match[3] ? match[3].trim() : "";
                 }
                 
-                if (!haftaNoMatch || hastaAdiParts.length === 0) {
+                if (!haftaNoMatch || !hastaAdiStr) {
                     console.error('Dosya adı formatı hatalı: ' + file.name);
                     hataliDosyalar.push(file.name + ' (format hatalı)');
                     hatali++;
                     continue;
                 }
                 
-                const ad1 = hastaAdiParts[0].toLowerCase();
-                const ad2 = hastaAdiParts.length > 1 ? hastaAdiParts[1].toLowerCase() : '';
+                const normalizedHastaAdi = normalizeTurkish(hastaAdiStr);
                 
                 const hastaOzet = hastaListesi.find(h => {
-                    const hIsim = h.isim.toLowerCase();
-                    if (hastaAdiParts.join(' ').toLowerCase() === hIsim) return true;
-                    if (ad2 && hIsim.includes(ad1) && hIsim.includes(ad2)) return true;
-                    if (!ad2 && hIsim.includes(ad1)) return true;
+                    const hIsim = normalizeTurkish(h.isim);
+                    if (hIsim === normalizedHastaAdi) return true;
+                    // Eğer tam eşleşmezse kelime kelime kontrol
+                    const queryParts = normalizedHastaAdi.split(' ');
+                    if (queryParts.length > 0 && queryParts.every(p => hIsim.includes(p))) return true;
                     return false;
                 });
                 
                 if (!hastaOzet) {
-                    console.error('Sistemde hasta bulunamadı: ' + hastaAdiParts.join(' '));
+                    console.error('Sistemde hasta bulunamadı: ' + hastaAdiStr);
                     hataliDosyalar.push(file.name + ' (hasta bulunamadı)');
                     hatali++;
                     continue;
@@ -28041,14 +28055,6 @@ IMPORTANT RULES:
                     // Tab yoksa otomatik oluştur
                     if (haftaIndex === -1) {
                         console.log(`➕ ${hastaOzet.isim} için ${haftaNoMatch}. Hafta tabı oluşturuluyor...`);
-                        // Dosya adından tarih aralığı çıkar
-                        const tarihParts = fileName.split('_');
-                        let tarihAraligi = '';
-                        let haftaFound = false;
-                        for (const p of tarihParts) {
-                            if (haftaFound) { tarihAraligi += (tarihAraligi ? ' ' : '') + p; }
-                            if (p.includes('.HAFTA')) haftaFound = true;
-                        }
                         tarihAraligi = tarihAraligi.replace(/_/g, ' ').trim() || `${haftaNoMatch}. Hafta`;
                         
                         await findOrCreateHaftaWithGitHub(tamHasta, haftaNoMatch, tarihAraligi);
