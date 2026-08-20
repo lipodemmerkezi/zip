@@ -581,25 +581,31 @@
       "pdfYolu": "pdfs/SEMİHA UYSAL 24-30 AĞUSTOS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEMİHA UYSAL 24-30 AĞUSTOS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEMİHA UYSAL 24-30 AĞUSTOS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-08-20T09:42:43.131Z",
+      "kayitTarihi": "2026-08-20T10:02:35.269Z",
       "tarifKartlar": [
         {
-          "tarifAdi": "bakla unu ekmeği",
-          "kartResmi": "bakla_unu_ekmegi.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/bakla_unu_ekmegi.jpg",
+          "tarifAdi": "badem unu ekmeği (1 dilim)",
+          "kartResmi": "badem_unlu_ekmek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/badem_unlu_ekmek.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köfteli patlıcan yemeği",
+          "kartResmi": "kofteli_patlican_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kofteli_patlican_yemegi.jpg",
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "mantarlı tavuk sote",
-          "kartResmi": "mantarli_tavuk_sote.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/mantarli_tavuk_sote.jpg",
+          "tarifAdi": "köz tadında fasulye salatası",
+          "kartResmi": "koz_tadinda_fasulye_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/koz_tadinda_fasulye_salatasi.jpg",
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "cevizli kaşık salatası",
-          "kartResmi": "cevizli_kasik_salatasi.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_kasik_salatasi.jpg",
-          "eslesmeTuru": "tam eşleşme"
+          "tarifAdi": "kıymalı - yumurtalı ıspanak / semizotu/ pazı kavurma (2 yumurta, 50 gr. kıyma, 100 gr. ispanak, 1 yk zeytinyağı,",
+          "kartResmi": "yumurtali_ispanak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yumurtali_ispanak.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
         },
         {
           "tarifAdi": "kuzu güveç",
@@ -608,9 +614,15 @@
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
-          "tarifAdi": "köfte",
-          "kartResmi": "keto_kofte.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "tarifAdi": "kıymalı kabak yemeği",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "türlü",
+          "kartResmi": "turlu_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/turlu_yemegi.jpg",
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
@@ -626,27 +638,9 @@
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
-          "tarifAdi": "kıymalı bamya sote",
-          "kartResmi": "kiymali_bamya_sote.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kiymali_bamya_sote.jpg",
-          "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "kabak spagetti",
-          "kartResmi": "kabak_spagetti.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_spagetti.jpg",
-          "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "kabaklı peynirli muffin",
-          "kartResmi": "kabakli_peynirli_muffin.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabakli_peynirli_muffin.jpg",
-          "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "badem unu ekmeği (1 dilim)",
-          "kartResmi": "badem_unlu_ekmek.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/badem_unlu_ekmek.jpg",
+          "tarifAdi": "somonlu roka ve avokado salatası",
+          "kartResmi": "somonlu_roka_ve_avokado_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/somonlu_roka_ve_avokado_salatasi.jpg",
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
@@ -656,15 +650,21 @@
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
-          "tarifAdi": "kabak çökertme kebabı",
-          "kartResmi": "kabak_cokertme_kebabi.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_cokertme_kebabi.jpg",
+          "tarifAdi": "köz biberli mantar salatası",
+          "kartResmi": "koz_biberli_mantar_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/koz_biberli_mantar_salatasi.jpg",
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "sulu köfte ya da 150 gram kuzu ciğeri",
+          "tarifAdi": "sulu köfte",
           "kartResmi": "sulu_kofte.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sulu_kofte.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli kaşık salatası",
+          "kartResmi": "cevizli_kasik_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_kasik_salatasi.jpg",
           "eslesmeTuru": "tam eşleşme"
         }
       ],
@@ -871,6 +871,6 @@
   ],
   "olusturmaTarihi": "2026-08-07T07:33:48.633Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-20T09:42:43.535Z",
+  "sonGuncelleme": "2026-08-20T10:02:35.662Z",
   "githubKaydedildi": true
 }
