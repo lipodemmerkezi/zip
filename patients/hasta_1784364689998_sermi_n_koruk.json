@@ -763,6 +763,12 @@
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
+          "tarifAdi": "yaz tarhanası",
+          "kartResmi": "yaz_tarhanasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yaz_tarhanasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "çıtır tavuk (tarifin yarısını tüketelim)",
           "kartResmi": "citir_tavuk.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/citir_tavuk.jpg",
@@ -932,6 +938,7 @@
       "manuelKartlar": [],
       "eslesenTarifler": [
         "avokadolu omlet",
+        "yaz tarhanası",
         "çıtır tavuk (tarifin yarısını tüketelim)",
         "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
         "köfte",
@@ -947,7 +954,8 @@
         "köz patlıcan çorbası",
         "enginar ya da karnabahar mantısı",
         "yumurtalı ıspanak kavurma",
-        "dondurma"
+        "dondurma",
+        "yaz tarhanası"
       ],
       "eslesmeyenTarifler": [
         "şermi̇n körük / 10-16 ağustos 2026",
@@ -961,7 +969,6 @@
         "yeşillikler (dereotu, roka, maydanoz + limon, sirke ile)",
         "zeytin (5 adet)",
         "akşam (tercihen hava kararınca)",
-        "yaz tarhanası",
         "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 tatlı kaşığı zeytinyağı)",
         "sali",
         "öğle (tercihen saat 12:00 civarında)",
@@ -1322,12 +1329,13 @@
       "kayitTarihi": "2026-08-19T14:17:37.179Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "Merhaba Şermin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 6. haftaya geçiyoruz.\n\nGeçen hafta manuel lenf drenajını programa ekledik. Bu hafta beslenmenin mikrobesin tarafına, yani öğünlerin protein sağlamanın ötesinde hangi vitamin ve mineralleri taşıdığına bakıyoruz. 20 Temmuz ile 3 Ağustos arasında bel ve kalçada 1’er cm, diz ve baldırlarda 1’er cm azalma görülmesi küçük ama genel yönü destekleyen bir değişim. Ölçümleri aynı koşullarda sürdürerek bu eğilimi izleyelim.\n\nTepsi kebabı ve yeşil salata, etten protein, demir, B12 ve çinko; kırmızı lahana, roka ve diğer sebzelerden C vitamini ve lif sağlar. Balık ile roka salatası omega-3 ve selenyum yönünden haftanın güçlü öğünlerinden biri; limonlu roka aynı zamanda sebze çeşitliliğini artırıyor. Kıymalı-patlıcanlı biber dolması ve yoğurt da kırmızı etin mikrobesinlerini, biberin C vitaminini ve yoğurdun fermente yapısını birleştiriyor.\n\nYumurta; sahanda, mantarlı omlet ve menemen gibi farklı biçimlerde haftaya dağıtılmış. Böylece protein, kolin, B12 ve selenyum alımını tek bir kahvaltı biçimine bağlı bırakmıyoruz. Ispanaklı mantar dolması folat ve magnezyum yönünü güçlendirirken tahin, badem, fındık ve ceviz E vitamini ile sağlıklı yağ sağlar. Bu kuruyemiş ve tahin porsiyonlarını artırmayın; mikrobesin içermeleri sınırsız tüketilebilecekleri anlamına gelmez.\n\nKokoreç menüde tek ve ölçülü bir öğün olarak bulunuyor; aynı hafta başka sakatat porsiyonu eklemeyin. Takviyeler kullanıyorsanız dozu kendi kendinize değiştirmeyin; temel yine çeşitli beslenme, su ve düzenli ana öğünlerdir. Manuel lenf drenajından sonra bacaklarda ağırlık, doku yumuşaklığı, kramp ve enerji durumunu gözlemleyin. Sigara kullanımı dolaşım sağlığını olumsuz etkileyebileceği için azaltma veya bırakma desteği isterseniz bunu da ayrıca planlayabiliriz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
-      "pdfFile": {}
+      "gptMesaj": "",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-07-18T08:51:29.998Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T16:29:11.490Z",
+  "sonGuncelleme": "2026-08-20T06:03:40.856Z",
   "githubKaydedildi": true
 }
