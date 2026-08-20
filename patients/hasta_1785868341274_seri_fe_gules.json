@@ -653,12 +653,13 @@
       "kayitTarihi": "2026-08-19T14:17:26.124Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "Merhaba Şerife Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 3. haftaya geçiyoruz.\n\nİlk iki haftalık eliminasyon döneminden sonra süt ürünlerini kontrollü biçimde yeniden değerlendiriyoruz. Bu hafta peynir ve yoğurdu bir anda bütün öğünlere yaymak yerine, listede belirlenen miktarlarda kullanarak sindirim, gaz, şişkinlik, bağırsak düzeni ve bacaklardaki ağırlık hissinin nasıl değiştiğini gözlemlemenizi istiyorum.\n\nKöfte ile borani, süt ürününü ana yemeğin yanında yoğurtlu ıspanak şeklinde denediğimiz bir öğün. Fırında kıymalı kabak sandal ile yoğurtlu semizotu salatası da kıymadan protein, kabak ve semizotundan lif, yoğurttan fermente gıda desteğini bir araya getiriyor. Lorlu poğaça, tulum/kaşar/lor peynirli kahvaltılar ve tavada kaşarlı mantar ise peynir grubunu farklı günlerde değerlendirmemizi sağlıyor. Bu ürünlerin hepsine aynı yanıtı vermeyebilirsiniz.\n\nMenünüzün diğer kısmında mantarlı omlet, tavuk güveç, tepsi kebabı ve mevsim balığı gibi farklı protein kaynakları var. Mantarlı omlet yumurtadan protein ve kolin, mantardan farklı B vitaminleri sağlarken; balık ve yeşil salata omega-3, selenyum ve sebze çeşitliliği sunuyor. Tepsi kebabı ile semizotu salatası da kırmızı etten demir-B12 ve yeşilliklerden lif almanızı destekliyor. Böylece süt ürünlerini geri eklerken protein çeşitliliğini koruyoruz.\n\nBu hafta listede yazmayan ek peynir, yoğurt veya sütlü ürün kullanmayın; aksi halde hangi ürüne nasıl yanıt verdiğinizi ayırmak zorlaşır. Bir belirti olduğunda ürünün adını, miktarını ve kaç saat sonra başladığını not edin. Yoğurtla peynirin etkisi farklı olabilir. Hiç belirti olmaması da önemli bir gözlemdir; bunu da bize iletin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
-      "pdfFile": {}
+      "gptMesaj": "",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:32:21.274Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T16:29:16.553Z",
+  "sonGuncelleme": "2026-08-20T07:31:38.061Z",
   "githubKaydedildi": true
 }
