@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-08-16",
-      "bitis": "2026-08-22",
+      "baslangic": "2026-08-22",
+      "bitis": "2026-08-30",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HALİME TARHAN 22-30 AĞUSTOS 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "HALİME TARHAN 22-30 AĞUSTOS 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/HALİME TARHAN 22-30 AĞUSTOS 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HALİME TARHAN 22-30 AĞUSTOS 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HALİME TARHAN 22-30 AĞUSTOS 1. HAFTA.pdf",
+      "kayitTarihi": "2026-08-20T13:31:20.427Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "08/22 - 08/30",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-08-20T13:31:00.220Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-20T13:31:10.633Z",
+  "sonGuncelleme": "2026-08-20T13:31:20.429Z",
   "githubKaydedildi": true
 }
