@@ -730,11 +730,12 @@
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "Merhaba Naciye Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 4. haftaya geçiyoruz.\n\nİlk üç haftada eliminasyon ve süt ürünlerinin kontrollü dönüşüyle temel yapıyı kurduk. Bu hafta yalnızca daha az yemeye çalışmak yerine, metabolik hızı ve kas dokusunu koruyacak kadar protein ve sağlıklı yağ almaya odaklanıyoruz. Uzun süre aç kalmak ya da ana öğünleri gereğinden fazla küçültmek, akşam saatlerinde açlığı ve meyve isteğini artırabilir.\n\nKıymalı enginar dolması ile yoğurtlu semizotu salatası, kıymadan gelen protein, demir ve B12’yi; enginar ve semizotunun lifini; yoğurdun fermente yapısını aynı öğünde birleştiriyor. Köfte, kabak sote ve yeşil salata da protein-sebze dengesinin daha sade bir örneği. Somon, yeşil salata ve sotelenmiş mantar öğünü ise omega-3, selenyum ve kaliteli protein alımınızı destekliyor.\n\nD vitamini değerinizin 16 olması nedeniyle yumurta ve somon gibi besinleri düzenli kullanmamız anlamlı; ancak besinler tek başına düşüklüğün tedavisi değildir, hekim takibi ve önerilen destek planı devam etmelidir. Yumurtalı ıspanak/pazı kavurma, yumurtanın protein ve kolinini yeşil yapraklıların folat ve magnezyumuyla tamamlıyor. Avokadolu omlet ile tahin de sağlıklı yağ ve tokluk yönünü güçlendiriyor.\n\nMeyveyi çok sevdiğinizi ve ürik asit değerinizin yüksek seyrettiğini bildiğimiz için çilek gibi meyveleri listede yazan miktarda tutuyoruz. Ek meyve porsiyonu eklemeyin; meyveyi mümkünse proteinli ana öğünün ardından tüketin. Bu hafta öğünleri küçültmek yerine tabağın yapısını koruyun ve açlık belirginse bize bildirin. Yeni eklenen süt ürünlerinden sonra şişkinlik veya bacaklarda ağırlık olduysa onu da ayrı not edin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
-      "pdfFile": {}
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:18:24.321Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T16:27:56.564Z",
+  "sonGuncelleme": "2026-08-20T07:34:56.298Z",
   "githubKaydedildi": true
 }
