@@ -23606,6 +23606,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                             if (!gapi.client.drive) {
                                 console.log('⚠️ Drive API henüz yüklenmemiş, yükleniyor...');
                                 await gapi.client.load('drive', 'v3');
+                                await gapi.client.load('sheets', 'v4');
                                 console.log('✅ Drive API yüklendi');
                             }
 
@@ -28429,8 +28430,8 @@ IMPORTANT RULES:
                     await gapi.client.init({
                         apiKey: apiKey,
                         clientId: clientId,
-                        discoveryDocs: ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest'],
-                        scope: 'https://www.googleapis.com/auth/drive.readonly'
+                        discoveryDocs: ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest', 'https://sheets.googleapis.com/$discovery/rest?version=v4'],
+                        scope: 'https://www.googleapis.com/auth/drive.readonly https://www.googleapis.com/auth/spreadsheets.readonly'
                     });
                 }
                 const authInstance = gapi.auth2.getAuthInstance();
