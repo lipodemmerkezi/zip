@@ -1,5 +1,12 @@
 [
   {
+    "id": "neci_be_caliskan_coban",
+    "isim": "_____eski___NECİBE ÇALIŞKAN  ÇOBAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2026-08-20T10:47:44.666Z"
+  },
+  {
     "id": 1767391305002,
     "isim": "assa",
     "not": "",
@@ -139,13 +146,6 @@
     "not": "",
     "arsiv": false,
     "sonGuncelleme": "2026-08-20T10:01:43.082Z"
-  },
-  {
-    "id": "neci_be_caliskan_coban",
-    "isim": "NECİBE ÇALIŞKAN  ÇOBAN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-08-20T10:01:57.869Z"
   },
   {
     "id": 1782473802017,
