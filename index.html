@@ -22138,7 +22138,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
                     const page = await pdf.getPage(pageNum);
                     const textData = await page.getTextContent();
-                    const pageText = textData.items.map(item => item.str).join(' ');
+                    const pageText = textData.items.map(item => item.str).join('\n');
                     textContent += pageText + '\n';
                 }
 
@@ -23609,11 +23609,12 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                             if (!gapi.client.drive) {
                                 console.log('⚠️ Drive API henüz yüklenmemiş, yükleniyor...');
                                 await gapi.client.load('drive', 'v3');
+                                console.log('✅ Drive API yüklendi');
                             }
                             if (!gapi.client.sheets) {
+                                console.log('⏳ Sheets API henüz yüklenmemiş, yükleniyor...');
                                 await gapi.client.load('sheets', 'v4');
-                            }
-                                console.log('✅ Drive API yüklendi');
+                                console.log('✅ Sheets API yüklendi');
                             }
 
                             const testResponse = await gapi.client.drive.about.get({
@@ -28249,7 +28250,9 @@ IMPORTANT RULES:
         }
         function startBulkPdfImport() {
             const filtreInput = document.getElementById('bulkPdfTarihFiltre');
+            const overwriteInput = document.getElementById('bulkPdfOverwriteCheckbox');
             window._bulkPdfTarihFiltre = filtreInput ? filtreInput.value.trim() : '';
+            window._bulkPdfOverwrite = overwriteInput ? overwriteInput.checked : false;
             document.getElementById('bulkPdfModal').remove();
             document.getElementById('bulkPdfUpload').click();
         }
@@ -28337,7 +28340,8 @@ IMPORTANT RULES:
                     const mevcutHaftalar = hasta.haftalar || [];
                     const haftaVarMi = mevcutHaftalar.find(h => parseInt(h.haftaNo) === parsed.haftaNo);
                     
-                    if (haftaVarMi && (haftaVarMi.pdfVar === true || haftaVarMi.pdfYolu || haftaVarMi.pdfName)) {
+                    const overwrite = window._bulkPdfOverwrite || false;
+                    if (haftaVarMi && (haftaVarMi.pdfVar === true || haftaVarMi.pdfYolu || haftaVarMi.pdfName) && !overwrite) {
                         console.log(`${parsed.hastaAdi} - ${parsed.haftaNo}. Hafta zaten PDF yüklü, atlanıyor.`);
                         hataliDosyalar.push(file.name + ' (Zaten mevcut, atlandı)');
                         hatali++; // We count as skip/error for the summary
@@ -28369,7 +28373,51 @@ IMPORTANT RULES:
                     hafta.indirmeUrl = pdfSonuc.indirmeUrl;
                     hafta.kayitTarihi = new Date().toISOString();
                     
-                    // Güncel hasta verisini GitHub'a kaydet
+                    
+                    // --- YENİ: LOKAL TOPLU YÜKLEMEDE TARİFLERİ ÇIKAR VE EŞLEŞTİR ---
+                    try {
+                        const arrayBuffer = await file.arrayBuffer();
+                        const pdfData = new Uint8Array(arrayBuffer);
+                        const pdfText = await extractTextFromPdf(pdfData);
+                        const temizPdfIcerik = temizlePdfIcerik(pdfText);
+                        hafta.pdfText = temizPdfIcerik.substring(0, 2000);
+                        
+                        const tarifDetaylar = extractTariflerDetay(pdfText);
+                        hafta.tarifler = tarifDetaylar;
+                        console.log(`${hasta.isim || parsed.hastaAdi} - ${hafta.haftaNo}. Hafta lokal tarifleri çıkarıldı: ${tarifDetaylar.length} adet`);
+
+                        if (window.tarifKartlari && window.tarifKartlari.length > 0 && tarifDetaylar.length > 0) {
+                            console.log(`🔍 Lokal Toplu Aktarım: Tarif eşleştirmesi başlıyor...`);
+                            const tempSeciliHasta = window.seciliHasta;
+                            
+                            // Hasta arrayini güncelle
+                            if (!window.hastalar) window.hastalar = [];
+                            let hIndex = window.hastalar.findIndex(h => h.id === hasta.id);
+                            if (hIndex === -1) {
+                                window.hastalar.push(hasta);
+                                hIndex = window.hastalar.length - 1;
+                            } else {
+                                window.hastalar[hIndex] = hasta;
+                            }
+                            
+                            window.seciliHasta = hasta;
+                            
+                            // Eslesme yap: haftaIndex'i bulmamız lazım!
+                            const haftaIndexLocal = hasta.haftalar.findIndex(h => h.haftaNo === hafta.haftaNo);
+                            const eslestirmeSonucu = await otomatikEsleHafta(haftaIndexLocal);
+                            if (eslestirmeSonucu) {
+                                hafta.tarifKartlar = eslestirmeSonucu.eslesenKartlar || [];
+                            }
+                            
+                            window.seciliHasta = tempSeciliHasta;
+                        } else {
+                            hafta.tarifKartlar = [];
+                        }
+                    } catch (err) {
+                        console.error(`Lokal toplu tarif çıkarma hatası (${hasta.isim || parsed.hastaAdi}):`, err);
+                    }
+                    // ---------------------------------------------------------------
+// Güncel hasta verisini GitHub'a kaydet
                     await hastayiAyriKaydet(hasta);
                     basarili++;
                     
@@ -28862,6 +28910,47 @@ IMPORTANT RULES:
             // GitHub'a kaydet
             const arrayBuffer = await pdfBlob.arrayBuffer();
             const base64Data = arrayBufferToBase64(arrayBuffer);
+            
+            // --- YENİ: PDF İÇERİĞİNDEN TARİFLERİ ÇIKAR VE EŞLEŞTİR ---
+            try {
+                const pdfData = new Uint8Array(arrayBuffer);
+                const pdfText = await extractTextFromPdf(pdfData);
+                const temizPdfIcerik = temizlePdfIcerik(pdfText);
+                hafta.pdfText = temizPdfIcerik.substring(0, 2000);
+                
+                const tarifDetaylar = extractTariflerDetay(pdfText);
+                hafta.tarifler = tarifDetaylar;
+                console.log(`${hastaAdi} - ${haftaNo}. Hafta tarifleri çıkarıldı: ${tarifDetaylar.length} adet`);
+
+                if (window.tarifKartlari && window.tarifKartlari.length > 0 && tarifDetaylar.length > 0) {
+                    console.log(`🔍 Toplu Drive Aktarımı: Tarif eşleştirmesi başlıyor...`);
+                    
+                    const tempSeciliHasta = window.seciliHasta;
+                    
+                    // Hasta arrayini güncelle
+                    if (!window.hastalar) window.hastalar = [];
+                    let hIndex = window.hastalar.findIndex(h => h.id === hasta.id);
+                    if (hIndex === -1) {
+                        window.hastalar.push(hasta);
+                        hIndex = window.hastalar.length - 1;
+                    } else {
+                        window.hastalar[hIndex] = hasta;
+                    }
+                    
+                    window.seciliHasta = hasta;
+                    
+                    // Eslesme yap
+                    const eslestirmeSonucu = await otomatikEsleHafta(haftaIndeks);
+                    if (eslestirmeSonucu) {
+                        hafta.tarifKartlar = eslestirmeSonucu.eslesenKartlar || [];
+                    }
+                    
+                    window.seciliHasta = tempSeciliHasta;
+                }
+            } catch (err) {
+                console.error(`Tarif çıkarma/eşleştirme hatası (${hastaAdi}):`, err);
+            }
+            // --------------------------------------------------------
             
             const tarihStr = new Date().toISOString().split('T')[0].replace(/-/g, '');
             const sonDosyaAdi = `${hastaAdi}_${haftaNo}.HAFTA_${tarihStr}.pdf`;
