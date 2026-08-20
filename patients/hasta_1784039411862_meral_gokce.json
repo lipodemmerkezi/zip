@@ -1623,12 +1623,13 @@
       "kayitTarihi": "2026-08-19T14:20:39.281Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 7. haftaya geçiyoruz.\n\nGeçen hafta mikrobesinleri besinler üzerinden ele aldık. Bu hafta kullandığınız takviyelerin bu temel yapının neresinde durduğunu konuşuyoruz. Takviyeler düzenli beslenmenin yerine geçmez; eksik kalan ya da belirli bir amaçla desteklenmesi gereken alanlarda hekim planına eşlik eder. Levotron dahil düzenli ilacınızın saat ve dozunu, takviyeleri veya öğünleri gerekçe göstererek kendi kendinize değiştirmeyin.\n\nEt sote ve göçmen salatası, kırmızı etten protein, demir, B12 ve çinko; biberli-domatesli salatadan C vitamini ve lif sağlar. Kıymalı ıspanak ile yoğurtlu semizotu salatasında ise hayvansal protein, yeşil yapraklı sebzelerden folat ve magnezyum, yoğurttan fermente gıda desteği aynı öğünde buluşuyor. Balık, yeşil salata ve sotelenmiş mantar da omega-3, selenyum ve sebze çeşitliliği yönünden haftanın önemli eşleşmesi.\n\nBakla unu ekmeği, ketojenik tost ve kuruyemişler seyahat ettiğiniz günlerde taşınabilirlik sağlıyor. Ancak gezi günlerinde ekmeği ya da kuruyemişi tek başına atıştırmak yerine yanına yumurta, peynir, tavuk dilimleri veya uygun bir ana protein ekleyin. Böylece uzun süre yolda olduğunuz günlerde tokluğu daha iyi korur, akşam kontrolsüz yeme ihtimalini azaltırsınız. Yoğurdu sevdiğiniz için menüde yer verdik; miktarı artırmak yerine yazılı porsiyonu koruyun.\n\nTakviyeleri önerilen dozda ve düzenli kullanın; daha çok almak daha iyi etki anlamına gelmez. Manuel lenf drenajını geçen haftadan beri sürdürürken su tüketimi ve günlük hareket de aynı derecede önemlidir. Bu hafta özellikle seyahat olan ve olmayan günlerde bacak hassasiyeti, morarma, ağırlık ve enerji düzeyinizin nasıl değiştiğini gözlemleyin. Böylece takviyeleri soyut bir liste olarak değil, beslenme ve günlük ritimle birlikte değerlendirebiliriz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
-      "pdfFile": {}
+      "gptMesaj": "",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T16:27:44.253Z",
+  "sonGuncelleme": "2026-08-20T07:37:05.109Z",
   "githubKaydedildi": true
 }
