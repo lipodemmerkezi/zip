@@ -2091,12 +2091,13 @@
       "kayitTarihi": "2026-08-19T14:16:31.035Z",
       "tarifKartlar": [],
       "tarifler": [],
-      "gptMesaj": "Merhaba Serap Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 9. haftaya geçiyoruz.\n\n2 Temmuz ile 26 Temmuz arasında bel çevreniz 83 cm’den 81 cm’ye, kalçanız 105 cm’den 100 cm’ye gerilemiş. Üst bacaklarda 5’er cm, baldırlarda 4’er cm ve ayak bileklerinde sağda 2, solda 4 cm azalma var. Bu değişimi şimdi beslenme ve manuel lenf drenajına uygun egzersiz ekleyerek sürdürmek istiyoruz.\n\nSürücü kursu eğitmeni olarak günde 12–13 saati araç içinde geçirmeniz, 9. haftanın hareket konusunu sizin için özellikle önemli kılıyor. Uzun bir egzersiz için ideal zaman beklemek yerine, ders aralarında birkaç dakikalık yürüyüş, ayak bileği pompalama ve sandalyede yapılabilen Lipödem 1 hareketlerini kullanabilirsiniz. Lipödem 2 hareketlerini ise güvenli ve sabit bir zeminde, günün daha uygun bölümünde uygulayın. Amaç yüksek şiddet değil, kas pompasını sık ve düzenli çalıştırmak.\n\nTotal protein ve albümin değerlerinizin düşük seyretmiş olması nedeniyle öğünlerdeki ana proteini eksiltmemeniz önemli. Yoğurtlu köfte çorbası ile tavuk sote, balık ile yeşil salata ve köfte/kuzu kavurma ile köz biber salatası protein kaynaklarını haftaya dağıtıyor. Balık aynı zamanda omega-3 ve selenyum sağlarken, pazı sarması ve avokado-roka salatası folat, magnezyum, lif ve sağlıklı yağ yönünü tamamlıyor.\n\nAraca götürdüğünüz öğünlerde yalnız poğaça veya ekmekle yetinmeyin; yanına yumurta, peynir, tavuk ya da uygun bir ana protein ekleyin. Egzersizden sonra bacaklarda hafifleme, ağrı, hassasiyet veya şişlik olup olmadığını; araçta uzun kaldığınız günlerle daha hareketli günler arasındaki farkı not edin. D vitamini desteğinizi ve diğer ürünleri önerilen dozda sürdürün; hareket veya beslenme değişti diye dozları kendi kendinize değiştirmeyin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
-      "pdfFile": {}
+      "gptMesaj": "\n",
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T16:28:34.708Z",
+  "sonGuncelleme": "2026-08-20T07:41:15.748Z",
   "githubKaydedildi": true
 }
