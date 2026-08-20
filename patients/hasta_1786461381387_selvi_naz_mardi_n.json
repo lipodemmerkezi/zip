@@ -444,8 +444,93 @@
       "pdfYolu": "pdfs/SELVİNAZ MARDİN 24-30 AĞUSTOS 3. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SELVİNAZ MARDİN 24-30 AĞUSTOS 3. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SELVİNAZ MARDİN 24-30 AĞUSTOS 3. HAFTA.pdf",
-      "kayitTarihi": "2026-08-20T09:42:36.511Z",
-      "tarifKartlar": [],
+      "kayitTarihi": "2026-08-20T10:02:28.853Z",
+      "tarifKartlar": [
+        {
+          "tarifAdi": "badem unu ekmeği (1 dilim)",
+          "kartResmi": "badem_unlu_ekmek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/badem_unlu_ekmek.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köfteli patlıcan yemeği",
+          "kartResmi": "kofteli_patlican_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kofteli_patlican_yemegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "köz tadında fasulye salatası",
+          "kartResmi": "koz_tadinda_fasulye_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/koz_tadinda_fasulye_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kıymalı - yumurtalı ıspanak / semizotu/ pazı kavurma (2 yumurta, 50 gr. kıyma, 100 gr. ispanak, 1 yk zeytinyağı,",
+          "kartResmi": "yumurtali_ispanak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yumurtali_ispanak.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "kuzu güveç",
+          "kartResmi": "kuzu_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kuzu_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı kabak yemeği",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "türlü",
+          "kartResmi": "turlu_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/turlu_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "badem unlu kabak ve peynirli poğaça",
+          "kartResmi": "badem_unlu_dere_otlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/badem_unlu_dere_otlu_pogaca.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "badem unlu kabak ve peynirli poğaça",
+          "kartResmi": "peynirli_kabakli_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/peynirli_kabakli_pogaca.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "somonlu roka ve avokado salatası",
+          "kartResmi": "somonlu_roka_ve_avokado_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/somonlu_roka_ve_avokado_salatasi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "tavuk pirzola ya da kanat",
+          "kartResmi": "firinda_tavuk_kanat.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_tavuk_kanat.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köz biberli mantar salatası",
+          "kartResmi": "koz_biberli_mantar_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/koz_biberli_mantar_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "sulu köfte",
+          "kartResmi": "sulu_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sulu_kofte.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli kaşık salatası",
+          "kartResmi": "cevizli_kasik_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_kasik_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
       "tarifler": [
         "selvi̇naz mardi̇n / 24-30 ağustos 2026",
         "her sabah güne başlarken:",
@@ -541,11 +626,110 @@
       "gptMesaj": "Merhaba Selvinaz Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 3. haftaya geçiyoruz.\n\nİlk iki haftalık eliminasyon döneminden sonra süt ürünlerini kontrollü biçimde yeniden değerlendiriyoruz. Sizde lipödeme ek olarak özellikle sağ tarafta daha belirgin lenfödem ve ayak sırtı şişliği bulunduğu için, yalnız sindirim belirtilerini değil bacak ve ayak sırtındaki ağırlık-ödem değişimini de yakından gözlemleyeceğiz. Amaç süt ürünlerini tamamen serbest bırakmak değil, hangi türü ve miktarı tolere ettiğinizi anlamak.\n\nKöfteli patlıcan yemeği ile köz tadında fasulye salatası, süt ürünü içermeden protein ve sebze lifini güçlü tutan bir ana öğün. Badem unlu kabak-peynirli poğaça, tulum/kaşar peynirli kahvaltılar ve menemenin yanındaki peynir ise bu hafta kontrollü dönüşü gözlemlediğimiz seçenekler. Bu günlerde listede yazan miktarı aşmamanız, toleransı doğru yorumlamak için önemli. Somonlu roka-avokado salatası gibi süt ürünü içermeyen öğünler de karşılaştırma yapmamızı kolaylaştırıyor.\n\nKıymalı-yumurtalı ıspanak, semizotu veya pazı kavurma; yumurta ve kıymadan protein, B12, demir ve kolin; yeşil yapraklılardan folat ve magnezyum sağlar. Balık ve roka salatası omega-3 ve selenyum yönünden haftaya farklı bir destek ekliyor. Böylece bağırsak florasını konuşurken günlük protein ve sebze çeşitliliğini ihmal etmiyoruz.\n\nLenfödem nedeniyle manuel lenf drenajına sizin için planlanan erken takvime göre devam edin; basıncı artırmak daha iyi sonuç vermez. Bu hafta tulum/kaşar peyniri veya peynirli tarif tükettiğiniz günleri ayrı ayrı not edin. Gaz, karın şişliği, bağırsak değişikliği, ayak sırtında gerginlik ya da bacaklarda belirgin ağırlık artışı olursa hangi üründen ve ne kadar sonra başladığını yazın. Kızınızın desteğiyle bu kısa takibi yapmak, sonraki menüleri daha doğru kişiselleştirmemizi sağlar.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
       "pdfFile": {},
       "kilitli": true,
-      "pdfText": "SELVİNAZ MARDİN / 24-30 AĞUSTOS 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)\nPAZARTESİ\nÖğle ()\nHaşlanmış yumurta ya da sahanda (2 yumurta - 1 tatlı kaşığı tereyağı)\nHindi füme (2 dilim) ya da tavuk fleto dilimleri\n*Badem unu ekmeği (1 dilim)\nMevsim Yeşillikleri (dereotu, roka, maydanoz, marul sirke+limon ile)\nZeytin (5 adet)\nÇiğ badem (20 adet)\nAkşam ()\nKöfteli Patlıcan Yemeği\nKöz Tadında Fasulye Salatası\nKollajen (1 ölçek 10 gram)\nÖğle ()\nKıymalı - Yumurtalı ıspanak / semizotu/ pazı kavurma (2 yumurta, 50 gr. kıyma, 100 gr. Ispanak, 1 yk zeytinyağı,\nBadem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. İstediğiniz baharatları ekleyin1 tatlı kaşığı\nzeytinyağı ile tavayı yağlağın.)\nKısık ateşte arkalı önlü pişirin.)\nZeytin (5 adet)\nCeviz (5 adet)\nSalatalık (orta boy) + 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nAkşam ()\nKuzu güveç\nYeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nHindi füme (2 dilim) ya da tavuk fleto dilimleri\nSalatalık (orta boy), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber\nZeytin (5 adet)\nCeviz (3 adet)\nBadem unu ekmeği (1 dilim)\nAkşam ()\n*Kıymalı Kabak yemeği\nBadem unu ekmeği (1 dilim)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nBadem Unlu Kabak ve Peynirli Poğaça\nTulum / kaşar peyniri (50 gram )\nMevsim Yeşillikleri (dereotu, roka, maydanoz, marul, vs. sirke, limon ile)\nÇiğ badem (10 adet)\nAkşam ()\nSomonlu Roka ve Avokado Salatası\nBitter çikolata (2 kare)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nHaşlanmış yumurta (2 adet)\nTulum / kaşar peyniri (30 gram )\nBadem unu ekmeği (1 dilim)\nZeytin (5 adet)\nSalatalık (orta boy), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı\nCeviz (3 adet)\nAkşam ()\n150 gr. Tavuk pirzola ya da kanat\nKöz Biberli Mantar Salatası\nFındık "
+      "pdfText": "SELVİNAZ MARDİN / 24-30 AĞUSTOS 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)\nPAZARTESİ\nÖğle ()\nHaşlanmış yumurta ya da sahanda (2 yumurta - 1 tatlı kaşığı tereyağı)\nHindi füme (2 dilim) ya da tavuk fleto dilimleri\n*Badem unu ekmeği (1 dilim)\nMevsim Yeşillikleri (dereotu, roka, maydanoz, marul sirke+limon ile)\nZeytin (5 adet)\nÇiğ badem (20 adet)\nAkşam ()\nKöfteli Patlıcan Yemeği\nKöz Tadında Fasulye Salatası\nKollajen (1 ölçek 10 gram)\nÖğle ()\nKıymalı - Yumurtalı ıspanak / semizotu/ pazı kavurma (2 yumurta, 50 gr. kıyma, 100 gr. Ispanak, 1 yk zeytinyağı,\nBadem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. İstediğiniz baharatları ekleyin1 tatlı kaşığı\nzeytinyağı ile tavayı yağlağın.)\nKısık ateşte arkalı önlü pişirin.)\nZeytin (5 adet)\nCeviz (5 adet)\nSalatalık (orta boy) + 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nAkşam ()\nKuzu güveç\nYeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nHindi füme (2 dilim) ya da tavuk fleto dilimleri\nSalatalık (orta boy), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber\nZeytin (5 adet)\nCeviz (3 adet)\nBadem unu ekmeği (1 dilim)\nAkşam ()\n*Kıymalı Kabak yemeği\nBadem unu ekmeği (1 dilim)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nBadem Unlu Kabak ve Peynirli Poğaça\nTulum / kaşar peyniri (50 gram )\nMevsim Yeşillikleri (dereotu, roka, maydanoz, marul, vs. sirke, limon ile)\nÇiğ badem (10 adet)\nAkşam ()\nSomonlu Roka ve Avokado Salatası\nBitter çikolata (2 kare)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nHaşlanmış yumurta (2 adet)\nTulum / kaşar peyniri (30 gram )\nBadem unu ekmeği (1 dilim)\nZeytin (5 adet)\nSalatalık (orta boy), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı\nCeviz (3 adet)\nAkşam ()\n150 gr. Tavuk pirzola ya da kanat\nKöz Biberli Mantar Salatası\nFındık ",
+      "eslesmeyenTarifler": [
+        "selvi̇naz mardi̇n / 24-30 ağustos 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta ya da sahanda (2 yumurta - 1 tatlı kaşığı tereyağı)",
+        "hindi füme (2 dilim) ya da tavuk fleto dilimleri",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul sirke+limon ile)",
+        "zeytin (5 adet)",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kollajen (1 ölçek 10 gram)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "badem unlu krep (1 yumurta ve 1 çorba kaşığı badem ununu çırpın. i̇stediğiniz baharatları ekleyin1 tatlı kaşığı",
+        "kısık ateşte arkalı önlü pişirin.)",
+        "zeytin (5 adet)",
+        "ceviz (5 adet)",
+        "salatalık (orta boy) + 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "kollajen (1 ölçek 10 gram)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "hindi füme (2 dilim) ya da tavuk fleto dilimleri",
+        "salatalık (orta boy), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber",
+        "zeytin (5 adet)",
+        "ceviz (3 adet)",
+        "badem unu ekmeği (1 dilim)",
+        "akşam (tercihen hava kararınca)",
+        "badem unu ekmeği (1 dilim)",
+        "kollajen (1 ölçek 10 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tulum / kaşar peyniri (50 gram )",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul, vs. sirke, limon ile)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "bitter çikolata (2 kare)",
+        "kollajen (1 ölçek 10 gram)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (2 adet)",
+        "tulum / kaşar peyniri (30 gram )",
+        "badem unu ekmeği (1 dilim)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "fındık (20 adet)",
+        "kollajen (1 ölçek 10 gram)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sucuklu yumurta (30 gram kasap sucuk + 1 yumurta ile)",
+        "tulum / kaşar peyniri (30 gram )",
+        "badem unu ekmeği (1 dilim)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul, vs. sirke, limon +1 yemek kaşığı zeytinyağı ile)",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "tavada ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı ve",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "tulum / kaşar peyniri (50 gram )",
+        "zeytin (5 adet)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul, vs. sirke, limon+1 tatlı kaşığı zeytinyağı ile)",
+        "badem unu ekmeği (1 dilim)",
+        "akşam (tercihen hava kararınca)",
+        "yaban mersini ya da 5 adet çilek",
+        "kollajen (1 ölçek 10 gram)",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "badem unu ekmeği (1 dilim)",
+        "köfteli patlıcan yemeği",
+        "köz tadında fasulye salatası",
+        "kıymalı - yumurtalı ıspanak / semizotu/ pazı kavurma (2 yumurta, 50 gr. kıyma, 100 gr. ispanak, 1 yk zeytinyağı,",
+        "kuzu güveç",
+        "badem unu ekmeği (1 dilim)",
+        "kıymalı kabak yemeği",
+        "türlü",
+        "badem unu ekmeği (1 dilim)",
+        "badem unlu kabak ve peynirli poğaça",
+        "somonlu roka ve avokado salatası",
+        "badem unu ekmeği (1 dilim)",
+        "tavuk pirzola ya da kanat",
+        "köz biberli mantar salatası",
+        "badem unu ekmeği (1 dilim)",
+        "badem unu ekmeği (1 dilim)",
+        "sulu köfte",
+        "cevizli kaşık salatası"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-08-11T15:16:21.387Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-20T09:42:36.655Z",
+  "sonGuncelleme": "2026-08-20T10:02:29.244Z",
   "githubKaydedildi": true
 }
