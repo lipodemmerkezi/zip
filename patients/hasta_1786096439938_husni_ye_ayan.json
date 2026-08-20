@@ -545,11 +545,12 @@
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "Merhaba Hüsniye Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 3. haftaya geçiyoruz.\n\nİlk iki haftalık eliminasyonun ardından süt ürünlerini kontrollü biçimde geri ekliyoruz. Bu geçişte hedef, her öğüne peynir ve yoğurt eklemek değil; belirli miktarlarda kullanıp bağırsak düzeni, gaz, şişkinlik ve bacaklardaki ağırlık hissini izlemek. Balık tüketmediğiniz için de programın protein ve mikrobesin çeşitliliğini balığa dayandırmadan yumurta, tavuk, kuzu, köfte ve kıyma üzerinden kuruyoruz.\n\nMantarlı tavuk sote ile yoğurtlu semizotu salatası, yoğurdu ölçülü bir yan öğün şeklinde denediğimiz örneklerden biri. Kıymalı bamya sote ve kabak spagettinin yanındaki iki yemek kaşığı yoğurt da benzer biçimde sebze-protein tabağını fermente süt ürünüyle tamamlıyor. Peynirli muffin, menemenin yanındaki peynir ve diğer peynirli tarifler ise farklı süt ürünlerinin toleransını ayrı günlerde gözlemlememize yardımcı oluyor.\n\nKuzu güveç ve yeşil salata etten protein, demir, B12 ve çinko; salatadan lif ve C vitamini sağlar. Menemen ile avokado, yumurtanın proteini ve kolinini sağlıklı yağla bir araya getirir. Sulu köfte ya da kuzu ciğeri ile cevizli kaşık salatası da haftanın demir ve B12 yönünü güçlendirirken renkli sebzelerle öğünü dengeler. Böylece süt ürünlerinin dönüşü, protein ve sebze çeşitliliğinin önüne geçmez.\n\nBu hafta bir süt ürününden sonra rahatsızlık hissederseniz bütün grubu aynı anda suçlamak yerine ürünün türünü, miktarını ve belirtilerin başlama zamanını not edin. Yoğurtla peynirin yanıtı aynı olmayabilir. Listede yazmayan ek süt ürünü veya ekstra peynir tüketmeyin; aksi halde hangi seçeneğe nasıl yanıt verdiğinizi ayırmak zorlaşır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
-      "pdfFile": {}
+      "pdfFile": {},
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-08-07T09:53:59.938Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T16:27:39.336Z",
+  "sonGuncelleme": "2026-08-20T07:30:16.932Z",
   "githubKaydedildi": true
 }
