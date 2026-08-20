@@ -1362,6 +1362,12 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
+          "tarifAdi": "yulaflı kabak çorbası",
+          "kartResmi": "yulafli_kabak_corbasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yulafli_kabak_corbasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
           "tarifAdi": "ispanaklı mantar dolması",
           "kartResmi": "ispanakli_mantar_dolmasi.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/ispanakli_mantar_dolmasi.jpg",
@@ -1562,7 +1568,6 @@
         "çiğ badem (10 adet)",
         "yeşillikler (dereotu, roka, marul, sirke ve limon ile)",
         "akşam (tercihen hava kararınca)",
-        "yulaflı kabak çorbası",
         "kakaolu puding",
         "kollajen (1 ölçek 10 gram)",
         "pazar",
@@ -1592,15 +1597,16 @@
       "pdfYolu": "pdfs/OLCAY ERSOY 24-30 AĞUSTOS 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/OLCAY ERSOY 24-30 AĞUSTOS 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/OLCAY ERSOY 24-30 AĞUSTOS 7. HAFTA.pdf",
-      "kayitTarihi": "2026-08-19T14:15:44.817Z",
+      "kayitTarihi": "2026-08-20T06:02:04.823Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "Merhaba Olcay Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 7. haftaya geçiyoruz.\n\n17 Ağustos ölçümünüzü başlangıçla karşılaştırdığımızda bel çevrenizin 94 cm’den 88 cm’ye, kalçanızın 110 cm’den 105 cm’ye gerilediğini görüyoruz. Üst bacaklarda yaklaşık 2’şer cm, baldırlarda da genel olarak azalma var. Diyabet öykünüz nedeniyle bu ilerlemeyi yalnız çevre ölçüsüyle değil, günlük kan şekeri seyri, açlık ve enerji düzeyiyle birlikte değerlendirmemiz önemli.\n\nBu hafta takviyelerin programdaki yerini ele alıyoruz. Takviyeler diyabet ilaçlarınızın veya dengeli beslenmenin yerine geçmez; kendi kendinize doz eklemeyin, eksiltmeyin ya da ilaç saatlerini değiştirmeyin. Patlıcanlı tavuk sote ile yoğurtlu yeşil mercimek salatası, hayvansal ve bitkisel proteini sebze lifiyle bir araya getiriyor. Et sote ile cevizli biber yoğurtlaması da B12, demir, çinko, C vitamini ve sağlıklı yağ açısından dengeli bir ana öğün.\n\nBalık ile avokado-roka salatası omega-3, selenyum ve doymamış yağ sağlar. Nohut ekmeği, meyve, yulaf makarna veya tatlı patates püresi gibi karbonhidrat kaynaklarını yalnız listede yazan miktarda kullanın; önce sebze, sonra protein, en son bu kısmı tüketin. Kan şekerinizde alışılmışın dışında düşme veya yükselme olursa bunu takviyeye bağlayarak kendi başınıza değişiklik yapmayın, ölçümü ve öğünü not edip bize ve sizi izleyen hekime bildirin.\n\nSizin için su takibi her hafta temel bir konu: günlük su tüketiminizi 2 litrenin üzerinde tutmaya devam edin. Manuel lenf drenajı, günlük hareket ve su tüketimi takviyeler kadar önemlidir. Bu hafta yeni ölçüm sonrası bacaklardaki ağırlık, ödem, açlık ve kan şekeri seyrini birlikte gözlemleyin. Özellikle akşam yemeğini geç saate bırakmama düzeninizi koruyun.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
-      "pdfFile": {}
+      "pdfFile": {},
+      "kilitli": true
     }
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T16:28:07.650Z",
+  "sonGuncelleme": "2026-08-20T06:02:04.837Z",
   "githubKaydedildi": true
 }
