@@ -17590,10 +17590,25 @@ ${mesajlar.join('\n')}
 
                         console.log(`📊 ${aktifHastalar.length} aktif hasta bulundu`);
 
+                        // Tarif kartları görsellerini ve manuel eşleştirmeleri yükle (inline eşleştirme için gerekli)
+                        if (tariflerKlasoruGorselleri.length === 0) {
+                            console.log('🔄 tariflerKlasoruGorselleri boş, yükleniyor...');
+                            await tariflerKlasoruGorselleriniYukle();
+                            console.log(`✅ tariflerKlasoruGorselleri yüklendi: ${tariflerKlasoruGorselleri.length} görsel`);
+                        } else {
+                            console.log(`✅ tariflerKlasoruGorselleri zaten yüklü: ${tariflerKlasoruGorselleri.length} görsel`);
+                        }
+                        if (typeof manuelEslestirmeleriYukle === 'function' && (!manuelEslestirmeler || Object.keys(manuelEslestirmeler).length === 0)) {
+                            console.log('🔄 Manuel eşleştirmeler yükleniyor...');
+                            await manuelEslestirmeleriYukle();
+                            console.log(`✅ Manuel eşleştirmeler yüklendi: ${Object.keys(manuelEslestirmeler).length} adet`);
+                        }
+
                         // Ana ZIP dosyasını oluştur
                         const anaZip = new JSZip();
                         const bugununTarihi = new Date().toISOString().slice(0, 10);
                         const anaZipAdi = `TOPLU_HASTA_ZIP_${bugununTarihi}.zip`;
+
 
                         // Önbellek: Klasör listesini bir kez çek (Hız ve Bağlantı güvenliği için)
                         let githubFilesCache = null;
@@ -17663,15 +17678,25 @@ ${mesajlar.join('\n')}
                                 let enBuyukHafta = null;
                                 let enBuyukHaftaNo = 0;
 
-                                haftalar.forEach(hafta => {
-                                    const haftaNo = hafta.haftaNo || 0;
-                                    if (haftaNo > enBuyukHaftaNo) {
-                                        enBuyukHaftaNo = haftaNo;
-                                        enBuyukHafta = hafta;
-                                    }
-                                });
+                                    haftalar.forEach(hafta => {
+        const haftaNo = hafta.haftaNo || 0;
+        const hasContent = (hafta.pdfVar === true || hafta.pdfYolu || hafta.pdfName || hafta.pdfOrijinalIsim || hafta.githubUrl || hafta.indirmeUrl || (hafta.tarifKartlar && hafta.tarifKartlar.length > 0));
+        if (hasContent && haftaNo > enBuyukHaftaNo) {
+            enBuyukHaftaNo = haftaNo;
+            enBuyukHafta = hafta;
+        }
+    });
 
-                                if (!enBuyukHafta) {
+    if (!enBuyukHafta) {
+        haftalar.forEach(hafta => {
+            const haftaNo = hafta.haftaNo || 0;
+            if (haftaNo > enBuyukHaftaNo) {
+                enBuyukHaftaNo = haftaNo;
+                enBuyukHafta = hafta;
+            }
+        });
+    }
+if (!enBuyukHafta) {
                                     console.warn(`⚠️ ${hasta.isim} için hafta verisi bulunamadı`);
                                     hataliHastalar++;
                                     continue;
@@ -17723,7 +17748,16 @@ ${mesajlar.join('\n')}
                                             pdfUrl = `https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/${encodedFileName}`;
                                         }
 
-                                        console.log(`  PDF URL: ${pdfUrl}`);
+                                        
+                    // Eski repo isimleri kalmışsa GITHUB_REPO ile değiştir (mustafasacar35 hatasını düzeltir)
+                    if (pdfUrl && pdfUrl.includes('mustafasacar35/lipodem-takip-paneli')) {
+                        pdfUrl = pdfUrl.replace('mustafasacar35/lipodem-takip-paneli', GITHUB_REPO);
+                    }
+                    if (pdfUrl && pdfUrl.includes('lipodemmerkezi/zip-main')) {
+                        pdfUrl = pdfUrl.replace('lipodemmerkezi/zip-main', GITHUB_REPO);
+                    }
+
+console.log(`  PDF URL: ${pdfUrl}`);
 
                                         const pdfResponse = await fetch(pdfUrl);
 
@@ -17741,6 +17775,186 @@ ${mesajlar.join('\n')}
                                     console.log(`ℹ️ ${hasta.isim} - En büyük hafta için PDF verisi yok (githubUrl: ${!!enBuyukHafta.githubUrl}, indirmeUrl: ${!!enBuyukHafta.indirmeUrl}, pdf: ${!!enBuyukHafta.pdf}, pdfName: ${!!enBuyukHafta.pdfName})`);
                                 }
 
+                                // Eğer tarifKartlar boşsa, inline eşleştirme yap
+                                // tarifler boşsa PDF'den metin çıkarmayı dene
+                                if ((!enBuyukHafta.tarifKartlar || enBuyukHafta.tarifKartlar.length === 0)) {
+                                    // tarifler yoksa veya boşsa, PDF'den çıkarmayı dene
+                                    if (!enBuyukHafta.tarifler || enBuyukHafta.tarifler.length === 0) {
+                                        console.log(`🔄 ${hasta.isim} - tarifler dizisi boş, PDF'den metin çıkarılmaya çalışılıyor...`);
+                                        try {
+                                            // PDF URL'sini oluştur (menü PDF ile aynı mantık)
+                                            let extractPdfUrl = null;
+                                            if (enBuyukHafta.githubUrl) {
+                                                extractPdfUrl = enBuyukHafta.githubUrl
+                                                    .replace('github.com', 'raw.githubusercontent.com')
+                                                    .replace('/blob/', '/');
+                                            } else if (enBuyukHafta.indirmeUrl) {
+                                                extractPdfUrl = enBuyukHafta.indirmeUrl
+                                                    .replace('github.com', 'raw.githubusercontent.com')
+                                                    .replace('/blob/', '/');
+                                            } else if (enBuyukHafta.pdfName || enBuyukHafta.pdfOrijinalIsim) {
+                                                const pn = enBuyukHafta.pdfName || enBuyukHafta.pdfOrijinalIsim;
+                                                extractPdfUrl = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/pdfs/${encodeURIComponent(pn)}`;
+                                            }
+                                            // Eski repo isimlerini düzelt
+                                            if (extractPdfUrl && extractPdfUrl.includes('mustafasacar35/lipodem-takip-paneli')) {
+                                                extractPdfUrl = extractPdfUrl.replace('mustafasacar35/lipodem-takip-paneli', GITHUB_REPO);
+                                            }
+                                            if (extractPdfUrl && extractPdfUrl.includes('lipodemmerkezi/zip-main')) {
+                                                extractPdfUrl = extractPdfUrl.replace('lipodemmerkezi/zip-main', GITHUB_REPO);
+                                            }
+
+                                            if (extractPdfUrl && typeof pdfjsLib !== 'undefined') {
+                                                console.log(`📥 ${hasta.isim} - PDF indiriliyor: ${extractPdfUrl}`);
+                                                const pdfResp = await fetch(extractPdfUrl);
+                                                if (pdfResp.ok) {
+                                                    const pdfArrayBuffer = await pdfResp.arrayBuffer();
+                                                    const pdfBytes = new Uint8Array(pdfArrayBuffer);
+                                                    const pdfDoc = await pdfjsLib.getDocument({ data: pdfBytes }).promise;
+                                                    let fullText = '';
+                                                    for (let p = 1; p <= pdfDoc.numPages; p++) {
+                                                        const page = await pdfDoc.getPage(p);
+                                                        const textContent = await page.getTextContent();
+                                                        fullText += textContent.items.map(item => item.str).join('\n') + '\n';
+                                                    }
+                                                    if (fullText.trim().length > 0 && typeof extractTariflerDetay === 'function') {
+                                                        enBuyukHafta.tarifler = extractTariflerDetay(fullText);
+                                                        console.log(`✅ ${hasta.isim} - PDF'den ${enBuyukHafta.tarifler.length} tarif çıkarıldı`);
+                                                    } else {
+                                                        console.warn(`⚠️ ${hasta.isim} - PDF metin çıkarma başarısız (boş metin veya extractTariflerDetay yok)`);
+                                                    }
+                                                } else {
+                                                    console.warn(`⚠️ ${hasta.isim} - PDF indirilemedi (${pdfResp.status})`);
+                                                }
+                                            } else {
+                                                console.warn(`⚠️ ${hasta.isim} - PDF URL bulunamadı veya pdfjsLib yüklü değil`);
+                                            }
+                                        } catch (pdfExtractErr) {
+                                            console.warn(`❌ ${hasta.isim} - PDF'den tarif çıkarma hatası:`, pdfExtractErr);
+                                        }
+                                    }
+
+                                    // Şimdi tarifler doluysa inline eşleştirme yap
+                                    if (enBuyukHafta.tarifler && enBuyukHafta.tarifler.length > 0) {
+                                    console.log(`🔄 ${hasta.isim} - Tarif kartları JSON'da boş, bağımsız inline eşleştirme yapılıyor (${enBuyukHafta.tarifler.length} tarif)...`);
+                                    try {
+                                        // Normalize fonksiyonu
+                                        function zipNormalize(str) {
+                                            return str.toLowerCase()
+                                                .replace(/ç/g, 'c').replace(/ğ/g, 'g').replace(/ş/g, 's')
+                                                .replace(/ü/g, 'u').replace(/ö/g, 'o').replace(/ı/g, 'i')
+                                                .replace(/i̇/g, 'i')
+                                                .replace(/[_*\/()]/g, ' ')
+                                                .replace(/\s+/g, ' ')
+                                                .replace(/[^a-z0-9\s]/g, '')
+                                                .trim();
+                                        }
+                                        function zipTemizleDosyaAdi(name) {
+                                            return name.replace(/\.(jpg|jpeg|png|gif|webp|bmp|svg)$/i, '').replace(/_/g, ' ').trim();
+                                        }
+                                        function zipExtractYemekAdlari(satir) {
+                                            let s = satir.replace(/^\*+\s*/, '');
+                                            s = s.replace(/\(.*?\)/g, '');
+                                            s = s.replace(/\+.*$/, '');
+                                            s = s.replace(/([0-9]+\s*(gram|gr|adet|yemek\s*kaşığı|tatlı\s*kaşığı|su\s*bardağı|dilim|kase|çay\s*bardağı|bardak|kaşık|tbsp|tsp|ml|kg|g))($|\s)/gi, '');
+                                            let alternatifler = s.split(/\s*(ya da|veya)\s*/i).map(a => a.trim()).filter(a => a.length > 0);
+                                            let tumAdlar = [];
+                                            alternatifler.forEach(alt => {
+                                                alt = alt.replace(/\b(ile|için|ve)\b/gi, '');
+                                                let adlar = alt.split(/\s*[\/|,]\s*/).map(a => a.trim()).filter(a => a.length > 0);
+                                                adlar = adlar.map(a => a.replace(/^[0-9]+\s*/, '').replace(/\s*[0-9]+\s*(gram|gr|adet|dilim|kase|bardak|ml|kg|tsp|tbsp)?\s*$/i, '').replace(/\s*icin?$/i, '').replace(/\s*ile$/i, '').trim());
+                                                adlar = adlar.filter(a => a.length > 0);
+                                                tumAdlar = tumAdlar.concat(adlar);
+                                            });
+                                            return tumAdlar;
+                                        }
+                                        function zipKartKelimeleriniKontrolEt(kartKelimeler, tarifKelimeler) {
+                                            if (kartKelimeler.length === 0) return false;
+                                            const tarifStr = tarifKelimeler.join(' ');
+                                            const kartStr = kartKelimeler.join(' ');
+                                            return tarifStr.includes(kartStr);
+                                        }
+
+                                        // Tüm kartları topla (tariflerKlasoruGorselleri global scope'ta)
+                                        const zipTumKartlar = (tariflerKlasoruGorselleri || []).map(g => ({ name: g.name, data: g.url, url: g.url })).filter(k => k && k.name);
+                                        
+                                        if (zipTumKartlar.length > 0) {
+                                            const zipKullanilanKartlar = new Set();
+                                            const zipEslesenKartlar = [];
+
+                                            enBuyukHafta.tarifler.forEach(tarif => {
+                                                let tarifSatir = tarif.replace(/^\*+\s*/, '').trim();
+                                                let eslesen = null;
+                                                let eslesenKartlarBulundu = [];
+                                                let eslesenTip = '';
+
+                                                // 1. Manuel eşleştirme kontrolü
+                                                const normalizeEdilmis = zipNormalize(tarif);
+                                                if (manuelEslestirmeler && manuelEslestirmeler[normalizeEdilmis]) {
+                                                    const manuelData = manuelEslestirmeler[normalizeEdilmis];
+                                                    const manuelKartlar = (manuelData.kartlar || []).map(kartAdi => {
+                                                        const kart = zipTumKartlar.find(k => k.name === kartAdi);
+                                                        return kart || null;
+                                                    }).filter(k => k !== null && !zipKullanilanKartlar.has(k.name));
+                                                    
+                                                    if (manuelKartlar.length > 0) {
+                                                        eslesenKartlarBulundu = manuelKartlar;
+                                                        eslesenTip = 'manuel eşleştirme';
+                                                        manuelKartlar.forEach(k => zipKullanilanKartlar.add(k.name));
+                                                    }
+                                                }
+
+                                                // 2. Otomatik eşleştirme
+                                                if (eslesenKartlarBulundu.length === 0) {
+                                                    let yemekAdlari = zipExtractYemekAdlari(tarifSatir);
+                                                    for (let yemekAdi of yemekAdlari) {
+                                                        const tarifNorm = zipNormalize(yemekAdi);
+                                                        const tarifKelimeler = tarifNorm.split(' ').filter(k => k.length > 0);
+                                                        for (let kart of zipTumKartlar) {
+                                                            if (zipKullanilanKartlar.has(kart.name)) continue;
+                                                            const kartNorm = zipNormalize(zipTemizleDosyaAdi(kart.name));
+                                                            const kartKelimeler = kartNorm.split(' ').filter(k => k.length > 0);
+                                                            if (tarifNorm === kartNorm) {
+                                                                eslesen = kart; eslesenKartlarBulundu = [kart]; eslesenTip = 'tam eşleşme'; break;
+                                                            }
+                                                            if (zipKartKelimeleriniKontrolEt(kartKelimeler, tarifKelimeler)) {
+                                                                eslesen = kart; eslesenKartlarBulundu = [kart]; eslesenTip = 'ardışık eşleşme'; break;
+                                                            }
+                                                        }
+                                                        if (eslesen) { zipKullanilanKartlar.add(eslesen.name); break; }
+                                                    }
+                                                }
+
+                                                if (eslesenKartlarBulundu.length > 0) {
+                                                    eslesenKartlarBulundu.forEach(kart => {
+                                                        zipEslesenKartlar.push({
+                                                            tarifAdi: tarif,
+                                                            kartResmi: kart.name,
+                                                            kartData: kart.data || kart.url || `https://raw.githubusercontent.com/${GITHUB_REPO}/main/tarifler/${kart.name}`,
+                                                            eslesmeTuru: eslesenTip
+                                                        });
+                                                    });
+                                                }
+                                            });
+
+                                            if (zipEslesenKartlar.length > 0) {
+                                                enBuyukHafta.tarifKartlar = zipEslesenKartlar;
+                                                console.log(`✅ ${hasta.isim} - Bağımsız inline eşleştirme ile ${zipEslesenKartlar.length} kart bulundu.`);
+                                            } else {
+                                                console.log(`ℹ️ ${hasta.isim} - Inline eşleştirme sonucunda hiçbir kart eşleşmedi.`);
+                                            }
+                                        } else {
+                                            console.warn(`⚠️ ${hasta.isim} - tariflerKlasoruGorselleri boş, inline eşleştirme yapılamadı.`);
+                                        }
+                                    } catch(err) {
+                                        console.warn(`❌ ${hasta.isim} - Inline eşleştirme sırasında hata:`, err);
+                                    }
+                                    } else {
+                                        console.log(`ℹ️ ${hasta.isim} - tarifler dizisi hala boş, inline eşleştirme yapılamadı.`);
+                                    }
+                                }
+
+
                                 // Tarif kartlarını ekle
                                 if (enBuyukHafta.tarifKartlar && enBuyukHafta.tarifKartlar.length > 0) {
                                     console.log(`🔍 ${hasta.isim} - Tarif kartları:`, enBuyukHafta.tarifKartlar);
@@ -17748,8 +17962,14 @@ ${mesajlar.join('\n')}
                                         try {
                                             console.log(`🔍 ${hasta.isim} - Kart objesi:`, kart);
                                             // Doğru özellik adını kullan: kartData
-                                            const kartUrl = kart.kartData || kart.data;
-                                            if (!kartUrl) {
+                                            let kartUrl = kart.kartData || kart.data;
+                                // Eğer kart URL'si HTTP ile başlıyorsa (eski mustafasacar repo veya github.io sayfası olabilir)
+                                // CORS hatasını (Access-Control-Allow-Origin) ve 404 hatasını önlemek için aktif reponun RAW url'sine çevir
+                                if (kartUrl && typeof kartUrl === 'string' && kartUrl.startsWith('http')) {
+                                    const fileName = decodeURIComponent(kartUrl.split('/').pop());
+                                    kartUrl = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/tarifler/${fileName}`;
+                                }
+                                if (!kartUrl) {
                                                 console.warn(`⚠️ ${hasta.isim} - Kart URL'si bulunamadı:`, kart);
                                                 continue;
                                             }
@@ -17772,8 +17992,14 @@ ${mesajlar.join('\n')}
                                     for (const kart of enBuyukHafta.manuelKartlar) {
                                         try {
                                             // Doğru özellik adını kullan: kartData
-                                            const kartUrl = kart.kartData || kart.data;
-                                            if (!kartUrl) {
+                                            let kartUrl = kart.kartData || kart.data;
+                                // Eğer kart URL'si HTTP ile başlıyorsa (eski mustafasacar repo veya github.io sayfası olabilir)
+                                // CORS hatasını (Access-Control-Allow-Origin) ve 404 hatasını önlemek için aktif reponun RAW url'sine çevir
+                                if (kartUrl && typeof kartUrl === 'string' && kartUrl.startsWith('http')) {
+                                    const fileName = decodeURIComponent(kartUrl.split('/').pop());
+                                    kartUrl = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/tarifler/${fileName}`;
+                                }
+                                if (!kartUrl) {
                                                 console.warn(`⚠️ ${hasta.isim} - Manuel kart URL'si bulunamadı:`, kart);
                                                 continue;
                                             }
@@ -17798,8 +18024,14 @@ ${mesajlar.join('\n')}
                                             for (const kart of veri.tarifKartlar) {
                                                 try {
                                                     // Doğru özellik adını kullan: kartData
-                                                    const kartUrl = kart.kartData || kart.data;
-                                                    if (!kartUrl) {
+                                                    let kartUrl = kart.kartData || kart.data;
+                                // Eğer kart URL'si HTTP ile başlıyorsa (eski mustafasacar repo veya github.io sayfası olabilir)
+                                // CORS hatasını (Access-Control-Allow-Origin) ve 404 hatasını önlemek için aktif reponun RAW url'sine çevir
+                                if (kartUrl && typeof kartUrl === 'string' && kartUrl.startsWith('http')) {
+                                    const fileName = decodeURIComponent(kartUrl.split('/').pop());
+                                    kartUrl = `https://raw.githubusercontent.com/${GITHUB_REPO}/main/tarifler/${fileName}`;
+                                }
+                                if (!kartUrl) {
                                                         console.warn(`⚠️ ${hasta.isim} - Çoklu PDF kart URL'si bulunamadı:`, kart);
                                                         continue;
                                                     }
