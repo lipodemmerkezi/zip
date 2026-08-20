@@ -2111,7 +2111,7 @@
       "pdfYolu": "pdfs/NECİBE ÇALIŞKAN ÇOBAN 24-30 AĞUSTOS 9. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 24-30 AĞUSTOS 9. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NECİBE ÇALIŞKAN ÇOBAN 24-30 AĞUSTOS 9. HAFTA.pdf",
-      "kayitTarihi": "2026-08-19T16:37:42.127Z",
+      "kayitTarihi": "2026-08-20T07:39:19.516Z",
       "tarifKartlar": [
         {
           "tarifAdi": "badem unlu lor ekmeği",
@@ -2287,7 +2287,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Necibe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 9. haftaya geçiyoruz.\n\n29 Haziran ile 1 Ağustos arasında bel çevreniz 74 cm’den 68 cm’ye, kalçanız 98,5 cm’den 87,5 cm’ye gerilemiş. Üst bacaklarda yaklaşık 5 ve 4,5 cm, ayak bileklerinde 1,5’ar cm azalma var. Bu ölçümler, tartıdan bağımsız olarak çevresel değişimin sürdüğünü gösteriyor. Şimdi bu kazanımları beslenme ve manuel lenf drenajına uygun hareket ekleyerek destekleyeceğiz.\n\nSürekli oturarak çalışmanız nedeniyle 9. haftanın egzersiz konusu sizin için özellikle önemli. Uzun oturma aralarında ayak bileği pompalama, kısa yürüyüş ve videodaki sandalye egzersizleri, tek seferde ağır spor yapmaktan daha uygulanabilir olabilir. Manuel lenf drenajı yüzeyel akışı desteklerken bacak kaslarının ritmik kasılması daha derin dolaşıma katkı sağlar. Ağrı veya belirgin şişlik oluşturmadan, düzenli bir ritim hedefliyoruz.\n\nYoğurtlu köfte çorbası ile tavuk sote, egzersiz döneminde protein alımını iki farklı kaynaktan destekliyor. Balık ve yeşil salata omega-3 ve selenyum sağlarken; kıymalı ıspanak, lahana, kabak ya da yeşil fasulye seçenekleri proteini sebze lifiyle birleştiriyor. Kabızlık ve hemoroit yakınmanız nedeniyle salata, sebze, yeterli su ve gün içine yayılan hareketi birlikte sürdürmeniz önemli; yalnız kuruyemiş veya ekmek alternatiflerine yüklenmek bağırsak düzenini tek başına çözmez.\n\nBu hafta Lipödem 1 ve Lipödem 2 videolarını takvimdeki sırayla uygulayın. Masa başında her fırsatta kısa hareket araları verin. Egzersizden sonra bacaklarda hafifleme, ağrı, doku hassasiyeti ve bağırsak hareketlerindeki değişimi not edin. Ertesi güne uzayan belirgin ağrı veya olağandışı şişlik olursa zorlamayın ve bize bildirin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2383,6 +2383,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T11:36:42.017Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-19T16:39:02.326Z",
+  "sonGuncelleme": "2026-08-20T07:39:19.531Z",
   "githubKaydedildi": true
 }
