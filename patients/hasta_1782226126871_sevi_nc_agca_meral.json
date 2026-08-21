@@ -2365,7 +2365,7 @@
       "pdfYolu": "pdfs/SEVİNÇ AĞCA MERAL 24-30 AĞUSTOS 10. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVİNÇ AĞCA MERAL 24-30 AĞUSTOS 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVİNÇ AĞCA MERAL 24-30 AĞUSTOS 10. HAFTA.pdf",
-      "kayitTarihi": "2026-08-21T11:27:25.601Z",
+      "kayitTarihi": "2026-08-21T11:28:54.545Z",
       "tarifKartlar": [
         {
           "tarifAdi": "kabak dizme",
@@ -2573,7 +2573,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Sevinç Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda onuncu haftaya başlıyoruz.\n\nBu hafta sizinle birlikte önemli bir geçiş yapıyoruz. Ketojenik beslenmeye bir süreliğine ara verip, artık daha esnek ama hâlâ kontrollü olan düşük karbonhidratlı (LowCarb) bir düzene geçiyoruz. Bu değişikliğin temel amacı, süreci daha sürdürülebilir kılmak ve vücudunuza metabolik bir esneklik kazandırmak. Ketojenik dönem, özellikle ilk başlarda iltihabı baskılamak için çok güçlü bir araçtı. Şimdi ise bu kazanımları koruyarak, sosyal hayatınıza daha kolay uyum sağlayacak ve psikolojik olarak sizi daha rahat ettirecek bir yapı oluşturuyoruz.\n\nBu yeni dönemin etkilerini bu hafta sizin için hazırladığımız listede de görebilirsiniz. Örneğin artık listenize bir dilim karabuğday ekmeği, elma veya karpuz gibi bazı meyveleri ve hatta nohutlu kabak salatası gibi baklagilleri kontrollü bir şekilde ekliyoruz. Bu geçiş, bir kısıtlamadan çıkıp dengeli bir özgürlüğe adım atmak gibi düşünülebilir.\n\nBu çeşitlilik, farklı mikrobesinleri almamızı da sağlıyor. Listenizdeki ızgara balık ve mantarlı omlet gibi seçenekler, tiroit fonksiyonları için önemli olan selenyum ve D vitamini desteği sunmaya devam ediyor. Akşamları eklediğimiz fındık ve badem, geçen hafta başladığınız egzersizler sonrası kasların dinlenmesi için gerekli magnezyumu sağlarken, közlenmiş patlıcan salatası ve semizotu gibi bol çeşitli sebzeler de kolajen üretiminizi destekleyen C vitamini açısından zengindir.\n\nGeçtiğimiz haftalarda konuştuğumuz yeme sıralaması prensibi, bu yeni dönemde daha da önem kazanıyor. Öğünlerinize salata veya zeytinyağlı börülce gibi lifli seçeneklerle başlayıp proteinle devam etmek ve karabuğday ekmeği gibi karbonhidrat kaynaklarını en sona bırakmak, kan şekeri dengenizi korumanıza yardımcı olacaktır. Bu, insülin seviyelerini kontrol altında tutarak lipödemli doku üzerindeki baskıyı azaltmaya devam etmemizi sağlar.\n\nElinizde artık hem ketojenik hem de düşük karbonhidratlı dönemlere ait beslenme örnekleri olacak. Bu da size gelecekte vücudunuzun ihtiyacına göre bu döngüleri bilinçli bir şekilde kullanma esnekliği kazandıracak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2681,6 +2681,6 @@
   ],
   "olusturmaTarihi": "2026-06-23T14:48:46.871Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-21T11:28:52.260Z",
+  "sonGuncelleme": "2026-08-21T11:28:54.564Z",
   "githubKaydedildi": true
 }
