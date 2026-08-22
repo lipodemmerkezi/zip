@@ -5,10 +5,28 @@
   "not": "",
   "arsiv": false,
   "kayitTarihi": "2026-08-22T06:25:57.492Z",
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-08-31",
+      "bitis": "2026-09-06",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-08-22T06:26:01.591Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
+    }
+  ],
   "durumu": "aktif",
   "olusturmaTarihi": "2026-08-22T06:25:57.492Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-22T06:25:57.899Z",
+  "sonGuncelleme": "2026-08-22T06:26:01.591Z",
   "githubKaydedildi": true
 }
