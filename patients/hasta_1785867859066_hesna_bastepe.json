@@ -820,10 +820,27 @@
       "kilitli": true,
       "ekNotlar": "Merhaba Hesna Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 4. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
       "pdfText": "HESNA BAŞTEPE / 24-30 AĞUSTOS 2026\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)\nPAZARTESİ\nÖğle ()\n*Avokadolu omlet\nYeşillikler (dereotu, roka, limon, sirke ve 1 yemek kaşığı zeytinyağı ile)\nTulum / kaşar peyniri (30 gram)\nZeytin (10 adet)\n5 adet çilek\nAkşam ()\n*Mantarlı tavuk sote\nYeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)\n* Yoğurt ( 2 yemek kaşığı ev yoğurdu)\nTurşu (organik, ev yapımı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*2 adet lupin unlu poğaça (veya 3 adet Lorlu poğaça)\nSalatalık (orta boy) + Cherry domates (2 adet)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nCeviz (3 adet )\nAkşam ()\n200 gram köfte\nKabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)\n2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı\nHaşhaş ezmesi ekmeği (1 dilim)\nÇiğ badem (10 adet)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nHaşlanmış yumurta (1 adet)\nHindi füme (2 dilim) ya zda 2 dilim tavuk fleto\nTulum /kaşar peyniri (50 gram)\nYeşillikler (dereotu, roka, marul vs. + limon, sirke ile)\nZeytin (10 adet)\nÇiğ badem (10 adet)\nAkşam ()\nFırında Sebzeli Peynirli Güveç\nGöçmen Salatası\nHaşhaş ezmesi ekmeği (1 dilim)\nEv yapımı turşu\nKollajen (1 ölçek 10 gram)\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar peyniri (50 gram)\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)\nAkşam ()\nPatlıcan kebabı\n* Yoğurt ( 2 yemek kaşığı ev yoğurdu)\n2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı\nEv yapımı turşu\nKabak çekirdeği (1 avuç)\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*2 adet lupin unlu poğaça (veya 3 adet Lorlu poğaça)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka,1 adet küçük salatalık, limon ve sirke +1 tatlı kaşığı zeytinyağı ile)\nAkşam ()\nSulu Et Kızartması\nAvokado ve Rokalı Salata\nÇiğ badem (10 adet)\n2 küçük kare bitter çikolata\nCUMARTESİ\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar pey"
+    },
+    {
+      "haftaNo": 5,
+      "baslangic": "2026-08-31",
+      "bitis": "2026-09-06",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-08-22T06:24:05.603Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:24:19.066Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-20T10:01:13.345Z",
+  "sonGuncelleme": "2026-08-22T06:24:05.604Z",
   "githubKaydedildi": true
 }
