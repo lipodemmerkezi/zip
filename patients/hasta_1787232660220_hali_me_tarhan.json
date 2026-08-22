@@ -313,10 +313,10 @@
       "kayitTarihi": "2026-08-22T06:22:33.411Z",
       "tarifKartlar": [
         {
-          "tarifAdi": "ketojenik tost (2 ince dilim haşhaş ezmesi ekmeği arasına 2 dilim ince tavuk fleto ya da 30 gram sucuk, yeşillikler,",
+          "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
           "kartResmi": "hashas_ezmesi_ekmegi.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/hashas_ezmesi_ekmegi.jpg",
-          "eslesmeTuru": "ardışık eşleşme"
+          "eslesmeTuru": "tam eşleşme"
         },
         {
           "tarifAdi": "köfte",
@@ -325,15 +325,9 @@
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
-          "tarifAdi": "tavuklu mantar sote (150 gr tavuk ile)",
+          "tarifAdi": "tavuklu mantar sote",
           "kartResmi": "tavuklu_mantar_sote.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuklu_mantar_sote.jpg",
-          "eslesmeTuru": "tam eşleşme"
-        },
-        {
-          "tarifAdi": "tereyağlı kabak",
-          "kartResmi": "tereyagli_kabak.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tereyagli_kabak.jpg",
           "eslesmeTuru": "tam eşleşme"
         },
         {
@@ -343,7 +337,7 @@
           "eslesmeTuru": "manuel eşleştirme"
         },
         {
-          "tarifAdi": "yumurtalı ıspanak /pazı /semizotu",
+          "tarifAdi": "yumurtalı ıspanak /pazı",
           "kartResmi": "yumurtali_ispanak.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yumurtali_ispanak.jpg",
           "eslesmeTuru": "tam eşleşme"
@@ -361,9 +355,9 @@
           "eslesmeTuru": "tam eşleşme"
         },
         {
-          "tarifAdi": "köfteli patlıcan yemeği",
-          "kartResmi": "kofteli_patlican_yemegi.jpg",
-          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kofteli_patlican_yemegi.jpg",
+          "tarifAdi": "patlıcanlı tavuk sote",
+          "kartResmi": "patlicanli_tavuk_sote.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlicanli_tavuk_sote.jpg",
           "eslesmeTuru": "tam eşleşme"
         },
         {
@@ -456,13 +450,107 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Halime Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda ikinci haftaya başlıyoruz.\n\nBu hafta, geçen hafta başladığımız vücudu arındırma ve inflamasyonu azaltma sürecini bir adım daha ileri taşıyoruz. Lipödem gibi kronik durumlarda hızlı sonuçlar yerine, sabırla atılan adımlarla kalıcı iyileşmeyi hedefliyoruz. Şu an attığınız her adım, sadece dışarıdan görüneni değil, içeride hücresel düzeyde bir onarımı da başlatıyor. Unutmayın, bu süreç bir kilo verme programından çok, vücudun kendi kendini iyileştirme mekanizmalarını yeniden harekete geçirme yolculuğudur.\n\nBu hafta sizin için hazırladığımız listede, bu iyileşme sürecini destekleyecek besinleri ön planda tuttuk. Sabahları güne sağlıklı yağlarla başlamanın önemini bir kez daha vurgulamak isterim. Bu, insülin seviyelerini dengede tutarak vücudun yağ yakım moduna geçmesini kolaylaştırır. Listenizdeki kavurmalı yumurta, zeytin veya avokado gibi seçenekler bu amaca hizmet ediyor. Sağlıklı yağları, yanında karbonhidrat olmadan tükettiğimizde, vücut bunları enerji için kullanır ve depolama eğilimi göstermez.\n\nListenizde yer alan semizotu ve ıspanak gibi koyu yeşil yapraklı sebzeler, dolaşım sistemini destekleyen ve kas kramplarını önlemeye yardımcı olan magnezyum açısından oldukça zengindir. Özellikle kıymalı semizotu yemeği veya yumurtalı ıspanak gibi tarifler, hem protein hem de bu değerli minerali bir arada almanızı sağlar. Roka ve kırmızı lahana gibi sebzeler ise antioksidan kapasiteleriyle vücuttaki iltihabi süreci baskılamaya yardımcı olur.\n\nAra öğün olarak eklediğimiz tuzlu ve limonlu maden suyu, bu beslenme düzeninde vücudun kaybedebileceği mineralleri ve elektrolitleri yerine koymak için çok önemlidir. Bu basit ama etkili içecek, enerjinizi korumanıza ve olası baş ağrılarının önüne geçmenize de destek olacaktır.\n\nBu ilk haftalar, vücudun yeni düzene adapte olduğu bir geçiş dönemidir. Bu süreçte kendinize karşı nazik ve sabırlı olmanız çok değerli. Bedeniniz içeride büyük bir değişim ve onarım sürecinden geçiyor.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "pdfFile": {},
-      "pdfText": "HALİME TARHAN / 31 AĞUSTOS -6 EYLÜL 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)\nPAZARTESİ\nÖğle ()\nKavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)\nZeytin (10 adet)\nMevsim Yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)\nHaşhaş ezmesi ekmeği (1 dilim)\nAkşam ()\n200 gram köfte\nYeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nMantarlı omlet (2 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)\nMevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon+1 yemek kaşığı zeytinyağı ile)\nHaşhaş ezmesi ekmeği (1 dilim)\n1/2 avokado\nZeytin (5 adet)\nAkşam ()\n*Tavuklu Mantar Sote\nMevsim salata (1 yemek kaşığı zeytinyağı ile)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nFırında domates soslu sebze kızartması (1 kabak, 3 yeşil biber, 1 adet orta boy patlıcan + üzerine 1 adet domates ve\n1 diş sarımsak ile sos yapalım) +1 yk. zeytinyağı baharatlar\nHindi füme (2 dilim)ya da tavuk fleto dilimleri\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık, limon ve sirke +1 yemek kaşığı zeytinyağı ile)\nHaşhaş ezmesi ekmeği (1 dilim)\nZeytin (5 adet)\nAkşam ()\n*Kıymalı Semizotu / patlıcan yemeği\nAvokado ve Rokalı Salata\nKollajen (1 ölçek 10 gram)\nÖğle ()\nYumurtalı ıspanak /pazı\nkavurma\n30 gr pastırma, sucuk ya da 2 dilim tavuk fleto\nMevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon ve 1 yemek kaşığı zeytinyağı ile)\nHaşhaş ezmesi ekmeği (1 dilim)\nBitter çikolata (2 kare)\nAkşam ()\n200 gram ızgara ya da tavada kırmızı et\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı\nzeytinyağı)\nÖğle ()\nHaşlanmış yumurta ya da sahanda (2 yumurta - 1 tatlı kaşığı tereyağı)\nZeytin (10 adet)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber+1 y"
+      "pdfText": "HALİME TARHAN / 31 AĞUSTOS -6 EYLÜL 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)\nPAZARTESİ\nÖğle ()\nKavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)\nZeytin (10 adet)\nMevsim Yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)\nHaşhaş ezmesi ekmeği (1 dilim)\nAkşam ()\n200 gram köfte\nYeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nMantarlı omlet (2 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)\nMevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon+1 yemek kaşığı zeytinyağı ile)\nHaşhaş ezmesi ekmeği (1 dilim)\n1/2 avokado\nZeytin (5 adet)\nAkşam ()\n*Tavuklu Mantar Sote\nMevsim salata (1 yemek kaşığı zeytinyağı ile)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nFırında domates soslu sebze kızartması (1 kabak, 3 yeşil biber, 1 adet orta boy patlıcan + üzerine 1 adet domates ve\n1 diş sarımsak ile sos yapalım) +1 yk. zeytinyağı baharatlar\nHindi füme (2 dilim)ya da tavuk fleto dilimleri\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık, limon ve sirke +1 yemek kaşığı zeytinyağı ile)\nHaşhaş ezmesi ekmeği (1 dilim)\nZeytin (5 adet)\nAkşam ()\n*Kıymalı Semizotu / patlıcan yemeği\nAvokado ve Rokalı Salata\nKollajen (1 ölçek 10 gram)\nÖğle ()\nYumurtalı ıspanak /pazı\nkavurma\n30 gr pastırma, sucuk ya da 2 dilim tavuk fleto\nMevsim Yeşillikleri (dereotu, roka, maydanoz, sirke, limon ve 1 yemek kaşığı zeytinyağı ile)\nHaşhaş ezmesi ekmeği (1 dilim)\nBitter çikolata (2 kare)\nAkşam ()\n200 gram ızgara ya da tavada kırmızı et\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı\nzeytinyağı)\nÖğle ()\nHaşlanmış yumurta ya da sahanda (2 yumurta - 1 tatlı kaşığı tereyağı)\nZeytin (10 adet)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber+1 y",
+      "kilitli": false,
+      "eslesmeyenTarifler": [
+        "hali̇me tarhan / 31 ağustos -6 eylül 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "kavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)",
+        "zeytin (10 adet)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke,limon ve 1 yemek kaşığı zeytinyağı ile)",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "kollajen (1 ölçek 10 gram)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "mantarlı omlet (2 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke, limon+1 yemek kaşığı zeytinyağı ile)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "mevsim salata (1 yemek kaşığı zeytinyağı ile)",
+        "kollajen (1 ölçek 10 gram)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "fırında domates soslu sebze kızartması (1 kabak, 3 yeşil biber, 1 adet orta boy patlıcan + üzerine 1 adet domates ve",
+        "hindi füme (2 dilim)ya da tavuk fleto dilimleri",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık, limon ve sirke +1 yemek kaşığı zeytinyağı ile)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kıymalı semizotu / patlıcan yemeği",
+        "kollajen (1 ölçek 10 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "pastırma, sucuk ya da 2 dilim tavuk fleto",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, sirke, limon ve 1 yemek kaşığı zeytinyağı ile)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "bitter çikolata (2 kare)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da tavada kırmızı et",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta ya da sahanda (2 yumurta - 1 tatlı kaşığı tereyağı)",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber+1 yemek kaşığı",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "akşam (tercihen hava kararınca)",
+        "kollajen (1 ölçek 10 gram)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sebzeli omlet (2 yumurta, 5 adet mantar, 1 adet yeşil biber + 1 yemek kaşığı zeytinyağı)",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "akşam (tercihen hava kararınca)",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, 4-5 dal maydanoz + limon, 1 yemek",
+        "kollajen (1 ölçek 10 gram)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 yemek kaşığı",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "ceviz (5 adet )",
+        "akşam (tercihen hava kararınca)",
+        "köfte",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "yaban mersini ya da 5 adet çilek",
+        "kollajen (1 ölçek 10 gram)",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "köfte",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "tavuklu mantar sote",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "avokado ve rokalı salata",
+        "yumurtalı ıspanak /pazı",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "tavuk pirzola ya da kanat",
+        "közlenmiş patlıcan salatası",
+        "patlıcanlı tavuk sote",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "köfte",
+        "cevizli kaşık salatası",
+        "haşhaş ezmesi ekmeği (1 dilim)"
+      ],
+      "ekNotlar": "Merhaba Hali̇me Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 2. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-08-20T13:31:00.220Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-22T06:22:33.835Z",
+  "sonGuncelleme": "2026-08-22T06:32:20.532Z",
   "githubKaydedildi": true
 }
