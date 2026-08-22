@@ -793,10 +793,27 @@
         "kabak sote (1 adet kabak ve 1 tatlı kaşığı zeytinyağı ile)",
         "bakla unu ekmeği"
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-08-31",
+      "bitis": "2026-09-06",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-08-22T06:23:17.402Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-10T14:35:47.496Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-20T10:01:06.841Z",
+  "sonGuncelleme": "2026-08-22T06:23:17.403Z",
   "githubKaydedildi": true
 }
