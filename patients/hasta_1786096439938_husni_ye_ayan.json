@@ -830,10 +830,27 @@
         "cevizli kaşık salatası",
         "badem unu ekmeği (1 dilim)"
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-08-31",
+      "bitis": "2026-09-06",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-08-22T06:23:26.969Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-07T09:53:59.938Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-20T10:01:20.598Z",
+  "sonGuncelleme": "2026-08-22T06:23:26.970Z",
   "githubKaydedildi": true
 }
