@@ -2689,8 +2689,111 @@
       "pdfYolu": "pdfs/SEVİNÇ AĞCA MERAL 31 AĞUSTOS -6 EYLÜL 11. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVİNÇ AĞCA MERAL 31 AĞUSTOS -6 EYLÜL 11. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVİNÇ AĞCA MERAL 31 AĞUSTOS -6 EYLÜL 11. HAFTA.pdf",
-      "kayitTarihi": "2026-08-22T06:22:43.706Z",
-      "tarifKartlar": [],
+      "kayitTarihi": "2026-08-26T12:36:02.728Z",
+      "tarifKartlar": [
+        {
+          "tarifAdi": "maydanozlu poğaça",
+          "kartResmi": "maydanozlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/maydanozlu_pogaca.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "lor salatası",
+          "kartResmi": "lor_peyniri_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lor_peyniri_salatasi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "starbucks kurabiye",
+          "kartResmi": "starbucks_kurabiye.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/starbucks_kurabiye.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "patlıcan kebabı",
+          "kartResmi": "patlican_kebabi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_kebabi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu semizotu salatası",
+          "kartResmi": "yogurtlu_semizotu_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_semizotu_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
+          "kartResmi": "karabugday_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/karabugday_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk pirzola ya da kanat",
+          "kartResmi": "firinda_tavuk_kanat.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_tavuk_kanat.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "cevizli kaşık salatası",
+          "kartResmi": "cevizli_kasik_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_kasik_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "göçmen salatası",
+          "kartResmi": "gocmen_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/gocmen_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kabaklı çökertme kebabı",
+          "kartResmi": "kabak_cokertme_kebabi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_cokertme_kebabi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "biber dolması (lor & yumurta dolgulu)",
+          "kartResmi": "biber_dolmasi_lor_ve_yumurta_dolgulu.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/biber_dolmasi_lor_ve_yumurta_dolgulu.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "sulu et kızartması",
+          "kartResmi": "sulu_et_kizartmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sulu_et_kizartmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "waffle",
+          "kartResmi": "waffle.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/waffle.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "pazı sarması",
+          "kartResmi": "pazi_sarmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazi_sarmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuklu tepsi kebabı",
+          "kartResmi": "tavuklu_tepsi_kebabi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuklu_tepsi_kebabi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu kırmızı biber mezesi",
+          "kartResmi": "yogurtlu_kirmizi_biber_mezesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_kirmizi_biber_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "köfteli patlıcan yemeği",
+          "kartResmi": "kofteli_patlican_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kofteli_patlican_yemegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
       "tarifler": [
         "sevi̇nç ağca meral / 31 ağustos -6 eylül 2026",
         "her sabah güne başlarken:",
@@ -2775,13 +2878,110 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Sevinç Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda on birinci haftaya başlıyoruz.\n\nBu haftayla birlikte artık fiziksel değişimlerin yanı sıra yeme davranışlarımızın duygusal yönüne de biraz daha yakından bakma zamanı geldi. Çünkü lipödem yalnızca bedensel bir tablo değil, psikolojik olarak da yönetilmesi gereken bir sürece dönüşebiliyor. Bu nedenle bu hafta sizi bu alanda destekleyecek bir yapı oluşturduk.\n\nZaman zaman aniden gelen bir tatlı isteği, bir şeyler yeme ihtiyacı ya da durup dururken buzdolabını açma gibi durumlar yaşıyor olabilirsiniz. Bu anlarda hissettiğimiz açlık çoğu zaman gerçek bir fiziksel açlık değil, duygusal açlık dediğimiz bir durumdur. Bu, bedensel bir ihtiyaçtan çok, günün stresi, yorgunluğu veya can sıkıntısı gibi duygusal bir boşluğu doldurma çabasıdır. Beynimiz bu anlarda bizi hızlıca iyi hissettirecek, genellikle karbonhidrat ağırlıklı yiyeceklere yönlendirir çünkü bu yiyecekler geçici bir rahatlama sağlar. Ancak bu rahatlama hissi uzun vadede yerini pişmanlığa bırakabilir.\n\nİşte bu hafta sizin için hazırladığımız listede, bu anları daha yönetilebilir kılacak bazı pratik çözümler de oluşturduk. Örneğin, elinizin altında bulunması için eklediğimiz maydanozlu poğaça veya sağlıklı malzemelerle hazırlanan Starbucks kurabiye gibi tarifler, ani gelen yeme isteği anlarında güvenli bir sığınak olabilir. Bu tarz sağlıklı atıştırmalıkları önceden hazırlayıp ulaşılabilir bir yerde tutmak, kriz anlarında kontrolü elinizde tutmanızı kolaylaştırır.\n\nBu yeni dönemi besinsel olarak da güçlü bir şekilde destekliyoruz. Listenizdeki haşlanmış yumurta, lor salatası ve peynir çeşitleri, hem hormonal dengeyi destekleyen D vitamini ve selenyum açısından zengindir hem de kaliteli protein sağlayarak tokluk hissinizi uzatır. Bu, duygusal dalgalanmalara karşı sizi daha dirençli kılar. Akşamları tüketeceğiniz fındık ve çiğ badem, sinir sistemini sakinleştirmeye yardımcı olan magnezyum içerir. Bu da özellikle stresli anlarda yeme isteğini yönetmenize yardımcı olur.\n\nGeçen hafta başladığımız daha esnek düşük karbonhidratlı düzene devam ediyoruz. Listenizdeki karabuğday ekmeği, elma veya şeftali gibi seçenekler, yasak hissini ortadan kaldırarak süreci psikolojik olarak daha sürdürülebilir hale getirir. Patlıcan kebabı, tavuklu tepsi kebabı gibi ana yemekleriniz ve yanlarındaki yoğurtlu semizotu salatası gibi bol çeşitli sebzeler, hem lif alımınızı artırır hem de antioksidanlarla vücudunuzu strese karşı korur.\n\nBu hafta kendinizi gözlemlemek için küçük bir adım atabilirsiniz. Bir yeme krizi hissettiğinizde, o an ne hissettiğinizi birkaç kelimeyle bir yere not almayı deneyin. Bu, zamanla kendi tetikleyicilerinizi tanımanıza ve bu durumları daha bilinçli yönetmenize yardımcı olacaktır. Unutmayın, bu süreçte kendinize anlayışla yaklaşmak en önemli adımdır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
       "pdfFile": {},
-      "pdfText": "SEVİNÇ AĞCA MERAL / 31 AĞUSTOS -6 EYLÜL 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nMaydanozlu poğaça\nLor salatası\nStarbucks Kurabiye\nAkşam ()\nPatlıcan kebabı\nYoğurtlu Semizotu Salatası\nKarabuğday ekmeği 1 dilim 25 gr\nÖğle ()\nHaşlanmış yumurta (3 adet)\nYeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)\n3 cherry domatesi bir tatlı kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nFındık (10 adet)\n1 adet elma ya da 3 adet kırmızı erik\nAkşam ()\n150 gr. Tavuk pirzola ya da kanat\nCevizli Kaşık Salatası\nKarabuğday ekmeği 1 dilim 25 gr\nTurşu (organik, ev yapımı)\nÖğle ()\nHaşlanmış yumurta (2 adet)\nGöçmen Salatası\nKarabuğday ekmeği 1 dilim 25 gr\nZeytin (10 adet)\nAkşam ()\nKabaklı çökertme kebabı\n* Yoğurt (kebabın üzerine servis etmek için 2 yemek kaşığı ev yoğurdu)\nKarabuğday ekmeği 1 dilim 25 gr\nStarbucks Kurabiye\nToz kollajen 1 ölçek\nÖğle ()\nBiber Dolması (Lor & Yumurta Dolgulu)\nZeytin (5 adet)\nSalatalık (orta boy) + domates (orta boy)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nKarabuğday ekmeği 1 dilim 25 gr\nAkşam ()\nSulu Et Kızartması\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)\nWaffle\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nTulum peyniri veya kaşar peyniri (50 gram)\nÇiğ badem (10 adet)\nZeytin (5 adet)\nYeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)\n1 adet elma ya da şeftali\nAkşam ()\nPazı Sarması\n* Yoğurt ( 2 yemek kaşığı ev yoğurdu)\nKarabuğday ekmeği 1 dilim 25 gr\nTurşu (organik, ev yapımı)\nCUMARTESİ\nÖğle ()\nMaydanozlu poğaça\nYeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)\nÇiğ badem (10 adet)\nAkşam ()\nTavuklu Tepsi Kebabı\nYoğurtlu Kırmızı "
+      "pdfText": "SEVİNÇ AĞCA MERAL / 31 AĞUSTOS -6 EYLÜL 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nMaydanozlu poğaça\nLor salatası\nStarbucks Kurabiye\nAkşam ()\nPatlıcan kebabı\nYoğurtlu Semizotu Salatası\nKarabuğday ekmeği 1 dilim 25 gr\nÖğle ()\nHaşlanmış yumurta (3 adet)\nYeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)\n3 cherry domatesi bir tatlı kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nFındık (10 adet)\n1 adet elma ya da 3 adet kırmızı erik\nAkşam ()\n150 gr. Tavuk pirzola ya da kanat\nCevizli Kaşık Salatası\nKarabuğday ekmeği 1 dilim 25 gr\nTurşu (organik, ev yapımı)\nÖğle ()\nHaşlanmış yumurta (2 adet)\nGöçmen Salatası\nKarabuğday ekmeği 1 dilim 25 gr\nZeytin (10 adet)\nAkşam ()\nKabaklı çökertme kebabı\n* Yoğurt (kebabın üzerine servis etmek için 2 yemek kaşığı ev yoğurdu)\nKarabuğday ekmeği 1 dilim 25 gr\nStarbucks Kurabiye\nToz kollajen 1 ölçek\nÖğle ()\nBiber Dolması (Lor & Yumurta Dolgulu)\nZeytin (5 adet)\nSalatalık (orta boy) + domates (orta boy)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nKarabuğday ekmeği 1 dilim 25 gr\nAkşam ()\nSulu Et Kızartması\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)\nWaffle\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nTulum peyniri veya kaşar peyniri (50 gram)\nÇiğ badem (10 adet)\nZeytin (5 adet)\nYeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)\n1 adet elma ya da şeftali\nAkşam ()\nPazı Sarması\n* Yoğurt ( 2 yemek kaşığı ev yoğurdu)\nKarabuğday ekmeği 1 dilim 25 gr\nTurşu (organik, ev yapımı)\nCUMARTESİ\nÖğle ()\nMaydanozlu poğaça\nYeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)\nÇiğ badem (10 adet)\nAkşam ()\nTavuklu Tepsi Kebabı\nYoğurtlu Kırmızı ",
+      "kilitli": true,
+      "eslesmeyenTarifler": [
+        "sevi̇nç ağca meral / 31 ağustos -6 eylül 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "akşam (tercihen hava kararınca)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (3 adet)",
+        "yeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)",
+        "fındık (10 adet)",
+        "elma ya da 3 adet kırmızı erik",
+        "akşam (tercihen hava kararınca)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "turşu (organik, ev yapımı)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (2 adet)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "zeytin (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yoğurt (kebabın üzerine servis etmek için 2 yemek kaşığı ev yoğurdu)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "starbucks kurabiye",
+        "toz kollajen 1 ölçek",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + domates (orta boy)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "akşam (tercihen hava kararınca)",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "çiğ badem (10 adet)",
+        "zeytin (5 adet)",
+        "yeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)",
+        "elma ya da şeftali",
+        "akşam (tercihen hava kararınca)",
+        "yoğurt ( 2 yemek kaşığı ev yoğurdu)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "turşu (organik, ev yapımı)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "maydanozlu poğaça",
+        "yeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (3 adet)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "yeşillikler (4 yaprak marul, orta boy domates, orta boy salatalık, 4-5 dal maydanoz, limon ve sirke ile)",
+        "ceviz (3 adet)",
+        "zeytin (5 adet)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "akşam (tercihen hava kararınca)",
+        "cevizli kaşık salatası",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "maydanozlu poğaça",
+        "lor salatası",
+        "starbucks kurabiye",
+        "patlıcan kebabı",
+        "yoğurtlu semizotu salatası",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "tavuk pirzola ya da kanat",
+        "cevizli kaşık salatası",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "göçmen salatası",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "kabaklı çökertme kebabı",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "starbucks kurabiye",
+        "biber dolması (lor & yumurta dolgulu)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "sulu et kızartması",
+        "waffle",
+        "pazı sarması",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "maydanozlu poğaça",
+        "tavuklu tepsi kebabı",
+        "yoğurtlu kırmızı biber mezesi",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "köfteli patlıcan yemeği",
+        "cevizli kaşık salatası"
+      ],
+      "ekNotlar": "Merhaba Sevi̇nç Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 11. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-06-23T14:48:46.871Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-22T06:22:43.847Z",
+  "sonGuncelleme": "2026-08-26T12:36:02.748Z",
   "githubKaydedildi": true
 }
