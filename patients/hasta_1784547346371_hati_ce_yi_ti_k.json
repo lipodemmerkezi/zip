@@ -1649,7 +1649,7 @@
       "pdfYolu": "pdfs/HATİCE YİTİK 31 AĞUSTOS -6 EYLÜL 7. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YİTİK 31 AĞUSTOS -6 EYLÜL 7. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YİTİK 31 AĞUSTOS -6 EYLÜL 7. HAFTA.pdf",
-      "kayitTarihi": "2026-08-22T06:24:31.402Z",
+      "kayitTarihi": "2026-08-26T06:36:51.890Z",
       "tarifKartlar": [
         {
           "tarifAdi": "bakla unu ekmeği",
@@ -1919,12 +1919,12 @@
         "bakla unu ekmeği",
         "kabak lazanya"
       ],
-      "kilitli": false,
+      "kilitli": true,
       "ekNotlar": "ölçümleri iyi. kıyafetlerinde değişiklik varmış. memnun.\nMerhaba Hati̇ce Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-26T06:36:49.937Z",
+  "sonGuncelleme": "2026-08-26T06:36:51.908Z",
   "githubKaydedildi": true
 }
