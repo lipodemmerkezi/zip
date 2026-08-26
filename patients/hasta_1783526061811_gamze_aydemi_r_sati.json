@@ -2143,7 +2143,7 @@
       "gptMesaj": "",
       "pdfFile": {},
       "pdfText": "GAMZE AYDEMİR SATI / 31 AĞUSTOS -6 EYLÜL 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nKabak Dürüm\nZeytin (5 adet)\nYeşillikler (marul, dereotu, roka,+ sirke, limon ve 1 yemek kaşığı zeytinyağı ile)\nAkşam ()\n150 gr. Fırında Tavuk pirzola ya da kanat\n*Zeytinyağlı Deniz Börülcesi ya da semizotu salata\n*Lupin unlu ekmek (1 dilim)\nTurşu (organik, ev yapımı)\nÖğle ()\nKahvaltılık Kuru Soğanlı Cevizli Lor Kavurması\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı zeytinyağı\nÇiğ badem (10 adet)\nZeytin (5 adet)\nAkşam ()\n120 gram köfte\nYeşil salata (marul, dereotu, roka, kırmızı lahana, sirke, limon ve 1 yemek kaşığı zeytinyağı ile)\nÖğle ()\nHaşlanmış yumurta (1 adet)\nYeşillikler (dereotu, roka, maydanoz, marul, 1 adet küçük domates + sirke ve limon +1 tatlı kaşığı zeytinyağı ile)\n*Lupin unlu ekmek (1 dilim)\nZeytin (5 adet)\nTulum / kaşar peyniri (30 gram)\nAkşam ()\nAlinazik Kebabı\nTurşu (organik, ev yapımı)\nLupin unlu kek (1 dilim için)\nKabak çekirdeği (1 avuç)\nÖğle ()\nKetojenik tost (2 dilim lupin unu ekmeği arasına 30 gram kaşar peyniri,2 dilim hindi füme ya da tavuk dilimleri, yeşillikler)\nZeytin (5 adet)\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı zeytinyağı\nCeviz (3 adet)\nAkşam ()\nKöz Patlıcan Çorbası\nFırında Köfteli Mantarlı Güveç\nTurşu (organik, ev yapımı)\n5 adet çilek ya da 10 adet yaban mersini\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık, limon ve sirke+1 tatlı kaşığı zeytinyağı\nÇiğ badem (10 adet)\n*Lupin unlu ekmek (1 dilim)\nAkşam ()\nKuzu ya da Tavuk güveç\nYeşil salata (marul, dereotu, roka, kırmızı lahana, sirke, limon ve 1 yemek kaşığı zeytinyağı i",
-      "kilitli": true,
+      "kilitli": false,
       "eslesmeyenTarifler": [
         "gamze aydemi̇r sati / 31 ağustos -6 eylül 2026",
         "her sabah güne başlarken:",
@@ -2241,6 +2241,6 @@
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-25T09:05:33.920Z",
+  "sonGuncelleme": "2026-08-26T06:42:42.938Z",
   "githubKaydedildi": true
 }
