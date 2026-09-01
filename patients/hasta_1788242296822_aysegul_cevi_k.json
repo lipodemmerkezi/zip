@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/AYŞEGÜL ÇEVİK 2-6 EYLÜL 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞEGÜL ÇEVİK 2-6 EYLÜL 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞEGÜL ÇEVİK 2-6 EYLÜL 1. HAFTA.pdf",
-      "kayitTarihi": "2026-09-01T05:58:48.274Z",
+      "kayitTarihi": "2026-09-01T06:05:55.387Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -125,7 +125,7 @@
         "adet cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba Ayşegül Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Çarşamba günü itibariyle programımızda ilk haftaya başlıyoruz.\n\nBu yolculuğa başlarken, lipödemin ne olduğunu ve neden bu şekilde bir beslenme düzeni oluşturduğumuzu kısaca anlatmak isterim. Lipödem, genetik ve hormonal faktörlere bağlı gelişen, vücutta kronik bir iltihabi durum yaratan bir doku hastalığıdır. Amacımız, bu iltihabı baskılayarak ilerlemesini durdurmak ve bedenin kendi onarım mekanizmalarını harekete geçirmektir. Bu yüzden attığımız her adımın bir anlamı var.\n\nBu hafta en temel adımlarımızdan biri, süt ve süt ürünlerini bir süreliğine beslenmemizden çıkarmak olacak. Bu sayede hem vücuttaki inflamasyonu tetikleyebilecek potansiyel bir kaynağı azaltmış olacağız hem de bağırsak floramızı daha sağlıklı bir yapıya kavuşturmak için zemin hazırlayacağız. Bu sadece geçici bir durum, üçüncü hafta itibarıyla kontrollü bir şekilde süt ürünlerini tekrar programımıza dahil edeceğiz.\n\nBu dönemde protein ihtiyacımızı karşılamak için listenizde de göreceğiniz gibi yumurtayı temel besinimiz olarak belirledik. Sahanda, haşlanmış veya sebzeli omlet şeklinde tüketebileceğiniz yumurta, sadece kaliteli bir protein değil, aynı zamanda lipödem sürecinde doku onarımını destekleyen A, D, B12 vitaminleri, selenyum ve kolin gibi değerli besinler açısından da çok zengindir.\n\nSizin için hazırladığımız listede balık, kırmızı et gibi protein kaynaklarının yanı sıra bolca yeşillik ve sağlıklı yağlar da bulunuyor. Özellikle ızgara balık, içerdiği omega-3 sayesinde iltihapla mücadelede bize güç katacak. Ispanak, roka gibi yeşillikler ve kabak çekirdeği ise hem magnezyum açısından zengindir hem de lenfatik dolaşımı desteklemeye yardımcı olur.\n\nBu süreçte dolaşımı desteklemek ve doku onarımına katkıda bulunmak amacıyla bazı takviyelerden de faydalanabiliriz. Bunlar zorunlu olmamakla birlikte süreci hızlandırabilir. Üçüncü haftadan itibaren ise bağırsak florasını güçlendirmek için probiyotik ve prebiyotik desteklerine başlayacağız.\n\nSon olarak, bu pazar günü ilk ölçümlerinizi almanızı rica edeceğim. Bel, kalça ve bacak çevresi gibi bölgeleri ölçerek kaydetmeniz, ilerlememizi somut olarak görmemizi sağlayacak. Unutmayın, bizim için tartıdaki rakamdan çok, mezuradaki incelme önemli.\n\nProgramın başlangıcı yeni alışkanlıklar edinme dönemi olduğu için biraz zorlayıcı gelebilir, ancak bedeninizdeki olumlu değişimleri kısa sürede hissetmeye başlayacaksınız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -210,6 +210,6 @@
   ],
   "olusturmaTarihi": "2026-09-01T05:58:16.822Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-01T06:05:53.132Z",
+  "sonGuncelleme": "2026-09-01T06:05:55.403Z",
   "githubKaydedildi": true
 }
