@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/ESMA KAYACAN 3-6 EYLÜL 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ESMA KAYACAN 3-6 EYLÜL 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ESMA KAYACAN 3-6 EYLÜL 1. HAFTA.pdf",
-      "kayitTarihi": "2026-09-01T12:12:04.445Z",
+      "kayitTarihi": "2026-09-01T12:14:36.796Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -118,7 +118,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba Esma Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Perşembe günü itibariyle programımızda ilk haftaya başlıyoruz.\n\nBu süreçte adım adım ilerleyeceğimiz, sade ama oldukça etkili bir yapı kurduk. Lipödem, bildiğiniz gibi genetik ve hormonal temellere dayanan kronik bir iltihabi durumdur. Bu programdaki temel amacımız da bu iltihabi süreci doğru beslenme ve yaşam tarzı alışkanlıklarıyla yöneterek ilerlemesini durdurmak ve bedenin kendi onarım mekanizmalarını harekete geçirmek olacak.\n\nİlk adım olarak, bu hafta süt ve süt ürünlerini kısa bir süreliğine programımızdan çıkarıyoruz. Bu, vücuttaki potansiyel inflamasyon kaynaklarını azaltmak ve bağırsak florasını dinlendirerek daha sonraki adımlara zemin hazırlamak için önemli bir adımdır. Bu dönemin geçici olduğunu ve 3. haftadan itibaren süt ürünlerini kontrollü bir şekilde tekrar ekleyeceğimizi şimdiden belirtmek isterim.\n\nBu süreçte protein ihtiyacımızı karşılamak için yumurtayı temel besinlerimizden biri olarak kullanacağız. Sizin için hazırladığımız listede de görebileceğiniz gibi sebzeli omlet ve sahanda yumurta gibi seçenekler mevcut. Yumurta, kaliteli bir protein kaynağı olmasının yanı sıra lipödem sürecinde bize destek olacak A, D, B12 vitaminleri ve selenyum gibi değerli mikrobesinler açısından da oldukça zengindir.\n\nListenize eklediğimiz ızgara balık, omega-3 açısından zengin olduğu için vücuttaki iltihaplanmayı azaltmada kilit rol oynayacak. Aynı şekilde tahin, ceviz, badem gibi sağlıklı yağlar ve bol yeşillik içeren salatalar da hem kan şekerinizi dengeleyecek hem de antioksidan kapasitenizi artırarak doku onarımını destekleyecektir. Kollajen takviyesi ise bu süreçte cilt elastikiyetini korumamıza yardımcı olacak.\n\nProgramın başlangıcı her zaman adaptasyon gerektirir, ancak kısa sürede bedeninizdeki hafiflemeyi ve değişimleri hissetmeye başlayacaksınız. Unutmayın, bu yolda tartıdaki rakamlardan çok, mezura ile alacağınız ölçümlerdeki incelmeye odaklanacağız. Bu nedenle iki haftada bir pazar günleri ölçümlerinizi alıp not etmeniz, ilerlememizi takip etmek adına çok değerli olacak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -188,6 +188,6 @@
   ],
   "olusturmaTarihi": "2026-09-01T12:10:47.608Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-01T12:13:54.350Z",
+  "sonGuncelleme": "2026-09-01T12:14:36.813Z",
   "githubKaydedildi": true
 }
