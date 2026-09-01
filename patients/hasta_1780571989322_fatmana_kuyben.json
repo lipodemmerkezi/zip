@@ -2,7 +2,7 @@
   "id": 1780571989322,
   "isim": "FATMANA KUYBEN",
   "not": "LEVETRON 175 MG KULLANIYOR.",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3762,6 +3762,6 @@
   ],
   "olusturmaTarihi": "2026-06-04T11:19:49.322Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-08-26T12:55:02.473Z",
+  "sonGuncelleme": "2026-09-01T06:08:14.108Z",
   "githubKaydedildi": true
 }
