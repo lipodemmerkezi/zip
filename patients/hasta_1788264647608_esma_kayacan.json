@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-08-30",
-      "bitis": "2026-09-05",
+      "baslangic": "2026-09-03",
+      "bitis": "2026-09-06",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ESMA KAYACAN 3-6 EYLÜL 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ESMA KAYACAN 3-6 EYLÜL 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ESMA KAYACAN 3-6 EYLÜL 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ESMA KAYACAN 3-6 EYLÜL 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ESMA KAYACAN 3-6 EYLÜL 1. HAFTA.pdf",
+      "kayitTarihi": "2026-09-01T12:12:04.445Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-01T12:10:47.608Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-01T12:11:41.582Z",
+  "sonGuncelleme": "2026-09-01T12:12:04.446Z",
   "githubKaydedildi": true
 }
