@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-08-30",
-      "bitis": "2026-09-05",
+      "baslangic": "2026-09-02",
+      "bitis": "2026-09-06",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞEGÜL ÇEVİK 2-6 EYLÜL 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞEGÜL ÇEVİK 2-6 EYLÜL 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞEGÜL ÇEVİK 2-6 EYLÜL 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞEGÜL ÇEVİK 2-6 EYLÜL 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞEGÜL ÇEVİK 2-6 EYLÜL 1. HAFTA.pdf",
+      "kayitTarihi": "2026-09-01T05:58:48.274Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-01T05:58:16.822Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-01T05:58:35.296Z",
+  "sonGuncelleme": "2026-09-01T05:58:48.275Z",
   "githubKaydedildi": true
 }
