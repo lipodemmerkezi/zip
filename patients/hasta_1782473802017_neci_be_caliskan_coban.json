@@ -2909,7 +2909,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Necibe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 11. haftaya geçiyoruz.\n\nGeçen hafta düşük karbonhidratlı esnekliği masa başı düzeninize uyarladık. Bu hafta, uzun süre otururken gerçek açlık oluşmadan elin yiyeceğe gitmesi, iş stresi veya zihinsel yorgunlukla gelen isteği ele alacağız. Daha önce konuştuğumuz ölçüleri ve eski yakınmaları yeniden açmıyorum; bu haftanın yeni işi, otomatik davranışı fark edip yerine uygulanabilir bir ara koymak.\n\nLupin unlu ya da lorlu poğaça, porsiyonu önceden belli bir ilk öğün veya planlı mola seçeneği olabilir; çalışma masasının üzerinde gün boyu bulunmamalı. Patlıcan kebabı ile yoğurtlu semizotu ve tavukla borani, gerçek açlıkta ana öğün olarak sizi daha uzun süre taşıyacak iki farklı tabak. Kabak lazanya daha hafif bir akşam yemeği sunarken, browni kurabiyeyi yalnızca planlanan miktarla ana öğünün sonunda değerlendirin. Böylece kurabiye, zor bir işin ardından kendiliğinden verilen ödüle dönüşmez.\n\nİstek geldiğinde ekrandan iki dakika uzaklaşın ve son öğünün saatini kontrol edin. Normal bir ana öğünü de yiyebilecek durumdaysanız açlık olabilir; yalnız kurabiye veya belirli bir tat düşünülüyorsa su, kısa koridor yürüyüşü ya da ayak bileği hareketiyle on dakika bekleyin. İstek sürerse planlı seçeneğinizi oturarak ve porsiyonu ayırarak yiyin. Saat, o anki duygu ve sonucu tek cümleyle kaydetmeniz yeterli. Amacımız kendinizi denetlemek değil, masa başındaki en sık tetikleyiciyi tanıyıp bir sonraki haftaya taşınabilir bir çözüm bulmak.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
       "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -3014,6 +3014,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T11:36:42.017Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-02T06:16:49.647Z",
+  "sonGuncelleme": "2026-09-02T07:44:27.738Z",
   "githubKaydedildi": true
 }
