@@ -1343,7 +1343,7 @@
       "gptMesaj": "",
       "pdfFile": {},
       "pdfText": "SERMİN DEVECİ\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nHaşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar\nTulum / kaşar peyniri (30 gram)\nBakla Unu Ekmeği\nZeytin (5 adet)\n3 cherry domatesi bir yemek kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nAkşam ()\nBonfile Steak\nYeşil salata (mevsim yeşillikleri+ 1 yemek kaşığı zeytinyağı)\nEv yapımı turşu\nKabak çekirdeği (1 avuç)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nMantarlı omlet (1 adet yumurta,5 adet mantar,1 tatlı kaşığı tereyağı)\nTulum peyniri veya kaşar peyniri (50 gram)\nYeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 tatlı kaşığı zeytinyağı ile)\nBitter çikolata (2 kare)\nFındık (10 adet)\nAkşam ()\nPatlıcan Lazanya\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı\nzeytinyağı)\nCeviz (3 adet)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nPeynirli biber dolması\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nCeviz (5 adet)\nZeytin (10 adet)\nAkşam ()\nMantar Soslu Köfte\nCevizli Köz Biber Mezesi\nFındık (10 adet)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nHaşlanmış yumurta (1 adet)\nTulum / kaşar peyniri (30 gram)\nHaşhaş ezmesi ekmeği (1 dilim)\nZeytin (5 adet)\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı\nzeytinyağı\nCeviz (3 adet)\nAkşam ()\nTavuk Fajita\nGöçmen Salatası\nÖğle ()\nSahanda yumurta (1 yumurta – 1 yemek kaşığı tereyağı)\nYeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon +1 tatlı kaşığı zeytinyağı ile)\nTulum / kaşar peyniri (30 gram)\nZeytin (10 adet)\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)\nAkşam ()\n150 gr. Tavuk pirzola ya da kanat\nCevizli Kaşık Salatası\nTurşu ",
-      "kilitli": true,
+      "kilitli": false,
       "eslesenTarifler": [
         "bakla unu ekmeği",
         "bonfile steak",
@@ -1447,6 +1447,6 @@
   ],
   "olusturmaTarihi": "2026-08-07T09:53:59.938Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-02T06:45:46.286Z",
+  "sonGuncelleme": "2026-09-03T05:35:31.412Z",
   "githubKaydedildi": true
 }
