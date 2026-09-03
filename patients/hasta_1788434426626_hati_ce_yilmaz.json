@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-08-30",
-      "bitis": "2026-09-05",
+      "baslangic": "2026-09-04",
+      "bitis": "2026-09-13",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA.pdf",
+      "kayitTarihi": "2026-09-03T11:21:14.329Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "09/04 - 09/13",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-03T11:20:26.626Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T11:20:53.928Z",
+  "sonGuncelleme": "2026-09-03T11:21:14.330Z",
   "githubKaydedildi": true
 }
