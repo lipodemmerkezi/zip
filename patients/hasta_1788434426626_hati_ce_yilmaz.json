@@ -3,9 +3,27 @@
   "isim": "HATİCE YILMAZ",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-08-30",
+      "bitis": "2026-09-05",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-09-03T11:20:26.626Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T11:20:26.627Z",
+  "sonGuncelleme": "2026-09-03T11:20:53.928Z",
   "githubKaydedildi": true
 }
