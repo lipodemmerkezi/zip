@@ -3269,7 +3269,86 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVGİ DOĞAN 7-13 EYLÜL 12. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVGİ DOĞAN 7-13 EYLÜL 12. HAFTA.pdf",
       "kayitTarihi": "2026-09-02T06:13:41.887Z",
-      "tarifKartlar": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "kabaklı ve havuçlu tost",
+          "kartResmi": "kabakli_ve_havuclu_tost.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabakli_ve_havuclu_tost.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "sulu köfte",
+          "kartResmi": "sulu_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sulu_kofte.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "nohut ekmeği",
+          "kartResmi": "nohut_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/nohut_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yarım su bardağı nohut+150 gr tavuk ya da kırmızı et ile nohut yemeği",
+          "kartResmi": "tavuklu_nohut_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuklu_nohut_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "patlıcan musakka",
+          "kartResmi": "patlican_musakka.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_musakka.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "urfa / adana kebap 150 gram ( 1 porsiyon)",
+          "kartResmi": "adana_urfa_kebap.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/adana_urfa_kebap.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "maydanozlu poğaça",
+          "kartResmi": "maydanozlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/maydanozlu_pogaca.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk köftesi",
+          "kartResmi": "tavuk_koftesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuk_koftesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kaşarlı kabak graten",
+          "kartResmi": "kasarli_kabak_graten.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kasarli_kabak_graten.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "elmalı tart kek",
+          "kartResmi": "elmali_tart_kek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/elmali_tart_kek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "lahana ya da kabak lazanya",
+          "kartResmi": "kabak_lazanya.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_lazanya.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "lahana ya da kabak lazanya",
+          "kartResmi": "lahana_lazanya.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lahana_lazanya.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "dondurma",
+          "kartResmi": "dondurma.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/dondurma.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
       "tarifler": [
         "sevgi̇ doğan",
         "hafta",
@@ -3360,13 +3439,113 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "Merhaba Sevgi Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 12. haftaya geçiyoruz.\n\nGeçen hafta zor anlarda yeme isteğini tanımak için kısa bir duraklama yöntemi oluşturduk. Bu hafta o gözlemleri kullanarak programın genelini toparlayacağız. İkinci danışmanlık sürecinizde birçok beslenme bilgisini zaten bildiğiniz için aynı dersleri tekrar etmek yerine, bilginin günlük yaşamda nerede aksadığını ve hangi çözümün gerçekten uygulanabildiğini bulmak istiyorum.\n\nSulu köfte, hazırlayıp birkaç öğüne bölünebilen ev tipi bir seçenek; nohutlu tavuk veya et yemeği de kontrollü baklagil porsiyonunu ayrı bir atıştırma yerine ana öğünün parçası yapıyor. Ton balığı tüketmediğiniz için pratik öğünü ona bağlamıyoruz; somon ile yeşil salata sizin kabul ettiğiniz balık seçeneği üzerinden daha hızlı bir akşam kuruyor. Elmalı tart kek veya dondurma bulunan günlerde amaç “hak ettim” düşüncesiyle miktarı büyütmek değil, önceden belirlenmiş porsiyonu planlı öğünün sonunda tüketip konuyu kapatabilmek.\n\nBu hafta üç başlıkta kısa değerlendirme yapın: en sık acıktığınız saat, en çok zorlandığınız ortam ve sizi düzene en hızlı döndüren öğün. Tartıda birkaç günlük duraklama varsa uyku, tuzlu dışarı yemeği, hareket ve adet dönemi gibi koşulları da not edin; bunları görmeden öğünleri keskin biçimde azaltmayın. Manuel lenf drenajı ve egzersizin gerçekçi sıklığını belirleyin. Bir uygulamayı kaçırdığınızda bütün düzeni bırakmak yerine, aynı gün yapabildiğiniz en küçük adımı seçmek uzun vadede daha değerlidir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
+      "gptMesaj": "",
       "pdfFile": {},
-      "pdfText": "SEVGİ DOĞAN\n/ 7-13 EYLÜL 2026\nPAZARTESİ\nÖğle ()\nKabaklı ve havuçlu tost\nYeşillikler (dereotu, roka, maydanoz,marul + sirke ve limon+ 1 yemek kaşığı zeytinyağı İle)\nÇiğ badem (20 adet)\n1 adet elma (100 gr) ya da 3 adet kırmızı erik\nAkşam ()\nSulu köfte\nMevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 yemek kaşığı zeytinyağı)\nNohut ekmeği\nÇiğ badem (10 adet)\nToz kollajen 1 ölçek\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nZeytin (10 adet)\n50 gram beyaz peynir\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+ limon+1 yemek kaşığı zeytinyağı ile\nNohut ekmeği\nAkşam ()\nYarım su bardağı nohut+150 gr tavuk ya da kırmızı et ile nohut yemeği\n100 gram köz patlıcan (1 yemek kaşığı zeytinyağı ve tuz ile soteleyin. Soğuyunca 2 kaşık yoğurt ekleyip karıştırın.\nToz kollajen 1 ölçek\nÖğle ()\nSebzeli omlet (1 yumurta, yarım kapya biber, 5 yaprak ıspanak ya da pazı, 1 yemek kaşığı zeytinyağı)\nYeşillikler (dereotu, roka, maydanoz,marul,sirke ve limon +1 yemek kaşığı zeytinyağı ile)\nNohut ekmeği\nZeytin (5 adet)\nTulum / kaşar peyniri (50 gram)\n1 adet elma veya şeftali\nAkşam ()\nPatlıcan musakka\n* Yoğurt (2 yemek kaşığı ev yoğurdu)\nÇiğ badem (20 adet)\nToz kollajen 1 ölçek\nÖğle ()\nKavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)\nTulum / kaşar peyniri (50 gram)\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı\nNohut ekmeği\n1 adet elma veya 5 adet çilek (100 gr)\nAkşam ()\nUrfa / adana kebap 150 gram ( 1 porsiyon)\nYeşil salata (marul, dereotu, roka, kırmızı lahana,sirke, limon ve 1 tatlı kaşığı zeytinyağı ile)\nKabak çekirdeği (1 avuç)\nÖğle ()\nMaydanozlu poğaça\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı\nZeytin (5 adet)\n1 adet közlenmiş kapya biber ( 50 gr)\nÇiğ badem (10 adet)\nAkşam ()\nTavuk köftesi\nKaşarlı Kabak"
+      "pdfText": "SEVGİ DOĞAN\n/ 7-13 EYLÜL 2026\nPAZARTESİ\nÖğle ()\nKabaklı ve havuçlu tost\nYeşillikler (dereotu, roka, maydanoz,marul + sirke ve limon+ 1 yemek kaşığı zeytinyağı İle)\nÇiğ badem (20 adet)\n1 adet elma (100 gr) ya da 3 adet kırmızı erik\nAkşam ()\nSulu köfte\nMevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 yemek kaşığı zeytinyağı)\nNohut ekmeği\nÇiğ badem (10 adet)\nToz kollajen 1 ölçek\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nZeytin (10 adet)\n50 gram beyaz peynir\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+ limon+1 yemek kaşığı zeytinyağı ile\nNohut ekmeği\nAkşam ()\nYarım su bardağı nohut+150 gr tavuk ya da kırmızı et ile nohut yemeği\n100 gram köz patlıcan (1 yemek kaşığı zeytinyağı ve tuz ile soteleyin. Soğuyunca 2 kaşık yoğurt ekleyip karıştırın.\nToz kollajen 1 ölçek\nÖğle ()\nSebzeli omlet (1 yumurta, yarım kapya biber, 5 yaprak ıspanak ya da pazı, 1 yemek kaşığı zeytinyağı)\nYeşillikler (dereotu, roka, maydanoz,marul,sirke ve limon +1 yemek kaşığı zeytinyağı ile)\nNohut ekmeği\nZeytin (5 adet)\nTulum / kaşar peyniri (50 gram)\n1 adet elma veya şeftali\nAkşam ()\nPatlıcan musakka\n* Yoğurt (2 yemek kaşığı ev yoğurdu)\nÇiğ badem (20 adet)\nToz kollajen 1 ölçek\nÖğle ()\nKavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)\nTulum / kaşar peyniri (50 gram)\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı\nNohut ekmeği\n1 adet elma veya 5 adet çilek (100 gr)\nAkşam ()\nUrfa / adana kebap 150 gram ( 1 porsiyon)\nYeşil salata (marul, dereotu, roka, kırmızı lahana,sirke, limon ve 1 tatlı kaşığı zeytinyağı ile)\nKabak çekirdeği (1 avuç)\nÖğle ()\nMaydanozlu poğaça\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı\nZeytin (5 adet)\n1 adet közlenmiş kapya biber ( 50 gr)\nÇiğ badem (10 adet)\nAkşam ()\nTavuk köftesi\nKaşarlı Kabak",
+      "kilitli": false,
+      "eslesmeyenTarifler": [
+        "sevgi̇ doğan",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yeşillikler (dereotu, roka, maydanoz,marul + sirke ve limon+ 1 yemek kaşığı zeytinyağı i̇le)",
+        "çiğ badem (20 adet)",
+        "elma (100 gr) ya da 3 adet kırmızı erik",
+        "akşam (tercihen hava kararınca)",
+        "mevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 yemek kaşığı zeytinyağı)",
+        "çiğ badem (10 adet)",
+        "toz kollajen 1 ölçek",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "zeytin (10 adet)",
+        "beyaz peynir",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+ limon+1 yemek kaşığı zeytinyağı ile",
+        "nohut ekmeği",
+        "akşam (tercihen hava kararınca)",
+        "köz patlıcan (1 yemek kaşığı zeytinyağı ve tuz ile soteleyin. soğuyunca 2 kaşık yoğurt ekleyip karıştırın.",
+        "toz kollajen 1 ölçek",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sebzeli omlet (1 yumurta, yarım kapya biber, 5 yaprak ıspanak ya da pazı, 1 yemek kaşığı zeytinyağı)",
+        "yeşillikler (dereotu, roka, maydanoz,marul,sirke ve limon +1 yemek kaşığı zeytinyağı ile)",
+        "nohut ekmeği",
+        "zeytin (5 adet)",
+        "tulum / kaşar peyniri (50 gram)",
+        "elma veya şeftali",
+        "akşam (tercihen hava kararınca)",
+        "yoğurt (2 yemek kaşığı ev yoğurdu)",
+        "çiğ badem (20 adet)",
+        "toz kollajen 1 ölçek",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "kavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)",
+        "tulum / kaşar peyniri (50 gram)",
+        "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı",
+        "nohut ekmeği",
+        "elma veya 5 adet çilek (100 gr)",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana,sirke, limon ve 1 tatlı kaşığı zeytinyağı ile)",
+        "kabak çekirdeği (1 avuç)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı",
+        "zeytin (5 adet)",
+        "közlenmiş kapya biber ( 50 gr)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "elma ya da 100 gram karpuz",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "maydanozlu poğaça",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, maydanoz,marul,sirke,limon ile)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (somon, çupra, levrek, alabalık vs.)",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "nohut ekmeği",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "nohut ekmeği",
+        "yeşillikler (dereotu, roka, maydanoz,marul,sirke,limon+1 tatlı kaşığı zeytinyağı ile)",
+        "zeytin (5 adet)",
+        "elmalı tart kek",
+        "akşam (tercihen hava kararınca)",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 tatlı kaşığı zeytinyağı ve",
+        "turşu (organik, ev yapımı)",
+        "toz kollajen 1 ölçek",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "kabaklı ve havuçlu tost",
+        "sulu köfte",
+        "nohut ekmeği",
+        "nohut ekmeği",
+        "yarım su bardağı nohut+150 gr tavuk ya da kırmızı et ile nohut yemeği",
+        "nohut ekmeği",
+        "patlıcan musakka",
+        "nohut ekmeği",
+        "urfa / adana kebap 150 gram ( 1 porsiyon)",
+        "maydanozlu poğaça",
+        "tavuk köftesi",
+        "kaşarlı kabak graten",
+        "maydanozlu poğaça",
+        "nohut ekmeği",
+        "elmalı tart kek",
+        "nohut ekmeği",
+        "elmalı tart kek",
+        "lahana ya da kabak lazanya",
+        "dondurma"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-06-19T07:38:33.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-02T07:45:11.644Z",
+  "sonGuncelleme": "2026-09-03T06:08:03.726Z",
   "githubKaydedildi": true
 }
