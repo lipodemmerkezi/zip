@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA.pdf",
-      "kayitTarihi": "2026-09-03T11:21:14.329Z",
+      "kayitTarihi": "2026-09-03T11:23:06.113Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -213,7 +213,7 @@
         "adet cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Cuma günü itibariyle programımızda ilk haftaya başlıyoruz.\n\nBu yolculuğa adım adım, sade ama etkili bir başlangıç yapıyoruz. Lipödemin temelinde yatan kronik iltihabi durumu ve hormonal dengeleri yöneterek ilerleyeceğiz. Bu süreci doğru adımlarla yönettiğimizde ilerlemesini durdurmak, hatta olumlu yönde değişimler görmek mümkün.\n\nBu ilk adımda, vücuttaki iltihabi yanıtları gözlemlemek ve bağırsak floramızı dinlendirmek amacıyla süt ve süt ürünlerine kısa bir ara veriyoruz. Bu, olası gıda duyarlılıklarının etkilerini anlamamıza yardımcı olacak önemli bir adım. Endişelenmeyin, bu sadece geçici bir durum; 3. haftadan itibaren kontrollü bir şekilde tekrar beslenmemize dahil edeceğiz.\n\nBu dönemde protein ihtiyacımızı karşılamak için listenizde sahanda yumurta, omlet gibi çeşitli yumurta tarifleri göreceksiniz. Yumurta, sadece kaliteli bir protein kaynağı olmakla kalmaz, aynı zamanda lipödem sürecinde bize destek olacak A, D ve B12 vitaminleri ile selenyum gibi değerli mikro besinleri de içerir.\n\nSizin için hazırladığımız listede, ıspanak, semizotu, kabak gibi sebzelerin yanı sıra ceviz, fındık gibi sağlıklı yağ kaynaklarını bolca kullandık. Bu besinler, anti-inflamatuar özellikleri sayesinde vücuttaki ödemin ve iltihabın azalmasına yardımcı olur. Özellikle balık gibi omega-3 kaynakları ve yeşil yapraklı sebzeler, dolaşımı destekleyerek lipödemin yönetilmesinde kilit rol oynar.\n\nAyrıca bu süreçte, doku onarımını desteklemek ve ödemi azaltmaya yardımcı olmak amacıyla bazı takviyelerden de faydalanabiliriz. Listenizde göreceğiniz kolajen de bu desteklerden biridir. İlerleyen haftalarda, özellikle 3. haftadan itibaren, bağırsak sağlığını güçlendirmek için probiyotik ve prebiyotik desteklerini de konuşuyor olacağız.\n\nSon olarak, süreçteki ilerlememizi en doğru şekilde takip edebilmek için tartıdan çok mezuraya odaklanacağız. Bu nedenle her iki haftada bir pazar günleri bel, kalça ve bacak gibi belirlediğimiz bölgelerden ölçüm alıp kaydetmenizi rica ediyorum. Gerçek değişim rakamlarda değil, incelmede gizlidir.\n\nProgramın başlangıcı yeni alışkanlıklar edinme dönemi olduğu için biraz adaptasyon gerektirebilir. Ancak emin olun, bedeninizdeki olumlu değişimleri kısa sürede hissetmeye başlayacaksınız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": true,
       "tabBaslik": "1. Hafta",
       "tabTarih": "09/04 - 09/13",
@@ -363,6 +363,6 @@
   ],
   "olusturmaTarihi": "2026-09-03T11:20:26.626Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T11:23:04.382Z",
+  "sonGuncelleme": "2026-09-03T11:23:06.133Z",
   "githubKaydedildi": true
 }
