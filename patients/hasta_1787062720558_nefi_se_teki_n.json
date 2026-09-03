@@ -714,8 +714,93 @@
       "pdfYolu": "pdfs/NEFİSE TEKİN 7-13 EYLÜL 4. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NEFİSE TEKİN 7-13 EYLÜL 4. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NEFİSE TEKİN 7-13 EYLÜL 4. HAFTA.pdf",
-      "kayitTarihi": "2026-09-02T06:10:51.055Z",
-      "tarifKartlar": [],
+      "kayitTarihi": "2026-09-03T05:30:59.108Z",
+      "tarifKartlar": [
+        {
+          "tarifAdi": "avokadolu omlet",
+          "kartResmi": "avokado_omleti.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/avokado_omleti.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "mantarlı tavuk sote",
+          "kartResmi": "mantarli_tavuk_sote.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/mantarli_tavuk_sote.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+          "kartResmi": "lupin_unlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lupin_unlu_pogaca.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+          "kartResmi": "lorlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lorlu_pogaca.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+          "kartResmi": "kabak_sote.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_sote.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
+          "kartResmi": "hashas_ezmesi_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/hashas_ezmesi_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırında sebzeli peynirli güveç",
+          "kartResmi": "firinda_sebzeli_peynirli_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_sebzeli_peynirli_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "göçmen salatası",
+          "kartResmi": "gocmen_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/gocmen_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "patlıcan kebabı",
+          "kartResmi": "patlican_kebabi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_kebabi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "sulu et kızartması",
+          "kartResmi": "sulu_et_kizartmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sulu_et_kizartmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "avokado ve rokalı salata",
+          "kartResmi": "avokado_ve_rokali_salata.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/avokado_ve_rokali_salata.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "ketojeni̇k pi̇zza",
+          "kartResmi": "ketojenik_pizza.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/ketojenik_pizza.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuklu kabak noodle",
+          "kartResmi": "tavuklu_kabak_noodle.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuklu_kabak_noodle.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
       "tarifler": [
         "nefi̇se teki̇n / 7-13 eylül 2026",
         "her sabah güne başlarken:",
@@ -810,11 +895,109 @@
       ],
       "gptMesaj": "Merhaba Nefise Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 4. haftaya geçiyoruz.\n\nGeçen hafta süt ürünlerini kontrollü biçimde geri alırken bağırsak ve şişkinlik yanıtınızı gözlemledik. Bu hafta odağımız “ne kadar az, o kadar iyi” yaklaşımı değil; kas dokusunu koruyacak ve bir sonraki öğüne kadar rahat taşıyacak yeterli ana öğünü kurmak. Sürekli açlık ya da belirgin halsizlik varsa porsiyonu daha da küçültmek çözüm değildir.\n\nAvokadolu omlet ile mantarlı tavuk, günün ilk bölümünde protein ve doygunluk sağlayan belirgin bir tabak oluşturuyor. Lupin unlu poğaça ile köfte ve kabak eşleşmesinde poğaçayı tek başına hızlı bir öğüne çevirmeyin; köfte ve sebzeyle tamamlayın. Tavuk yerine tercih etmediğiniz hindi kullanılmayacak; mantarlı tavuk ve tavuklu kabak noodle size uygun kaynaklarla aynı amacı karşılıyor. Somonlu mantar salatası ise daha hafif bir akşamda protein, sebze ve yağ bileşenlerini tek tabakta birleştiriyor.\n\nHer ana öğünden yaklaşık iki saat sonra açlık, enerji ve doygunluğu kısa biçimde değerlendirin. Çok erken acıkıyorsanız hangi öğünde protein veya sebze bölümünün eksik kaldığını yazın. Doygunluk erken oluştuğunda tabağı zorla bitirmeniz gerekmez; fakat gün boyu öğün atlayıp akşam güçlü açlık yaratmayın. Geçen haftaki süt ürünü gözlemlerinizde belirgin bir reaksiyon olduysa ürün ve miktarı ayrıca belirtin; bu haftanın porsiyon değerlendirmesini o bilgiyle birlikte yapalım.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
       "pdfFile": {},
-      "pdfText": "NEFİSE TEKİN / 7-13 EYLÜL 2026\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)\nPAZARTESİ\nÖğle ()\n*Avokadolu omlet\nYeşillikler (dereotu, roka, limon, sirke ve 1 yemek kaşığı zeytinyağı ile)\nTulum / kaşar peyniri (30 gram)\nZeytin (10 adet)\n5 adet çilek\nAkşam ()\n*Mantarlı tavuk sote\nYeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)\n* Yoğurt ( 2 yemek kaşığı ev yoğurdu)\nTurşu (organik, ev yapımı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*2 adet lupin unlu poğaça (veya 3 adet Lorlu poğaça)\nSalatalık (orta boy) + Cherry domates (2 adet)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nCeviz (3 adet )\nAkşam ()\n200 gram köfte\nKabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)\n2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı\nHaşhaş ezmesi ekmeği (1 dilim)\nÇiğ badem (10 adet)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nHaşlanmış yumurta (1 adet)\nHindi füme (2 dilim) ya da tavuk fleto dilimleri\nTulum /kaşar peyniri (50 gram)\nYeşillikler (dereotu, roka, marul vs. + limon, sirke ile)\nZeytin (10 adet)\nÇiğ badem (10 adet)\nAkşam ()\nFırında Sebzeli Peynirli Güveç\nGöçmen Salatası\nHaşhaş ezmesi ekmeği (1 dilim)\nEv yapımı turşu\nKollajen (1 ölçek 10 gram)\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar peyniri (50 gram)\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)\nAkşam ()\nPatlıcan kebabı\n* Yoğurt ( 2 yemek kaşığı ev yoğurdu)\n2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı\nEv yapımı turşu\nKabak çekirdeği (1 avuç)\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*2 adet lupin unlu poğaça (veya 3 adet Lorlu poğaça)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka,1 adet küçük salatalık, limon ve sirke +1 tatlı kaşığı zeytinyağı ile)\nAkşam ()\nSulu Et Kızartması\nAvokado ve Rokalı Salata\nÇiğ badem (10 adet)\n2 küçük kare bitter çikolata\nCUMARTESİ\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar peynir"
+      "pdfText": "NEFİSE TEKİN / 7-13 EYLÜL 2026\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)\nPAZARTESİ\nÖğle ()\n*Avokadolu omlet\nYeşillikler (dereotu, roka, limon, sirke ve 1 yemek kaşığı zeytinyağı ile)\nTulum / kaşar peyniri (30 gram)\nZeytin (10 adet)\n5 adet çilek\nAkşam ()\n*Mantarlı tavuk sote\nYeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)\n* Yoğurt ( 2 yemek kaşığı ev yoğurdu)\nTurşu (organik, ev yapımı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*2 adet lupin unlu poğaça (veya 3 adet Lorlu poğaça)\nSalatalık (orta boy) + Cherry domates (2 adet)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nCeviz (3 adet )\nAkşam ()\n200 gram köfte\nKabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)\n2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı\nHaşhaş ezmesi ekmeği (1 dilim)\nÇiğ badem (10 adet)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nHaşlanmış yumurta (1 adet)\nHindi füme (2 dilim) ya da tavuk fleto dilimleri\nTulum /kaşar peyniri (50 gram)\nYeşillikler (dereotu, roka, marul vs. + limon, sirke ile)\nZeytin (10 adet)\nÇiğ badem (10 adet)\nAkşam ()\nFırında Sebzeli Peynirli Güveç\nGöçmen Salatası\nHaşhaş ezmesi ekmeği (1 dilim)\nEv yapımı turşu\nKollajen (1 ölçek 10 gram)\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar peyniri (50 gram)\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)\nAkşam ()\nPatlıcan kebabı\n* Yoğurt ( 2 yemek kaşığı ev yoğurdu)\n2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı\nEv yapımı turşu\nKabak çekirdeği (1 avuç)\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*2 adet lupin unlu poğaça (veya 3 adet Lorlu poğaça)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka,1 adet küçük salatalık, limon ve sirke +1 tatlı kaşığı zeytinyağı ile)\nAkşam ()\nSulu Et Kızartması\nAvokado ve Rokalı Salata\nÇiğ badem (10 adet)\n2 küçük kare bitter çikolata\nCUMARTESİ\nÖğle ()\nSahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar peynir",
+      "kilitli": true,
+      "eslesmeyenTarifler": [
+        "nefi̇se teki̇n / 7-13 eylül 2026",
+        "her sabah güne başlarken:",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı / sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yeşillikler (dereotu, roka, limon, sirke ve 1 yemek kaşığı zeytinyağı ile)",
+        "tulum / kaşar peyniri (30 gram)",
+        "zeytin (10 adet)",
+        "çilek",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana, 1 yemek kaşığı zeytinyağı)",
+        "yoğurt ( 2 yemek kaşığı ev yoğurdu)",
+        "turşu (organik, ev yapımı)",
+        "kollajen (1 ölçek 10 gram)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "tulum / kaşar peyniri (30 gram)",
+        "zeytin (5 adet)",
+        "ceviz (3 adet )",
+        "akşam (tercihen hava kararınca)",
+        "çiğ badem (10 adet)",
+        "kollajen (1 ölçek 10 gram)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet)",
+        "hindi füme (2 dilim) ya da tavuk fleto dilimleri",
+        "tulum /kaşar peyniri (50 gram)",
+        "yeşillikler (dereotu, roka, marul vs. + limon, sirke ile)",
+        "zeytin (10 adet)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "ev yapımı turşu",
+        "kollajen (1 ölçek 10 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+        "tulum / kaşar peyniri (50 gram)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yoğurt ( 2 yemek kaşığı ev yoğurdu)",
+        "ev yapımı turşu",
+        "kabak çekirdeği (1 avuç)",
+        "kollajen (1 ölçek 10 gram)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+        "tulum / kaşar peyniri (30 gram)",
+        "zeytin (5 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka,1 adet küçük salatalık, limon ve sirke +1 tatlı kaşığı zeytinyağı ile)",
+        "akşam (tercihen hava kararınca)",
+        "çiğ badem (10 adet)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "tulum / kaşar peyniri (30 gram)",
+        "zeytin (10 adet)",
+        "ceviz (5 adet)",
+        "çilek",
+        "akşam (tercihen hava kararınca)",
+        "somon fleto istenilen baharatlarla tavada yada ızgarada pişirelim.",
+        "mantar 1 yemek kaşığı zeytinyağında soteleyin. en alta salatayı, üzerine mantarları,en son balığı ekleyip",
+        "tahin",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "cherry domates (2 adet)",
+        "yeşillikler (dereotu, roka, marul+ sirke ve limon+1 tatlı kaşığı zeytinyağı ile )",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yoğurt ( 2 yemek kaşığı ev yoğurdu)",
+        "çilek",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "avokadolu omlet",
+        "mantarlı tavuk sote",
+        "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+        "köfte",
+        "kabak sote (1 adet kabak ve 1 yemek kaşığı zeytinyağı ile)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "fırında sebzeli peynirli güveç",
+        "göçmen salatası",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "patlıcan kebabı",
+        "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+        "sulu et kızartması",
+        "avokado ve rokalı salata",
+        "ketojeni̇k pi̇zza",
+        "tavuklu kabak noodle"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-08-18T14:18:40.558Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-02T07:44:33.327Z",
+  "sonGuncelleme": "2026-09-03T05:30:59.124Z",
   "githubKaydedildi": true
 }
