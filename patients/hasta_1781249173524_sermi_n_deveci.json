@@ -2,7 +2,7 @@
   "id": 1781249173524,
   "isim": "SERMİN DEVECİ",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3761,6 +3761,6 @@
   ],
   "olusturmaTarihi": "2026-06-12T07:26:13.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T06:13:39.605Z",
+  "sonGuncelleme": "2026-09-04T06:30:28.258Z",
   "githubKaydedildi": true
 }
