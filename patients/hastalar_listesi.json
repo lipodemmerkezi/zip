@@ -211,13 +211,6 @@
     "sonGuncelleme": "2026-09-03T06:02:20.975Z"
   },
   {
-    "id": 1781249173524,
-    "isim": "SERMİN DEVECİ",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-09-03T06:13:42.420Z"
-  },
-  {
     "id": 1781854713524,
     "isim": "SEVGİ DOĞAN",
     "not": "",
@@ -1178,6 +1171,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-06-25T05:31:05.398Z"
+  },
+  {
+    "id": 1781249173524,
+    "isim": "SERMİN DEVECİ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-09-04T06:30:32.017Z"
   },
   {
     "id": 1776171880065,
