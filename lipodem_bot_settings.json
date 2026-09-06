@@ -4,7 +4,7 @@
         "master_message_template": "Merhaba {{isim}} Hanım, Size {{tarih}} tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.",
         "egzersiz_kurallari": [
             {
-                "hafta": 9,
+                "hafta": 8,
                 "icerikler": [
                     {
                         "tip": "mesaj",
