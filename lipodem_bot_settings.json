@@ -4,7 +4,24 @@
         "master_message_template": "Merhaba {{isim}} Hanım, Size {{tarih}} tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.",
         "egzersiz_kurallari": [
             {
-                "hafta": 8,
+                "hafta": 5,
+                "icerikler": [
+                    {
+                        "tip": "mesaj",
+                        "metin": "[22:54, 06.09.2026] Mustafa Sacar Poliklinik - cep: Sizinle pazartesiden  itibaren manuel lenf drenaj masajı uygulamasına geçebiliriz, Masajı en az 20-25 dakika yavaş ve nazik hareketlerle yapalım herhangi bir masaj aleti yada masaj jeli kullanmadan yapalım 🙏🌸\n[22:54, 06.09.2026] Mustafa Sacar Poliklinik - cep: Drenaj masajını elle veya kıl fırça ile yapabilirsiniz. Elle yapılmasını öncelikle tercih ederim.\n\nMasaj programını şu şekilde uygulayın.\n1. ve 2. haftalarda (ilk 15 gün boyunca): Sabah ve akşam birer kez masaj yapın\n3. ve 4. haftalarda (ikinci 15 gün boyunca): Sadece sabah bir kez masaj yapın\n5. ve 6. haftalarda (üçüncü 15 gün boyunca): Günaşırı olarak sadece sabah bir kez masaj yapın\n7. ve 8. haftalarda (dördüncü 15 gün boyunca): Haftada iki kez (örn. Salı-Cuma günleri) sadece sabah bir kez masaj yapın.\n\n8 haftalık programın bitiminden itibaren artık düzenli olarak haftada bir kez masaja devam etmeniz gerekir."
+                    },
+                    {
+                        "tip": "link",
+                        "metin": "https://youtu.be/XjIkpzcOPg0?si=I2wEy8xW-xwrSx8G"
+                    },
+                    {
+                        "tip": "link",
+                        "metin": "https://youtu.be/cZudFuCZWxA?si=rVO553NBhqkiHABH"
+                    }
+                ]
+            },
+            {
+                "hafta": 9,
                 "icerikler": [
                     {
                         "tip": "mesaj",
