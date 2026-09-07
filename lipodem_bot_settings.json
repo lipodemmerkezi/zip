@@ -1,6 +1,6 @@
 {
     "settings": {
-        "download_dir": "D:\\indirilen_dosyalar",
+        "download_dir": "D:/indirilen_dosyalar",
         "master_message_template": "Merhaba {{isim}} Hanım, Size {{tarih}} tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.",
         "egzersiz_kurallari": [
             {
@@ -8,7 +8,7 @@
                 "icerikler": [
                     {
                         "tip": "mesaj",
-                        "metin": "[22:54, 06.09.2026] Mustafa Sacar Poliklinik - cep: Sizinle pazartesiden  itibaren manuel lenf drenaj masajı uygulamasına geçebiliriz, Masajı en az 20-25 dakika yavaş ve nazik hareketlerle yapalım herhangi bir masaj aleti yada masaj jeli kullanmadan yapalım 🙏🌸\n[22:54, 06.09.2026] Mustafa Sacar Poliklinik - cep: Drenaj masajını elle veya kıl fırça ile yapabilirsiniz. Elle yapılmasını öncelikle tercih ederim.\n\nMasaj programını şu şekilde uygulayın.\n1. ve 2. haftalarda (ilk 15 gün boyunca): Sabah ve akşam birer kez masaj yapın\n3. ve 4. haftalarda (ikinci 15 gün boyunca): Sadece sabah bir kez masaj yapın\n5. ve 6. haftalarda (üçüncü 15 gün boyunca): Günaşırı olarak sadece sabah bir kez masaj yapın\n7. ve 8. haftalarda (dördüncü 15 gün boyunca): Haftada iki kez (örn. Salı-Cuma günleri) sadece sabah bir kez masaj yapın.\n\n8 haftalık programın bitiminden itibaren artık düzenli olarak haftada bir kez masaja devam etmeniz gerekir."
+                        "metin": "Sizinle Pazartesi gününden itibaren manuel lenf drenaj masajı uygulamasına geçebiliriz, Masajı en az 20-25 dakika yavaş ve nazik hareketlerle yapalım herhangi bir masaj aleti yada masaj jeli kullanmadan yapalım 🙏🌸\n[22:54, 06.09.2026] Mustafa Sacar Poliklinik - cep: Drenaj masajını elle veya kıl fırça ile yapabilirsiniz. Elle yapılmasını öncelikle tercih ederim.\n\nMasaj programını şu şekilde uygulayın.\n1. ve 2. haftalarda (ilk 15 gün boyunca): Sabah ve akşam birer kez masaj yapın\n3. ve 4. haftalarda (ikinci 15 gün boyunca): Sadece sabah bir kez masaj yapın\n5. ve 6. haftalarda (üçüncü 15 gün boyunca): Günaşırı olarak sadece sabah bir kez masaj yapın\n7. ve 8. haftalarda (dördüncü 15 gün boyunca): Haftada iki kez (örn. Salı-Cuma günleri) sadece sabah bir kez masaj yapın.\n\n8 haftalık programın bitiminden itibaren artık düzenli olarak haftada bir kez masaja devam etmeniz gerekir."
                     },
                     {
                         "tip": "link",
@@ -25,7 +25,7 @@
                 "icerikler": [
                     {
                         "tip": "mesaj",
-                        "metin": "Sizinle pazartesiden itibaren egzersizlere başlayabiliriz. Egzersizleri kendinizi zorlamadan yapalım, ekranda görünen sayacı takip ederek 30 saniye ile başlayıp kademeli olarak arttırarak devam edelim 🌸"
+                        "metin": "Sizinle Pazartesi gününden itibaren egzersizlere başlayabiliriz. Egzersizleri kendinizi zorlamadan yapalım, ekranda görünen sayacı takip ederek 30 saniye ile başlayıp kademeli olarak arttırarak devam edelim 🌸"
                     },
                     {
                         "tip": "link",
@@ -48,12 +48,12 @@
         "patient_MİRAY DİKMEN MAYDA 3 MART-8 MART 2. HAFTA": "{\"checked\":false,\"name\":\"Miray Dikmen Mayda 3 Mart-8 Mart 2. Hafta\",\"exclude\":\"\",\"msg\":\"Merhaba Miray Hanım, Size  tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_NURCEN YENİYAYLA 7-13 EYLÜL 11. HAFTA": "{\"checked\":false,\"name\":\"Nurcen Yeniyayla\",\"exclude\":\"\",\"msg\":\"Merhaba Nurcen Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_ÇİĞDEM AKSU 7-13 EYLÜL 11. HAFTA": "{\"checked\":false,\"name\":\"Çiğdem Aksu\",\"exclude\":\"\",\"msg\":\"Merhaba Çiğdem Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
-        "macro_schedule": "{\"active\":true,\"day\":\"6\",\"time\":\"12:48\"}",
+        "macro_schedule": "{\"active\":true,\"day\":\"0\",\"time\":\"13:42\"}",
         "patient_HALİME TARHAN 7-13 EYLÜL 3. HAFTA": "{\"checked\":false,\"name\":\"Halime Tarhan\",\"exclude\":\"\",\"msg\":\"Merhaba Halime Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_RAHİME İLEM 17-23 AĞUSTOS 12. HAFTA": "{\"checked\":false,\"name\":\"Rahime İlem\",\"exclude\":\"\",\"msg\":\"Merhaba Rahime Hanım, Size 17-23 Ağustos tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "master_message_template": "Merhaba {{isim}} Hanım, Size {{tarih}} tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.",
         "patient_ESMA KAYACAN 7-13 EYLÜL 2. HAFTA": "{\"checked\":false,\"name\":\"Esma Kayacan\",\"exclude\":\"\",\"msg\":\"Merhaba Esma Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
-        "patient_BURCU HOMAN 7-13 EYLÜL 10. HAFTA": "{\"checked\":false,\"name\":\"kendime lipödem\",\"exclude\":\"2\",\"msg\":\"Merhaba Burcu Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
+        "patient_BURCU HOMAN 7-13 EYLÜL 10. HAFTA": "{\"checked\":true,\"name\":\"karalama\",\"exclude\":\"2\",\"msg\":\"Merhaba Burcu Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_HATİCE TAMER 7-13 EYLÜL 10. HAFTA": "{\"checked\":false,\"name\":\"Hatice Tamer\",\"exclude\":\"\",\"msg\":\"Merhaba Hatice Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_MERAL GÖKCE 7-13 EYLÜL 9. HAFTA": "{\"checked\":false,\"name\":\"Meral Gökce\",\"exclude\":\"\",\"msg\":\"Merhaba Meral Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_NECİBE ÇALIŞKAN ÇOBAN 7-13 EYLÜL 11. HAFTA": "{\"checked\":false,\"name\":\"Necibe Çalışkan Çoban\",\"exclude\":\"\",\"msg\":\"Merhaba Necibe Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
@@ -73,7 +73,7 @@
         "patient_SELVİNAZ MARDİN 7-13 EYLÜL 5. HAFTA": "{\"checked\":false,\"name\":\"Selvinaz Mardin\",\"exclude\":\"\",\"msg\":\"Merhaba Selvinaz Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_AYSEL YEŞİL 7-13 EYLÜL 12. HAFTA": "{\"checked\":false,\"name\":\"Aysel Yeşil\",\"exclude\":\"\",\"msg\":\"Merhaba Aysel Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_DUDU ŞAN 18-24 AĞUSTOS 1.HAFTA": "{\"checked\":false,\"name\":\"Dudu Şan\",\"exclude\":\"\",\"msg\":\"Merhaba Dudu Hanım, Size 18-24 Ağustos tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
-        "patient_AYŞEGÜL ÇEVİK 7-13 EYLÜL 2. HAFTA": "{\"checked\":false,\"name\":\"Ayşegül Çevik\",\"exclude\":\"\",\"msg\":\"Merhaba Ayşegül Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
+        "patient_AYŞEGÜL ÇEVİK 7-13 EYLÜL 2. HAFTA": "{\"checked\":true,\"name\":\"kendime lipödem\",\"exclude\":\"\",\"msg\":\"Merhaba Ayşegül Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum...............\",\"locked\":true}",
         "patient_SEVİNÇ AĞCA MERAL 7-13 EYLÜL 12. HAFTA": "{\"checked\":false,\"name\":\"Sevinç Ağca Meral\",\"exclude\":\"\",\"msg\":\"Merhaba Sevinç Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_HATİCE YILMAZ 4-13 EYLÜL 1. HAFTA": "{\"checked\":false,\"name\":\"Hatice Yılmaz\",\"exclude\":\"\",\"msg\":\"Merhaba Hatice Hanım, Size 4-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}",
         "patient_ŞERİFE GÜLEŞ 7-13 EYLÜL 5. HAFTA": "{\"checked\":false,\"name\":\"Şerife Güleş\",\"exclude\":\"\",\"msg\":\"Merhaba Şerife Hanım, Size 7-13 Eylül tarihleri arasındaki listenizi ve Doktor Bey'in mesajını iletiyorum.\",\"locked\":false}"
