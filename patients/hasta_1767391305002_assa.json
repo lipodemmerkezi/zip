@@ -777,9 +777,9 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-08-30",
-      "bitis": "2026-09-05",
-      "aciklama": "",
+      "baslangic": "2026-08-31",
+      "bitis": "2026-09-06",
+      "aciklama": "aaaaaaaaaaaaa",
       "pdf": null,
       "pdfName": null,
       "pdfOrijinalIsim": null,
@@ -795,6 +795,6 @@
   ],
   "olusturmaTarihi": "2026-01-02T22:01:45.002Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-07T21:10:35.307Z",
+  "sonGuncelleme": "2026-09-07T21:37:15.200Z",
   "githubKaydedildi": true
 }
