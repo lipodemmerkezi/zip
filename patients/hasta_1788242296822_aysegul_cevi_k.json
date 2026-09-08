@@ -467,10 +467,27 @@
         "köfte",
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem"
       ]
+    },
+    {
+      "haftaNo": 3,
+      "baslangic": "2026-09-14",
+      "bitis": "2026-09-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-08T08:43:27.281Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-01T05:58:16.822Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-07T20:37:12.985Z",
+  "sonGuncelleme": "2026-09-08T08:43:27.282Z",
   "githubKaydedildi": true
 }
