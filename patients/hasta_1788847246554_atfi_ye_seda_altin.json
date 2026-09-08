@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-09-06",
-      "bitis": "2026-09-12",
+      "baslangic": "2026-09-09",
+      "bitis": "2026-09-13",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ATFİYE SEDA ALTIN 9-13 EYLÜL 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ATFİYE SEDA ALTIN 9-13 EYLÜL 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ATFİYE SEDA ALTIN 9-13 EYLÜL 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ATFİYE SEDA ALTIN 9-13 EYLÜL 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ATFİYE SEDA ALTIN 9-13 EYLÜL 1. HAFTA.pdf",
+      "kayitTarihi": "2026-09-08T06:02:02.121Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-08T06:00:46.554Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-08T06:00:58.724Z",
+  "sonGuncelleme": "2026-09-08T06:02:02.122Z",
   "githubKaydedildi": true
 }
