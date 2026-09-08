@@ -3075,10 +3075,27 @@
         "karabuğday ekmeği 1 dilim 25 gr",
         "urfa / adana kebap 150 gram ( 1 porsiyon)"
       ]
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-09-14",
+      "bitis": "2026-09-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-08T08:45:57.272Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T06:01:45.464Z",
+  "sonGuncelleme": "2026-09-08T08:45:57.275Z",
   "githubKaydedildi": true
 }
