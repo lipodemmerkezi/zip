@@ -815,24 +815,26 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-09-13",
-      "bitis": "2026-09-19",
+      "baslangic": "2026-09-08",
+      "bitis": "2026-09-08",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HALİME TARHAN -14-20 EYLÜL 4. HAFTA.pdf",
+      "pdfOrijinalIsim": "HALİME TARHAN -14-20 EYLÜL 4. HAFTA.pdf",
+      "pdfYolu": "pdfs/HALİME TARHAN -14-20 EYLÜL 4. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HALİME TARHAN -14-20 EYLÜL 4. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HALİME TARHAN -14-20 EYLÜL 4. HAFTA.pdf",
+      "kayitTarihi": "2026-09-08T09:56:42.196Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-08-20T13:31:00.220Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-08T09:56:06.494Z",
+  "sonGuncelleme": "2026-09-08T09:56:42.199Z",
   "githubKaydedildi": true
 }
