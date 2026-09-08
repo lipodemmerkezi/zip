@@ -2979,10 +2979,27 @@
         "mantarlı et sote",
         "köz tadında fasulye salatası"
       ]
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-09-14",
+      "bitis": "2026-09-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-08T08:46:36.275Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T06:02:17.946Z",
+  "sonGuncelleme": "2026-09-08T08:46:36.277Z",
   "githubKaydedildi": true
 }
