@@ -1381,5 +1381,11 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
+  },
+  {
+    "id": "hali_me",
+    "isim": "HALİME",
+    "kayitTarihi": "2026-09-08T08:42:12.702Z",
+    "durumu": "aktif"
   }
 ]
