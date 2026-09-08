@@ -1519,10 +1519,27 @@
         "göçmen salatası",
         "bakla unu ekmeği"
       ]
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-09-14",
+      "bitis": "2026-09-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-08T08:43:51.275Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:32:21.274Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T05:40:34.006Z",
+  "sonGuncelleme": "2026-09-08T08:43:51.279Z",
   "githubKaydedildi": true
 }
