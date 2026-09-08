@@ -3405,10 +3405,27 @@
         "dondurma",
         "ketojenik makarna"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-09-14",
+      "bitis": "2026-09-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-08T08:47:50.273Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-06-17T14:34:01.085Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T06:03:23.502Z",
+  "sonGuncelleme": "2026-09-08T08:47:50.276Z",
   "githubKaydedildi": true
 }
