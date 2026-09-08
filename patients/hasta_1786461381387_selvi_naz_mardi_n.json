@@ -1325,10 +1325,27 @@
         "göçmen salatası",
         "haşhaş ezmesi ekmeği (1 dilim)"
       ]
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-09-14",
+      "bitis": "2026-09-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-08T08:42:52.279Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-11T15:16:21.387Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T05:37:07.276Z",
+  "sonGuncelleme": "2026-09-08T08:42:52.280Z",
   "githubKaydedildi": true
 }
