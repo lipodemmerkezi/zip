@@ -162,6 +162,13 @@
     "sonGuncelleme": "2026-09-08T08:44:38.222Z"
   },
   {
+    "id": "neci_be_caliskan_coban",
+    "isim": "NECİBE ÇALIŞKAN  ÇOBAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2026-09-08T08:46:23.649Z"
+  },
+  {
     "id": 1782473802017,
     "isim": "NECİBE ÇALIŞKAN ÇOBAN",
     "not": "",
@@ -1388,11 +1395,5 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
-  },
-  {
-    "id": "neci_be_caliskan_coban",
-    "isim": "NECİBE ÇALIŞKAN  ÇOBAN",
-    "kayitTarihi": "2026-09-08T08:46:19.807Z",
-    "durumu": "aktif"
   }
 ]
