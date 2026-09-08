@@ -85,6 +85,13 @@
     "sonGuncelleme": "2026-09-03T05:52:03.529Z"
   },
   {
+    "id": "hali_me",
+    "isim": "HALİME",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2026-09-08T08:42:16.334Z"
+  },
+  {
     "id": 1787232660220,
     "isim": "HALİME TARHAN",
     "not": "",
@@ -1381,11 +1388,5 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
-  },
-  {
-    "id": "hali_me",
-    "isim": "HALİME",
-    "kayitTarihi": "2026-09-08T08:42:12.702Z",
-    "durumu": "aktif"
   }
 ]
