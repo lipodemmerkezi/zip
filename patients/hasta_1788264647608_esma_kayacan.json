@@ -447,10 +447,27 @@
         "köfteli patlıcan yemeği",
         "cevizli kaşık salatası"
       ]
+    },
+    {
+      "haftaNo": 3,
+      "baslangic": "2026-09-14",
+      "bitis": "2026-09-20",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-08T08:42:28.271Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-01T12:10:47.608Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-03T05:29:52.802Z",
+  "sonGuncelleme": "2026-09-08T08:42:28.272Z",
   "githubKaydedildi": true
 }
