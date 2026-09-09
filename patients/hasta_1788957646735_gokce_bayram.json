@@ -6,24 +6,30 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-09-06",
-      "bitis": "2026-09-12",
+      "baslangic": "2026-09-11",
+      "bitis": "2026-09-20",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GÖKÇE BAYRAM 11-20 EYLÜL 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "GÖKÇE BAYRAM 11-20 EYLÜL 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/GÖKÇE BAYRAM 11-20 EYLÜL 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÖKÇE BAYRAM 11-20 EYLÜL 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÖKÇE BAYRAM 11-20 EYLÜL 1. HAFTA.pdf",
+      "kayitTarihi": "2026-09-09T12:41:36.525Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "Merhaba Gökçe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. CUMA  günü itibariyle programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "09/11 - 09/20",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-09T12:40:46.735Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-09T12:41:10.342Z",
+  "sonGuncelleme": "2026-09-09T12:41:36.526Z",
   "githubKaydedildi": true
 }
