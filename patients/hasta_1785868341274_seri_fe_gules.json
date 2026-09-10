@@ -1532,7 +1532,68 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ŞERİFE GÜLEŞ 14-20 EYLÜL 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ŞERİFE GÜLEŞ 14-20 EYLÜL 6. HAFTA.pdf",
       "kayitTarihi": "2026-09-08T08:43:58.854Z",
-      "tarifKartlar": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "tavuklu salata",
+          "kartResmi": "tavuk_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuk_salatasi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "fırında kabaklı börek (1 dilim)",
+          "kartResmi": "firinda_kabakli_borek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_kabakli_borek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuklu bamya yemeği",
+          "kartResmi": "tavuklu_bamya.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuklu_bamya.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu semizotu salatası",
+          "kartResmi": "yogurtlu_semizotu_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_semizotu_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "domatesli kabak çorbası",
+          "kartResmi": "domatesli_kabak_corbasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/domatesli_kabak_corbasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırınlanmış peynirli taze fasulye graten",
+          "kartResmi": "firinlanmis_peynirli_taze_fasulye_graten.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinlanmis_peynirli_taze_fasulye_graten.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli browni kek",
+          "kartResmi": "cevizli_browni_kek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_browni_kek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "domatesli kabak çorbası",
+          "kartResmi": "kabak_corbasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_corbasi.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "çıtır tavuk",
+          "kartResmi": "citir_tavuk.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/citir_tavuk.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        }
+      ],
       "tarifler": [
         "şeri̇fe güleş / 14-20 eylül 2026",
         "her sabah güne başlarken:",
@@ -1619,13 +1680,102 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "Merhaba Şerife Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 6. haftaya geçiyoruz.\n\nManuel lenf drenajını programa eklediğimiz haftanın ardından bu hafta besin çeşitliliğine odaklanacağız. Amaç her öğünde uzun bir vitamin listesi oluşturmak değil; hafta boyunca farklı protein ve sebze kaynaklarını dönüşümlü kullanarak tekdüzeliği azaltmak.\n\nSahanda yumurta daha sade bir ilk öğün sunarken, tavuklu salata proteini sebze hacmiyle birleştiriyor. Köfte ve semizotu, daha klasik bir ana öğünde doyuruculuk ile sebze dengesini koruyor. Kabak böreği sebzeyi ilk öğüne taşırken, tavuklu bamya farklı bir sebze ve protein eşleşmesi sağlıyor. Yoğurtlu semizotunu kullandığınız günlerde aynı öğüne fazladan süt ürünü eklemek yerine listedeki miktarı koruyun.\n\nBu hafta hedefiniz aynı sebzeyi ve aynı proteini art arda tekrarlamamak; menüdeki farklı seçenekleri hafta içine yaymak. Yeni bir takviyeye kendi kendinize başlamayın; takviyeleri gelecek haftanın güvenlik çerçevesinde ayrıca değerlendireceğiz. Son ölçümünüzün üzerinden henüz üç hafta dolmadığı için bu hafta ölçüm istemiyorum. Menüdeki çeşitliliğin tokluk, sindirim ve ödem hissine nasıl yansıdığını gözlemleyin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
+      "gptMesaj": "Merhaba Şerife Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 6. haftaya geçiyoruz.\n\nManuel lenf drenajını programa eklediğimiz haftanın ardından bu hafta besin çeşitliliğine odaklanacağız. Amaç her öğünde uzun bir vitamin listesi oluşturmak değil; hafta boyunca farklı protein ve sebze kaynaklarını dönüşümlü kullanarak tekdüzeliği azaltmak.\n\nListenizde bulunan sahanda yumurta daha sade bir ilk öğün sunarken, tavuklu salata proteini sebze hacmiyle birleştiriyor. Köfte ve semizotu, daha klasik bir ana öğünde doyuruculuk ile sebze dengesini koruyor. Kabak böreği sebzeyi ilk öğüne taşırken, tavuklu bamya farklı bir sebze ve protein eşleşmesi sağlıyor. Yoğurtlu semizotunu kullandığınız günlerde aynı öğüne fazladan süt ürünü eklemek yerine listedeki miktarı koruyun.\n\nBu hafta hedefiniz aynı sebzeyi ve aynı proteini art arda tekrarlamamak; menüdeki farklı seçenekleri hafta içine yaymak. Size önerdiğimiz takviyeleri biliyorsunuz. Bunun dışında Yeni bir takviyeye kendi kendinize başlamayın; Kullandığınız takviyelerle ilgili bilgileri zaten önümüzdeki hafta paylaşacağız. Konunun üzerinden gçeeceğiz. \nBu hafta lütfen, Menüdeki çeşitliliğin tokluk, sindirim ve ödem hissine nasıl yansıdığını gözlemleyin.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
       "pdfFile": {},
-      "pdfText": "ŞERİFE GÜLEŞ / 14-20 EYLÜL 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\n30 gram beyaz peynir\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)\nZeytin (5 adet)\n3 cherry domatesi bir yemek kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nAkşam ()\n*Tavuklu salata\nKabak çekirdeği (1 avuç)\nÖğle ()\nHaşlanmış yumurta (2 adet)\n50 gram beyaz peynir\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı\nÇiğ badem (10 adet)\nZeytin (10 adet)\nAkşam ()\n150 gram köfte\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*Fırında Kabaklı Börek (1 dilim)\nTulum / kaşar peyniri (50 gram)\nZeytin (10 adet)\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)\nÇiğ badem (20 adet)\nAkşam ()\nTavuklu Bamya Yemeği\nYoğurtlu Semizotu Salatası\nKollajen (1 ölçek 10 gram)\nÖğle ()\nMantarlı omlet (1 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)\nTulum peyniri veya kaşar peyniri (50 gram)\nZeytin (10 adet)\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)\nFındık (20 adet)\nBitter çikolata (2 kare)\nAkşam ()\n200 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)\nRoka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı\nve istenilen baharatlar ile)\nBir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)\nÖğle ()\nKavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)\nTulum peyniri veya kaşar peyniri (50 gram)\nZeytin (5 adet)\nÇiğ badem (10 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 ade"
+      "pdfText": "ŞERİFE GÜLEŞ / 14-20 EYLÜL 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\n30 gram beyaz peynir\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)\nZeytin (5 adet)\n3 cherry domatesi bir yemek kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nAkşam ()\n*Tavuklu salata\nKabak çekirdeği (1 avuç)\nÖğle ()\nHaşlanmış yumurta (2 adet)\n50 gram beyaz peynir\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı\nÇiğ badem (10 adet)\nZeytin (10 adet)\nAkşam ()\n150 gram köfte\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*Fırında Kabaklı Börek (1 dilim)\nTulum / kaşar peyniri (50 gram)\nZeytin (10 adet)\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)\nÇiğ badem (20 adet)\nAkşam ()\nTavuklu Bamya Yemeği\nYoğurtlu Semizotu Salatası\nKollajen (1 ölçek 10 gram)\nÖğle ()\nMantarlı omlet (1 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)\nTulum peyniri veya kaşar peyniri (50 gram)\nZeytin (10 adet)\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)\nFındık (20 adet)\nBitter çikolata (2 kare)\nAkşam ()\n200 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)\nRoka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı\nve istenilen baharatlar ile)\nBir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)\nÖğle ()\nKavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)\nTulum peyniri veya kaşar peyniri (50 gram)\nZeytin (5 adet)\nÇiğ badem (10 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 ade",
+      "kilitli": false,
+      "eslesmeyenTarifler": [
+        "şeri̇fe güleş / 14-20 eylül 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+        "beyaz peynir",
+        "yeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kabak çekirdeği (1 avuç)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (2 adet)",
+        "beyaz peynir",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı zeytinyağı",
+        "çiğ badem (10 adet)",
+        "zeytin (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı zeytinyağı)",
+        "kollajen (1 ölçek 10 gram)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tulum / kaşar peyniri (50 gram)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "kollajen (1 ölçek 10 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "mantarlı omlet (1 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, marul, sirke ve limon +1 yemek kaşığı zeytinyağı ile)",
+        "fındık (20 adet)",
+        "bitter çikolata (2 kare)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek kaşığı zeytinyağı",
+        "bir yemek kaşığı tahin içerisine, 1 adet ezilmiş ceviz içi ve hafif tarçın serpin)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "kavurmalı yumurta (2 yumurta, 50 gr. kavurma,istenilen baharatlar)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık+ limon ve sirke ile)",
+        "akşam (tercihen hava kararınca)",
+        "kollajen (1 ölçek 10 gram)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (2 adet)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "yeşillikler (dereotu, roka, marul, sirke ve limon ile)",
+        "akşam (tercihen hava kararınca)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı zeytinyağı",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "tavuk ya da kuzu güveç",
+        "köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
+        "kollajen (1 ölçek 10 gram)",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "tavuklu salata",
+        "köfte",
+        "fırında kabaklı börek (1 dilim)",
+        "tavuklu bamya yemeği",
+        "yoğurtlu semizotu salatası",
+        "domatesli kabak çorbası",
+        "fırınlanmış peynirli taze fasulye graten",
+        "cevizli browni kek",
+        "domatesli kabak çorbası",
+        "çıtır tavuk"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:32:21.274Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T13:56:17.477Z",
+  "sonGuncelleme": "2026-09-10T14:26:43.673Z",
   "githubKaydedildi": true
 }
