@@ -152,7 +152,7 @@
         "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Gaye Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 1. haftaya geçiyoruz.\n\nProgramın ilk haftasında hedefimiz bedeninizi zorlayan sert bir başlangıç yapmak değil; iki ana öğünün yapısını, su tüketimini ve günlük ritmi düzenlemek. Emzirmeyi yeni bıraktığınız dönemin ardından öğünleri gereğinden fazla küçültmeden ilerleyeceğiz. Günlük suyunuzun düşük olduğunu bildiğimiz için miktarı birden değil, gün içine yayarak kademeli artırın.\n\nSahanda yumurta ve tavuk dilimleri ilk öğünde proteinli bir temel oluşturuyor. Köfte ile kabak sote, ana öğünde proteini sebzeyle eşleştiriyor. Mantarlı omlet ve avokado farklı bir ilk öğün alternatifi; kıymalı taze fasulye ya da kabak yemeği ise evde hazırlanması kolay bir akşam seçeneği. Ton balığı ve hindi füme tüketmediğiniz için bunların yerine menüde belirtilen tavuk seçeneklerini kullanın; öğünü tamamen atlamayın.\n\nİlk iki hafta süt ve süt ürünlerini çıkararak eliminasyon düzenini uygulayacağız. Açlık, şişkinlik, bağırsak düzeni, ödem ve enerji değişimini kısa notlarla takip edin. Başlangıç değerlendirmesi için bu pazar benzer saat ve koşullarda kilo ile bel, kalça ve belirlenen bacak çevrelerini ölçüp göndermenizi rica ediyorum. Sonraki karşılaştırmalarda yalnız tartıya değil, çevre ölçüleri ve günlük hislerinize birlikte bakacağız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
       "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -255,6 +255,6 @@
   ],
   "olusturmaTarihi": "2026-09-10T09:47:51.850Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T09:52:49.483Z",
+  "sonGuncelleme": "2026-09-10T13:54:16.060Z",
   "githubKaydedildi": true
 }
