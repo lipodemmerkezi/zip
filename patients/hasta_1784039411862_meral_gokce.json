@@ -2466,10 +2466,27 @@
         "köfte / ya da 150 gram kuzu kavurma",
         "yoğurtlu salatalık mezesi"
       ]
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-09-13",
+      "bitis": "2026-09-19",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T14:34:51.805Z",
+  "sonGuncelleme": "2026-09-11T07:05:40.611Z",
   "githubKaydedildi": true
 }
