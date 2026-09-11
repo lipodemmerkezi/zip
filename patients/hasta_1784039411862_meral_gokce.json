@@ -2478,7 +2478,7 @@
       "pdfYolu": "pdfs/MERAL GÖKCE 14-20 EYLÜL 10. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERAL GÖKCE 14-20 EYLÜL 10. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERAL GÖKCE 14-20 EYLÜL 10. HAFTA.pdf",
-      "kayitTarihi": "2026-09-11T07:08:28.617Z",
+      "kayitTarihi": "2026-09-11T07:12:38.116Z",
       "tarifKartlar": [
         {
           "tarifAdi": "fırında kabaklı börek 1 dilim",
@@ -2670,7 +2670,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Meral Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda onuncu haftaya başlıyoruz.\n\nBu hafta, sürecimizde önemli ve keyifli bir dönemece giriyoruz. Dokuz haftalık yoğun ketojenik beslenme döneminin ardından, bedeninize yeni bir esneklik kazandırmak ve süreci daha sürdürülebilir hale getirmek amacıyla düşük karbonhidratlı (LowCarb) beslenme düzenine geçiş yapıyoruz. Ketojenik beslenme, inflamasyonu baskılamak ve vücudu onarım moduna almak için çok güçlü bir araçtı. Şimdi ise bu kazanımları koruyarak, sosyal yaşamınıza daha kolay uyum sağlayacak bir yapı oluşturma zamanı.\n\nBu hafta sizin için hazırladığımız listede bu geçişin ilk adımlarını göreceksiniz. Artık menünüzde karabuğday ekmeği gibi sağlıklı karbonhidrat kaynakları ve elma, çilek, karpuz gibi ölçülü porsiyonlarda meyveler de yer alıyor. Bu, ketozis durumundan çıktığımız ancak insülin dengesini korumaya devam ettiğimiz anlamına geliyor. Bu sayede beslenme çeşitliliğiniz artarken, lipödem yönetiminin temel hedeflerinden de uzaklaşmamış oluyoruz.\n\nListenizdeki somonlu roka ve avokado salatası gibi öğünler, omega-3 ve sağlıklı yağlar açısından zengin bir yapı sunarak iltihapla mücadeleye devam etmenizi sağlıyor. Tavuklu kabak noodle veya kıymalı bamya gibi yemekler ise hem doyurucu protein hem de bol lif içererek tokluk hissinizi destekliyor. Ev yoğurdu ve organik turşu gibi fermente gıdalarla da sindirim sisteminizi ve bağırsak floranızı desteklemeyi sürdürüyoruz; bu da genel bağışıklık ve ödem kontrolü için çok değerlidir.\n\nGeçen haftalarda konuştuğumuz yeme sıralaması kuralını, özellikle menünüze eklenen meyve ve karabuğday ekmeği gibi besinleri tüketirken uygulamanız, kan şekeri dengenizi korumada yine çok etkili olacaktır. Önce salata ve sebzeler, sonra protein ve yağlar, en son ise bu kontrollü karbonhidratları tüketmek, vücudun insülin tepkisini en aza indirir.\n\nBu geçiş dönemi, hem bedeninizi hem de zihninizi rahatlatacaktır. Elinizde artık hem eliminasyon, hem ketojenik, hem de LowCarb dönemine ait beslenme arşivleri oluşuyor. Bu, gelecekte kendi bedeninizi dinleyerek bu döngüleri bilinçli bir şekilde yönetebilmeniz için size büyük bir güç verecek.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -2781,6 +2781,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-11T07:09:30.040Z",
+  "sonGuncelleme": "2026-09-11T07:12:38.136Z",
   "githubKaydedildi": true
 }
