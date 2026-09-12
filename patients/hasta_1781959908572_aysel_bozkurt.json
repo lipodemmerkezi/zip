@@ -3502,7 +3502,7 @@
       "pdfYolu": "pdfs/AYSEL BOZKURT 14-20 EYLÜL 13. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYSEL BOZKURT 14-20 EYLÜL 13. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYSEL BOZKURT 14-20 EYLÜL 13. HAFTA.pdf",
-      "kayitTarihi": "2026-09-08T08:47:06.569Z",
+      "kayitTarihi": "2026-09-12T06:34:56.087Z",
       "tarifKartlar": [
         {
           "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
@@ -3706,7 +3706,7 @@
       "gptMesaj": "Merhaba Aysel Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda 13. haftaya geçiyoruz.\n\nOn ikinci haftada gerçek açlıkla alışkanlık kaynaklı yeme isteğini ayırmayı ve size sonuç getiren düzenin sürdürülebilir taraflarını konuşmuştuk. Son haftada yeni bir kısıtlama eklemiyoruz; evde ve dışarıda aynı temel dengeyi kurabilmenizi hedefliyoruz.\n\nHaftalık listenizde bulunan Domates çorbası, yanında protein bulunan bir ana öğüne geçişi kolaylaştıran bir başlangıç. Lahana ya da kabak lazanya sebzeyi ana yemeğin merkezine alırken, etli veya tavuklu nohut yemeği ölçülü baklagili proteinle eşleştiriyor. Köfte ve yanındaki sebze seçeneği de dışarıda benzerini kurabileceğiniz en pratik tabaklardan biri. Bu hafta porsiyonu küçülterek aç kalmak yerine, önce protein ve sebze kısmının tamamlandığından emin olun; gerçekten doymuşsanız listedeki ek seçenekleri bitirmek zorunda değilsiniz.\n\nÖnümüzdeki Pazar günü ölçümlerinizi göndermenizi rica ediyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa\n",
       "pdfFile": {},
       "pdfText": "AYSEL BOZKURT / 14-20 EYLÜL 2026\nPAZARTESİ\nÖğle ()\nHaşlanmış yumurta (1 adet)\nTulum / kaşar peyniri (50 gram)\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+ limon ve sirke ile\nZeytin (5 adet)\nKarabuğday ekmeği 1 dilim 25 gr\n1 adet elma (100 gr) ya da 2 adet incir\nAkşam ()\nDomates Çorbası\nLahana ya da kabak Lazanya\nÇiğ badem (20 adet)\nÖğle ()\nBakla Unlu Poğaça (3 adet poğaça için)\n50 gram beyaz peynir\nZeytin (5 adet)\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+ limon ve sirke+1 yemek kaşığı\nzeytinyağı ile\nAkşam ()\n*1/2 su bardağı nohut + 100 gr kırmızı et ya da tavuk eti ile nohut yemeği\nFırında domates soslu sebze kızartması (1 kabak, 3 yeşil biber, 1 adet orta boy patlıcan + üzerine 1 adet domates ve 1 diş sarımsak\nile sos yapalım) +1 yk. zeytinyağı baharatlar\nToz kollajen 1 ölçek\nÖğle ()\nsebzeli omlet (1 yumurta, yarım kapya biber, 5 yaprak ıspanak, 1 yemek kaşığı zeytinyağı)\nYeşillikler (roka, semizotu, marul, sirke ve limon ile)\nKarabuğday ekmeği 1 dilim 25 gr\nTulum / kaşar peyniri (30 gram)\nAkşam ()\nDomates Çorbası\n150 gram köfte\n*Fırında kaşarlı kuşkonmaz ya da kabak dilimleri\n1 adet elma veya şeftali\nÖğle ()\nBakla Unlu Poğaça (3 adet poğaça için)\nTulum / kaşar peyniri (50 gram)\nZeytin (5 adet)\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı zeytinyağı\nCeviz (3 adet)\nAkşam ()\nKaşarlı Kabak Graten\nYeşil mercimek köftesi low carb\nYoğurtlu Salatalık Mezesi\nToz kollajen 1 ölçek\nÖğle ()\nTuzlu Pankek\nTulum peyniri veya kaşar peyniri (30 gram)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık+ limon ve sirke ile)\nZeytin (5 adet)\n1 adet közlenmiş kapya biber ( 50 gr)\nÇiğ badem (20 adet)\n1 adet elma veya 1 adet kivi (100 gr)\nAkşam ()\nMantar Soslu Köfte\nYoğurtlu Salatalık Mezesi\nToz kollajen 1 ölçek\nCUMARTESİ\nÖğle ()\n2 adet lupin unlu poğaça (veya 3 adet Lorlu poğaça)\nHaşlanmış",
-      "kilitli": false,
+      "kilitli": true,
       "eslesmeyenTarifler": [
         "aysel bozkurt / 14-20 eylül 2026",
         "hafta",
@@ -3809,6 +3809,6 @@
   ],
   "olusturmaTarihi": "2026-06-20T12:51:48.572Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-12T05:38:15.777Z",
+  "sonGuncelleme": "2026-09-12T06:34:56.109Z",
   "githubKaydedildi": true
 }
