@@ -3374,7 +3374,7 @@
                         };
 
                         // Aynı hasta yoksa ekle
-                        if (!hastaListesi.find(h => h.id === hastaId)) {
+                        if (!hastaListesi.find(h => String(h.id) === String(hastaId))) {
                             hastaListesi.push(yeniHastaListesi);
                             await hastaListesiKaydet(hastaListesi);
                             console.log('✅ Hasta listesi GitHub\'a güncellendi');
@@ -4831,7 +4831,7 @@
             }
 
             // Hasta zaten var mı kontrol et
-            const mevcutIndex = mevcutListe.findIndex(h => h.id === hastaId || h.isim === hastaIsim);
+            const mevcutIndex = mevcutListe.findIndex(h => String(h.id) === String(hastaId) || h.isim === hastaIsim);
 
             if (mevcutIndex !== -1) {
                 // Mevcut hastayı güncelle
@@ -9507,7 +9507,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         }
 
         function hastaDetayGoster(id) {
-            seciliHasta = hastalar.find(h => h.id === id);
+            seciliHasta = hastalar.find(h => String(h.id) === String(id));
             if (!seciliHasta) return;
 
             const hastaIsim = seciliHasta.isim || seciliHasta.ad || 'Bilinmeyen Hasta';
@@ -9546,7 +9546,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
             gosterHaftalar();
 
             // Sidebar'ları güncelle
-            hastaSecildiginde(hastalar.findIndex(h => h.id === id));
+            hastaSecildiginde(hastalar.findIndex(h => String(h.id) === String(id)));
 
             console.log(`✅ ${hastaIsim} için hafta tabları yüklendi ve aktif hafta otomatik seçilecek`);
         }
@@ -16234,6 +16234,7 @@ Detaylı bilgiler için tarayıcı konsolunu (F12) açın.`);
 
             // Toplu ZIP butonunu ekle
             ekleTopluZipButonu();
+            ekleTopluGptButonu();
         }
 
         // Toplu ZIP butonunu sidebar'a ekle
@@ -19556,6 +19557,12 @@ console.log(`  PDF URL: ${pdfUrl}`);
                                 </div>
                             </div>
                         </div>
+                          <div>
+                              <label style="display: block; margin-bottom: 5px; font-weight: bold; color: #d9534f; margin-top: 15px;">OpenAI Assistant ID (Agent Modu):</label>
+                              <div style="position: relative; display: flex; align-items: center;">
+                                  <input type="text" id="gptAssistantId" placeholder="asst_..." style="width: 100%; padding: 10px; border: 1px solid #ced4da; border-radius: 4px; box-sizing: border-box;">
+                              </div>
+                          </div>
                         <div>
                             <label
                                 style="display: block; margin-bottom: 5px; font-weight: bold; color: #495057;">Model:</label>
@@ -19764,9 +19771,12 @@ console.log(`  PDF URL: ${pdfUrl}`);
 
                 <!-- Genel Prompt Şablonları -->
                 <div style="margin-bottom: 25px;">
-                    <h3 style="margin: 0 0 15px 0; color: #28a745; display: flex; align-items: center; gap: 8px;">
-                        <span>🎨</span> Genel Prompt Şablonları
-                    </h3>
+                    <h3 style="margin: 0 0 15px 0; color: #28a745; display: flex; align-items: center; justify-content: space-between;">
+                          <div style="display: flex; align-items: center; gap: 8px;">
+                              <span>🎨</span> Genel Prompt Şablonları
+                          </div>
+                          <button onclick="window.yukleV45Paketi()" style="padding: 6px 15px; background: #d9534f; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 13px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">🚀 v4.5 Klinik Kuralları Yükle</button>
+                      </h3>
 
                     <!-- Yeni Şablon Ekleme Formu -->
                     <div
@@ -29201,8 +29211,799 @@ IMPORTANT RULES:
 
             return { success: false, message: `GitHub'a kaydedilemedi.` };
         }
+
+        // --- TOPLU GPT ANALIZ SISTEMI ---
+        function ekleTopluGptButonu() {
+            const sidebarButtons = document.getElementById('sidebarButtons');
+            if (sidebarButtons) {
+                if (sidebarButtons.querySelector('.toplu-gpt-button')) return;
+                
+                const btn = document.createElement('button');
+                btn.className = 'toplu-gpt-button';
+                btn.innerHTML = '🤖 TOPLU GPT MESAJI';
+                btn.title = 'Seçilen hastalar için otomatik mesaj oluşturur';
+                btn.style.cssText = `
+                  width: 100%; 
+                  padding: 12px; 
+                  font-size: 14px; 
+                  font-weight: bold; 
+                  background: linear-gradient(45deg, #10a37f, #0d8a6b); 
+                  color: white; 
+                  border: none; 
+                  border-radius: 6px; 
+                  cursor: pointer; 
+                  box-shadow: 0 4px 15px rgba(0,0,0,0.2); 
+                  transition: all 0.3s ease; 
+                  display: flex; 
+                  align-items: center; 
+                  justify-content: center; 
+                  gap: 8px;
+                  margin-top: 10px;
+                `;
+                btn.onmouseover = () => btn.style.transform = 'translateY(-2px)';
+                btn.onmouseout = () => btn.style.transform = 'translateY(0)';
+                btn.onclick = showBulkGptModal;
+                
+                sidebarButtons.appendChild(btn);
+            }
+        }
+
+        async function showBulkGptModal() {
+            const tokenElement = document.getElementById('githubToken');
+            if (!tokenElement || !tokenElement.value.trim()) { 
+                alert('GitHub token ayarlanmamış!'); 
+                return; 
+            }
+            
+            const progressDiv = document.createElement('div');
+            progressDiv.id = 'bulkGptProgressOverlay';
+            progressDiv.innerHTML = '<div style="background:white;padding:20px;border-radius:8px;font-weight:bold;box-shadow:0 10px 30px rgba(0,0,0,0.5);">Hastalar yükleniyor, lütfen bekleyin...</div>';
+            progressDiv.style.cssText = 'position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.6);display:flex;justify-content:center;align-items:center;z-index:99999;';
+            document.body.appendChild(progressDiv);
+            
+            let tumHastalar = [];
+            try {
+                if(typeof hastaListesiYukle === 'function') {
+                    tumHastalar = await hastaListesiYukle();
+                } else {
+                    throw new Error("hastaListesiYukle fonksiyonu bulunamadı.");
+                }
+            } catch(e) {
+                alert('Hastalar yüklenemedi: ' + e);
+                if(document.body.contains(progressDiv)) document.body.removeChild(progressDiv);
+                return;
+            }
+            
+            const aktifHastalar = tumHastalar.filter(h => !h.arsiv);
+            if(aktifHastalar.length === 0) { 
+                alert('Aktif hasta bulunamadı!'); 
+                if(document.body.contains(progressDiv)) document.body.removeChild(progressDiv);
+                return; 
+            }
+            
+            progressDiv.innerHTML = '<div style="background:white;padding:20px;border-radius:8px;font-weight:bold;box-shadow:0 10px 30px rgba(0,0,0,0.5);text-align:center;">Hasta detayları yükleniyor (Hafta bilgileri için)...<br><small style="font-weight:normal;color:#666;">Bu işlem birkaç saniye sürebilir.</small></div>';
+            
+            const GITHUB_REPO = document.getElementById('githubRepo')?.value.trim() || 'lipodemmerkezi/zip';
+            const GITHUB_TOKEN = document.getElementById('githubToken')?.value.trim();
+            
+            const hastaDetaylari = [];
+            for (let i = 0; i < aktifHastalar.length; i += 3) {
+                const chunk = aktifHastalar.slice(i, i + 3);
+                const promises = chunk.map(h => getHastaData(h.id, GITHUB_REPO, GITHUB_TOKEN, h.isim).catch(() => null));
+                const sonuclar = await Promise.all(promises);
+                sonuclar.forEach((data, index) => {
+                    const detay = {
+                        ...chunk[index],
+                        haftalar: data ? (data.haftalar || []) : [],
+                        maxHaftaNo: 0
+                    };
+                    
+                    if (detay.haftalar.length > 0) {
+                        detay.maxHaftaNo = Math.max(...detay.haftalar.map((h, idx) => h.haftaNo || (idx + 1)));
+                    }
+                    hastaDetaylari.push(detay);
+                });
+            }
+            
+            // Hastaları varsayılan olarak artan hafta sayısına (en düşükten en yükseğe), sonra isme göre alfabetik sırala
+            hastaDetaylari.sort((a, b) => {
+                if (a.maxHaftaNo !== b.maxHaftaNo) {
+                    return a.maxHaftaNo - b.maxHaftaNo; // Artan sıralama
+                }
+                return a.isim.localeCompare(b.isim);
+            });
+            
+            window.bgptState = {
+                hastalar: hastaDetaylari,
+                sortField: 'hafta',
+                sortDir: 'asc'
+            };
+
+            window.kapatTopluGptModal = function() { window.bgptIptalEdildi = true; const m = document.getElementById('bulkGptModal'); if(m) m.remove(); };
+            
+                window.bgptToggleMode = function() {
+                    const isAgent = document.querySelector('input[name="bgpt_mode"]:checked').value === 'agent';
+                    const stdSettings = document.getElementById('bgpt_standard_settings');
+                    if (isAgent) {
+                        stdSettings.style.opacity = '0.5';
+                        stdSettings.style.pointerEvents = 'none';
+                    } else {
+                        stdSettings.style.opacity = '1';
+                        stdSettings.style.pointerEvents = 'auto';
+                    }
+                };
+
+              window.bgptSort = function(field) {
+                if (window.bgptState.sortField === field) {
+                    window.bgptState.sortDir = window.bgptState.sortDir === 'asc' ? 'desc' : 'asc';
+                } else {
+                    window.bgptState.sortField = field;
+                    window.bgptState.sortDir = 'asc';
+                }
+                
+                window.bgptState.hastalar.sort((a, b) => {
+                    let valA, valB;
+                    if (field === 'hafta') {
+                        valA = a.maxHaftaNo;
+                        valB = b.maxHaftaNo;
+                    } else if (field === 'isim') {
+                        valA = a.isim.toLowerCase();
+                        valB = b.isim.toLowerCase();
+                    }
+                    
+                    if (valA < valB) return window.bgptState.sortDir === 'asc' ? -1 : 1;
+                    if (valA > valB) return window.bgptState.sortDir === 'asc' ? 1 : -1;
+                    return 0;
+                });
+                window.bgptRenderList();
+            };
+
+            window.bgptRenderList = function() {
+                const container = document.getElementById('bgpt_hastaListesi');
+                const hT = document.getElementById('bgpt_header_isim');
+                const hW = document.getElementById('bgpt_header_hafta');
+                if(hT) hT.innerHTML = `Hasta Adı ${window.bgptState.sortField === 'isim' ? (window.bgptState.sortDir === 'asc' ? '(Artan)' : '(Azalan)') : '(Sırala)'}`; if(hW) hW.innerHTML = `Seçilen Hafta ${window.bgptState.sortField === 'hafta' ? (window.bgptState.sortDir === 'asc' ? '(Artan)' : '(Azalan)') : '(Sırala)'}`;
+                
+                if (!container) return;
+                container.innerHTML = window.bgptState.hastalar.map(h => {
+                    let haftalarHtml = '';
+                    let varHafta = false;
+                    if (h.haftalar && h.haftalar.length > 0) {
+                        varHafta = true;
+                        haftalarHtml = `<select class="bgpt-hafta-select" data-id="${h.id}" style="padding:4px;border-radius:4px;border:1px solid #ccc;font-size:12px;width:100%;">`;
+                        const siraliHaftalar = h.haftalar.map((hafta, idx) => ({ hafta, idx, no: hafta.haftaNo || (idx + 1) })).sort((a,b) => a.no - b.no);
+                        
+                        siraliHaftalar.forEach((item, index) => {
+                            let text = `${item.no}. Hafta`;
+                            let tarihExt = '';
+                            if (item.hafta.tabTarih) {
+                                tarihExt = item.hafta.tabTarih;
+                            } else if (item.hafta.baslangic && item.hafta.bitis) {
+                                tarihExt = `${item.hafta.baslangic} - ${item.hafta.bitis}`;
+                            }
+                            if (tarihExt) text += ` (${tarihExt})`;
+                            // Varsayılan olarak maxHaftaNo'yu (yani ilk elemanı) seç
+                            haftalarHtml += `<option value="${item.idx}" ${item.no === h.maxHaftaNo ? 'selected' : ''}>${text}</option>`;
+                        });
+                        haftalarHtml += `</select>`;
+                    } else {
+                        haftalarHtml = `<span style="font-size:12px;color:#999;">Hafta yok</span>`;
+                    }
+                    
+                    // Önceden oluşturulmuş mesajı görebilmek için "Durum" sütununda buton oluştur
+                    let durumHtml = `<span id="bgpt_status_${h.id}" style="font-size:12px;color:#6c757d;font-weight:bold;background:#e9ecef;padding:4px 8px;border-radius:12px;display:inline-block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100px;">Bekliyor</span>`;
+                    
+                    return `
+                    <div class="bgpt-hasta-row" id="bgpt_row_${h.id}" style="display:grid;grid-template-columns:30px 1fr 180px 130px;gap:10px;align-items:center;padding:12px 15px;border-bottom:1px solid #f0f0f0;transition:background 0.2s;">
+                        <div style="display:flex;align-items:center;">
+                            <input type="checkbox" class="bgpt-hasta-cb" value="${h.id}" data-isim="${h.isim}" ${!varHafta ? 'disabled' : ''} style="width:16px;height:16px;cursor:${varHafta?'pointer':'not-allowed'};">
+                        </div>
+                        <div style="font-weight:bold;font-size:14px;color:${varHafta ? '#333' : '#aaa'};overflow:hidden;text-overflow:ellipsis;white-space:nowrap;">
+                            <label for="bgpt_cb_${h.id}" style="cursor:${varHafta?'pointer':'not-allowed'};margin:0;" id="bgpt_lbl_${h.id}">${h.isim}</label>
+                        </div>
+                        <div>
+                            ${haftalarHtml}
+                        </div>
+                        <div style="text-align:right; display:flex; align-items:center; justify-content:flex-end; gap:5px;" id="bgpt_durum_container_${h.id}">
+                            ${durumHtml}
+                            <button id="bgpt_view_btn_${h.id}" onclick="window.bgptViewMessage('${h.id}')" style="display:none;background:#17a2b8;color:white;border:none;border-radius:50%;width:24px;height:24px;cursor:pointer;font-weight:bold;font-size:12px;" title="Mesajı Gör">👁️</button>
+                        </div>
+                    </div>
+                    `;
+                }).join('');
+                
+                // idleri eşleştir
+                document.querySelectorAll('.bgpt-hasta-row').forEach(row => {
+                    const cb = row.querySelector('.bgpt-hasta-cb');
+                    const lbl = row.querySelector('label');
+                    if (cb && lbl) cb.id = lbl.id.replace('bgpt_lbl_', 'bgpt_cb_');
+                    if (lbl) lbl.setAttribute('for', lbl.id.replace('bgpt_lbl_', 'bgpt_cb_'));
+                });
+            };
+
+            window.bgptViewMessage = function(hastaId) {
+                  const hasta = window.bgptState.hastalar.find(h => String(h.id) === String(hastaId));
+                  const selectElem = document.querySelector(`.bgpt-hafta-select[data-id="${hastaId}"]`);
+                  if (!hasta || !selectElem) return;
+                  const hedefHaftaIndeks = parseInt(selectElem.value, 10);
+                  const gptMesaj = hasta.haftalar[hedefHaftaIndeks].gptMesaj || 'Mesaj bulunamadı.';
+                  
+                  const viewModalHtml = `
+                  <div id="bgpt_viewModal" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);display:flex;justify-content:center;align-items:center;z-index:100005;font-family:Arial,sans-serif;">
+                      <div style="background:white;width:90%;max-width:700px;height:75vh;border-radius:12px;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 10px 40px rgba(0,0,0,0.5);">
+                          <div style="padding:15px 20px;border-bottom:1px solid #e0e0e0;display:flex;justify-content:space-between;align-items:center;background:#f8f9fa;">
+                              <h4 style="margin:0;color:#0056b3;font-size:18px;display:flex;align-items:center;gap:10px;">
+                                  📝 ${hasta.isim} - ${hasta.haftalar[hedefHaftaIndeks].haftaNo}. Hafta Mesajı
+                                  <button onclick="window.bgptToggleEditMode()" id="bgpt_edit_btn" style="background:none;border:none;cursor:pointer;font-size:16px;color:#28a745;" title="Düzenle">✏️</button>
+                              </h4>
+                              <button onclick="document.getElementById('bgpt_viewModal').remove()" style="background:none;border:none;font-size:24px;line-height:1;cursor:pointer;color:#666;">&times;</button>
+                          </div>
+                          
+                          <div id="bgpt_mesaj_view" style="padding:20px;overflow-y:auto;flex:1;font-size:15px;line-height:1.6;color:#333;white-space:pre-wrap;"></div>
+                          <textarea id="bgpt_mesaj_edit" style="display:none;padding:20px;flex:1;font-size:15px;line-height:1.6;color:#333;border:none;outline:none;resize:none;font-family:inherit;width:100%;box-sizing:border-box;"></textarea>
+                          
+                          <div style="padding:15px 20px;border-top:1px solid #e0e0e0;background:#f8f9fa;display:flex;justify-content:space-between;align-items:center;">
+                              <div id="bgpt_save_status" style="font-size:13px;color:#28a745;font-weight:bold;"></div>
+                              <div style="display:flex;gap:10px;">
+                                  <button id="bgpt_save_btn" onclick="window.bgptSaveMessage('${hastaId}', ${hedefHaftaIndeks})" style="display:none;padding:8px 20px;border:none;background:#28a745;color:white;border-radius:6px;font-weight:bold;cursor:pointer;">Kaydet</button>
+                                  <button onclick="document.getElementById('bgpt_viewModal').remove()" style="padding:8px 20px;border:none;background:#6c757d;color:white;border-radius:6px;font-weight:bold;cursor:pointer;">Kapat</button>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+                  `;
+                  
+                  document.body.insertAdjacentHTML('beforeend', viewModalHtml);
+                  
+                  // Set content safely
+                  document.getElementById('bgpt_mesaj_view').textContent = gptMesaj;
+                  document.getElementById('bgpt_mesaj_edit').value = gptMesaj;
+              };
+
+              window.bgptToggleEditMode = function() {
+                  const viewDiv = document.getElementById('bgpt_mesaj_view');
+                  const editArea = document.getElementById('bgpt_mesaj_edit');
+                  const saveBtn = document.getElementById('bgpt_save_btn');
+                  const editBtn = document.getElementById('bgpt_edit_btn');
+                  
+                  if (viewDiv.style.display === 'none') {
+                      // Switch to view mode
+                      viewDiv.textContent = editArea.value;
+                      viewDiv.style.display = 'block';
+                      editArea.style.display = 'none';
+                      saveBtn.style.display = 'none';
+                      editBtn.style.opacity = '1';
+                  } else {
+                      // Switch to edit mode
+                      viewDiv.style.display = 'none';
+                      editArea.style.display = 'block';
+                      saveBtn.style.display = 'inline-block';
+                      editBtn.style.opacity = '0.5';
+                      editArea.focus();
+                  }
+              };
+
+              window.bgptSaveMessage = async function(hastaId, hedefHaftaIndeks) {
+                  const editArea = document.getElementById('bgpt_mesaj_edit');
+                  const saveStatus = document.getElementById('bgpt_save_status');
+                  const saveBtn = document.getElementById('bgpt_save_btn');
+                  
+                  if (!editArea || !saveStatus) return;
+                  
+                  const yeniMesaj = editArea.value;
+                  
+                  saveBtn.disabled = true;
+                  saveBtn.innerHTML = 'Kaydediliyor...';
+                  saveStatus.innerHTML = '⏳ Sunucuya kaydediliyor...';
+                  saveStatus.style.color = '#ffc107';
+                  
+                  try {
+                      const stateHasta = window.bgptState.hastalar.find(h => String(h.id) === String(hastaId));
+                      if (stateHasta && stateHasta.haftalar[hedefHaftaIndeks]) {
+                          stateHasta.haftalar[hedefHaftaIndeks].gptMesaj = yeniMesaj;
+                      }
+                      
+                      const GITHUB_REPO = document.getElementById('githubRepo')?.value.trim() || 'lipodemmerkezi/zip';
+                      const GITHUB_TOKEN = document.getElementById('githubToken')?.value.trim();
+                      
+                      const hastaData = await getHastaData(hastaId, GITHUB_REPO, GITHUB_TOKEN, stateHasta?.isim);
+                      if (hastaData && hastaData.haftalar && hastaData.haftalar[hedefHaftaIndeks]) {
+                          hastaData.haftalar[hedefHaftaIndeks].gptMesaj = yeniMesaj;
+                          await hastayiAyriKaydet(hastaData);
+                          
+                          saveStatus.innerHTML = '✅ Başarıyla Kaydedildi!';
+                          saveStatus.style.color = '#28a745';
+                          
+                          // Switch back to view mode
+                          setTimeout(() => {
+                              window.bgptToggleEditMode();
+                              saveStatus.innerHTML = '';
+                          }, 1500);
+                      } else {
+                          throw new Error('Hasta verisi tam alınamadı.');
+                      }
+                  } catch (e) {
+                      console.error('Mesaj kaydedilirken hata:', e);
+                      saveStatus.innerHTML = '❌ Hata: ' + e.message;
+                      saveStatus.style.color = '#dc3545';
+                  } finally {
+                      saveBtn.disabled = false;
+                      saveBtn.innerHTML = 'Kaydet';
+                  }
+              };
+              
+              if(document.body.contains(progressDiv)) document.body.removeChild(progressDiv);
+            
+            const GPT_SETTINGS_KEY = 'gptSettings';
+            const settings = JSON.parse(localStorage.getItem(GPT_SETTINGS_KEY) || '{}');
+            const defaultModel = settings.model || settings.selectedModel || 'gemini-1.5-flash';
+            
+            const modalHtml = `
+              <div id="bulkGptModal" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.7);display:flex;justify-content:center;align-items:center;z-index:100000;font-family:Arial,sans-serif;">
+                <div style="background:white;width:95%;max-width:900px;max-height:90vh;border-radius:12px;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 10px 40px rgba(0,0,0,0.4);">
+                    <div style="padding:20px;border-bottom:1px solid #e0e0e0;display:flex;justify-content:space-between;align-items:center;background:#f8f9fa;">
+                        <h3 style="margin:0;color:#0056b3;font-size:20px;display:flex;align-items:center;gap:10px;">🤖 Toplu GPT Mesajı Üretme</h3>
+                        <button onclick="window.kapatTopluGptModal()" style="background:none;border:none;font-size:28px;line-height:1;cursor:pointer;color:#666;">&times;</button>
+                    </div>
+                    
+                    <div style="padding:20px;overflow-y:auto;flex:1;">
+                        <div style="background:#e7f3ff;padding:15px;border-radius:8px;margin-bottom:20px;border:1px solid #b8daff;">
+                            <div style="background:#fff3cd;padding:15px;border-radius:8px;margin-bottom:20px;border:1px solid #ffeeba;">
+                                <h4 style="margin:0 0 10px 0;color:#856404;">0. Çalışma Modu (Altyapı)</h4>
+                                <div style="display:flex;gap:20px;align-items:center;">
+                                    <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;color:#333;">
+                                        <input type="radio" name="bgpt_mode" value="standard" checked onclick="window.bgptToggleMode()" style="width:18px;height:18px;"> Standart API (Hızlı)
+                                    </label>
+                                    <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;color:#d9534f;">
+                                        <input type="radio" name="bgpt_mode" value="agent" onclick="window.bgptToggleMode()" style="width:18px;height:18px;"> OpenAI Agent Modu (Asistan)
+                                    </label>
+                                </div>
+                            </div>
+                            <div id="bgpt_standard_settings">
+                                <h4 style="margin:0 0 15px 0;color:#004085;">1. Ayarlar & Prompt İçeriği</h4>
+                            <div style="display:flex;gap:20px;flex-wrap:wrap;margin-bottom:15px;">
+                                <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;"><input type="checkbox" id="bgpt_genel" checked style="width:16px;height:16px;"> Genel Kurallar</label>
+                                <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;"><input type="checkbox" id="bgpt_hafta" checked style="width:16px;height:16px;"> Hafta Teması</label>
+                                <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;"><input type="checkbox" id="bgpt_hasta" checked style="width:16px;height:16px;"> Hasta Bilgileri (Açıklama Kutusu Dahil)</label>
+                                <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;color:#000;"><input type="checkbox" id="bgpt_onceki" checked style="width:16px;height:16px;"> Önceki Haftalar (Kapsamlı)</label>
+                            </div>
+                            <div style="margin-bottom:15px;">
+                                <input type="text" id="bgpt_ekNot" placeholder="Bu işleme özel ekstra bir not eklemek isterseniz (opsiyonel)" style="width:100%;padding:10px;border:1px solid #ced4da;border-radius:6px;font-size:14px;">
+                            </div>
+                            <div>
+                                <label style="font-size:12px;color:#666;display:block;margin-bottom:5px;">Kullanılacak Yapay Zeka Modeli:</label>
+                                <select id="bgpt_model" style="padding:10px;border-radius:6px;border:1px solid #ced4da;width:300px;font-size:14px;background:white;">
+                                    <option value="gemini-flash-latest" selected>Gemini Flash (En Yeni & Ücretsiz Sınırı Var)</option>
+                                    <option value="gemini-1.5-flash">Gemini 1.5 Flash</option>
+                                    <option value="gemini-2.0-flash">Gemini 2.0 Flash</option>
+                                    <option value="gemini-2.5-flash">Gemini 2.5 Flash</option>
+                                    <option value="gemini-3.5-flash">Gemini 3.5 Flash</option>
+                                    <option value="gpt-4o-mini">GPT-4o Mini (Hızlı & Ucuz)</option>
+                                    <option value="gpt-4o">GPT-4o (Çok Zeki & Daha Pahalı)</option>
+                                </select>
+                            </div>
+                        </div>
+                        
+                        <div style="margin-bottom:10px;display:flex;justify-content:space-between;align-items:center;">
+                            <h4 style="margin:0;color:#333;">2. Uygulanacak Hastalar (${hastaDetaylari.length})</h4>
+                            <label style="cursor:pointer;font-weight:bold;background:#f8f9fa;padding:5px 10px;border-radius:4px;border:1px solid #ddd;">
+                                <input type="checkbox" id="bgpt_selectAll" onchange="document.querySelectorAll('.bgpt-hasta-cb:not(:disabled)').forEach(cb => cb.checked = this.checked)" style="margin-right:5px;"> 
+                                Tümünü Seç
+                            </label>
+                        </div>
+                        
+                        <!-- Grid Başlıkları -->
+                        <div style="display:grid;grid-template-columns:30px 1fr 180px 130px;gap:10px;padding:8px 15px;background:#f8f9fa;border:1px solid #dee2e6;border-bottom:none;border-radius:8px 8px 0 0;font-weight:bold;color:#495057;font-size:13px;">
+                            <div>#</div>
+                            <div style="cursor:pointer;user-select:none;color:#0056b3;" id="bgpt_header_isim" onclick="window.bgptSort('isim')" title="İsme Göre Sırala">Hasta Adı ↕</div>
+                            <div style="cursor:pointer;user-select:none;color:#0056b3;" id="bgpt_header_hafta" onclick="window.bgptSort('hafta')" title="Haftaya Göre Sırala">Seçilen Hafta ↑</div>
+                            <div style="text-align:right;">Durum</div>
+                        </div>
+
+                        <div id="bgpt_hastaListesi" style="border:1px solid #dee2e6;border-radius:0 0 8px 8px;max-height:400px;overflow-y:auto;background:white;">
+                        </div>
+                    </div>
+                    
+                    <div style="padding:20px;border-top:1px solid #dee2e6;background:#f8f9fa;display:flex;justify-content:space-between;align-items:center;">
+                        <div id="bgpt_progressText" style="font-weight:bold;color:#0056b3;">Hazır. Seçim yapıp başlatın.</div>
+                        <div style="display:flex;gap:10px;">
+                            <button onclick="window.kapatTopluGptModal()" id="bgpt_btn_iptal" style="padding:10px 20px;border:1px solid #ccc;background:white;border-radius:6px;cursor:pointer;font-weight:bold;">İptal</button>
+                            <button onclick="baslatTopluGptIslemi()" id="bgpt_btn_baslat" style="padding:10px 25px;border:none;background:#28a745;color:white;border-radius:6px;font-weight:bold;font-size:15px;cursor:pointer;box-shadow:0 2px 5px rgba(0,0,0,0.2);">🚀 Analizi Başlat</button>
+                        </div>
+                    </div>
+                </div>
+              </div>
+            `;
+            document.body.insertAdjacentHTML('beforeend', modalHtml);
+            window.bgptRenderList();
+        }
+
+        async function baslatTopluGptIslemi() {
+            const seciliCheckboxes = document.querySelectorAll('.bgpt-hasta-cb:checked');
+            if (seciliCheckboxes.length === 0) {
+                alert('Lütfen en az bir hasta seçin!');
+                return;
+            }
+            
+            const btnBaslat = document.getElementById('bgpt_btn_baslat');
+            const btnIptal = document.getElementById('bgpt_btn_iptal');
+            const selectAll = document.getElementById('bgpt_selectAll');
+            
+            window.bgptIptalEdildi = false;
+            
+            btnBaslat.disabled = true;
+            btnBaslat.style.background = '#6c757d';
+            btnBaslat.innerHTML = '⏳ İşleniyor...';
+            selectAll.disabled = true;
+            document.querySelectorAll('.bgpt-hasta-cb').forEach(cb => cb.disabled = true);
+            
+            btnIptal.innerHTML = 'Durdur';
+            btnIptal.style.background = '#dc3545';
+            btnIptal.style.color = 'white';
+            btnIptal.onclick = () => {
+                window.bgptIptalEdildi = true;
+                btnIptal.innerHTML = 'Durduruluyor...';
+                btnIptal.disabled = true;
+            };
+            
+            const ayarlar = {
+                genel: document.getElementById('bgpt_genel').checked,
+                hafta: document.getElementById('bgpt_hafta').checked,
+                hasta: document.getElementById('bgpt_hasta').checked,
+                onceki: document.getElementById('bgpt_onceki').checked,
+                ekNot: document.getElementById('bgpt_ekNot').value.trim(),
+                model: document.getElementById('bgpt_model').value
+            };
+            
+            const GPT_SETTINGS_KEY = 'gptSettings';
+            const gptSettings = JSON.parse(localStorage.getItem(GPT_SETTINGS_KEY) || '{}');
+            const GITHUB_REPO = document.getElementById('githubRepo')?.value.trim() || 'lipodemmerkezi/zip';
+            const GITHUB_TOKEN = document.getElementById('githubToken')?.value.trim();
+            
+            let basarili = 0;
+            let hatali = 0;
+            const progressText = document.getElementById('bgpt_progressText');
+            
+            for (let i = 0; i < seciliCheckboxes.length; i++) {
+                if (window.bgptIptalEdildi) {
+                    progressText.innerHTML = `⚠️ İşlem kullanıcı tarafından durduruldu!`;
+                    break;
+                }
+                
+                const cb = seciliCheckboxes[i];
+                const id = cb.value;
+                const isim = cb.getAttribute('data-isim');
+                const row = document.getElementById(`bgpt_row_${id}`);
+                const statusDiv = document.getElementById(`bgpt_status_${id}`);
+                
+                // Seçilen haftayı al
+                const selectElem = document.querySelector(`.bgpt-hafta-select[data-id="${id}"]`);
+                if (!selectElem) {
+                    statusDiv.innerHTML = `❌ Hafta bulunamadı`;
+                    statusDiv.style.background = '#f8d7da';
+                    statusDiv.style.color = '#721c24';
+                    hatali++;
+                    continue;
+                }
+                const hedefHaftaIndeks = parseInt(selectElem.value, 10);
+                
+                row.style.background = '#fff3cd';
+                statusDiv.innerHTML = '🔄 İndiriliyor...';
+                statusDiv.style.background = '#ffc107';
+                statusDiv.style.color = '#000';
+                progressText.innerHTML = `İşleniyor: ${isim} (${i+1} / ${seciliCheckboxes.length})`;
+                
+                try {
+                    const hastaData = await getHastaData(id, GITHUB_REPO, GITHUB_TOKEN, isim);
+                    if (!hastaData || !hastaData.haftalar || !hastaData.haftalar[hedefHaftaIndeks]) {
+                        throw new Error('Hafta verisi bulunamadı');
+                    }
+                    
+                    statusDiv.innerHTML = `⚙️ Prompt...`;
+                    
+                    const prompt = await bgptPromptOlustur(hastaData, hedefHaftaIndeks, ayarlar);
+                    
+                    statusDiv.innerHTML = `🤖 API Bekleniyor...`;
+                    
+                    let mesaj = null;
+                    let kullanilanModel = ayarlar.model;
+                    const isAgent = document.querySelector('input[name="bgpt_mode"]:checked')?.value === 'agent';
+                    try {
+                        if (isAgent) {
+                            kullanilanModel = 'Agent';
+                            // Agent mode only needs patient context, not the full prompt with instructions
+                            const agentPrompt = await bgptPromptOlustur(hastaData, hedefHaftaIndeks, {hasta: true, ekNot: ayarlar.ekNot, genel: false, hafta: false, onceki: false});
+                            mesaj = await agentApiGonder(agentPrompt, gptSettings.assistantId, gptSettings);
+                        } else {
+                            mesaj = await bgptApiGonder(prompt, kullanilanModel, gptSettings);
+                        }
+                    } catch (e) {
+                        try {
+                            if (kullanilanModel.includes('gemini') && !kullanilanModel.includes('latest')) {
+                                statusDiv.innerHTML = `⏳ Fallback: Gemini Latest...`;
+                                kullanilanModel = 'gemini-flash-latest';
+                                mesaj = await bgptApiGonder(prompt, kullanilanModel, gptSettings);
+                            } else {
+                                throw e;
+                            }
+                        } catch(e2) {
+                            if (gptSettings.apiKey) {
+                                statusDiv.innerHTML = `⏳ Fallback: GPT-4o Mini...`;
+                                kullanilanModel = 'gpt-4o-mini';
+                                mesaj = await bgptApiGonder(prompt, kullanilanModel, gptSettings);
+                            } else {
+                                throw e2;
+                            }
+                        }
+                    }
+                    
+                    if (!mesaj || mesaj.trim().length < 10) {
+                        throw new Error('API boş yanıt döndü');
+                    }
+                    
+                    statusDiv.innerHTML = `⏳ Kaydediliyor...`;
+                    hastaData.haftalar[hedefHaftaIndeks].gptMesaj = mesaj;
+                    
+                    if(typeof hastayiAyriKaydet === 'function') {
+                        await hastayiAyriKaydet(hastaData);
+                    } else {
+                        throw new Error('Kaydetme fonksiyonu bulunamadı');
+                    }
+                    
+                    const modelKisa = kullanilanModel.replace('gemini-1.5-flash', '1.5').replace('gemini-2.0-flash', '2.0').replace('gemini-flash-latest', 'Latest').replace('gpt-4o-mini', 'GPTMini').replace('gpt-4o', 'GPT4o');
+                    const tikliDurum = `<span style="cursor:pointer; display:inline-block; padding: 5px;" onclick="window.bgptViewMessage('${id}')" title="Mesajı Gör">✅ Hazır (${modelKisa})</span>`;
+                    statusDiv.innerHTML = tikliDurum;
+                    statusDiv.style.background = '#d4edda';
+                    statusDiv.style.color = '#155724';
+                    row.style.background = 'white';
+                    
+                    const btnView = document.getElementById(`bgpt_view_btn_${id}`);
+                    if (btnView) btnView.style.display = 'none';
+                    
+                    const stateHasta = window.bgptState.hastalar.find(h => String(h.id) === String(id));
+                    if (stateHasta && stateHasta.haftalar[hedefHaftaIndeks]) {
+                        stateHasta.haftalar[hedefHaftaIndeks].gptMesaj = mesaj;
+                    }
+                    
+                    basarili++;
+                    
+                    if (i < seciliCheckboxes.length - 1) {
+                        const eskTikli = statusDiv.innerHTML;
+                        statusDiv.innerHTML = `⏳ Bekleniyor...`;
+                        await new Promise(r => setTimeout(r, 3000));
+                        if(statusDiv) statusDiv.innerHTML = eskTikli;
+                    }
+                    
+                } catch (error) {
+                    console.error(`${isim} işlenirken hata:`, error);
+                    statusDiv.innerHTML = `❌ Hata: ${error.message.substring(0,25)}`;
+                    statusDiv.style.background = '#f8d7da';
+                    statusDiv.style.color = '#721c24';
+                    statusDiv.title = error.message;
+                    row.style.background = 'white';
+                    hatali++;
+                }
+            }
+            
+            if (!window.bgptIptalEdildi) {
+                progressText.innerHTML = `🎉 İşlem Bitti! ${basarili} Başarılı, ${hatali} Hatalı.`;
+            }
+            
+            btnBaslat.innerHTML = 'Kapat';
+            btnBaslat.style.background = '#6c757d';
+            btnBaslat.disabled = false;
+            btnBaslat.onclick = () => window.kapatTopluGptModal();
+            
+            btnIptal.style.display = 'none'; // Artık iptal butonuna gerek yok
+            
+            if (window.seciliHasta && typeof renderHastalarYeniSistem === 'function') {
+                renderHastalarYeniSistem();
+            }
+        }
+        
+        
+          async function agentApiGonder(hastaVerisi, assistantId, gptSettings) {
+              const apiKey = gptSettings.apiKey;
+              if (!apiKey) throw new Error("OpenAI API Anahtarı eksik.");
+              if (!assistantId) throw new Error("Assistant ID (asst_...) eksik. Lütfen ayarlardan girin.");
+              
+              const headers = {
+                  'Authorization': `Bearer ${apiKey}`,
+                  'Content-Type': 'application/json',
+                  'OpenAI-Beta': 'assistants=v2'
+              };
+              
+              const runResponse = await fetch('https://api.openai.com/v1/threads/runs', {
+                  method: 'POST',
+                  headers: headers,
+                  body: JSON.stringify({
+                      assistant_id: assistantId,
+                      thread: {
+                          messages: [
+                              { role: 'user', content: hastaVerisi }
+                          ]
+                      }
+                  })
+              });
+              
+              if (!runResponse.ok) {
+                  const err = await runResponse.json();
+                  throw new Error(err.error?.message || "Agent başlatılamadı.");
+              }
+              
+              const runData = await runResponse.json();
+              const threadId = runData.thread_id;
+              let runId = runData.id;
+              
+              let completed = false;
+              let attempts = 0;
+              while (!completed && attempts < 120) { // Max 4 dakika
+                  await new Promise(r => setTimeout(r, 2000));
+                  
+                  if (window.bgptIptalEdildi) {
+                      throw new Error("İptal edildi.");
+                  }
+                  
+                  const statusResponse = await fetch(`https://api.openai.com/v1/threads/${threadId}/runs/${runId}`, {
+                      headers: headers
+                  });
+                  const statusData = await statusResponse.json();
+                  
+                  if (statusData.status === 'completed') {
+                      completed = true;
+                  } else if (statusData.status === 'failed' || statusData.status === 'cancelled' || statusData.status === 'expired') {
+                      throw new Error(`Agent başarısız oldu: ${statusData.status}`);
+                  }
+                  attempts++;
+              }
+              
+              if (!completed) throw new Error("Agent işlem zaman aşımına uğradı.");
+              
+              const msgsResponse = await fetch(`https://api.openai.com/v1/threads/${threadId}/messages`, {
+                  headers: headers
+              });
+              const msgsData = await msgsResponse.json();
+              
+              const botMsg = msgsData.data.find(m => m.role === 'assistant');
+              if (!botMsg || !botMsg.content || botMsg.content.length === 0) {
+                  throw new Error("Agent'tan geçerli bir cevap alınamadı.");
+              }
+              
+              return botMsg.content[0].text.value;
+          }
+
+          async function bgptPromptOlustur(hasta, haftaIndex, ayarlar) {
+            const hafta = hasta.haftalar[haftaIndex];
+            const haftaNo = hafta.haftaNo || (haftaIndex + 1);
+            const prompts = [];
+            
+            const GENEL_PROMPTLAR_KEY = 'genelPromptlar';
+            const HAFTALIK_PROMPTLAR_KEY = 'haftalikPromptlar';
+            
+            if (ayarlar.genel) {
+                const genelPromptlar = JSON.parse(localStorage.getItem(GENEL_PROMPTLAR_KEY) || '[]');
+                if (genelPromptlar.length > 0) {
+                    prompts.push('=== GENEL TALİMAT ===\n' + genelPromptlar[0].icerik);
+                }
+            }
+            
+            if (ayarlar.hafta) {
+                const haftalikPromptlar = JSON.parse(localStorage.getItem(HAFTALIK_PROMPTLAR_KEY) || '[]');
+                const haftaPrompt = haftalikPromptlar.find(p => p.haftaNo === haftaNo);
+                if (haftaPrompt) {
+                    prompts.push('=== HAFTALIK TEMA ===\n' + haftaPrompt.icerik);
+                }
+            }
+            
+            if (ayarlar.hasta) {
+                let hastaBilgi = `Hasta Adı: ${hasta.isim}\n`;
+                if (hafta.eslesenTarifler && hafta.eslesenTarifler.length > 0) {
+                    hastaBilgi += '\n=== BU HAFTAKİ MENÜSÜ ===\n';
+                    hastaBilgi += hafta.eslesenTarifler.map(t => '- ' + t).join('\n');
+                }
+                
+                // Açıklama (WhatsApp yazışmaları) bölümünü GPT'ye gönder!
+                if (hafta.aciklama && hafta.aciklama.trim().length > 0) {
+                    hastaBilgi += '\n\n=== AÇIKLAMA (DİYALOG/NOTLAR) ===\n';
+                    hastaBilgi += hafta.aciklama.trim();
+                }
+                
+                prompts.push(hastaBilgi);
+            }
+            
+            if (ayarlar.onceki) {
+                const oncekiAnalizler = [];
+                const maxOnceki = Math.min(haftaIndex, 5);
+                for (let i = Math.max(0, haftaIndex - maxOnceki); i < haftaIndex; i++) {
+                    const h = hasta.haftalar[i];
+                    if (h && h.gptMesaj && h.gptMesaj.trim().length > 50) {
+                        oncekiAnalizler.push({haftaNo: h.haftaNo||(i+1), icerik: h.gptMesaj.trim()});
+                    }
+                }
+                if (oncekiAnalizler.length > 0) {
+                    prompts.push('=== ÖNCEKİ HAFTALARIN GPT ANALİZLERİ (TUTARLILIK İÇİN) ===\nÖNEMLİ: Aynı içeriği tekrar etmeyin.');
+                    oncekiAnalizler.forEach(a => {
+                        prompts.push(`--- ${a.haftaNo}. Hafta (Özet) ---\n` + a.icerik);
+                    });
+                }
+            }
+            
+            if (ayarlar.ekNot && ayarlar.ekNot.trim()) {
+                prompts.push('=== BU HAFTA İÇİN EK BİLGİLER ===\n' + ayarlar.ekNot.trim());
+            }
+            
+            prompts.push('=== BESLENME LİSTESİ ===');
+            let listeEklendi = false;
+            
+            if (hafta.pdf && hafta.pdf.length > 1000) {
+                try {
+                    let metin = hafta.pdf;
+                    if (typeof extractTextFromPdf === 'function') {
+                        metin = await extractTextFromPdf(hafta.pdf);
+                    }
+                    if (typeof temizlePdfIcerik === 'function') {
+                        metin = temizlePdfIcerik(metin);
+                    }
+                    prompts.push('PDF İçeriği:\n' + metin.substring(0, 2000));
+                    listeEklendi = true;
+                } catch(e) {
+                    console.warn('PDF metin çıkarma hatası (Bulk GPT)', e);
+                }
+            } 
+            
+            if (!listeEklendi && hafta.tarifler && hafta.tarifler.length > 0) {
+                prompts.push('Tarif Listesi:\n' + hafta.tarifler.join('\n'));
+            } else if (!listeEklendi) {
+                prompts.push('Bu hafta için henüz beslenme listesi yüklenmemiş.');
+            }
+            
+            return prompts.join('\n\n');
+        }
+
+        async function bgptApiGonder(prompt, model, settings) {
+            const isGemini = model.includes('gemini');
+            const isClaude = model.includes('claude');
+            const apiKey = isGemini ? settings.geminiApiKey : (isClaude ? settings.claudeApiKey : settings.apiKey);
+            
+            if (!apiKey) throw new Error(`${model} için API Key eksik!`);
+            
+            if (isGemini) {
+                const url = `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+                const req = await fetch(url, {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({
+                        contents: [{ parts: [{ text: prompt }] }],
+                        generationConfig: { temperature: 0.7 }
+                    })
+                });
+                if (!req.ok) throw new Error('API Hatası: ' + req.status);
+                const res = await req.json();
+                return res.candidates[0].content.parts[0].text;
+            } else {
+                // OpenAI Fallback
+                const req = await fetch('https://api.openai.com/v1/chat/completions', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
+                    body: JSON.stringify({
+                        model: model,
+                        messages: [{ role: 'user', content: prompt }],
+                        temperature: 0.7
+                    })
+                });
+                if (!req.ok) throw new Error('API Hatası: ' + req.status);
+                const res = await req.json();
+                return res.choices[0].message.content;
+            }
+        }
+        
+        // Modalın otomatik açılmaması için DOM yüklendiğinde butonu enjekte et
+        setTimeout(() => {
+            if(typeof ekleTopluGptButonu === 'function') ekleTopluGptButonu();
+        }, 2000);
 </script>
 
+    <script src="v45_prompts.js"></script>
 </body>
 
 </html>
