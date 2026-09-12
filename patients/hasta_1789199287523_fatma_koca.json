@@ -3,9 +3,27 @@
   "isim": "FATMA KOCA",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-09-06",
+      "bitis": "2026-09-12",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-09-12T07:48:07.523Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-12T07:48:07.523Z",
+  "sonGuncelleme": "2026-09-12T07:48:20.108Z",
   "githubKaydedildi": true
 }
