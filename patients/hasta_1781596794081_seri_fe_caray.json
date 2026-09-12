@@ -2,7 +2,7 @@
   "id": 1781596794081,
   "isim": "ŞERİFE ÇARAY",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4302,6 +4302,6 @@
   ],
   "olusturmaTarihi": "2026-06-16T07:59:54.081Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-11T07:03:55.920Z",
+  "sonGuncelleme": "2026-09-12T05:36:55.635Z",
   "githubKaydedildi": true
 }
