@@ -90,8 +90,8 @@ window.yukleV45Paketi = async function() {
         localStorage.setItem('haftalikPromptlar', JSON.stringify(haftalik));
         if (typeof window.renderHaftalikPromptlar === 'function') { window.renderHaftalikPromptlar(); }
 
-        const promptlar = localStorage.getItem('genelPromptlar');
-        const haftalik = localStorage.getItem('haftalikPromptlar');
+        const genelPromptlarLocal = localStorage.getItem('genelPromptlar');
+        const haftalikPromptlarLocal = localStorage.getItem('haftalikPromptlar');
         
         let token = document.getElementById('githubToken')?.value;
         if (!token) token = localStorage.getItem('github_api_token');
@@ -116,7 +116,7 @@ window.yukleV45Paketi = async function() {
                     sha = data.sha;
                     currentContent = JSON.parse(decodeURIComponent(escape(atob(data.content))));
                 }
-                currentContent.promptlar = JSON.parse(promptlar);
+                currentContent.promptlar = JSON.parse(genelPromptlarLocal);
                 
                 const base64Genel = btoa(unescape(encodeURIComponent(JSON.stringify(currentContent, null, 2))));
                 await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/promptlar/genel_promptlar.json`, {
@@ -139,7 +139,7 @@ window.yukleV45Paketi = async function() {
                     const data = await fileRes.json();
                     sha = data.sha;
                 }
-                const base64Haftalik = btoa(unescape(encodeURIComponent(haftalik)));
+                const base64Haftalik = btoa(unescape(encodeURIComponent(haftalikPromptlarLocal)));
                 await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/promptlar/haftalik_promptlar.json`, {
                     method: 'PUT',
                     headers: {'Authorization': `token ${token}`, 'Accept': 'application/vnd.github.v3+json', 'Content-Type': 'application/json'},
@@ -159,5 +159,5 @@ window.yukleV45Paketi = async function() {
         } else {
             alert("MÜKEMMEL!\n\nv4.5 Panelinize yüklendi, ancak GitHub ayarlarınız girilmediği için sadece bu oturumluk geçerli olacak.");
         }
-
+    }
 };
