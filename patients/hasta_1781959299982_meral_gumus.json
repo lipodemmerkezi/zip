@@ -2,7 +2,7 @@
   "id": 1781959299982,
   "isim": "MERAL GÜMÜŞ",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3815,6 +3815,6 @@
   ],
   "olusturmaTarihi": "2026-06-20T12:41:39.982Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T16:19:13.572Z",
+  "sonGuncelleme": "2026-09-12T05:37:40.115Z",
   "githubKaydedildi": true
 }
