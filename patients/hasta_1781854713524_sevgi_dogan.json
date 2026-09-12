@@ -2,7 +2,7 @@
   "id": 1781854713524,
   "isim": "SEVGİ DOĞAN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3883,6 +3883,6 @@
   ],
   "olusturmaTarihi": "2026-06-19T07:38:33.524Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T16:14:22.100Z",
+  "sonGuncelleme": "2026-09-12T05:37:21.511Z",
   "githubKaydedildi": true
 }
