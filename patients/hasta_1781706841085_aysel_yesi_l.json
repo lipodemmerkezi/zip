@@ -2,7 +2,7 @@
   "id": 1781706841085,
   "isim": "AYSEL YEŞİL",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3693,6 +3693,6 @@
   ],
   "olusturmaTarihi": "2026-06-17T14:34:01.085Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T16:18:25.331Z",
+  "sonGuncelleme": "2026-09-12T05:37:57.361Z",
   "githubKaydedildi": true
 }
