@@ -163,7 +163,7 @@
         "tahi̇n ekmeği̇ yeri̇ne 20 çi̇ğ badem ya da yarim avokado ya da 1 yemek kaşiği tahi̇n i̇çeri̇si̇ne",
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
-      "gptMesaj": "Merhaba Fatma Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda ilk haftaya başlıyoruz.\n\nBu süreçte adım adım ilerleyecek, sade ama etkili bir yapı kuracağız. Lipödem, bildiğiniz gibi genetik ve hormonal temelleri olan, vücutta kronik bir iltihabi durum yaratan bir rahatsızlık. Amacımız bu iltihabi süreci yöneterek ilerlemesini durdurmak ve bedeninizi rahatlatmak olacak.\n\nBu ilk haftada, vücuttaki olası gizli gıda duyarlılıklarını gözlemlemek ve inflamasyonu tetikleyebilecek kaynakları azaltmak amacıyla süt ve süt ürünlerini kısa bir süreliğine programımızdan çıkarıyoruz. Bu sadece geçici bir adım, 3. haftadan itibaren kontrollü bir şekilde tekrar menünüze dahil edeceğiz.\n\nBu dönemde protein ihtiyacımızı karşılamak için yumurtayı temel besinimiz olarak belirledik. Sizin için hazırladığımız listede sahanda yumurta, mantarlı veya sebzeli omlet gibi çeşitli seçenekler görebilirsiniz. Yumurta, vücut için en kaliteli protein kaynaklarından biri olmasının yanı sıra, lipödem sürecinde çok değerli olan A, D ve B12 vitaminleri ile selenyum gibi mikro besinler açısından da oldukça zengindir.\n\nListenizde ayrıca hindi füme, balık ve köfte gibi protein kaynakları; ceviz, fındık, tahin gibi sağlıklı yağlar da bulunuyor. Özellikle balık, içerdiği omega-3 sayesinde iltihaplanmayı azaltmada kilit bir rol oynar. Bol yeşillikli salatalar ise hem lif alımını destekler hem de içerdikleri magnezyum gibi minerallerle doku onarımına yardımcı olur.\n\nBu süreçte dolaşımı desteklemek ve ödemi azaltmak amacıyla bazı takviyelerden de destek alabiliriz. Bunlar zorunlu olmamakla birlikte, hedeflerimize ulaşmamızı kolaylaştırabilir. Ayrıca 3. haftadan itibaren bağırsak florasını güçlendirmek için probiyotik ve prebiyotik desteklerine de başlayacağız.\n\nSizden ricam, her iki haftada bir pazar günleri ölçümlerinizi almanız. Bel, kalça ve bacak çevresi gibi ölçümleri kaydetmek, ilerlemeyi en net şekilde görmemizi sağlayacak. Bu süreçte tartıdaki rakamlardan çok, mezuradaki incelmeye odaklanacağız.\n\nÖzetle bu haftanın temel adımları şunlar: süt ürünlerine ara veriyoruz, yumurtayı ana protein kaynağı olarak kullanıyoruz ve su tüketimini artırıyoruz. Programın başlangıcı adaptasyon gerektirebilir ama kısa sürede bedeninizdeki olumlu değişimleri hissetmeye başlayacaksınız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
+      "gptMesaj": "",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -273,6 +273,6 @@
   ],
   "olusturmaTarihi": "2026-09-12T07:48:07.523Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-12T20:07:54.603Z",
+  "sonGuncelleme": "2026-09-12T20:08:02.072Z",
   "githubKaydedildi": true
 }
