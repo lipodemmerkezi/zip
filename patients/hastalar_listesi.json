@@ -154,13 +154,6 @@
     "sonGuncelleme": "2026-09-11T07:12:41.163Z"
   },
   {
-    "id": 1781959299982,
-    "isim": "MERAL GÜMÜŞ",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-09-10T16:19:16.896Z"
-  },
-  {
     "id": 1785867504321,
     "isim": "NACİYE ULUBAHŞİ",
     "not": "",
@@ -932,6 +925,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-11-28T14:18:55.056Z"
+  },
+  {
+    "id": 1781959299982,
+    "isim": "MERAL GÜMÜŞ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-09-12T05:37:45.293Z"
   },
   {
     "id": 1772634255861,
