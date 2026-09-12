@@ -245,13 +245,6 @@
     "sonGuncelleme": "2026-09-10T16:17:43.500Z"
   },
   {
-    "id": 1781596794081,
-    "isim": "ŞERİFE ÇARAY",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-09-11T07:03:59.594Z"
-  },
-  {
     "id": 1785868341274,
     "isim": "ŞERİFE GÜLEŞ",
     "not": "",
@@ -1285,6 +1278,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-04-17T07:21:20.688Z"
+  },
+  {
+    "id": 1781596794081,
+    "isim": "ŞERİFE ÇARAY",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-09-12T05:37:04.149Z"
   },
   {
     "id": "tuba_atas",
