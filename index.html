@@ -193,7 +193,7 @@
             font-weight: bold;
             font-size: 14px;
             box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-            z-index: 10000;
+            z-index: 9999999;
             animation: slideIn 0.3s ease-out;
         }
 
@@ -1925,7 +1925,7 @@
 
     <!-- Manuel Kart Ekleme Modal (ESKİ - ARTIK KULLANILMIYOR) -->
     <div id="manuelKartModal"
-        style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 10000;"
+        style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 9999999;"
         onclick="manuelKartModalKapat(event)">
         <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); background: white; border-radius: 8px; width: 80%; max-width: 800px; max-height: 80%; overflow: hidden;"
             onclick="event.stopPropagation()">
@@ -1971,7 +1971,7 @@
 
             let modal = document.getElementById('olcumlerModal');
             if (!modal) {
-                const modalHTML = `<div id="olcumlerModal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 10000; overflow: auto;"><div style="background: white; margin: 20px auto; max-width: 95%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"><div style="background: linear-gradient(135deg, #6c5ce7, #5b4cdb); color: white; padding: 20px; border-radius: 12px 12px 0 0; display: flex; justify-content: space-between; align-items: center;"><div style="display: flex; align-items: center; gap: 12px;"><div style="background: rgba(255,255,255,0.2); width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 20px;">📏</div><div><h2 style="margin: 0; font-size: 20px;">Vücut Ölçümleri</h2><p id="olcumModalHastaIsim" style="margin: 4px 0 0 0; font-size: 13px; opacity: 0.9;"></p></div></div><button onclick="olcumlerKapat()" style="background: rgba(255,255,255,0.2); border: none; color: white; font-size: 24px; cursor: pointer; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">×</button></div><div style="padding: 20px;"><div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;"><button onclick="olcumSatirEkle()" style="padding: 10px 16px; background: #00b894; color: white; border: none; border-radius: 6px; font-size: 13px; font-weight: bold; cursor: pointer;">➕ Yeni Satır</button><button onclick="olcumleriKaydet()" style="padding: 10px 16px; background: #6c5ce7; color: white; border: none; border-radius: 6px; font-size: 13px; font-weight: bold; cursor: pointer;">💾 Kaydet</button><button onclick="olcumGrafikGoster()" style="padding: 10px 16px; background: #fd79a8; color: white; border: none; border-radius: 6px; font-size: 13px; font-weight: bold; cursor: pointer;">📊 Grafik</button></div><div style="overflow-x: auto; border-radius: 8px; border: 1px solid #dfe6e9;"><table id="olcumlerTablosu" style="width: 100%; border-collapse: collapse; font-size: 13px;"><thead><tr style="background: #6c5ce7; color: white;"><th style="padding: 2px; min-width: 120px;">Tarih / Hafta</th><th style="padding: 2px;">Bel<br>(cm)</th><th style="padding: 2px;">Kalça<br>(cm)</th><th style="padding: 2px;">Sağ Uyluk<br>(cm)</th><th style="padding: 2px;">Sol Uyluk<br>(cm)</th><th style="padding: 2px;">Sağ Diz<br>(cm)</th><th style="padding: 2px;">Sol Diz<br>(cm)</th><th style="padding: 2px;">Sağ Baldır<br>(cm)</th><th style="padding: 2px;">Sol Baldır<br>(cm)</th><th style="padding: 2px;">Sağ Bilek<br>(cm)</th><th style="padding: 2px;">Sol Bilek<br>(cm)</th><th style="padding: 2px;">Sağ Kol<br>(cm)</th><th style="padding: 2px;">Sol Kol<br>(cm)</th><th style="padding: 2px;">Kilo<br>(kg)</th><th style="padding: 2px;">İşlem</th></tr></thead><tbody id="olcumlerBody"></tbody><tfoot id="olcumlerFooter"></tfoot></table></div></div></div></div>`;
+                const modalHTML = `<div id="olcumlerModal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 9999999; overflow: auto;"><div style="background: white; margin: 20px auto; max-width: 95%; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);"><div style="background: linear-gradient(135deg, #6c5ce7, #5b4cdb); color: white; padding: 20px; border-radius: 12px 12px 0 0; display: flex; justify-content: space-between; align-items: center;"><div style="display: flex; align-items: center; gap: 12px;"><div style="background: rgba(255,255,255,0.2); width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 20px;">📏</div><div><h2 style="margin: 0; font-size: 20px;">Vücut Ölçümleri</h2><p id="olcumModalHastaIsim" style="margin: 4px 0 0 0; font-size: 13px; opacity: 0.9;"></p></div></div><button onclick="olcumlerKapat()" style="background: rgba(255,255,255,0.2); border: none; color: white; font-size: 24px; cursor: pointer; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center;">×</button></div><div style="padding: 20px;"><div style="display: flex; gap: 10px; margin-bottom: 20px; flex-wrap: wrap;"><button onclick="olcumSatirEkle()" style="padding: 10px 16px; background: #00b894; color: white; border: none; border-radius: 6px; font-size: 13px; font-weight: bold; cursor: pointer;">➕ Yeni Satır</button><button onclick="olcumleriKaydet()" style="padding: 10px 16px; background: #6c5ce7; color: white; border: none; border-radius: 6px; font-size: 13px; font-weight: bold; cursor: pointer;">💾 Kaydet</button><button onclick="olcumGrafikGoster()" style="padding: 10px 16px; background: #fd79a8; color: white; border: none; border-radius: 6px; font-size: 13px; font-weight: bold; cursor: pointer;">📊 Grafik</button></div><div style="overflow-x: auto; border-radius: 8px; border: 1px solid #dfe6e9;"><table id="olcumlerTablosu" style="width: 100%; border-collapse: collapse; font-size: 13px;"><thead><tr style="background: #6c5ce7; color: white;"><th style="padding: 2px; min-width: 120px;">Tarih / Hafta</th><th style="padding: 2px;">Bel<br>(cm)</th><th style="padding: 2px;">Kalça<br>(cm)</th><th style="padding: 2px;">Sağ Uyluk<br>(cm)</th><th style="padding: 2px;">Sol Uyluk<br>(cm)</th><th style="padding: 2px;">Sağ Diz<br>(cm)</th><th style="padding: 2px;">Sol Diz<br>(cm)</th><th style="padding: 2px;">Sağ Baldır<br>(cm)</th><th style="padding: 2px;">Sol Baldır<br>(cm)</th><th style="padding: 2px;">Sağ Bilek<br>(cm)</th><th style="padding: 2px;">Sol Bilek<br>(cm)</th><th style="padding: 2px;">Sağ Kol<br>(cm)</th><th style="padding: 2px;">Sol Kol<br>(cm)</th><th style="padding: 2px;">Kilo<br>(kg)</th><th style="padding: 2px;">İşlem</th></tr></thead><tbody id="olcumlerBody"></tbody><tfoot id="olcumlerFooter"></tfoot></table></div></div></div></div>`;
                 document.body.insertAdjacentHTML('beforeend', modalHTML);
                 modal = document.getElementById('olcumlerModal');
             }
@@ -3483,7 +3483,7 @@
             progressDiv.style.cssText = `
         position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
         background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-        z-index: 10000; min-width: 300px; text-align: center;
+        z-index: 9999999; min-width: 300px; text-align: center;
       `;
             progressDiv.innerHTML = `
         <h3>📁 PDF'ler İşleniyor...</h3>
@@ -3828,7 +3828,7 @@
             const modal = document.createElement('div');
             modal.style.cssText = `
         position: fixed; top: 0; left: 0; width: 100%; height: 100%; 
-        background: rgba(0,0,0,0.5); z-index: 10000; 
+        background: rgba(0,0,0,0.5); z-index: 9999999; 
         display: flex; align-items: center; justify-content: center;
       `;
             modal.innerHTML = `
@@ -6228,7 +6228,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
             const modal = document.createElement('div');
             modal.style.cssText = `
         position: fixed; top: 0; left: 0; width: 100%; height: 100%; 
-        background: rgba(0,0,0,0.5); z-index: 10000; 
+        background: rgba(0,0,0,0.5); z-index: 9999999; 
         display: flex; align-items: center; justify-content: center;
       `;
 
@@ -17322,7 +17322,7 @@ ${mesajlar.join('\n')}
                     const modal = document.createElement('div');
                     modal.style.cssText = `
         position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-        background: rgba(0,0,0,0.5); z-index: 10000;
+        background: rgba(0,0,0,0.5); z-index: 9999999;
         display: flex; align-items: center; justify-content: center;
       `;
 
@@ -17672,7 +17672,7 @@ ${mesajlar.join('\n')}
                         progressDiv.style.cssText = `
           position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
           background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-          z-index: 10000; min-width: 400px; text-align: center;
+          z-index: 9999999; min-width: 400px; text-align: center;
         `;
                         progressDiv.innerHTML = `
           <h3>🗜️ Toplu ZIP Hazırlanıyor...</h3>
@@ -18269,7 +18269,7 @@ console.log(`  PDF URL: ${pdfUrl}`);
                     progressDiv.style.cssText = `
         position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
         background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-        z-index: 10000; min-width: 300px; text-align: center;
+        z-index: 9999999; min-width: 300px; text-align: center;
       `;
                     progressDiv.innerHTML = `
         <h3>📁 PDF'ler İşleniyor...</h3>
@@ -19533,7 +19533,7 @@ console.log(`  PDF URL: ${pdfUrl}`);
         <div
             style="position: relative; max-width: 90%; max-height: 90%; display: flex; flex-direction: column; align-items: center;">
             <button onclick="resimPopupKapat(); event.stopPropagation();"
-                style="position: absolute; top: -40px; right: 0; background: #dc3545; color: white; border: none; border-radius: 50%; width: 35px; height: 35px; font-size: 24px; font-weight: bold; cursor: pointer; z-index: 10000;">×</button>
+                style="position: absolute; top: -40px; right: 0; background: #dc3545; color: white; border: none; border-radius: 50%; width: 35px; height: 35px; font-size: 24px; font-weight: bold; cursor: pointer; z-index: 9999999;">×</button>
             <img id="resimPopupImg" src=""
                 style="max-width: 100%; max-height: 90vh; object-fit: contain; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.5);"
                 onclick="event.stopPropagation();" />
@@ -22043,7 +22043,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
             const modal = document.createElement('div');
             modal.style.cssText = `
         position: fixed; top: 0; left: 0; width: 100%; height: 100%; 
-        background: rgba(0,0,0,0.7); z-index: 10000; display: flex; 
+        background: rgba(0,0,0,0.7); z-index: 9999999; display: flex; 
         justify-content: center; align-items: center;
       `;
 
@@ -22651,7 +22651,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
           display: flex; 
           justify-content: center; 
           align-items: center; 
-          z-index: 10000;
+          z-index: 9999999;
         ">
           <div style="
             background: white; 
@@ -24090,7 +24090,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
         color: white;
         padding: 12px 20px;
         border-radius: 6px;
-        z-index: 10000;
+        z-index: 9999999;
         font-weight: bold;
         box-shadow: 0 4px 12px rgba(0,0,0,0.3);
       `;
@@ -24131,7 +24131,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
         function showGoogleApiConfig() {
             const modal = document.createElement('div');
             modal.innerHTML = `
-        <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 10000; display: flex; align-items: center; justify-content: center;">
+        <div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); z-index: 9999999; display: flex; align-items: center; justify-content: center;">
           <div style="background: white; padding: 30px; border-radius: 10px; max-width: 500px; width: 90%;">
             <h3>⚙️ Google API Ayarları</h3>
             <div style="margin: 15px 0;">
@@ -25570,7 +25570,7 @@ METİN:
                         // Başarılı bildirim
                         const toast = document.createElement('div');
                         toast.textContent = '✅ Alışveriş listesi GitHub\'a kaydedildi!';
-                        toast.style.cssText = 'position: fixed; bottom: 20px; right: 20px; background: #28a745; color: white; padding: 12px 24px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 10000; animation: fadeInOut 3s forwards;';
+                        toast.style.cssText = 'position: fixed; bottom: 20px; right: 20px; background: #28a745; color: white; padding: 12px 24px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); z-index: 9999999; animation: fadeInOut 3s forwards;';
                         document.body.appendChild(toast);
                         setTimeout(() => toast.remove(), 3000);
 
@@ -25726,7 +25726,7 @@ METİN:
 
             // Modal HTML
             const modalHtml = `
-        <div id="shoppingListModal" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: 10000; display: flex; justify-content: center; align-items: center;">
+        <div id="shoppingListModal" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.7); z-index: 9999999; display: flex; justify-content: center; align-items: center;">
           <div style="background: white; border-radius: 16px; width: 95%; max-width: 900px; max-height: 90vh; overflow: hidden; display: flex; flex-direction: column;">
             <!-- Header -->
             <div style="background: linear-gradient(135deg, #28a745, #20c997); color: white; padding: 20px; display: flex; justify-content: space-between; align-items: center;">
