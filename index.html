@@ -16288,31 +16288,9 @@ Detaylı bilgiler için tarayıcı konsolunu (F12) açın.`);
                     topluZipIndir(true);
                 };
 
-                const topluGptButton = document.createElement('button');
-                topluGptButton.className = 'toplu-gpt-button';
-                topluGptButton.innerHTML = '🤖 Gelişmiş Seçmeli ZIP';
-                topluGptButton.title = 'Toplu GPT mesajı oluştur ve seçmeli ZIP indir';
-                topluGptButton.style.cssText = topluZipButton.style.cssText;
-                topluGptButton.style.background = 'linear-gradient(45deg, #10ac84, #01a3a4)';
-                
-                topluGptButton.addEventListener('mouseenter', function () {
-                    this.style.transform = 'translateY(-2px)';
-                    this.style.boxShadow = '0 4px 8px rgba(0,0,0,0.3)';
-                });
-                
-                topluGptButton.addEventListener('mouseleave', function () {
-                    this.style.transform = 'translateY(0)';
-                    this.style.boxShadow = '0 2px 4px rgba(0,0,0,0.2)';
-                });
-
-                topluGptButton.onclick = function () {
-                    showBulkGptModal();
-                };
-
-                // Butonları sidebar'a ekle
+                // Butonu sidebar'a ekle
                 sidebarButtons.appendChild(topluZipButton);
-                sidebarButtons.appendChild(topluGptButton);
-                console.log('📦 Toplu ZIP ve Gelişmiş Seçmeli ZIP butonları eklendi');
+                console.log('📦 Toplu ZIP butonu eklendi');
             }
         }
 
@@ -29295,8 +29273,8 @@ IMPORTANT RULES:
                 
                 const btn = document.createElement('button');
                 btn.className = 'toplu-gpt-button';
-                btn.innerHTML = '🤖 TOPLU GPT MESAJI';
-                btn.title = 'Seçilen hastalar için otomatik mesaj oluşturur';
+                btn.innerHTML = '🤖 Gelişmiş Seçmeli ZIP ve GPT';
+                btn.title = 'Seçilen hastalar için GPT mesajı oluşturur ve gelişmiş ZIP indirir';
                 btn.style.cssText = `
                   width: 100%; 
                   padding: 12px; 
