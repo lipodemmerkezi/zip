@@ -4234,7 +4234,7 @@
         });
 
         // --- DAYANIKLI İNDİRME SİSTEMİ (ERR_EMPTY_RESPONSE ÇÖZÜMÜ) ---
-        async function resilientFetch(url, options = {}, retries = 3, delay = 1000) {
+        window.resilientFetch = async function(url, options = {}, retries = 3, delay = 1000) {
             for (let i = 0; i < retries; i++) {
                 try {
                     const response = await fetch(url, options);
@@ -4544,7 +4544,7 @@
                 const manuelUrl = 'https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/manuel_eslestirmeler.json';
 
                 try {
-                    const manuelResp = await resilientFetch(manuelUrl + `?t=${new Date().getTime()}`);
+                    const manuelResp = await window.resilientFetch(manuelUrl + `?t=${new Date().getTime()}`);
                     if (manuelResp && manuelResp.ok) {
                         const manuelData = await manuelResp.json();
                         if (manuelData.eslestirmeler) {
@@ -4564,7 +4564,7 @@
                 const yasakUrl = 'https://raw.githubusercontent.com/lipodemmerkezi/zip/main/data/eslesmeme_kurallari.json';
 
                 try {
-                    const yasakResp = await resilientFetch(yasakUrl + `?t=${new Date().getTime()}`);
+                    const yasakResp = await window.resilientFetch(yasakUrl + `?t=${new Date().getTime()}`);
                     if (yasakResp && yasakResp.ok) {
                         const yasakData = await yasakResp.json();
                         if (yasakData.kurallar) {
@@ -4645,7 +4645,7 @@
             try {
                 console.log('🔍 GitHub token test ediliyor...');
 
-                const userResponse = await resilientFetch('https://api.github.com/user', {
+                const userResponse = await window.resilientFetch('https://api.github.com/user', {
                     headers: { 'Authorization': `token ${token}` }
                 });
 
@@ -4680,7 +4680,7 @@
 
                 const owner = 'lipodemmerkezi';
                 const repo = 'zip';
-                const response = await resilientFetch(`https://api.github.com/repos/${owner}/${repo}/contents/patients/hastalar_listesi.json?t=${new Date().getTime()}`, {
+                const response = await window.resilientFetch(`https://api.github.com/repos/${owner}/${repo}/contents/patients/hastalar_listesi.json?t=${new Date().getTime()}`, {
                     headers: { 'Authorization': `token ${token}` }
                 });
 
@@ -15459,13 +15459,13 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
                                     if (foundFile && foundFile.download_url) {
                                         console.log(`✅ Kart önbellekten bulundu: ${foundFile.name}`);
-                                        response = await resilientFetch(foundFile.download_url);
+                                        response = await window.resilientFetch(foundFile.download_url);
                                     }
                                 }
 
                                 // 2. Önbellekte yoksa veya indirilemediyse, orijinal URL'yi dene
                                 if (!response || !response.ok) {
-                                    response = await resilientFetch(fixKart.url);
+                                    response = await window.resilientFetch(fixKart.url);
                                 }
 
                                 if (!response || !response.ok) {
@@ -16238,6 +16238,14 @@ Detaylı bilgiler için tarayıcı konsolunu (F12) açın.`);
         }
 
         // Toplu ZIP butonunu sidebar'a ekle
+        window.secilenleriZipIndir = function() {
+            if (typeof topluZipIndir === 'function') {
+                topluZipIndir();
+            } else {
+                alert('topluZipIndir fonksiyonu bulunamadı.');
+            }
+        };
+
         function ekleTopluZipButonu() {
             const sidebarButtons = document.getElementById('sidebarButtons');
             if (sidebarButtons) {
@@ -16277,7 +16285,7 @@ Detaylı bilgiler için tarayıcı konsolunu (F12) açın.`);
                 });
 
                 topluZipButton.onclick = function () {
-                    topluZipIndir();
+                    showBulkGptModal();
                 };
 
                 // Butonu sidebar'a ekle
@@ -17582,7 +17590,33 @@ ${mesajlar.join('\n')}
                             return;
                         }
 
-                        const aktifHastalar = tumHastalar.filter(hasta => !hasta.arsiv);
+                        let seciliHastalarData = null;
+                        if (window.bgptState && window.bgptState.hastalar && document.getElementById('bgpt_btn_zip')) {
+                            seciliHastalarData = [];
+                            for (let i = 0; i < window.bgptState.hastalar.length; i++) {
+                                const hasta = window.bgptState.hastalar[i];
+                                const cb = document.querySelector(`.bgpt-hasta-cb[value="${hasta.id}"]`);
+                                if (cb && cb.checked) {
+                                    const haftaSelect = document.querySelector(`.bgpt-hafta-select[data-id="${hasta.id}"]`);
+                                    const obj = {...hasta};
+                                    if (haftaSelect && haftaSelect.value !== '') {
+                                        const seciliIdx = parseInt(haftaSelect.value);
+                                        const seciliHaftaObj = hasta.haftalar[seciliIdx];
+                                        obj._seciliHaftaNo = seciliHaftaObj ? (seciliHaftaObj.haftaNo || (seciliIdx + 1)) : hasta.maxHaftaNo;
+                                    } else {
+                                        obj._seciliHaftaNo = hasta.maxHaftaNo;
+                                    }
+                                    seciliHastalarData.push(obj);
+                                }
+                            }
+                        }
+                        
+                        if (seciliHastalarData !== null && seciliHastalarData.length === 0) {
+                            alert('Lütfen en az bir hasta seçin!');
+                            return;
+                        }
+                        const aktifHastalar = seciliHastalarData !== null ? seciliHastalarData : tumHastalar.filter(hasta => !hasta.arsiv);
+
 
                         if (aktifHastalar.length === 0) {
                             alert('Aktif hasta bulunamadı!');
@@ -17678,6 +17712,11 @@ ${mesajlar.join('\n')}
                                 const haftalar = hastaData.haftalar || [];
                                 let enBuyukHafta = null;
                                 let enBuyukHaftaNo = 0;
+                                if (hasta._seciliHaftaNo) {
+                                    enBuyukHaftaNo = hasta._seciliHaftaNo;
+                                    enBuyukHafta = haftalar.find(h => (h.haftaNo || 0) === enBuyukHaftaNo) || haftalar[enBuyukHaftaNo - 1] || haftalar[haftalar.length - 1];
+                                } else {
+
 
                                     haftalar.forEach(hafta => {
         const haftaNo = hafta.haftaNo || 0;
@@ -17688,7 +17727,11 @@ ${mesajlar.join('\n')}
         }
     });
 
-    if (!enBuyukHafta) {
+    
+                                }
+                                
+
+                                if (!enBuyukHafta) {
         haftalar.forEach(hafta => {
             const haftaNo = hafta.haftaNo || 0;
             if (haftaNo > enBuyukHaftaNo) {
@@ -18095,13 +18138,13 @@ console.log(`  PDF URL: ${pdfUrl}`);
 
                                                     if (foundFile && foundFile.download_url) {
                                                         console.log(`✅ Kart önbellekten bulundu: ${foundFile.name}`);
-                                                        response = await resilientFetch(foundFile.download_url);
+                                                        response = await window.resilientFetch(foundFile.download_url);
                                                     }
                                                 }
 
                                                 // Önbellekte bulunamadıysa orijinal URL'yi dene
                                                 if (!response || !response.ok) {
-                                                    response = await resilientFetch(fixKart.url);
+                                                    response = await window.resilientFetch(fixKart.url);
                                                 }
 
                                                 if (response && response.ok) {
@@ -18135,7 +18178,10 @@ console.log(`  PDF URL: ${pdfUrl}`);
 
                                 // GPT mesajını ekle
                                 if (enBuyukHafta.gptMesaj && enBuyukHafta.gptMesaj.trim()) {
-                                    anaZip.file(`${hastaKlasorAdi}/GPT_MESAJI.txt`, enBuyukHafta.gptMesaj.trim());
+                                    let pdfFileNameStr = (enBuyukHafta.pdfName || enBuyukHafta.pdfOrijinalIsim || '').replace('.pdf', '');
+                                    let txtName = pdfFileNameStr ? `HAFTALIK MESAJ_${pdfFileNameStr}.txt` : `HAFTALIK MESAJ ${hasta.isim.toUpperCase()} ${enBuyukHafta.tarih || ''} ${enBuyukHaftaNo}. HAFTA.txt`;
+                                    txtName = txtName.replace(/\s+/g, ' ');
+                                    anaZip.file(`${hastaKlasorAdi}/${txtName}`, enBuyukHafta.gptMesaj.trim());
                                 }
 
                                 // Lenf masajı planını ekle (5. hafta için)
@@ -25581,8 +25627,8 @@ METİN:
                     }
                 });
 
-                if (seciliHasta && seciliHasta.haftalar) {
-                    seciliHasta.haftalar.forEach((hafta, i) => {
+                if (window.seciliHasta && window.seciliHasta.haftalar) {
+                    window.seciliHasta.haftalar.forEach((hafta, i) => {
                         const exists = hafta.shoppingList && hafta.shoppingList.data;
                         this.updateUiButton(i, exists);
                     });
@@ -26926,7 +26972,7 @@ IMPORTANT RULES:
                     body.sha = fixKartGithubSha;
                 }
 
-                const response = await resilientFetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}`, {
+                const response = await window.resilientFetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}`, {
                     method: 'PUT',
                     headers: { 'Authorization': `token ${token}`, 'Content-Type': 'application/json' },
                     body: JSON.stringify(body)
@@ -26960,7 +27006,7 @@ IMPORTANT RULES:
 
                 // Token varsa API ile (SHA alabilmek için)
                 if (token) {
-                    const response = await resilientFetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}?t=${new Date().getTime()}`, {
+                    const response = await window.resilientFetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}?t=${new Date().getTime()}`, {
                         headers: { 'Authorization': `token ${token}` }
                     });
                     if (response.ok) {
@@ -27364,7 +27410,7 @@ IMPORTANT RULES:
             const ts = Date.now(); // Cache busting
 
             try {
-                const response = await resilientFetch(`https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/list.json?t=${ts}`);
+                const response = await window.resilientFetch(`https://raw.githubusercontent.com/lipodemmerkezi/zip/main/tarifler/list.json?t=${ts}`);
                 if (response.ok) {
                     const data = await response.json();
                     // Hem string hem object formatını destekle
@@ -27812,7 +27858,7 @@ IMPORTANT RULES:
                                 }
                             }
 
-                            resilientFetch(finalUrl).then(res => {
+                            window.resilientFetch(finalUrl).then(res => {
                                 if (res.ok) return res.blob();
                                 throw new Error('Network error');
                             }).then(blob => {
@@ -29542,7 +29588,7 @@ IMPORTANT RULES:
               <div id="bulkGptModal" style="position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.7);display:flex;justify-content:center;align-items:center;z-index:100000;font-family:Arial,sans-serif;">
                 <div style="background:white;width:95%;max-width:900px;max-height:90vh;border-radius:12px;display:flex;flex-direction:column;overflow:hidden;box-shadow:0 10px 40px rgba(0,0,0,0.4);">
                     <div style="padding:20px;border-bottom:1px solid #e0e0e0;display:flex;justify-content:space-between;align-items:center;background:#f8f9fa;">
-                        <h3 style="margin:0;color:#0056b3;font-size:20px;display:flex;align-items:center;gap:10px;">🤖 Toplu GPT Mesajı Üretme</h3>
+                        <h3 style="margin: 0; color: #0056b3; font-size: 20px; display: flex; align-items: center; gap: 8px;">🤖 Toplu İşlemler (GPT Üret & ZIP İndir)</h3>
                         <button onclick="window.kapatTopluGptModal()" style="background:none;border:none;font-size:28px;line-height:1;cursor:pointer;color:#666;">&times;</button>
                     </div>
                     
@@ -29609,6 +29655,7 @@ IMPORTANT RULES:
                         <div style="display:flex;gap:10px;">
                             <button onclick="window.kapatTopluGptModal()" id="bgpt_btn_iptal" style="padding:10px 20px;border:1px solid #ccc;background:white;border-radius:6px;cursor:pointer;font-weight:bold;">İptal</button>
                             <button onclick="baslatTopluGptIslemi()" id="bgpt_btn_baslat" style="padding:10px 25px;border:none;background:#28a745;color:white;border-radius:6px;font-weight:bold;font-size:15px;cursor:pointer;box-shadow:0 2px 5px rgba(0,0,0,0.2);">🚀 Analizi Başlat</button>
+<button onclick="window.secilenleriZipIndir()" id="bgpt_btn_zip" style="padding:10px 20px;border:none;background:#ff6b6b;color:white;border-radius:6px;font-weight:bold;font-size:15px;cursor:pointer;box-shadow:0 2px 5px rgba(0,0,0,0.2);">📦 ZIP İndir</button>
                         </div>
                     </div>
                 </div>
