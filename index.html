@@ -16285,12 +16285,34 @@ Detaylı bilgiler için tarayıcı konsolunu (F12) açın.`);
                 });
 
                 topluZipButton.onclick = function () {
+                    topluZipIndir(true);
+                };
+
+                const topluGptButton = document.createElement('button');
+                topluGptButton.className = 'toplu-gpt-button';
+                topluGptButton.innerHTML = '🤖 Gelişmiş Seçmeli ZIP';
+                topluGptButton.title = 'Toplu GPT mesajı oluştur ve seçmeli ZIP indir';
+                topluGptButton.style.cssText = topluZipButton.style.cssText;
+                topluGptButton.style.background = 'linear-gradient(45deg, #10ac84, #01a3a4)';
+                
+                topluGptButton.addEventListener('mouseenter', function () {
+                    this.style.transform = 'translateY(-2px)';
+                    this.style.boxShadow = '0 4px 8px rgba(0,0,0,0.3)';
+                });
+                
+                topluGptButton.addEventListener('mouseleave', function () {
+                    this.style.transform = 'translateY(0)';
+                    this.style.boxShadow = '0 2px 4px rgba(0,0,0,0.2)';
+                });
+
+                topluGptButton.onclick = function () {
                     showBulkGptModal();
                 };
 
-                // Butonu sidebar'a ekle
+                // Butonları sidebar'a ekle
                 sidebarButtons.appendChild(topluZipButton);
-                console.log('✅ Toplu ZIP butonu eklendi');
+                sidebarButtons.appendChild(topluGptButton);
+                console.log('📦 Toplu ZIP ve Gelişmiş Seçmeli ZIP butonları eklendi');
             }
         }
 
@@ -17564,10 +17586,26 @@ ${mesajlar.join('\n')}
                 window.updateTelefonButonu = updateTelefonButonu;
                 window.hastaSecildi = hastaSecildi;
 
-                //  ️ TOPLU ZIP FONKSİYONU
-                async function topluZipIndir() {
+                // --- YENİ TOPLU ZİP İNDİRME SİSTEMİ ---
+                async function topluZipIndir(ignoreModal = false) {
+                    const progressDiv = document.createElement('div');
+                    progressDiv.style.cssText = `
+                        position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
+                        background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+                        z-index: 9999999; min-width: 400px; text-align: center;
+                    `;
+                    progressDiv.innerHTML = `
+                        <h3>📦 Toplu ZIP Hazırlanıyor...</h3>
+                        <div id="progressBar" style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0;">
+                            <div id="progressFill" style="width: 0%; height: 100%; background: linear-gradient(45deg, #667eea, #764ba2); transition: width 0.3s;"></div>
+                        </div>
+                        <div id="progressText">0 / Hesaplanıyor...</div>
+                        <div id="currentHasta" style="margin-top: 10px; font-weight: bold; color: #666;">Hazırlık yapılıyor...</div>
+                    `;
+                    document.body.appendChild(progressDiv);
+
                     try {
-                        console.log('🚀 Toplu ZIP indirme başlatıldı');
+                        console.log('📦 Toplu ZIP indirme başlatıldı');
 
                         // GitHub token kontrolü
                         const tokenElement = document.getElementById('githubToken');
@@ -17577,21 +17615,24 @@ ${mesajlar.join('\n')}
                         const GITHUB_REPO = repoElement ? repoElement.value.trim() || 'lipodemmerkezi/zip' : 'lipodemmerkezi/zip';
 
                         if (!GITHUB_TOKEN) {
+                            document.body.removeChild(progressDiv);
                             alert('GitHub token ayarlanmamış. Lütfen önce GitHub token\'ınızı girin.');
                             return;
                         }
 
                         // Hasta listesini al (GitHub'dan direkt yükle)
-                        console.log('📋 Hasta listesi yükleniyor...');
+                        document.getElementById('currentHasta').textContent = `Hasta listesi yükleniyor...`;
+                        console.log('📂 Hasta listesi yükleniyor...');
                         const tumHastalar = await hastaListesiYukle();
 
                         if (!tumHastalar || tumHastalar.length === 0) {
+                            document.body.removeChild(progressDiv);
                             alert('Hasta listesi yüklenmemiş! Lütfen GitHub token\'ınızı kontrol edin.');
                             return;
                         }
 
                         let seciliHastalarData = null;
-                        if (window.bgptState && window.bgptState.hastalar && document.getElementById('bgpt_btn_zip')) {
+                        if (!ignoreModal && window.bgptState && window.bgptState.hastalar && document.getElementById('bgpt_btn_zip')) {
                             seciliHastalarData = [];
                             for (let i = 0; i < window.bgptState.hastalar.length; i++) {
                                 const hasta = window.bgptState.hastalar[i];
@@ -17612,6 +17653,7 @@ ${mesajlar.join('\n')}
                         }
                         
                         if (seciliHastalarData !== null && seciliHastalarData.length === 0) {
+                            document.body.removeChild(progressDiv);
                             alert('Lütfen en az bir hasta seçin!');
                             return;
                         }
@@ -17619,11 +17661,14 @@ ${mesajlar.join('\n')}
 
 
                         if (aktifHastalar.length === 0) {
-                            alert('Aktif hasta bulunamadı!');
+                            document.body.removeChild(progressDiv);
+                            alert('Aktif hasta bulunamad!');
                             return;
                         }
 
-                        console.log(`📊 ${aktifHastalar.length} aktif hasta bulundu`);
+                        console.log(`📦 ${aktifHastalar.length} aktif hasta bulundu`);
+                        document.getElementById('progressText').innerHTML = `0 / ${aktifHastalar.length}`;
+                        document.getElementById('currentHasta').innerHTML = `Tarif görselleri kontrol ediliyor...`;
 
                         // Tarif kartları görsellerini ve manuel eşleştirmeleri yükle (inline eşleştirme için gerekli)
                         if (tariflerKlasoruGorselleri.length === 0) {
@@ -17667,22 +17712,6 @@ ${mesajlar.join('\n')}
                             console.warn('⚠️ GitHub önbellek oluşturulamadı.');
                         }
 
-                        // Progress gösterimi
-                        const progressDiv = document.createElement('div');
-                        progressDiv.style.cssText = `
-          position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%);
-          background: white; padding: 20px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-          z-index: 9999999; min-width: 400px; text-align: center;
-        `;
-                        progressDiv.innerHTML = `
-          <h3>🗜️ Toplu ZIP Hazırlanıyor...</h3>
-          <div id="progressBar" style="width: 100%; height: 20px; background: #f0f0f0; border-radius: 10px; overflow: hidden; margin: 10px 0;">
-            <div id="progressFill" style="width: 0%; height: 100%; background: linear-gradient(45deg, #667eea, #764ba2); transition: width 0.3s;"></div>
-          </div>
-          <div id="progressText">0 / ${aktifHastalar.length}</div>
-          <div id="currentHasta" style="margin-top: 10px; font-weight: bold; color: #666;"></div>
-        `;
-                        document.body.appendChild(progressDiv);
 
                         let basariliHastalar = 0;
                         let hataliHastalar = 0;
