@@ -3,9 +3,27 @@
   "isim": "ELVAN DEMİRHAN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-09-13",
+      "bitis": "2026-09-19",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-09-14T13:11:49.012Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-14T13:11:49.012Z",
+  "sonGuncelleme": "2026-09-14T13:12:02.695Z",
   "githubKaydedildi": true
 }
