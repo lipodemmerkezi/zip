@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-09-13",
-      "bitis": "2026-09-19",
+      "baslangic": "2026-09-18",
+      "bitis": "2026-09-27",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ELVAN DEMİRHAN 18-27 EYLÜL 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ELVAN DEMİRHAN 18-27 EYLÜL 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ELVAN DEMİRHAN 18-27 EYLÜL 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ELVAN DEMİRHAN 18-27 EYLÜL 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ELVAN DEMİRHAN 18-27 EYLÜL 1. HAFTA.pdf",
+      "kayitTarihi": "2026-09-14T13:12:26.052Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "09/18 - 09/27",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-14T13:11:49.012Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-14T13:12:02.695Z",
+  "sonGuncelleme": "2026-09-14T13:12:26.054Z",
   "githubKaydedildi": true
 }
