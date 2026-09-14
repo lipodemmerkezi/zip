@@ -7965,82 +7965,131 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                 const tagsInput = document.getElementById('yeniKartTags').value.trim();
                 const tags = tagsInput ? tagsInput.split(',').map(t => t.trim()).filter(t => t.length > 0) : [];
 
-                // 3. list.json dosyasını güncelle
-                // Önce mevcut list.json'u al
-                const listRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/tarifler/list.json?ref=${branch}`, {
-                    headers: { Authorization: `token ${token}` }
-                });
+                // 3. list.json dosyasını güncelle - Race condition önlemek için retry mekanizması
+                const maxRetries = 3;
+                let listUpdated = false;
+                let retryCount = 0;
 
-                if (!listRes.ok) {
-                    throw new Error('list.json dosyası alınamadı');
-                }
-
-                const listData = await listRes.json();
-                const mevcutListe = JSON.parse(decodeBase64UTF8(listData.content));
-
-                // Liste format kontrolü - hem eski hem yeni formatı destekle
-                let yeniListe;
-                const ilkEleman = mevcutListe.length > 0 ? mevcutListe[0] : null;
-                const yeniFormatKullan = ilkEleman && typeof ilkEleman === 'object' && ilkEleman.file;
-
-                if (yeniFormatKullan) {
-                    // Yeni format: obje array
-                    yeniListe = mevcutListe.filter(item => {
-                        const fileName = item?.file || '';
-                        return fileName !== dosyaAdi;
-                    });
-                    yeniListe.push({
-                        file: dosyaAdi,
-                        tags: tags
-                    });
-                    yeniListe.sort((a, b) => {
-                        const fileA = a?.file || '';
-                        const fileB = b?.file || '';
-                        return fileA.localeCompare(fileB, 'tr-TR');
-                    });
-                } else {
-                    // Eski format: string array - yeni formata dönüştür
-                    yeniListe = mevcutListe
-                        .filter(item => {
-                            const fileName = typeof item === 'string' ? item : (item?.file || '');
-                            return fileName !== dosyaAdi;
-                        })
-                        .map(item => {
-                            if (typeof item === 'string') {
-                                return { file: item, tags: [] };
+                while (!listUpdated && retryCount < maxRetries) {
+                    try {
+                        // Önce mevcut list.json'u al
+                        // Cache'den gelmemesi için timestamp ekleyelim
+                        const timestamp = new Date().getTime();
+                        const listRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/tarifler/list.json?ref=${branch}&t=${timestamp}`, {
+                            headers: { 
+                                'Authorization': `token ${token}`,
+                                'Cache-Control': 'no-cache'
                             }
-                            return item;
                         });
 
-                    yeniListe.push({
-                        file: dosyaAdi,
-                        tags: tags
-                    });
-                    yeniListe.sort((a, b) => {
-                        const fileA = a?.file || '';
-                        const fileB = b?.file || '';
-                        return fileA.localeCompare(fileB, 'tr-TR');
-                    });
+                        if (!listRes.ok) {
+                            throw new Error('list.json dosyası alınamadı');
+                        }
+
+                        const listData = await listRes.json();
+                        const mevcutListe = JSON.parse(decodeBase64UTF8(listData.content));
+
+                        let yeniListe;
+                        const ilkEleman = mevcutListe.length > 0 ? mevcutListe[0] : null;
+                        const yeniFormatKullan = ilkEleman && typeof ilkEleman === 'object' && (ilkEleman.file || ilkEleman.name);
+
+                        if (yeniFormatKullan) {
+                            // Yeni format: obje array
+                            yeniListe = mevcutListe.filter(item => {
+                                const fileName = item?.file || item?.name || '';
+                                return fileName !== dosyaAdi;
+                            });
+                            const repoInfo = getActiveRepoInfo();
+                            yeniListe.push({
+                                name: dosyaAdi,
+                                url: `${repoInfo.pagesBase}/tarifler/${dosyaAdi}`,
+                                file: dosyaAdi,
+                                tags: tags
+                            });
+                            yeniListe.sort((a, b) => {
+                                const fileA = a?.file || a?.name || '';
+                                const fileB = b?.file || b?.name || '';
+                                return fileA.localeCompare(fileB, 'tr-TR');
+                            });
+                        } else {
+                            // Eski format: string array - yeni formata dönüştür
+                            const repoInfo = getActiveRepoInfo();
+                            yeniListe = mevcutListe
+                                .filter(item => {
+                                    const fileName = typeof item === 'string' ? item : (item?.file || item?.name || '');
+                                    return fileName !== dosyaAdi;
+                                })
+                                .map(item => {
+                                    if (typeof item === 'string') {
+                                        return { 
+                                            name: item,
+                                            url: `${repoInfo.pagesBase}/tarifler/${item}`,
+                                            file: item, 
+                                            tags: [] 
+                                        };
+                                    }
+                                    // Eğer mevcut objede name veya url eksikse tamamla
+                                    const fileName = item?.file || item?.name || '';
+                                    if (fileName) {
+                                        item.name = fileName;
+                                        item.url = `${repoInfo.pagesBase}/tarifler/${fileName}`;
+                                        item.file = fileName;
+                                    }
+                                    return item;
+                                });
+
+                            yeniListe.push({
+                                name: dosyaAdi,
+                                url: `${repoInfo.pagesBase}/tarifler/${dosyaAdi}`,
+                                file: dosyaAdi,
+                                tags: tags
+                            });
+                            yeniListe.sort((a, b) => {
+                                const fileA = a?.file || a?.name || '';
+                                const fileB = b?.file || b?.name || '';
+                                return fileA.localeCompare(fileB, 'tr-TR');
+                            });
+                        }
+
+                        // Güncellenmiş listeyi yükle
+                        const yeniListeContent = encodeUTF8ToBase64(yeniListe);
+                        const listUpdateRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/tarifler/list.json`, {
+                            method: 'PUT',
+                            headers: {
+                                'Authorization': `token ${token}`,
+                                'Content-Type': 'application/json'
+                            },
+                            body: JSON.stringify({
+                                message: `list.json güncellendi - ${dosyaAdi} eklendi${tags.length > 0 ? ` (tags: ${tags.join(', ')})` : ''}`,
+                                content: yeniListeContent,
+                                sha: listData.sha,
+                                branch
+                            })
+                        });
+
+                        if (listUpdateRes.ok) {
+                            listUpdated = true;
+                        } else if (listUpdateRes.status === 409) {
+                            // Conflict - Bir başka kayıt işlemi list.json'u bizden önce değiştirmiş
+                            console.warn(`list.json güncellenirken çakışma oldu (Deneme ${retryCount + 1}/${maxRetries}). Tekrar deneniyor...`);
+                            retryCount++;
+                            // Kısa bir süre bekleyip tekrar deneyelim
+                            await new Promise(resolve => setTimeout(resolve, 1000));
+                        } else {
+                            const errorText = await listUpdateRes.text();
+                            throw new Error('list.json güncelleme başarısız: ' + errorText);
+                        }
+                    } catch (err) {
+                        if (retryCount >= maxRetries - 1) {
+                            throw err; // Maksimum denemeye ulaştıysak hatayı fırlat
+                        }
+                        retryCount++;
+                        await new Promise(resolve => setTimeout(resolve, 1000));
+                    }
                 }
 
-                // Güncellenmiş listeyi yükle
-                const yeniListeContent = encodeUTF8ToBase64(yeniListe);
-                const listUpdateRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/tarifler/list.json`, {
-                    method: 'PUT',
-                    headers: {
-                        'Authorization': `token ${token}`,
-                        'Content-Type': 'application/json'
-                    },
-                    body: JSON.stringify({
-                        message: `list.json güncellendi - ${dosyaAdi} eklendi${tags.length > 0 ? ` (tags: ${tags.join(', ')})` : ''}`,
-                        content: yeniListeContent,
-                        sha: listData.sha,
-                        branch
-                    })
-                });
-
-                if (!listUpdateRes.ok) {
-                    throw new Error('list.json güncelleme başarısız: ' + (await listUpdateRes.text()));
+                if (!listUpdated) {
+                    throw new Error('list.json güncellenemedi, lütfen daha sonra tekrar deneyin.');
                 }
 
                 const tagInfo = tags.length > 0 ? ` (${tags.length} etiket)` : '';
