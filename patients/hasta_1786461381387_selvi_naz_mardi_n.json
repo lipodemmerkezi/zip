@@ -1603,10 +1603,27 @@
         "keten tohumu ekmeği",
         "tavuk güveç"
       ]
+    },
+    {
+      "haftaNo": 7,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T13:56:34.306Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-11T15:16:21.387Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T16:11:50.598Z",
+  "sonGuncelleme": "2026-09-15T13:56:34.308Z",
   "githubKaydedildi": true
 }
