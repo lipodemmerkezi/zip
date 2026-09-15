@@ -2432,10 +2432,27 @@
         "yoğurtlu kırmızı biber mezesi",
         "lupin unlu ekmek (1 dilim)"
       ]
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T14:00:07.235Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-18T08:51:29.998Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T14:37:22.221Z",
+  "sonGuncelleme": "2026-09-15T14:00:07.237Z",
   "githubKaydedildi": true
 }
