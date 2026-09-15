@@ -3360,10 +3360,27 @@
         "karabuğday ekmeği 1 dilim 25 gr",
         "taze fasulyeli yumurta kavurması"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T14:01:39.058Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T16:13:00.321Z",
+  "sonGuncelleme": "2026-09-15T14:01:39.060Z",
   "githubKaydedildi": true
 }
