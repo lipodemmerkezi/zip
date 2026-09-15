@@ -1736,10 +1736,27 @@
         "tavuk güveç",
         "dondurma"
       ]
+    },
+    {
+      "haftaNo": 7,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T13:58:46.889Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-07T09:53:59.938Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T14:21:41.806Z",
+  "sonGuncelleme": "2026-09-15T13:58:46.890Z",
   "githubKaydedildi": true
 }
