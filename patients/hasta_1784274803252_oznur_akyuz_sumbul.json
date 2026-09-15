@@ -2554,10 +2554,27 @@
         "kıymalı semizotu ya da ispanak yemeği",
         "yoğurtlu salatalık mezesi"
       ]
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T14:00:18.698Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T14:35:36.730Z",
+  "sonGuncelleme": "2026-09-15T14:00:18.700Z",
   "githubKaydedildi": true
 }
