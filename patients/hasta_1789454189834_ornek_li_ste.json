@@ -2,7 +2,7 @@
   "id": 1789454189834,
   "isim": "ÖRNEK LİSTE",
   "not": "",
-  "arsiv": true,
+  "arsiv": false,
   "haftalar": [
     {
       "haftaNo": 5,
@@ -1184,6 +1184,6 @@
   ],
   "olusturmaTarihi": "2026-09-15T06:36:29.834Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-15T09:26:05.199Z",
+  "sonGuncelleme": "2026-09-15T09:31:48.096Z",
   "githubKaydedildi": true
 }
