@@ -7977,8 +7977,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                         const timestamp = new Date().getTime();
                         const listRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/tarifler/list.json?ref=${branch}&t=${timestamp}`, {
                             headers: { 
-                                'Authorization': `token ${token}`,
-                                'Cache-Control': 'no-cache'
+                                'Authorization': `token ${token}`
                             }
                         });
 
