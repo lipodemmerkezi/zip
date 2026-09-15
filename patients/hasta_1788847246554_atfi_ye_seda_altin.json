@@ -460,10 +460,27 @@
         "haşhaş ezmesi ekmeği (1 dilim) ya da 10 adet çiğ badem"
       ],
       "kilitli": false
+    },
+    {
+      "haftaNo": 3,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T13:57:30.707Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-08T06:00:46.554Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-12T20:06:42.772Z",
+  "sonGuncelleme": "2026-09-15T13:57:30.708Z",
   "githubKaydedildi": true
 }
