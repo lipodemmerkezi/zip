@@ -5,25 +5,27 @@
   "arsiv": false,
   "haftalar": [
     {
-      "haftaNo": 1,
-      "baslangic": "2026-09-13",
-      "bitis": "2026-09-19",
+      "haftaNo": 5,
+      "baslangic": "2026-09-15",
+      "bitis": "2026-09-15",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÖRNEK LİSTE - 5. hafta pdf.pdf",
+      "pdfOrijinalIsim": "ÖRNEK LİSTE - 5. hafta pdf.pdf",
+      "pdfYolu": "pdfs/ÖRNEK LİSTE - 5. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÖRNEK LİSTE - 5. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÖRNEK LİSTE - 5. hafta pdf.pdf",
+      "kayitTarihi": "2026-09-15T06:37:09.675Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-15T06:36:29.834Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-15T06:36:53.903Z",
+  "sonGuncelleme": "2026-09-15T06:37:09.676Z",
   "githubKaydedildi": true
 }
