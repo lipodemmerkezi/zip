@@ -1302,10 +1302,27 @@
         "alinazik kebabı",
         "haşhaş ezmesi ekmeği (1 dilim)"
       ]
+    },
+    {
+      "haftaNo": 6,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T13:58:25.042Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-18T14:18:40.558Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T14:17:53.744Z",
+  "sonGuncelleme": "2026-09-15T13:58:25.044Z",
   "githubKaydedildi": true
 }
