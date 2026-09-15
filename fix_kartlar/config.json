@@ -261,6 +261,10 @@
       "hafta_1": {
         "tarif": "EK_",
         "upload": "_Bilgilendirme_"
+      },
+      "hafta_5": {
+        "tarif": "EK_",
+        "upload": "_Bilgilendirme_"
       }
     }
   }
