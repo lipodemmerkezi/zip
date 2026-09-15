@@ -744,10 +744,27 @@
         "fırında kıymalı kabak sandal",
         "yoğurtlu semizotu salatası"
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T13:57:51.381Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-01T12:10:47.608Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T14:14:45.867Z",
+  "sonGuncelleme": "2026-09-15T13:57:51.382Z",
   "githubKaydedildi": true
 }
