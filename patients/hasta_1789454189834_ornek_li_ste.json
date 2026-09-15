@@ -3,9 +3,27 @@
   "isim": "ÖRNEK LİSTE",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-09-13",
+      "bitis": "2026-09-19",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-09-15T06:36:29.834Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-15T06:36:29.834Z",
+  "sonGuncelleme": "2026-09-15T06:36:53.903Z",
   "githubKaydedildi": true
 }
