@@ -248,6 +248,12 @@
   "tarih": {},
   "settings": {
     "lastUsedPrefixTarif": "EK_",
-    "lastUsedPrefixUpload": "_Bilgilendirme_"
+    "lastUsedPrefixUpload": "_Bilgilendirme_",
+    "contextPrefixes": {
+      "hafta_1": {
+        "tarif": "EK_",
+        "upload": "_Bilgilendirme_"
+      }
+    }
   }
 }
