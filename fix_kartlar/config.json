@@ -14,6 +14,14 @@
         "prefix": "_Bilgilendirme_",
         "url": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/fix_kartlar%20/_Bilgilendirme_1B.jpg",
         "type": "upload"
+      },
+      {
+        "name": "_Bilgilendirme_1C.jpg",
+        "cleanName": "1C.jpg",
+        "prefix": "_Bilgilendirme_",
+        "url": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/fix_kartlar/_Bilgilendirme_1C.jpg",
+        "type": "upload",
+        "addedAt": "2026-09-15T13:48:35.486Z"
       }
     ],
     "2": [
