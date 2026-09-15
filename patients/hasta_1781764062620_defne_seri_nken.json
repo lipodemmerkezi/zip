@@ -3604,10 +3604,27 @@
         "i̇mam bayıldı",
         "borani (yoğurtlu ıspanak)"
       ]
+    },
+    {
+      "haftaNo": 14,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T14:02:30.421Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-06-18T06:27:42.620Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T16:13:43.264Z",
+  "sonGuncelleme": "2026-09-15T14:02:30.423Z",
   "githubKaydedildi": true
 }
