@@ -3142,10 +3142,27 @@
         "yoğurtlu salatalık mezesi",
         "karabuğday ekmeği 1 dilim 25 gr"
       ]
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T14:01:02.406Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T14:43:15.596Z",
+  "sonGuncelleme": "2026-09-15T14:01:02.408Z",
   "githubKaydedildi": true
 }
