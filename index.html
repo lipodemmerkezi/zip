@@ -233,6 +233,7 @@
             grid-template-rows: 60px 1fr;
             height: 100vh;
             gap: 0;
+            transition: grid-template-columns 0.3s ease;
         }
 
         /* Resizable handles */
@@ -861,6 +862,7 @@
             <div id="hastaBilgiPanel"
                 style="background: #fff; border-bottom: 2px solid #007bff; padding: 10px 15px; position: sticky; top: 0; z-index: 100; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
                 <div style="display: flex; justify-content: space-between; align-items: center; min-height: 40px;">
+                    <button id="toggleLeftBtn" onclick="toggleSidebar('left')" style="padding: 6px 12px; margin-right: 15px; background: #e9ecef; color: #495057; border: 1px solid #ced4da; border-radius: 4px; cursor: pointer; flex-shrink: 0; font-weight: bold; font-size: 13px;" title="İsimleri Gizle/Göster">◀ İsimleri Gizle</button>
                     <div style="flex: 1; min-width: 0;">
                         <h3 id="secilenHastaIsim"
                             style="margin: 0; color: #007bff; font-size: 16px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
@@ -891,6 +893,7 @@
                                 Kapat</button>
                         </div>
                     </div>
+                    <button id="toggleRightBtn" onclick="toggleSidebar('right')" style="padding: 6px 12px; margin-left: 15px; background: #e9ecef; color: #495057; border: 1px solid #ced4da; border-radius: 4px; cursor: pointer; flex-shrink: 0; font-weight: bold; font-size: 13px;" title="Menüyü Gizle/Göster">Menüyü Gizle ▶</button>
                 </div>
             </div>
 
@@ -16787,6 +16790,89 @@ Detaylı bilgiler için tarayıcı konsolunu (F12) açın.`);
         // SÜRÜKLENEBİLİR SIDEBAR
         // ========================
 
+        window.leftSidebarWidth = 320;
+        window.rightSidebarWidth = 200;
+        window.isLeftCollapsed = false;
+        window.isRightCollapsed = false;
+
+        function saveLayoutState() {
+            const state = {
+                leftSidebarWidth: window.leftSidebarWidth,
+                rightSidebarWidth: window.rightSidebarWidth,
+                isLeftCollapsed: window.isLeftCollapsed,
+                isRightCollapsed: window.isRightCollapsed
+            };
+            localStorage.setItem('layoutState', JSON.stringify(state));
+        }
+
+        function loadLayoutState() {
+            try {
+                const state = JSON.parse(localStorage.getItem('layoutState'));
+                if (state) {
+                    window.leftSidebarWidth = state.leftSidebarWidth || 320;
+                    window.rightSidebarWidth = state.rightSidebarWidth || 200;
+                    if (state.isLeftCollapsed !== undefined) window.isLeftCollapsed = state.isLeftCollapsed;
+                    if (state.isRightCollapsed !== undefined) window.isRightCollapsed = state.isRightCollapsed;
+                }
+            } catch(e) {
+                console.warn('Layout state yüklenemedi', e);
+            }
+        }
+        
+        loadLayoutState();
+
+        function updateGridLayout() {
+            const container = document.querySelector('.main-container');
+            const leftSidebar = document.querySelector('.left-sidebar');
+            const rightSidebar = document.querySelector('.right-sidebar');
+            const leftHandle = document.getElementById('leftHandle');
+            const rightHandle = document.getElementById('rightHandle');
+
+            let cols = [];
+
+            if (!window.isLeftCollapsed) {
+                leftSidebar.style.display = 'flex';
+                leftHandle.style.display = 'block';
+                cols.push(`${window.leftSidebarWidth}px`, '4px');
+            } else {
+                leftSidebar.style.display = 'none';
+                leftHandle.style.display = 'none';
+            }
+
+            cols.push('1fr'); // center panel
+
+            if (!window.isRightCollapsed) {
+                rightSidebar.style.display = 'flex';
+                rightHandle.style.display = 'block';
+                cols.push('4px', `${window.rightSidebarWidth}px`);
+            } else {
+                rightSidebar.style.display = 'none';
+                rightHandle.style.display = 'none';
+            }
+            
+            container.style.gridTemplateColumns = cols.join(' ');
+
+            const leftBtn = document.getElementById('toggleLeftBtn');
+            if (leftBtn) leftBtn.innerHTML = window.isLeftCollapsed ? '▶ İsimleri Aç' : '◀ İsimleri Gizle';
+            
+            const rightBtn = document.getElementById('toggleRightBtn');
+            if (rightBtn) rightBtn.innerHTML = window.isRightCollapsed ? 'Menüyü Aç ◀' : 'Menüyü Gizle ▶';
+        }
+
+        function toggleSidebar(side) {
+            if (side === 'left') {
+                window.isLeftCollapsed = !window.isLeftCollapsed;
+                const btn = document.getElementById('toggleLeftBtn');
+                if(btn) btn.innerHTML = window.isLeftCollapsed ? '▶ İsimleri Aç' : '◀ İsimleri Gizle';
+            } else if (side === 'right') {
+                window.isRightCollapsed = !window.isRightCollapsed;
+                const btn = document.getElementById('toggleRightBtn');
+                if(btn) btn.innerHTML = window.isRightCollapsed ? 'Menüyü Aç ◀' : 'Menüyü Gizle ▶';
+            }
+            updateGridLayout();
+            saveLayoutState();
+        }
+
         function initResizableSidebars() {
             const container = document.querySelector('.main-container');
             const leftHandle = document.getElementById('leftHandle');
@@ -16821,14 +16907,11 @@ Detaylı bilgiler için tarayıcı konsolunu (F12) açın.`);
                 const mouseX = e.clientX - containerRect.left;
 
                 if (currentHandle === 'left') {
-                    // Sol sidebar genişliğini ayarla (min: 200px, max: 400px)
-                    const newLeftWidth = Math.max(200, Math.min(400, mouseX));
-                    container.style.gridTemplateColumns = `${newLeftWidth}px 4px 1fr 4px 200px`;
+                    window.leftSidebarWidth = Math.max(200, Math.min(400, mouseX));
                 } else if (currentHandle === 'right') {
-                    // Sağ sidebar genişliğini ayarla (min: 200px, max: 500px)
-                    const newRightWidth = Math.max(200, Math.min(500, containerRect.width - mouseX));
-                    container.style.gridTemplateColumns = `280px 4px 1fr 4px ${newRightWidth}px`;
+                    window.rightSidebarWidth = Math.max(200, Math.min(500, containerRect.width - mouseX));
                 }
+                updateGridLayout();
             });
 
             // Mouse up
@@ -16838,8 +16921,12 @@ Detaylı bilgiler için tarayıcı konsolunu (F12) açın.`);
                     currentHandle = null;
                     document.body.style.cursor = '';
                     document.body.style.userSelect = '';
+                    saveLayoutState();
                 }
             });
+            
+            // Başlangıç durumunu uygula
+            updateGridLayout();
         }
 
         // Sayfa yüklendiğinde başlat
