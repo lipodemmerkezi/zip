@@ -3209,10 +3209,27 @@
         "karabuğday ekmeği 1 dilim 25 gr",
         "kremalı mantarlı tavuk"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-15T14:01:26.287Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-06-30T19:40:02.813Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T14:50:35.381Z",
+  "sonGuncelleme": "2026-09-15T14:01:26.289Z",
   "githubKaydedildi": true
 }
