@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/SEVGÜL KANSU 18-27 EYLÜL 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SEVGÜL KANSU 18-27 EYLÜL 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SEVGÜL KANSU 18-27 EYLÜL 1. HAFTA.pdf",
-      "kayitTarihi": "2026-09-16T05:46:14.220Z",
+      "kayitTarihi": "2026-09-16T05:51:55.210Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -215,7 +215,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "Merhaba Sevgül Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. cuma günü itibariyle programımızda ilk haftaya başlıyoruz.\n\nBu ilk haftamızda lipödem sürecinizi desteklemek ve genel sağlığınızı iyileştirmek adına bazı önemli adımlar atıyoruz. Beslenme programınız, vücudunuzdaki iltihabı azaltmaya, dolaşımı desteklemeye ve bölgesel incelmenize katkıda bulunacak şekilde özenle hazırlandı. Özellikle bu dönemde, gizli gıda duyarlılıklarını gözlemlemek ve bağırsak sağlığınızı güçlendirmek amacıyla süt ve süt ürünlerini kısa bir süreliğine programdan çıkarıyoruz.\n\nSizin için hazırladığımız listede bu hafta yumurta, temel protein kaynaklarımızdan biri olacak. Örneğin, haşlanmış yumurtayı tereyağı ve baharatlarla veya menemen ve sahanda yumurta gibi farklı şekillerde tüketebilirsiniz. Yumurta, yüksek kaliteli proteinin yanı sıra, lipödem sürecinde önemli olan A, D, B12 vitaminleri, selenyum ve kolin gibi mikrobesinler açısından da oldukça zengindir. Bu vitamin ve mineraller, vücudunuzun onarım süreçlerine katkıda bulunurken, aynı zamanda genel enerji seviyenizi de destekler.\n\nÖğünlerinize eklediğimiz mevsim salataları ve yeşillikler de bu süreçte çok değerli. Marul, roka, dereotu, maydanoz gibi yeşillikler, antioksidanlar ve lif açısından zengin olup, vücudunuzdaki iltihaplanmayı azaltmaya ve sindirim sisteminizi düzenlemeye yardımcı olur. Taze fasulye veya kabak gibi sebzelerle hazırlanan kıymalı yemekler ise hem doyurucu hem de besin değeri yüksek seçenekler sunar. Bu sebzeler, lifli yapılarıyla bağırsak hareketlerini desteklerken, kıyma da kas sağlığınız için gerekli proteini sağlar.\n\nSağlıklı yağları da unutmayalım. Kahvaltılarınızda tereyağı, salatalarınızda zeytinyağı ve ara öğünlerinizde ceviz veya çiğ badem gibi besinler, vücudunuzun ihtiyaç duyduğu iyi yağları karşılar. Bu yağlar, hücre zarlarının sağlığı için kritik öneme sahiptir ve iltihap karşıtı etki gösterirler. Ayrıca, gün içinde yeterli miktarda su içmeye de özen göstermenizi rica ediyorum. Su tüketimi, hem vücudunuzun detoks süreçleri için hem de ödemin azaltılması için hayati öneme sahiptir.\n\nProgramın başında bedensel değişimleri daha net takip edebilmek adına, ilk ölçümlerinizi almanızı rica edeceğim. Bel, kalça ve bacak çevresi gibi bölgelerin ölçümlerini düzenli olarak kaydetmeniz, ilerlememizi gözlemlemek açısından bize yol gösterecek. Odak noktamız tartıdaki rakamlar değil, incelme ve kendinizi daha iyi hissetmeniz olacak.\n\nBu süreçte küçük ama kararlı adımlarla ilerleyeceğiz. Başlangıçta bazı değişikliklere alışmak zorlayıcı gelebilir, ancak bedeninizin bu yeni düzene kısa sürede olumlu yanıt verdiğini göreceksiniz. Her zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\n",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": true,
       "tabBaslik": "1. Hafta",
       "tabTarih": "09/18 - 09/27",
@@ -353,6 +353,6 @@
   ],
   "olusturmaTarihi": "2026-09-16T05:42:12.932Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-16T05:51:41.442Z",
+  "sonGuncelleme": "2026-09-16T05:51:55.223Z",
   "githubKaydedildi": true
 }
