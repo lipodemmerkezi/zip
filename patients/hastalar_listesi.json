@@ -168,13 +168,6 @@
     "sonGuncelleme": "2026-09-17T07:55:55.099Z"
   },
   {
-    "id": 1782473802017,
-    "isim": "NECİBE ÇALIŞKAN ÇOBAN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-09-10T14:51:58.553Z"
-  },
-  {
     "id": 1787062720558,
     "isim": "NEFİSE TEKİN",
     "not": "",
@@ -995,6 +988,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-18T08:03:03.489Z"
+  },
+  {
+    "id": 1782473802017,
+    "isim": "NECİBE ÇALIŞKAN ÇOBAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-09-18T08:03:21.656Z"
   },
   {
     "id": 1770626667412,
