@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-09-13",
-      "bitis": "2026-09-19",
+      "baslangic": "2026-09-21",
+      "bitis": "2026-09-27",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MERVE ÇULHA NOM 21-27 EYLÜL 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "MERVE ÇULHA NOM 21-27 EYLÜL 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/MERVE ÇULHA NOM 21-27 EYLÜL 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERVE ÇULHA NOM 21-27 EYLÜL 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERVE ÇULHA NOM 21-27 EYLÜL 1. HAFTA.pdf",
+      "kayitTarihi": "2026-09-18T05:46:54.121Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-18T05:45:01.264Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-18T05:46:41.926Z",
+  "sonGuncelleme": "2026-09-18T05:46:54.122Z",
   "githubKaydedildi": true
 }
