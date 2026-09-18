@@ -3,7 +3,7 @@
   "isim": "NECİBE ÇALIŞKAN  ÇOBAN",
   "ad": "NECİBE ÇALIŞKAN  ÇOBAN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "kayitTarihi": "2026-09-15T14:02:02.803Z",
   "haftalar": [
     {
@@ -284,6 +284,6 @@
   "durumu": "aktif",
   "olusturmaTarihi": "2026-09-15T14:02:02.803Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T10:06:20.456Z",
+  "sonGuncelleme": "2026-09-18T08:03:01.302Z",
   "githubKaydedildi": true
 }
