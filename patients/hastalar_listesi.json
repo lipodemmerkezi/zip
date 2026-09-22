@@ -1436,5 +1436,11 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
+  },
+  {
+    "id": "burcu",
+    "isim": "BURCU",
+    "kayitTarihi": "2026-09-22T07:38:46.224Z",
+    "durumu": "aktif"
   }
 ]
