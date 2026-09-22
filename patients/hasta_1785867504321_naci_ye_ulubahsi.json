@@ -2210,10 +2210,27 @@
         "pazı sarması (pazı yerine asma yaprağı da kullanabilirsiniz)",
         "lupin unlu ekmek (1 dilim)"
       ]
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:37:26.839Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:18:24.321Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:55:52.912Z",
+  "sonGuncelleme": "2026-09-22T07:37:26.841Z",
   "githubKaydedildi": true
 }
