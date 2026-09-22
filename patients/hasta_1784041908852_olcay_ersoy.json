@@ -3231,10 +3231,27 @@
         "yoğurtlu yeşil mercimek salatası",
         "karabuğday ekmeği 1 dilim 25 gr"
       ]
+    },
+    {
+      "haftaNo": 12,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:38:22.339Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T09:59:16.669Z",
+  "sonGuncelleme": "2026-09-22T07:38:22.341Z",
   "githubKaydedildi": true
 }
