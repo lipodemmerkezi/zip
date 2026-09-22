@@ -3645,10 +3645,27 @@
         "lahana ya da kabak lazanya",
         "dondurma"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:39:00.846Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-01T14:36:08.239Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T10:05:22.192Z",
+  "sonGuncelleme": "2026-09-22T07:39:00.848Z",
   "githubKaydedildi": true
 }
