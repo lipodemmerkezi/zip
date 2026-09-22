@@ -288,7 +288,7 @@
   "tarih": {},
   "settings": {
     "lastUsedPrefixTarif": "EK_",
-    "lastUsedPrefixUpload": "EK_",
+    "lastUsedPrefixUpload": "_Bilgilendirme_",
     "contextPrefixes": {
       "hafta_1": {
         "tarif": "EK_",
@@ -300,7 +300,7 @@
       },
       "hafta_4": {
         "tarif": "EK_",
-        "upload": "EK_"
+        "upload": "_Bilgilendirme_"
       }
     }
   }
