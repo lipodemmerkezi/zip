@@ -2784,10 +2784,27 @@
         "kabak mücver",
         "hurma topları"
       ]
+    },
+    {
+      "haftaNo": 11,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:37:37.787Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:56:57.710Z",
+  "sonGuncelleme": "2026-09-22T07:37:37.789Z",
   "githubKaydedildi": true
 }
