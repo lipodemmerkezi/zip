@@ -20332,7 +20332,7 @@ console.log(`  PDF URL: ${pdfUrl}`);
                                             <label
                                                 style="padding: 5px 10px; background: #9c27b0; color: white; border-radius: 4px; cursor: pointer; font-size: 11px; white-space: nowrap;">
                                                 📁 Dosya Seç
-                                                <input type="file" id="fixKartFileInput" accept="image/jpeg,image/png"
+                                                <input type="file" id="fixKartFileInput" accept=".jpg,.jpeg,.png,.pdf,.doc,.docx,.xls,.xlsx,.txt"
                                                     onchange="fixKartDosyaSec(this)" style="display: none;">
                                             </label>
                                         </div>
@@ -27959,7 +27959,7 @@ IMPORTANT RULES:
                 // cleanName yoksa eski kartlar için prefix'i strip et
                 const cleanName = kart.cleanName || fixKartStripPrefix(kart.name);
                 const activePrefix = kart.type === 'upload' ? activePrefixUpload : activePrefixTarif;
-                const dynamicName = activePrefix + cleanName.replace(/\.(jpg|jpeg|png)$/i, '');
+                const dynamicName = activePrefix + cleanName.replace(/\.[a-zA-Z0-9]+$/i, '');
                 const displayName = dynamicName.replace(/_/g, ' ');
 
                 const typeBadge = kart.type === 'upload'
@@ -27967,7 +27967,20 @@ IMPORTANT RULES:
                     : '<span style="background: #e91e63; color: white; padding: 1px 4px; border-radius: 6px; font-size: 8px;">🔍</span>';
 
                 return `<div style="position: relative; border: 1px solid #e0e0e0; border-radius: 6px; padding: 4px; background: white; width: 110px; text-align: center;">
-          <img data-fix-url="${kart.url}" data-card-name="${kart.name}" alt="${cleanName}" src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%23f0f0f0%22 width=%22100%22 height=%22100%22/%3E%3Ctext x=%2250%22 y=%2250%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23999%22 font-size=%2212%22%3E%E2%8F%B3%3C/text%3E%3C/svg%3E" style="width: 100%; height: 65px; object-fit: cover; border-radius: 4px; margin-bottom: 3px;">
+          ${
+                    (() => {
+                        const extMatch = kart.name.match(/\.([a-zA-Z0-9]+)$/i);
+                        const ext = extMatch ? extMatch[1].toLowerCase() : 'jpg';
+                        const isImage = ['jpg', 'jpeg', 'png', 'gif', 'webp'].includes(ext);
+                        
+                        if (isImage) {
+                            return `<img data-fix-url="${kart.url}" data-card-name="${kart.name}" alt="${cleanName}" src="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Crect fill=%22%23f0f0f0%22 width=%22100%22 height=%22100%22/%3E%3Ctext x=%2250%22 y=%2250%22 text-anchor=%22middle%22 dy=%22.3em%22 fill=%22%23999%22 font-size=%2212%22%3E%E2%8F%B3%3C/text%3E%3C/svg%3E" style="width: 100%; height: 65px; object-fit: cover; border-radius: 4px; margin-bottom: 3px;">`;
+                        } else {
+                            const iconText = ext.toUpperCase().substring(0, 4);
+                            return `<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect fill='%23f0f0f0' width='100' height='100'/%3E%3Ctext x='50' y='50' text-anchor='middle' dy='.3em' fill='%23555' font-size='20' font-weight='bold'%3E${iconText}%3C/text%3E%3C/svg%3E" style="width: 100%; height: 65px; object-fit: cover; border-radius: 4px; margin-bottom: 3px;">`;
+                        }
+                    })()
+                }
             <div style="font-size: 9px; color: #333; word-break: break-word; margin-bottom: 2px; line-height: 1.2;" title="${dynamicName}">${displayName.substring(0, 30)}${displayName.length > 30 ? '...' : ''}</div>
             ${typeBadge}
             <button onclick="fixKartSil(${idx})" style="
@@ -28024,14 +28037,20 @@ IMPORTANT RULES:
 
             const reader = new FileReader();
             reader.onload = function (e) {
-                img.src = e.target.result;
+                const isImage = file.type.startsWith('image/');
+                if (isImage) {
+                    img.src = e.target.result;
+                } else {
+                    const extText = (file.name.split('.').pop() || 'FILE').toUpperCase().substring(0, 4);
+                    img.src = `data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect fill='%23f0f0f0' width='100' height='100'/%3E%3Ctext x='50' y='50' text-anchor='middle' dy='.3em' fill='%23555' font-size='24' font-weight='bold'%3E${extText}%3C/text%3E%3C/svg%3E`;
+                }
                 preview.style.display = 'flex';
                 preview.style.alignItems = 'center';
 
                 // İsim alanını dosya adından otomatik doldur
                 const nameInput = document.getElementById('fixKartUploadName');
                 if (!nameInput.value) {
-                    nameInput.value = file.name.replace(/\.(jpg|jpeg|png)$/i, '');
+                    nameInput.value = file.name.replace(/\.[a-zA-Z0-9]+$/i, '');
                 }
             };
             reader.readAsDataURL(file);
@@ -28054,7 +28073,8 @@ IMPORTANT RULES:
             }
 
             const kartAdi = (nameInput.value.trim() || file.name).replace(/[^a-zA-Z0-9_\-\.]/g, '_');
-            const ext = file.name.match(/\.(jpg|jpeg|png)$/i)?.[0] || '.jpg';
+            const match = file.name.match(/\.([a-zA-Z0-9]+)$/i);
+            const ext = match ? match[0].toLowerCase() : '.jpg';
             let finalName = kartAdi.endsWith(ext) ? kartAdi : kartAdi + ext;
 
             // Prefix Uygula (Seçili prefix ne ise onu başa ekle)
