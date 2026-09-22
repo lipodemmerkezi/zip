@@ -54,6 +54,14 @@
         "prefix": "_Bilgilendirme_",
         "url": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/fix_kartlar%20/_Bilgilendirme_3B.jpg",
         "type": "upload"
+      },
+      {
+        "name": "EK_lowcarb_atistirmaliklar.pdf",
+        "cleanName": "lowcarb_atistirmaliklar.pdf",
+        "prefix": "EK_",
+        "url": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/fix_kartlar/EK_lowcarb_atistirmaliklar.pdf",
+        "type": "upload",
+        "addedAt": "2026-09-22T06:59:57.653Z"
       }
     ],
     "4": [
