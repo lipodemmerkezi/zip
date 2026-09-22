@@ -1025,10 +1025,27 @@
         "yumurtalı ıspanak / pazı kavurma",
         "ketojeni̇k pi̇zza"
       ]
+    },
+    {
+      "haftaNo": 5,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:35:24.428Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-01T12:10:47.608Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:42:56.453Z",
+  "sonGuncelleme": "2026-09-22T07:35:24.428Z",
   "githubKaydedildi": true
 }
