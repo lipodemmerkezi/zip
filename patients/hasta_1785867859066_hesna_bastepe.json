@@ -2180,10 +2180,27 @@
         "waffle",
         "urfa / adana kebap 150 gram (1 porsiyon)"
       ]
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:37:04.859Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:24:19.066Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:53:59.761Z",
+  "sonGuncelleme": "2026-09-22T07:37:04.861Z",
   "githubKaydedildi": true
 }
