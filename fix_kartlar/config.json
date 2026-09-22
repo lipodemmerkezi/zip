@@ -54,6 +54,14 @@
         "prefix": "_Bilgilendirme_",
         "url": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/fix_kartlar%20/_Bilgilendirme_3B.jpg",
         "type": "upload"
+      },
+      {
+        "name": "EK_ketojenik_atistirmaliklar.pdf.jpg",
+        "cleanName": "ketojenik_atistirmaliklar.pdf.jpg",
+        "prefix": "EK_",
+        "url": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/fix_kartlar/EK_ketojenik_atistirmaliklar.pdf.jpg",
+        "type": "upload",
+        "addedAt": "2026-09-22T07:44:53.344Z"
       }
     ],
     "4": [
