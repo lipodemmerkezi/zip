@@ -285,6 +285,10 @@
       "hafta_4": {
         "tarif": "EK_",
         "upload": "EK_"
+      },
+      "hafta_2": {
+        "tarif": "EK_",
+        "upload": "_Bilgilendirme_"
       }
     }
   }
