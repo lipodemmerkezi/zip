@@ -748,10 +748,27 @@
         "sulu köfte",
         "cevizli kaşık salatası"
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:35:13.188Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-08T06:00:46.554Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:40:24.220Z",
+  "sonGuncelleme": "2026-09-22T07:35:13.188Z",
   "githubKaydedildi": true
 }
