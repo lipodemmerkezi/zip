@@ -2016,10 +2016,27 @@
         "haşhaş ezmesi ekmeği (1 dilim)",
         "kabak ya da lahana lazanya"
       ]
+    },
+    {
+      "haftaNo": 8,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:36:40.519Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-07T09:53:59.938Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:48:19.950Z",
+  "sonGuncelleme": "2026-09-22T07:36:40.521Z",
   "githubKaydedildi": true
 }
