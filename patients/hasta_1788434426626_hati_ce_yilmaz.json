@@ -908,10 +908,27 @@
         "kabak sote (1 adet kabak ve 1 tatlı kaşığı zeytinyağı ile)",
         "haşhaş ezmesi ekmeği (1 dilim)"
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:35:35.768Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-03T11:20:26.626Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:41:02.534Z",
+  "sonGuncelleme": "2026-09-22T07:35:35.769Z",
   "githubKaydedildi": true
 }
