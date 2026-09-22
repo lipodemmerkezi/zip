@@ -2828,10 +2828,27 @@
         "kabak dizme",
         "tahinli patlıcanlı börek"
       ]
+    },
+    {
+      "haftaNo": 11,
+      "baslangic": "2026-09-20",
+      "bitis": "2026-09-26",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-22T07:41:57.193Z",
+  "sonGuncelleme": "2026-09-22T07:42:04.988Z",
   "githubKaydedildi": true
 }
