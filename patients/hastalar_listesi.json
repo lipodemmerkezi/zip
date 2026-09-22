@@ -28,6 +28,13 @@
     "sonGuncelleme": "2026-09-22T07:35:54.399Z"
   },
   {
+    "id": "burcu",
+    "isim": "BURCU",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2026-09-22T07:38:49.911Z"
+  },
+  {
     "id": 1783434113715,
     "isim": "BURCU HOMAN",
     "not": "",
@@ -1436,11 +1443,5 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
-  },
-  {
-    "id": "burcu",
-    "isim": "BURCU",
-    "kayitTarihi": "2026-09-22T07:38:46.224Z",
-    "durumu": "aktif"
   }
 ]
