@@ -1041,10 +1041,27 @@
         "bakla unu ekmeği (2 dilim)",
         "köfte"
       ]
+    },
+    {
+      "haftaNo": 5,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:35:45.896Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-01T05:58:16.822Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:42:03.853Z",
+  "sonGuncelleme": "2026-09-22T07:35:45.897Z",
   "githubKaydedildi": true
 }
