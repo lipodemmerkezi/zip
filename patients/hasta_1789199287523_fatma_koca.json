@@ -541,10 +541,27 @@
         "köfte",
         "cevizli kaşık salatası"
       ]
+    },
+    {
+      "haftaNo": 3,
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-22T07:37:49.120Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-12T07:48:07.523Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T07:38:56.397Z",
+  "sonGuncelleme": "2026-09-22T07:37:49.120Z",
   "githubKaydedildi": true
 }
