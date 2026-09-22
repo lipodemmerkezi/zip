@@ -2848,24 +2848,27 @@
     },
     {
       "haftaNo": 12,
-      "baslangic": "2026-09-27",
-      "bitis": "2026-10-03",
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GAMZE AYDEMİR SATI 28 EYLÜL -4 EKİM 12. HAFTA.pdf",
+      "pdfOrijinalIsim": "GAMZE AYDEMİR SATI 28 EYLÜL -4 EKİM 12. HAFTA.pdf",
+      "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 28 EYLÜL -4 EKİM 12. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 28 EYLÜL -4 EKİM 12. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 28 EYLÜL -4 EKİM 12. HAFTA.pdf",
+      "kayitTarihi": "2026-09-22T07:43:02.925Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-22T07:42:14.994Z",
+  "sonGuncelleme": "2026-09-22T07:43:02.928Z",
   "githubKaydedildi": true
 }
