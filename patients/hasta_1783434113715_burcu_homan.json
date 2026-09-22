@@ -3428,10 +3428,27 @@
         "kabak lazanya",
         "dondurma"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-09-27",
+      "bitis": "2026-10-03",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
     }
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-17T10:02:50.012Z",
+  "sonGuncelleme": "2026-09-22T10:16:24.497Z",
   "githubKaydedildi": true
 }
