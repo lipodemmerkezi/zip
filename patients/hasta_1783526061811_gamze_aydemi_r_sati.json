@@ -2857,7 +2857,7 @@
       "pdfYolu": "pdfs/GAMZE AYDEMİR SATI 28 EYLÜL -4 EKİM 12. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE AYDEMİR SATI 28 EYLÜL -4 EKİM 12. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE AYDEMİR SATI 28 EYLÜL -4 EKİM 12. HAFTA.pdf",
-      "kayitTarihi": "2026-09-22T07:43:02.925Z",
+      "kayitTarihi": "2026-09-24T06:23:53.823Z",
       "tarifKartlar": [
         {
           "tarifAdi": "ispanaklı kabak böreği 1dilim için",
@@ -3034,7 +3034,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Gamze Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda on ikinci haftaya başlıyoruz.\n\nGeride bıraktığımız haftalarda beslenme düzenimizden hareket alışkanlıklarımıza kadar birçok alanda önemli adımlar attık. Vücudunuzun bu süreçte gösterdiği adaptasyon ve değişimler, sadece tartıda görülen rakamlarla sınırlı değil. Genel profilinizdeki ilerleme, bedensel bir toparlanmanın ve içsel bir denge arayışının doğal bir sonucu olarak kendini gösteriyor. Bu derinlemesine değişim, bedenin kendini yeniden yapılandırması için zaman zaman bir durulma, bir konsolidasyon dönemi gerektirebilir.\n\nBu hafta sizin için hazırladığımız beslenme listesinde, antiinflamatuar özellikleri ve dolaşım sistemini desteklemesiyle öne çıkan yiyecekler yer alıyor. Örneğin, ıspanaklı kabak böreği, lif ve vitamin açısından zengin sebzeleri doyurucu bir ana öğünle birleştirirken, tavuklu hünkar beğendi hem kaliteli protein sunuyor hem de közlenmiş patlıcanın antioksidanlarını almanızı sağlıyor. Özellikle somon fileto, içerdiği omega-3 yağ asitleri sayesinde iltihaplanmayı azaltmaya ve kan dolaşımınızı desteklemeye yardımcı olurken, kıymalı ve peynirli patlıcan oturtma da lifli sebzelerle proteini bir araya getirerek uzun süreli tokluk sağlıyor.\n\nBu dönemde, vücudunuzun gösterdiği bu içsel dengelemeyi takip etmek için tartıdaki değişimlerden ziyade, kıyafetlerinizdeki rahatlamayı, enerji seviyenizdeki sürekliliği ve genel iyi oluş halinizi gözlemlemeniz çok daha anlamlı olacaktır. Unutmayın ki lipödem yönetiminde asıl hedef, yalnızca kilo vermek değil, aynı zamanda bedensel, zihinsel ve hücresel düzeyde kalıcı bir iyileşme sağlamaktır. Bu yolda attığınız her adım, bedeninize yaptığınız değerli bir yatırımdır ve bu değişimin size ait olduğunu görmeniz önemlidir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3134,6 +3134,6 @@
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-24T06:23:42.638Z",
+  "sonGuncelleme": "2026-09-24T06:23:53.838Z",
   "githubKaydedildi": true
 }
