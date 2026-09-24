@@ -3654,7 +3654,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Burcu Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda on üçüncü haftaya başlıyoruz.\n\nBu on üç haftalık süreçte beslenme alışkanlıklarınızdan hareket düzeninize kadar pek çok alanda önemli adımlar attık. Şimdi bu dönemi geride bırakırken, aslında lipödemle yaşam yolculuğunuzda yeni bir aşamaya geçiyoruz. Bu hafta, hem kazanımlarınızı pekiştirmek hem de gelecekteki sürdürülebilirliğin temellerini atmak üzere tasarlanmış bir programla devam ediyoruz.\n\nBu haftaki listenizde yer alan lorlu poğaça veya lupin unlu poğaça gibi seçenekler, günün başlangıcında kan şekeri dengenizi destekleyerek hem uzun süre tok kalmanızı sağlar hem de lipödemde önemli olan inflamasyonu azaltmaya yardımcı olur. Bu tür besinler, geleneksel karbonhidrat kaynaklarına göre daha yavaş sindirildiği için vücudunuzun ani insülin tepkileri vermesini engeller. Bu poğaçaları bol yeşillik ve zeytinle birlikte tüketerek lif alımınızı artırmanız, sindirim sisteminizi de destekleyecektir.\n\nAna öğünlerinizdeki nohut yemeği, patlıcanlı tavuk sote veya kıymalı mantar dolması, protein ve lifi bir arada sunar. Kırmızı et ve tavuk, kas dokusunun korunması ve onarımı için gerekli amino asitleri sağlarken, sebzeler ve nohut ise sindirimi destekleyen ve ödem atılımına yardımcı olan posa içerir. Özellikle lipödemde, lenfatik dolaşımın sağlıklı işleyişi için bu besin kombinasyonları kritik öneme sahiptir. Bu öğünlerin yanında bol yeşillikli salata tüketmek, hem antioksidan alımınızı artırır hem de tokluk hissinizi pekiştirir.\n\nTahin sufle veya hindistan cevizli bar gibi planlı atıştırmalıklar, sağlıklı yağlar ve lif içerikleri sayesinde tatlı isteğinizi dengeli bir şekilde karşılarken, kan şekerinizde ani yükselişleri önler. Orman meyveli muhallebi de içerdiği antioksidanlarla vücudunuzdaki inflamasyon yükünü azaltmaya katkıda bulunur. Bu tür seçenekleri, özellikle öğün aralarında enerji düşüşü hissettiğinizde tercih etmek, gün içindeki genel beslenme düzeninizi korumanıza yardımcı olur.\n\nBu son hafta, program boyunca edindiğiniz tüm alışkanlıkları gözden geçirmeniz ve gelecekte nasıl sürdüreceğinizi planlamanız için iyi bir fırsat. Yemeklerinizin size nasıl hissettirdiğini, enerji seviyelerinizi ve bedensel değişimlerinizi not almaya devam edin.\n\nSon zamanlarda ölçümlerinizi paylaşma fırsatınız olmadı. Eğer gönderebilirseniz, bu süreçteki değişimleri daha bütünsel değerlendirebiliriz. Unutmayın, bu değerlendirmede yalnızca kilo değil, bedeninizdeki hafifleme hissi, giysilerinizin duruşu ve çevre ölçüleri de bizim için çok değerli.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
       "kilitli": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3757,11 +3757,12 @@
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
-      ]
+      ],
+      "ekNotlar": "son haftalarda cevap vermemiş. ölçümlerini istedyelim.\nMerhaba Burcu Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 13. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
     }
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-24T06:36:20.862Z",
+  "sonGuncelleme": "2026-09-24T06:38:08.694Z",
   "githubKaydedildi": true
 }
