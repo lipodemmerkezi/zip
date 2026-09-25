@@ -624,24 +624,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-09-27",
-      "bitis": "2026-10-03",
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GÖKÇE BAYRAM 28 EYLÜL-4 EKİM 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "GÖKÇE BAYRAM 28 EYLÜL-4 EKİM 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/GÖKÇE BAYRAM 28 EYLÜL-4 EKİM 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GÖKÇE BAYRAM 28 EYLÜL-4 EKİM 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GÖKÇE BAYRAM 28 EYLÜL-4 EKİM 3. HAFTA.pdf",
+      "kayitTarihi": "2026-09-25T07:43:10.210Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-09T12:40:46.735Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-25T07:42:59.131Z",
+  "sonGuncelleme": "2026-09-25T07:43:10.212Z",
   "githubKaydedildi": true
 }
