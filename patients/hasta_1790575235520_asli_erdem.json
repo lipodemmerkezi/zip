@@ -3,9 +3,27 @@
   "isim": "ASLI ERDEM",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-09-27",
+      "bitis": "2026-10-03",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-09-28T06:00:35.520Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-28T06:00:35.520Z",
+  "sonGuncelleme": "2026-09-28T06:01:01.532Z",
   "githubKaydedildi": true
 }
