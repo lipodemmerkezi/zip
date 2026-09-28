@@ -905,23 +905,25 @@
     {
       "haftaNo": 4,
       "baslangic": "2026-09-28",
-      "bitis": "2026-10-04",
+      "bitis": "2026-09-28",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "VESİLE KARAKAYAOĞLU - 4. hafta pdf.pdf",
+      "pdfOrijinalIsim": "VESİLE KARAKAYAOĞLU - 4. hafta pdf.pdf",
+      "pdfYolu": "pdfs/VESİLE KARAKAYAOĞLU - 4. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/VESİLE KARAKAYAOĞLU - 4. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/VESİLE KARAKAYAOĞLU - 4. hafta pdf.pdf",
+      "kayitTarihi": "2026-09-28T13:35:37.687Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-28T13:32:49.621Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-28T13:35:17.618Z",
+  "sonGuncelleme": "2026-09-28T13:35:37.688Z",
   "githubKaydedildi": true
 }
