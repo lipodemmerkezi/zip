@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-09-27",
-      "bitis": "2026-10-03",
+      "baslangic": "2026-09-28",
+      "bitis": "2026-10-04",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ASLI ERDEM 28 EYLÜL -4 EKİM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ASLI ERDEM 28 EYLÜL -4 EKİM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ASLI ERDEM 28 EYLÜL -4 EKİM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ASLI ERDEM 28 EYLÜL -4 EKİM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ASLI ERDEM 28 EYLÜL -4 EKİM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-09-28T06:01:20.406Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-09-28T06:00:35.520Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-28T06:01:01.532Z",
+  "sonGuncelleme": "2026-09-28T06:01:20.406Z",
   "githubKaydedildi": true
 }
