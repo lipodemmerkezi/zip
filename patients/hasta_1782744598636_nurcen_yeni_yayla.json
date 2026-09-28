@@ -2,7 +2,7 @@
   "id": 1782744598636,
   "isim": "NURCEN YENİYAYLA",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3975,6 +3975,6 @@
   ],
   "olusturmaTarihi": "2026-06-29T14:49:58.636Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-24T06:48:30.550Z",
+  "sonGuncelleme": "2026-09-28T06:16:21.390Z",
   "githubKaydedildi": true
 }
