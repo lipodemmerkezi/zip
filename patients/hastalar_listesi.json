@@ -182,13 +182,6 @@
     "sonGuncelleme": "2026-09-24T05:54:16.510Z"
   },
   {
-    "id": 1782744598636,
-    "isim": "NURCEN YENİYAYLA",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-09-24T06:48:33.453Z"
-  },
-  {
     "id": 1784041908852,
     "isim": "OLCAY ERSOY",
     "not": "ŞEKER HASTASI. SUYU HER MESAJDA HATIRLATACAĞIZ. LOW CARB BAŞLIYORUZ",
@@ -1058,6 +1051,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-07-03T08:27:26.501Z"
+  },
+  {
+    "id": 1782744598636,
+    "isim": "NURCEN YENİYAYLA",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-09-28T06:16:24.833Z"
   },
   {
     "id": 1758535184458,
