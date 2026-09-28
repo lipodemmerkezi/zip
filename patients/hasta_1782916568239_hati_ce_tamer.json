@@ -2,7 +2,7 @@
   "id": 1782916568239,
   "isim": "HATİCE TAMER",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3992,6 +3992,6 @@
   ],
   "olusturmaTarihi": "2026-07-01T14:36:08.239Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-24T06:40:28.077Z",
+  "sonGuncelleme": "2026-09-28T06:17:14.669Z",
   "githubKaydedildi": true
 }
