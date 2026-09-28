@@ -2,7 +2,7 @@
   "id": 1782482866707,
   "isim": "SERAP ÜNAL",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3809,6 +3809,6 @@
   ],
   "olusturmaTarihi": "2026-06-26T14:07:46.707Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-24T06:49:47.945Z",
+  "sonGuncelleme": "2026-09-28T06:16:07.226Z",
   "githubKaydedildi": true
 }
