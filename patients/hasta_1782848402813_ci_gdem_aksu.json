@@ -2,7 +2,7 @@
   "id": 1782848402813,
   "isim": "ÇİĞDEM AKSU",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3799,6 +3799,6 @@
   ],
   "olusturmaTarihi": "2026-06-30T19:40:02.813Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-24T06:43:21.233Z",
+  "sonGuncelleme": "2026-09-28T06:16:51.687Z",
   "githubKaydedildi": true
 }
