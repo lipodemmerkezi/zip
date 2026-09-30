@@ -1861,10 +1861,27 @@
         "kabak ya da lahana lazanya"
       ],
       "ekNotlar": "geri dönüş yapmamış. masajları yapabiliyor mu? ölçümlerini isteyelim.\nMerhaba Nefi̇se Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda 7. haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir."
+    },
+    {
+      "haftaNo": 8,
+      "baslangic": "2026-10-05",
+      "bitis": "2026-10-11",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-30T14:13:55.149Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-18T14:18:40.558Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-24T05:54:13.875Z",
+  "sonGuncelleme": "2026-09-30T14:13:55.150Z",
   "githubKaydedildi": true
 }
