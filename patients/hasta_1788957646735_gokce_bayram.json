@@ -910,10 +910,27 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "tariflerdeki domatesi çıkartabilirsiniz."
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-10-05",
+      "bitis": "2026-10-11",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-09-30T14:12:58.651Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-09T12:40:46.735Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-25T07:48:01.254Z",
+  "sonGuncelleme": "2026-09-30T14:12:58.651Z",
   "githubKaydedildi": true
 }
