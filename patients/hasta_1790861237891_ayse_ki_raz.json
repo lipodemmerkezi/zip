@@ -3,9 +3,27 @@
   "isim": "AYŞE KİRAZ",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-09-27",
+      "bitis": "2026-10-03",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-10-01T13:27:17.891Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:27:17.891Z",
+  "sonGuncelleme": "2026-10-01T13:27:31.516Z",
   "githubKaydedildi": true
 }
