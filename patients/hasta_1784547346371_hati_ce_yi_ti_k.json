@@ -3092,7 +3092,110 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HATİCE YİTİK 5-11 EKİM 12. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HATİCE YİTİK 5-11 EKİM 12. HAFTA.pdf",
       "kayitTarihi": "2026-09-30T14:15:55.016Z",
-      "tarifKartlar": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "ispanaklı kabak böreği 1dilim için",
+          "kartResmi": "ispanakli_kabak_boregi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/ispanakli_kabak_boregi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırında kıymalı kabak sandal",
+          "kartResmi": "firinda_kiymali_kabak_sandal.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_kiymali_kabak_sandal.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kırmızı mercimek ekmeği",
+          "kartResmi": "kirmizi_mercimek_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kirmizi_mercimek_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kabak salatası",
+          "kartResmi": "kabak_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "nohutlu sebze güveci",
+          "kartResmi": "nohutlu_sebze_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/nohutlu_sebze_guvec.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "borani (yoğurtlu ıspanak)",
+          "kartResmi": "borani_yogurtlu_ispanak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/borani_yogurtlu_ispanak.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "hellim peynirli ıspanak / pazı/ semizotu",
+          "kartResmi": "hellim_peynirli_ispanak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/hellim_peynirli_ispanak.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "zeytinyağlı taze börülce",
+          "kartResmi": "zeytinyagli_taze_borulce.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/zeytinyagli_taze_borulce.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk fajita",
+          "kartResmi": "tavuk_fajita.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuk_fajita.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "lor peynirli avokado salatası",
+          "kartResmi": "lor_peynirli_avokado_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lor_peynirli_avokado_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yeşil mercimekli kabak sandal",
+          "kartResmi": "mercimekli_kabak_sandal.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/mercimekli_kabak_sandal.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "fırında hamsi sarma",
+          "kartResmi": "firinda_hamsi_sarma.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_hamsi_sarma.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "maydanozlu poğaça",
+          "kartResmi": "maydanozlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/maydanozlu_pogaca.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kaşarlı kabak graten",
+          "kartResmi": "kasarli_kabak_graten.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kasarli_kabak_graten.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yaz tarhanası",
+          "kartResmi": "yaz_tarhanasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yaz_tarhanasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yeşil mercimekli biber dolması",
+          "kartResmi": "yesil_mercimekli_biber_dolmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yesil_mercimekli_biber_dolmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
       "tarifler": [
         "hati̇ce yi̇ti̇k / 5-11 eki̇m 2026",
         "her sabah güne başlarken:",
@@ -3177,13 +3280,106 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda on ikinci haftaya başlıyoruz.\n\nOn iki haftalık bu süreçte yalnızca bir beslenme takvimi uygulamadık; beslenmeden lenfatik desteğe kadar bedeninizi dinlemeyi ve hücresel düzeyde güçlü bir denge kurmayı hedefledik. Lipödem gibi dirençli dokularda tartıda kesintisiz bir düşüş beklemek fizyolojik açıdan her zaman gerçekçi değildir. Kilonun belirli dönemlerde duraklaması veya yavaşlaması bir aksama değil, metabolizmanın ve karaciğerin yeniden toparlanma gereksinimidir. Yağ dokusu aynı zamanda metabolik atıkları tutan bir yapı olduğundan, çözülme gerçekleşirken vücut filtre organlarını korumak adına yağ yakımını geçici olarak yavaşlatabilir. Bu dönemlerde asıl odak noktamız tartıdaki sayılardan ziyade dokuların yumuşaması, kıyafetlerdeki rahatlama ve bacaklardaki gerginliğin azalmasıdır.\n\nSizin için hazırladığımız listede bu toparlanma ve arınma sürecini destekleyecek dengeli tabaklar planladık. Akşam öğünlerinize eklediğimiz fırında hamsi sarma, zengin omega-3 yağ asitleriyle hücre zarını besleyip dokulardaki yangıyı sakinleştirirken lenf dolaşımının rahatlamasına katkı sağlar. Öğünlerinizde yer verdiğimiz kırmızı mercimek ekmeği ve nohutlu sebze güveci ise zengin çözünür lif yapısıyla bağırsak mikrobiyotasını destekleyerek metabolik atıkların sistemden uzaklaştırılmasını kolaylaştırır. Cuma gününe eklediğimiz lor peynirli avokado salatası ise tekli doymamış sağlıklı yağlar ve minerallerle hücresel yenilenmeyi pekiştiren hafif bir seçenek oluşturur.\n\nBu aşamada beslenme planınızla birlikte günlük su tüketiminizi ve adım ritminizi özenle korumanızı, tartı baskısından uzak kalarak bacaklarınızdaki ödem ve ağırlık hissinin gün içindeki seyrini gözlemlemenizi öneririm. Kazandığınız bu farkındalık ve yeni alışkanlıklar, ilerleyen dönemde de kendi dengenizi rahatlıkla sürdürmenizi sağlayacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
+      "gptMesaj": "Merhaba Hatice Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda on ikinci haftaya başlıyoruz.\nSalı günü geçireceğiniz operasyon için şimdiden geçmiş olsun.\n\nOn iki haftalık bu süreçte yalnızca bir beslenme takvimi uygulamadık; beslenmeden lenfatik desteğe kadar bedeninizi dinlemeyi ve hücresel düzeyde güçlü bir denge kurmayı hedefledik. Lipödem gibi dirençli dokularda tartıda kesintisiz bir düşüş beklemek fizyolojik açıdan her zaman gerçekçi değildir. Kilonun belirli dönemlerde duraklaması veya yavaşlaması bir aksama değil, metabolizmanın ve karaciğerin yeniden toparlanma gereksinimidir. Yağ dokusu aynı zamanda metabolik atıkları tutan bir yapı olduğundan, çözülme gerçekleşirken vücut filtre organlarını korumak adına yağ yakımını geçici olarak yavaşlatabilir. Bu dönemlerde asıl odak noktamız tartıdaki sayılardan ziyade dokuların yumuşaması, kıyafetlerdeki rahatlama ve bacaklardaki gerginliğin azalmasıdır.\n\nSizin için hazırladığımız listede bu toparlanma ve arınma sürecini destekleyecek dengeli tabaklar planladık. Akşam öğünlerinize eklediğimiz fırında hamsi sarma, zengin omega-3 yağ asitleriyle hücre zarını besleyip dokulardaki yangıyı sakinleştirirken lenf dolaşımının rahatlamasına katkı sağlar. Öğünlerinizde yer verdiğimiz kırmızı mercimek ekmeği ve nohutlu sebze güveci ise zengin çözünür lif yapısıyla bağırsak mikrobiyotasını destekleyerek metabolik atıkların sistemden uzaklaştırılmasını kolaylaştırır. Cuma gününe eklediğimiz lor peynirli avokado salatası ise tekli doymamış sağlıklı yağlar ve minerallerle hücresel yenilenmeyi pekiştiren hafif bir seçenek oluşturur.\n\nBu aşamada beslenme planınızla birlikte günlük su tüketiminizi ve adım ritminizi özenle korumanızı, tartı baskısından uzak kalarak bacaklarınızdaki ödem ve ağırlık hissinin gün içindeki seyrini gözlemlemenizi öneririm. Kazandığınız bu farkındalık ve yeni alışkanlıklar, ilerleyen dönemde de kendi dengenizi rahatlıkla sürdürmenizi sağlayacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
       "pdfFile": {},
-      "pdfText": "HATİCE YİTİK / 5-11 EKİM 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\n*Ispanaklı kabak böreği 1dilim için\nHaşlanmış yumurta (1 adet)\nTulum / kaşar peyniri (50 gram)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber +1 yemek kaşığı zeytinyağı\n1 adet közlenmiş kapya biber ( 50 gr )\nAkşam ()\nFırında Kıymalı Kabak Sandal\nMevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 yemek kaşığı zeytinyağı)\nKırmızı Mercimek Ekmeği\nÖğle ()\nHaşlanmış yumurta (1 adet)\n50 gram beyaz peynir\nZeytin (5 adet)\nÇiğ badem (10 adet)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber+1 tatlı kaşığı zeytinyağı\n1 adet elma veya 2 adet hünnap\nAkşam ()\n150 gram köfte\nKabak Salatası\nToz kollajen 1 ölçek\nÖğle ()\n*Ispanaklı kabak böreği 1dilim için\nTulum / kaşar peyniri (50 gram)\nHaşlanmış yumurta (1 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz, limon ve sirke ile)\nZeytin (5 adet)\nÇiğ badem (10 adet)\nAkşam ()\nNohutlu sebze güveci\nBorani (yoğurtlu ıspanak)\nToz kollajen 1 ölçek\nÖğle ()\nHellim peynirli ıspanak / pazı/ semizotu\nSalatalık (orta boy) + Cherry domates (2 adet)\nKırmızı Mercimek Ekmeği\nÇiğ badem (10 adet)\nAkşam ()\nZeytinyağlı taze börülce\nTavuk Fajita\nkivi (100 gram, orta boy) ya da elma\nÖğle ()\nLor peynirli avokado salatası\nZeytin (10 adet)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 tatlı kaşığı zeytinyağı ile\nKırmızı Mercimek Ekmeği\nAkşam ()\n*Yeşil mercimekli kabak sandal\n4 yemek kaşığı ev yoğurdu)\nToz kollajen 1 ölçek\nCUMARTESİ\nÖğle ()\nMenemen (1 yumurta ile)\nZeytin (10 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka,1 adet küçük salatalık, limon ve 1 tatlı kaşığızeytinyağı ile)\nKırmızı Mercimek Ekmeği\nAkşam ()\nFırında Hamsi Sarma\n2 "
+      "pdfText": "HATİCE YİTİK / 5-11 EKİM 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\n*Ispanaklı kabak böreği 1dilim için\nHaşlanmış yumurta (1 adet)\nTulum / kaşar peyniri (50 gram)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber +1 yemek kaşığı zeytinyağı\n1 adet közlenmiş kapya biber ( 50 gr )\nAkşam ()\nFırında Kıymalı Kabak Sandal\nMevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 yemek kaşığı zeytinyağı)\nKırmızı Mercimek Ekmeği\nÖğle ()\nHaşlanmış yumurta (1 adet)\n50 gram beyaz peynir\nZeytin (5 adet)\nÇiğ badem (10 adet)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber+1 tatlı kaşığı zeytinyağı\n1 adet elma veya 2 adet hünnap\nAkşam ()\n150 gram köfte\nKabak Salatası\nToz kollajen 1 ölçek\nÖğle ()\n*Ispanaklı kabak böreği 1dilim için\nTulum / kaşar peyniri (50 gram)\nHaşlanmış yumurta (1 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz, limon ve sirke ile)\nZeytin (5 adet)\nÇiğ badem (10 adet)\nAkşam ()\nNohutlu sebze güveci\nBorani (yoğurtlu ıspanak)\nToz kollajen 1 ölçek\nÖğle ()\nHellim peynirli ıspanak / pazı/ semizotu\nSalatalık (orta boy) + Cherry domates (2 adet)\nKırmızı Mercimek Ekmeği\nÇiğ badem (10 adet)\nAkşam ()\nZeytinyağlı taze börülce\nTavuk Fajita\nkivi (100 gram, orta boy) ya da elma\nÖğle ()\nLor peynirli avokado salatası\nZeytin (10 adet)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 tatlı kaşığı zeytinyağı ile\nKırmızı Mercimek Ekmeği\nAkşam ()\n*Yeşil mercimekli kabak sandal\n4 yemek kaşığı ev yoğurdu)\nToz kollajen 1 ölçek\nCUMARTESİ\nÖğle ()\nMenemen (1 yumurta ile)\nZeytin (10 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka,1 adet küçük salatalık, limon ve 1 tatlı kaşığızeytinyağı ile)\nKırmızı Mercimek Ekmeği\nAkşam ()\nFırında Hamsi Sarma\n2 ",
+      "kilitli": false,
+      "eslesmeyenTarifler": [
+        "hati̇ce yi̇ti̇k / 5-11 eki̇m 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet)",
+        "tulum / kaşar peyniri (50 gram)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber +1 yemek kaşığı zeytinyağı",
+        "közlenmiş kapya biber ( 50 gr )",
+        "akşam (tercihen hava kararınca)",
+        "mevsim salata (marul, dereotu, roka, maydanoz, 1 adet küçük salatalık, 1 adet küçük domates + 1 yemek kaşığı zeytinyağı)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet)",
+        "beyaz peynir",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber+1 tatlı kaşığı zeytinyağı",
+        "elma veya 2 adet hünnap",
+        "akşam (tercihen hava kararınca)",
+        "toz kollajen 1 ölçek",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "ispanaklı kabak böreği 1dilim için",
+        "tulum / kaşar peyniri (50 gram)",
+        "haşlanmış yumurta (1 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 4-5 dal maydanoz, limon ve sirke ile)",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "toz kollajen 1 ölçek",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "kırmızı mercimek ekmeği",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber + 1 tatlı kaşığı zeytinyağı ile",
+        "kırmızı mercimek ekmeği",
+        "akşam (tercihen hava kararınca)",
+        "ev yoğurdu)",
+        "toz kollajen 1 ölçek",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (1 yumurta ile)",
+        "zeytin (10 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka,1 adet küçük salatalık, limon ve 1 tatlı kaşığızeytinyağı ile)",
+        "kırmızı mercimek ekmeği",
+        "akşam (tercihen hava kararınca)",
+        "kırmızı mercimek ekmeği",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "akşam (tercihen hava kararınca)",
+        "ev yoğurdu",
+        "kırmızı mercimek ekmeği",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "ispanaklı kabak böreği 1dilim için",
+        "fırında kıymalı kabak sandal",
+        "kırmızı mercimek ekmeği",
+        "köfte",
+        "kabak salatası",
+        "ispanaklı kabak böreği 1dilim için",
+        "nohutlu sebze güveci",
+        "borani (yoğurtlu ıspanak)",
+        "hellim peynirli ıspanak / pazı/ semizotu",
+        "kırmızı mercimek ekmeği",
+        "zeytinyağlı taze börülce",
+        "tavuk fajita",
+        "lor peynirli avokado salatası",
+        "kırmızı mercimek ekmeği",
+        "yeşil mercimekli kabak sandal",
+        "kırmızı mercimek ekmeği",
+        "fırında hamsi sarma",
+        "kırmızı mercimek ekmeği",
+        "maydanozlu poğaça",
+        "kaşarlı kabak graten",
+        "yaz tarhanası",
+        "yeşil mercimekli biber dolması",
+        "kırmızı mercimek ekmeği"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T07:05:09.510Z",
+  "sonGuncelleme": "2026-10-01T13:08:05.527Z",
   "githubKaydedildi": true
 }
