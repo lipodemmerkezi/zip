@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/AYŞE KİRAZ 3-11 EKİM 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE KİRAZ 3-11 EKİM 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE KİRAZ 3-11 EKİM 1. HAFTA.pdf",
-      "kayitTarihi": "2026-10-01T13:27:46.755Z",
+      "kayitTarihi": "2026-10-01T13:29:11.723Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -200,7 +200,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "Merhaba Ayşe Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Cumartesi günü itibarıyla programımızda ilk haftaya başlıyoruz.\n\nBu ilk haftada beslenme programımızı lipödemin yönetiminde önemli olan anti-inflamatuar ve dolaşım destekleyici besinler üzerine kurduk. Vücudunuzdaki iltihabi süreci dengelemeye, lenfatik sistemi desteklemeye ve bölgesel incelme hedeflerinize ulaşmaya yardımcı olacak bir başlangıç yapıyoruz.\n\nBu süreçte süt ve süt ürünlerine kısa bir ara veriyoruz. Bunun temel amacı, vücudunuzdaki olası gizli gıda duyarlılıklarını gözlemlemek ve iltihabı tetikleyebilecek kaynakları azaltmaktır. Bu dönemde protein ihtiyacınızı karşılamak için yumurta önemli bir yer tutacak. Örneğin, menüde yer alan menemen veya sahanda yumurta gibi seçenekler, yumurtanın içerdiği A, D, B12 vitaminleri, selenyum ve kolin gibi mikrobesinlerle lipödem sürecine değerli destekler sağlar. Kolin, özellikle hücre zarlarının sağlığı ve yağ metabolizması için kritik bir rol oynar.\n\nÖğünlerinizde bolca sebzeye yer vermeniz de çok değerli. Semizotu salatası veya fırında domates soslu sebze kızartması gibi seçenekler, içerdikleri antioksidanlar ve liflerle bağırsak sağlığınızı desteklerken, aynı zamanda vücudunuzdaki ödemin azaltılmasına ve dolaşımınızın canlanmasına yardımcı olur. Özellikle semizotu, doğal bir omega-3 kaynağı olarak iltihap karşıtı etki gösterir.\n\nProgramın başı her zaman bazı alışkanlık değişimlerini içerse de, küçük adımlarla ilerleyerek kısa sürede bedeninizdeki olumlu değişimleri hissetmeye başlayacaksınız. Bu hafta için en temel adımlarımız, süt ürünlerini bırakmak, yumurtayı temel protein kaynağı olarak kullanmak ve günlük su tüketiminizi artırmak.\n\nAyrıca, her iki haftada bir pazar günleri bel, kalça ve bacak çevresi gibi bölgelerden ölçümler almanızı rica edeceğim. Bu ilk haftanın sonunda, yani pazar günü, başlangıç ölçümlerinizi alıp not edebilirseniz, ilerlememizi daha net takip edebiliriz. Amacımız tartıdaki değil, bedeninizdeki incelmeyi ve rahatlamayı görmek.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": true,
       "tabBaslik": "1. Hafta",
       "tabTarih": "10/03 - 10/11",
@@ -328,6 +328,6 @@
   ],
   "olusturmaTarihi": "2026-10-01T13:27:17.891Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:29:09.310Z",
+  "sonGuncelleme": "2026-10-01T13:29:11.736Z",
   "githubKaydedildi": true
 }
