@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-09-27",
-      "bitis": "2026-10-03",
+      "baslangic": "2026-10-03",
+      "bitis": "2026-10-11",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "AYŞE KİRAZ 3-11 EKİM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "AYŞE KİRAZ 3-11 EKİM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/AYŞE KİRAZ 3-11 EKİM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/AYŞE KİRAZ 3-11 EKİM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/AYŞE KİRAZ 3-11 EKİM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-10-01T13:27:46.755Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "10/03 - 10/11",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-01T13:27:17.891Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:27:31.516Z",
+  "sonGuncelleme": "2026-10-01T13:27:46.756Z",
   "githubKaydedildi": true
 }
