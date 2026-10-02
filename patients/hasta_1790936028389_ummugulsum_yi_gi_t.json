@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/ÜMMÜGÜLSÜM YİĞİT 5-11 EKİM 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÜMMÜGÜLSÜM YİĞİT 5-11 EKİM 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÜMMÜGÜLSÜM YİĞİT 5-11 EKİM 1. HAFTA.pdf",
-      "kayitTarihi": "2026-10-02T10:14:56.681Z",
+      "kayitTarihi": "2026-10-02T10:16:35.255Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (1 dilim)",
@@ -162,7 +162,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba Ümmügülsüm Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n\nİlk haftamızda, programımızın önemli bir adımı olarak süt ve süt ürünlerini kısa bir süreliğine beslenmemizden çıkarıyoruz. Bu sayede vücudunuzun gizli gıda duyarlılıklarına karşı verdiği tepkileri gözlemleyebilir, inflamasyonu tetikleyen olası kaynakları azaltarak bağırsak florasını güçlendirmek için zemin hazırlayabiliriz.\n\nBu geçiş döneminde beslenme listemizde yumurta, temel protein kaynağımız olarak öne çıkıyor. Haşlanmış, mantarlı omlet veya sebzeli omlet şeklinde farklı tariflerle yumurtayı öğünlerinize dahil edebilirsiniz. Yumurta, sadece kaliteli bir protein kaynağı olmakla kalmaz, aynı zamanda A, D, B12 vitaminleri, selenyum ve kolin gibi lipödem sürecinde destekleyici mikrobesinler açısından da oldukça zengindir. Özellikle kolin, yağ metabolizmasında ve hücre zarı sağlığında önemli bir rol oynar.\n\nListemizde yer alan yeşillikler, kabak sote ve semizotu salatası gibi sebzeler de bu haftanın önemli bileşenlerinden. Bu sebzeler, içerdikleri antioksidanlar sayesinde vücuttaki oksidatif stresi azaltmaya yardımcı olurken, lif içerikleriyle bağırsak sağlığınızı destekler. Sağlıklı bir bağırsak florası, vücuttaki inflamasyonun kontrol altına alınmasında kilit bir rol oynar. Salatalarınıza ekleyeceğiniz sirke ve limon, bu antioksidanların emilimini artırabilir.\n\nAyrıca, sağlıklı yağ kaynaklarından tahin ekmeği, ceviz, fındık ve çiğ badem gibi besinler de programımızda yer alıyor. Bu sağlıklı yağlar, tokluk hissini desteklerken, vücudunuzun ihtiyaç duyduğu enerjiyi sağlar ve antiinflamatuar etkilere katkıda bulunur. Tercihinize göre tahin ekmeği yerine avokado veya sade tahin tüketebilirsiniz.\n\nProgramın başında günlük su tüketiminizi artırmanız da büyük önem taşıyor. Yeterli su, vücuttaki ödemin atılmasına ve lenfatik sistemin daha düzenli çalışmasına yardımcı olur. Bu haftanın adımlarını uygularken, bedeninizdeki küçük değişimleri gözlemlemeye başlayacaksınız.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -267,6 +267,6 @@
   ],
   "olusturmaTarihi": "2026-10-02T10:13:48.389Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-02T10:16:33.042Z",
+  "sonGuncelleme": "2026-10-02T10:16:35.271Z",
   "githubKaydedildi": true
 }
