@@ -3,9 +3,27 @@
   "isim": "ÜMMÜGÜLSÜM YİĞİT",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-09-27",
+      "bitis": "2026-10-03",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-10-02T10:13:48.389Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-02T10:13:48.392Z",
+  "sonGuncelleme": "2026-10-02T10:14:43.833Z",
   "githubKaydedildi": true
 }
