@@ -2,7 +2,7 @@
   "id": 1783434113715,
   "isim": "BURCU HOMAN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4074,6 +4074,6 @@
   ],
   "olusturmaTarihi": "2026-07-07T14:21:53.715Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:22:14.664Z",
+  "sonGuncelleme": "2026-10-02T14:22:49.012Z",
   "githubKaydedildi": true
 }
