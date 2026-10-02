@@ -912,24 +912,26 @@
     },
     {
       "haftaNo": 4,
-      "baslangic": "2026-10-04",
-      "bitis": "2026-10-10",
+      "baslangic": "2026-10-02",
+      "bitis": "2026-10-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÜMMÜHAN DOĞRUSOY - 4. hafta pdf.pdf",
+      "pdfOrijinalIsim": "ÜMMÜHAN DOĞRUSOY - 4. hafta pdf.pdf",
+      "pdfYolu": "pdfs/ÜMMÜHAN DOĞRUSOY - 4. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÜMMÜHAN DOĞRUSOY - 4. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÜMMÜHAN DOĞRUSOY - 4. hafta pdf.pdf",
+      "kayitTarihi": "2026-10-02T14:08:49.891Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-02T14:06:40.625Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-02T14:08:37.974Z",
+  "sonGuncelleme": "2026-10-02T14:08:49.892Z",
   "githubKaydedildi": true
 }
