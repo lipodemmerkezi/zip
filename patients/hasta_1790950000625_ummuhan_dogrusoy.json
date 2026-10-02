@@ -6,24 +6,26 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-09-27",
-      "bitis": "2026-10-03",
+      "baslangic": "2026-10-02",
+      "bitis": "2026-10-02",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÜMMÜHAN DOĞRUSOY - 1. hafta pdf.pdf",
+      "pdfOrijinalIsim": "ÜMMÜHAN DOĞRUSOY - 1. hafta pdf.pdf",
+      "pdfYolu": "pdfs/ÜMMÜHAN DOĞRUSOY - 1. hafta pdf.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÜMMÜHAN DOĞRUSOY - 1. hafta pdf.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÜMMÜHAN DOĞRUSOY - 1. hafta pdf.pdf",
+      "kayitTarihi": "2026-10-02T14:07:07.016Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-02T14:06:40.625Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-02T14:06:53.402Z",
+  "sonGuncelleme": "2026-10-02T14:07:07.018Z",
   "githubKaydedildi": true
 }
