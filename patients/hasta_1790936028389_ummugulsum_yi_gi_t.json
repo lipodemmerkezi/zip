@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-09-27",
-      "bitis": "2026-10-03",
+      "baslangic": "2026-10-05",
+      "bitis": "2026-10-11",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÜMMÜGÜLSÜM YİĞİT 5-11 EKİM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÜMMÜGÜLSÜM YİĞİT 5-11 EKİM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÜMMÜGÜLSÜM YİĞİT 5-11 EKİM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÜMMÜGÜLSÜM YİĞİT 5-11 EKİM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÜMMÜGÜLSÜM YİĞİT 5-11 EKİM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-10-02T10:14:56.681Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-02T10:13:48.389Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-02T10:14:43.833Z",
+  "sonGuncelleme": "2026-10-02T10:14:56.682Z",
   "githubKaydedildi": true
 }
