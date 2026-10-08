@@ -3825,10 +3825,27 @@
         "mantar soslu köfte",
         "borani (yoğurtlu ıspanak)"
       ]
+    },
+    {
+      "haftaNo": 14,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:35:24.827Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:14:31.409Z",
+  "sonGuncelleme": "2026-10-08T05:35:24.830Z",
   "githubKaydedildi": true
 }
