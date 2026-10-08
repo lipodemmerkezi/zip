@@ -3355,10 +3355,27 @@
         "cevizli karabuğday ekmeği",
         "mantar soslu köfte"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:35:02.727Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-18T08:51:29.998Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:10:50.535Z",
+  "sonGuncelleme": "2026-10-08T05:35:02.728Z",
   "githubKaydedildi": true
 }
