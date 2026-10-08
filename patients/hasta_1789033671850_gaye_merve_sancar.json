@@ -1105,10 +1105,27 @@
         "ketojeni̇k pi̇zza",
         "tavuklu kabak noodle"
       ]
+    },
+    {
+      "haftaNo": 5,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:31:44.689Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-10T09:47:51.850Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T09:54:05.858Z",
+  "sonGuncelleme": "2026-10-08T05:31:44.690Z",
   "githubKaydedildi": true
 }
