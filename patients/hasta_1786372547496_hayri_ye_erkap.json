@@ -2611,10 +2611,27 @@
         "köfte",
         "lupin unlu ekmek (1 dilim için)"
       ]
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:33:26.411Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-10T14:35:47.496Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T10:06:36.989Z",
+  "sonGuncelleme": "2026-10-08T05:33:26.415Z",
   "githubKaydedildi": true
 }
