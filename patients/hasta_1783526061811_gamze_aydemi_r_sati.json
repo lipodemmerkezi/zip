@@ -2,7 +2,7 @@
   "id": 1783526061811,
   "isim": "GAMZE AYDEMİR SATI",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3402,6 +3402,6 @@
   ],
   "olusturmaTarihi": "2026-07-08T15:54:21.811Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-08T07:43:48.735Z",
+  "sonGuncelleme": "2026-10-08T08:05:00.929Z",
   "githubKaydedildi": true
 }
