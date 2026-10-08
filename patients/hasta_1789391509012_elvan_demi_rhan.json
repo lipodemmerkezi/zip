@@ -829,10 +829,27 @@
         "maydanozlu poğaça",
         "lahmacun"
       ]
+    },
+    {
+      "haftaNo": 4,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:31:23.192Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-14T13:11:49.012Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T09:51:26.615Z",
+  "sonGuncelleme": "2026-10-08T05:31:23.193Z",
   "githubKaydedildi": true
 }
