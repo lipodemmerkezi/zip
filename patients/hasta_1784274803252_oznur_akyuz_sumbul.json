@@ -3470,10 +3470,27 @@
         "yulaflı kabak çorbası",
         "taze fasulyeli yumurta kavurması"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:35:13.802Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-17T07:53:23.252Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:10:08.398Z",
+  "sonGuncelleme": "2026-10-08T05:35:13.804Z",
   "githubKaydedildi": true
 }
