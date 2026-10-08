@@ -2762,10 +2762,27 @@
         "patlıcan ya da kabak mücver",
         "hurma topları"
       ]
+    },
+    {
+      "haftaNo": 11,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:34:31.333Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:24:19.066Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T10:15:27.512Z",
+  "sonGuncelleme": "2026-10-08T05:34:31.335Z",
   "githubKaydedildi": true
 }
