@@ -1638,10 +1638,27 @@
         "badem unu ekmeği (1 dilim)",
         "urfa / adana kebap 200 gram"
       ]
+    },
+    {
+      "haftaNo": 7,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:32:51.416Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-01T05:58:16.822Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T09:57:30.119Z",
+  "sonGuncelleme": "2026-10-08T05:32:51.417Z",
   "githubKaydedildi": true
 }
