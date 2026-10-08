@@ -3376,10 +3376,27 @@
         "yeşil mercimekli biber dolması",
         "kırmızı mercimek ekmeği"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:34:51.651Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:08:16.663Z",
+  "sonGuncelleme": "2026-10-08T05:34:51.653Z",
   "githubKaydedildi": true
 }
