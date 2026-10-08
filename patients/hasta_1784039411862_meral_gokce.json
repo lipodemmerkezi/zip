@@ -3690,10 +3690,27 @@
         "karabuğday ekmeği 1 dilim 25 gr",
         "orman meyveli muhallebi"
       ]
+    },
+    {
+      "haftaNo": 14,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:35:36.249Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-07-14T14:30:11.862Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T13:13:37.102Z",
+  "sonGuncelleme": "2026-10-08T05:35:36.251Z",
   "githubKaydedildi": true
 }
