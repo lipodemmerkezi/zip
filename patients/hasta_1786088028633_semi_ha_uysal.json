@@ -2618,10 +2618,27 @@
         "kıymalı semizotu yemeği",
         "yoğurtlu salatalık mezesi"
       ]
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:33:48.576Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-07T07:33:48.633Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T10:11:37.739Z",
+  "sonGuncelleme": "2026-10-08T05:33:48.579Z",
   "githubKaydedildi": true
 }
