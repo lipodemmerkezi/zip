@@ -2621,10 +2621,27 @@
         "köfte / ya da 150 gram kuzu kavurma",
         "cevizli köz biber mezesi"
       ]
+    },
+    {
+      "haftaNo": 10,
+      "baslangic": "2026-10-12",
+      "bitis": "2026-10-18",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-08T05:34:09.752Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-04T18:32:21.274Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-01T10:12:47.221Z",
+  "sonGuncelleme": "2026-10-08T05:34:09.754Z",
   "githubKaydedildi": true
 }
