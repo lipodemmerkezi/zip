@@ -189,13 +189,6 @@
     "sonGuncelleme": "2026-10-08T07:41:35.585Z"
   },
   {
-    "id": 1784364689998,
-    "isim": "ŞERMİN KÖRÜK",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-10-08T07:45:21.017Z"
-  },
-  {
     "id": 1790936028389,
     "isim": "ÜMMÜGÜLSÜM YİĞİT",
     "not": "",
@@ -1348,6 +1341,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-12T05:37:04.149Z"
+  },
+  {
+    "id": 1784364689998,
+    "isim": "ŞERMİN KÖRÜK",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-10-09T06:24:22.229Z"
   },
   {
     "id": "tuba_atas",
