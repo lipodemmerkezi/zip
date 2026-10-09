@@ -2,7 +2,7 @@
   "id": 1784041908852,
   "isim": "OLCAY ERSOY",
   "not": "ŞEKER HASTASI. SUYU HER MESAJDA HATIRLATACAĞIZ. LOW CARB BAŞLIYORUZ",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4149,6 +4149,6 @@
   ],
   "olusturmaTarihi": "2026-07-14T15:11:48.852Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-08T08:10:08.254Z",
+  "sonGuncelleme": "2026-10-09T06:23:23.371Z",
   "githubKaydedildi": true
 }
