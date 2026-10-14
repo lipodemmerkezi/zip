@@ -3,9 +3,27 @@
   "isim": "NESRİN GÜLŞAH",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-10-11",
+      "bitis": "2026-10-17",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-10-14T16:00:32.738Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-14T16:00:32.738Z",
+  "sonGuncelleme": "2026-10-14T16:00:43.306Z",
   "githubKaydedildi": true
 }
