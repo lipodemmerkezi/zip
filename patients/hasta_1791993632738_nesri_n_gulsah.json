@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-10-11",
-      "bitis": "2026-10-17",
+      "baslangic": "2026-10-15",
+      "bitis": "2026-10-18",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NESRİN GÜLŞAH 15-18 EKİM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "NESRİN GÜLŞAH 15-18 EKİM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/NESRİN GÜLŞAH 15-18 EKİM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NESRİN GÜLŞAH 15-18 EKİM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NESRİN GÜLŞAH 15-18 EKİM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-10-14T16:00:54.082Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-14T16:00:32.738Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-14T16:00:43.306Z",
+  "sonGuncelleme": "2026-10-14T16:00:54.083Z",
   "githubKaydedildi": true
 }
