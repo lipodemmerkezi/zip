@@ -104,7 +104,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nesrin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda birinci haftaya başlıyoruz. \n\nBu hafta için hazırladığımız beslenme listesinde, lipödem ve bölgesel incelme hedeflerinizi destekleyecek bazı yiyecekler yer alıyor. Örneğin, ıspanaklı yumurta öğünü, hem kaliteli protein hem de folat ve magnezyum açısından zengin olup, sindirim ve enerji dengeniz üzerinde olumlu etkiler yaratabilir. Ayrıca, akşam öğününde yer alan balık, omega-3 yağ asitleri ve protein kaynağı olarak hem sağlıklı bir alternatif sunacak hem de cildinizin sağlığını destekleyecektir. \n\nBu hafta, süt ürünlerini iki hafta boyunca diyetinizden çıkarma aşamasındayız. Bu geçici eliminasyon, sindirim sisteminizdeki olası değişimleri daha iyi gözlemlememize yardımcı olacak. Günlük rutininize bu besinleri dahil etmek, genel sağlığınızı destekleyecek ve kilo yönetiminizi kolaylaştıracaktır. \n\nLütfen günlük su alımınıza dikkat edin ve sindirim, açlık, ağrı veya bacaklardaki ağırlık hissi gibi belirtileri not edin. Böylece ilerlemenizi daha iyi takip edebiliriz. \n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.  \nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -122,6 +122,6 @@
   ],
   "olusturmaTarihi": "2026-10-14T16:00:32.738Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-14T16:00:58.760Z",
+  "sonGuncelleme": "2026-10-14T16:01:02.498Z",
   "githubKaydedildi": true
 }
