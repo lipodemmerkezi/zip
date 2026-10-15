@@ -1114,10 +1114,27 @@
         "dondurma",
         "yaz tarhanası"
       ]
+    },
+    {
+      "haftaNo": 5,
+      "baslangic": "2026-10-19",
+      "bitis": "2026-10-25",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-15T06:10:15.700Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-16T05:42:12.932Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-08T07:51:56.477Z",
+  "sonGuncelleme": "2026-10-15T06:10:15.701Z",
   "githubKaydedildi": true
 }
