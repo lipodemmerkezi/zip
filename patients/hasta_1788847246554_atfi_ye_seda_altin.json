@@ -1921,10 +1921,27 @@
         "bakla unu ekmeği",
         "patlıcan ya da kabak lazanya"
       ]
+    },
+    {
+      "haftaNo": 8,
+      "baslangic": "2026-10-26",
+      "bitis": "2026-11-01",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-19T06:18:37.844Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-08T06:00:46.554Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-15T07:06:49.396Z",
+  "sonGuncelleme": "2026-10-19T06:18:37.845Z",
   "githubKaydedildi": true
 }
