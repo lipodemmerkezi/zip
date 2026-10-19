@@ -2242,10 +2242,27 @@
         "cevizli biber yoğurtlaması",
         "pita ekmeği (1 adet)"
       ]
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-10-26",
+      "bitis": "2026-11-01",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-10-19T06:19:11.838Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-01T05:58:16.822Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-15T07:12:23.852Z",
+  "sonGuncelleme": "2026-10-19T06:19:11.840Z",
   "githubKaydedildi": true
 }
