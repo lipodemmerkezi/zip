@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-10-18",
-      "bitis": "2026-10-24",
+      "baslangic": "2026-10-22",
+      "bitis": "2026-10-25",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "MELTEM AKGÜN 22-25 EKİM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "MELTEM AKGÜN 22-25 EKİM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/MELTEM AKGÜN 22-25 EKİM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MELTEM AKGÜN 22-25 EKİM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MELTEM AKGÜN 22-25 EKİM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-10-20T12:29:11.083Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-20T12:28:45.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-20T12:28:58.488Z",
+  "sonGuncelleme": "2026-10-20T12:29:11.085Z",
   "githubKaydedildi": true
 }
