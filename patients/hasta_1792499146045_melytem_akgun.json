@@ -3,9 +3,27 @@
   "isim": "MELYTEM AKGÜN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-10-18",
+      "bitis": "2026-10-24",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-10-20T12:25:46.045Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-20T12:25:46.045Z",
+  "sonGuncelleme": "2026-10-20T12:27:07.856Z",
   "githubKaydedildi": true
 }
