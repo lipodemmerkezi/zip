@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/ÇAĞIL DEĞİRMENCİ 23 EKİM -1 KASIM 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÇAĞIL DEĞİRMENCİ 23 EKİM -1 KASIM 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÇAĞIL DEĞİRMENCİ 23 EKİM -1 KASIM 1. HAFTA.pdf",
-      "kayitTarihi": "2026-10-21T05:42:58.377Z",
+      "kayitTarihi": "2026-10-21T05:44:37.347Z",
       "tarifKartlar": [
         {
           "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
@@ -206,7 +206,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
       "gptMesaj": "Merhaba Çağıl Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Cuma günü itibarıyla programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n\nBu ilk haftada, programımızın temel taşlarından biri olan yumurta tüketimi ön planda. Sizin için hazırladığımız listede yer alan yumurta salatası, sebzeli omlet veya ıspanaklı ve kıymalı yumurta gibi tarifler, protein ihtiyacınızı karşılarken aynı zamanda vücudunuz için önemli olan A, D, B12 vitaminleri, selenyum ve kolin gibi mikrobesinleri almanızı sağlayacak. Bu besinler, lipödemle ilişkili kronik inflamasyonun yönetilmesinde ve dokuların onarım süreçlerinde destekleyici bir rol oynar.\n\nÖğünlerinize eklediğimiz ızgara ya da fırında balık seçenekleri de bu süreçte çok değerli. Balıkta bulunan omega-3 yağ asitleri, vücuttaki iltihaplanmayı azaltmaya yardımcı olurken kan dolaşımını da destekler. Ayrıca, avokado ve rokalı salata gibi yeşillik ve sağlıklı yağ içeren seçimler de anti-inflamatuar etkiyi pekiştirir ve lenfatik sistemin daha düzenli çalışmasına katkıda bulunur. Mevsim yeşillikleri, içerdiği vitamin ve minerallerle vücudunuzun genel direncini artıracaktır.\n\nBu ilk haftada hem beslenmenize özen göstermenizi hem de vücudunuzun verdiği sinyalleri yakından takip etmenizi rica ediyorum. Bol su tüketiminin yanı sıra, maden suyunu kaya tuzu ve limon ile hazırlayarak içmek, mineral dengenizi destekleyerek ödem kontrolüne de yardımcı olacaktır. Programın başında belirtildiği gibi, pazar günü bel, kalça ve bacak çevresi gibi bölgelerden ölçümlerinizi almayı unutmayın. Bu ölçümler, tartıdaki değişimlerden bağımsız olarak incelme sürecinizi takip etmemiz için yol gösterici olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ekNotlar": "Merhaba Çağil Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. cuma günü itibariyle programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
       "ozelTabFormat": true,
       "tabBaslik": "1. Hafta",
@@ -346,6 +346,6 @@
   ],
   "olusturmaTarihi": "2026-10-21T05:37:08.634Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-21T05:44:35.710Z",
+  "sonGuncelleme": "2026-10-21T05:44:37.358Z",
   "githubKaydedildi": true
 }
