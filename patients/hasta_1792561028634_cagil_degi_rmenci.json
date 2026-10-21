@@ -3,9 +3,27 @@
   "isim": "ÇAĞIL DEĞİRMENCİ",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-10-18",
+      "bitis": "2026-10-24",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-10-21T05:37:08.634Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-21T05:37:08.634Z",
+  "sonGuncelleme": "2026-10-21T05:40:37.724Z",
   "githubKaydedildi": true
 }
