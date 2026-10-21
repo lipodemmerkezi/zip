@@ -6,24 +6,30 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-10-18",
-      "bitis": "2026-10-24",
+      "baslangic": "2026-10-23",
+      "bitis": "2026-11-01",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "ÇAĞIL DEĞİRMENCİ 23 EKİM -1 KASIM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "ÇAĞIL DEĞİRMENCİ 23 EKİM -1 KASIM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/ÇAĞIL DEĞİRMENCİ 23 EKİM -1 KASIM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/ÇAĞIL DEĞİRMENCİ 23 EKİM -1 KASIM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/ÇAĞIL DEĞİRMENCİ 23 EKİM -1 KASIM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-10-21T05:42:58.377Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ekNotlar": "Merhaba Çağil Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. cuma günü itibariyle programımızda ilk haftaya başlıyoruz. Bu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Listeye dahil edilen besinler, antiinflamatuar özellikleri ve kan dolaşımı desteklemesi nedeniyle seçilmiştir. Bu yiyecekler, lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.",
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "10/23 - 11/01",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-21T05:37:08.634Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-21T05:40:37.724Z",
+  "sonGuncelleme": "2026-10-21T05:42:58.377Z",
   "githubKaydedildi": true
 }
