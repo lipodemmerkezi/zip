@@ -303,7 +303,7 @@
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz.",
         "haşhaş ezmesi ekmeği yerine 1 adet yumurta, 3 adet ceviz ya da 10 adet çiğ badem ekleyebilirsiniz."
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Meltem Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda ikinci haftaya başlıyoruz.\n\nVücudumuzda lipödemin oluşturduğu hücresel inflamasyonu yatıştırmak ve metabolizmayı yağ yakımına alıştırmak, sabırla atılan küçük adımlarla şekillenir. Bu dönemde temel önceliğimiz, insülin hormonunu sakin tutarak vücudu yağ depolama modundan çıkarıp yağ yakma sürecine yönlendirmektir. Sabahları güne başlarken listenize eklediğimiz kurşun geçirmez kahve, içerdiği sağlıklı yağ asitleri sayesinde kan şekerini ve insülini neredeyse hiç yükseltmeden hücrelerin yakıt olarak yağı kullanmasını uyarır. Kahve tercih etmediğiniz günlerde ise menünüzdeki zeytin gibi sağlıklı yağ kaynaklarıyla güne başlamak aynı biyolojik zemini korumamızı sağlar.\n\nSizin için hazırladığımız listede bu hafta klasik tahılların yerine haşhaş ezmesi ekmeği ve badem unlu krep gibi glisemik yükü oldukça düşük seçeneklere yer verdik. Haşhaş ezmesi ekmeği, tohumlardan gelen yoğun lif ve sağlıklı yağ örüntüsüyle bağırsak geçişini desteklerken tokluk süresini uzatır ve insülin dalgalanmalarının önüne geçer. Akşam öğünlerinize eklediğimiz kıymalı patlıcan kapama ve tavuk güveç gibi yemeklerle de kas dokusunun korunması için gereken biyoyararlanımı yüksek proteini, sebzelerin hücresel koruma sağlayan antioksidan bileşenleriyle birleştirdik.\n\nÖğünlerinize eşlik eden cevizli kaşık salatası, içerdiği omega yağ asitleriyle hücre zarı esnekliğini artırarak dokularda biriken sıvının dolaşıma katılmasına katkı verir. Bu hafta özellikle sabahki yağ içerikli başlangıcın ardından tokluk sürenizi ve öğleden sonraki zindelik düzeyinizi takip etmenizi, gün içinde iki litrenin üzerinde su tüketerek lenfatik akışa destek olmanızı rica ediyorum.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
       "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -408,6 +408,6 @@
   ],
   "olusturmaTarihi": "2026-10-20T12:28:45.437Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-20T12:38:00.315Z",
+  "sonGuncelleme": "2026-10-22T11:18:15.971Z",
   "githubKaydedildi": true
 }
