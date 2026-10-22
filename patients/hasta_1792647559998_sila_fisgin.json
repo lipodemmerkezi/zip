@@ -3,9 +3,27 @@
   "isim": "SILA FIŞGIN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-10-18",
+      "bitis": "2026-10-24",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-10-22T05:39:19.998Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-22T05:39:19.999Z",
+  "sonGuncelleme": "2026-10-22T05:39:30.560Z",
   "githubKaydedildi": true
 }
