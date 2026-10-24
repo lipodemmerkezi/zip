@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-10-18",
-      "bitis": "2026-10-24",
+      "baslangic": "2026-10-26",
+      "bitis": "2026-11-01",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "SENEM SARIKAYA 26 EKİM -1 KASIM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "SENEM SARIKAYA  26 EKİM -1 KASIM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/SENEM SARIKAYA 26 EKİM -1 KASIM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SENEM SARIKAYA 26 EKİM -1 KASIM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SENEM SARIKAYA 26 EKİM -1 KASIM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-10-24T08:37:44.824Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-24T08:37:10.198Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-24T08:37:29.199Z",
+  "sonGuncelleme": "2026-10-24T08:37:44.825Z",
   "githubKaydedildi": true
 }
