@@ -3,9 +3,27 @@
   "isim": "FATMA ABALI",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-10-25",
+      "bitis": "2026-10-31",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-10-28T09:33:42.396Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-28T09:33:42.396Z",
+  "sonGuncelleme": "2026-10-28T09:34:09.334Z",
   "githubKaydedildi": true
 }
