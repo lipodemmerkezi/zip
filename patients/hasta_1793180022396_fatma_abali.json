@@ -6,24 +6,29 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-10-25",
-      "bitis": "2026-10-31",
+      "baslangic": "2026-10-30",
+      "bitis": "2026-11-08",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "FATMA ABALI 30 EKİM -8 KASIM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "FATMA ABALI 30 EKİM -8 KASIM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/FATMA ABALI 30 EKİM -8 KASIM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/FATMA ABALI 30 EKİM -8 KASIM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/FATMA ABALI 30 EKİM -8 KASIM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-10-28T09:34:26.119Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": true,
+      "tabBaslik": "1. Hafta",
+      "tabTarih": "10/30 - 11/08",
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-28T09:33:42.396Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-28T09:34:09.334Z",
+  "sonGuncelleme": "2026-10-28T09:34:26.120Z",
   "githubKaydedildi": true
 }
