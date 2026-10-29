@@ -142,7 +142,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Betül Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda birinci haftaya başlıyoruz.\n\nLipödem, doku düzeyinde kronik bir inflamasyon ve dolaşım hassasiyetiyle seyreder; bu nedenle ilk adımda bağ dokudaki hücresel baskıyı hafifletmek adına süt ve süt ürünlerini kısa bir süreliğine beslenmemizden çıkarıyoruz. Bu geçici eliminasyon, bağırsak bariyerini sakinleştirip dolaşıma sızabilecek inflamatuar tetikleyicileri azaltarak ödemin gerilemesine zemin hazırlar.\n\nBu dönemde doku onarımını kesintisiz sürdürmek için yumurtayı temel protein ve mikrobesin kaynağımız olarak konumlandırıyoruz. Yumurta sarısındaki kolin ve selenyum, karaciğerin lipid metabolizmasını desteklerken hücresel düzeyde güçlü bir antioksidan kalkan oluşturur. Sizin için hazırladığımız listede öğle saatlerine mantarlı omlet ve haşhaş ezmesi ekmeği ekledik. Akşam öğünlerinde ise kıymalı patlıcan kapama, kabak sote ve tavuk güveç gibi sindirimi yormayan, lif oranı zengin yemeklere yer verdik. Bu tabakların yanına eşlik eden cevizli kaşık salatası, içerdiği koruyucu yağ asitleriyle damar geçirgenliğini dengelemeye ve lenfatik yükü hafifletmeye yardımcı olacaktır.\n\nBu hafta gün içindeki su tüketiminizi iki litrenin üzerine taşımanızı ve süt ürünleri olmadan bedeninizin verdiği hafifleme sinyallerini gözlemlemenizi öneriyorum. Bu süreçte tartıdaki geçici oynamalara değil, dokulardaki incelmeye odaklanacağız; bu nedenle pazar günü bel, kalça ve bacak çevresi ölçümlerinizi alıp başlangıç kaydı olarak not etmeniz gidişatımızı doğru değerlendirmemiz açısından faydalı olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -166,6 +166,6 @@
   ],
   "olusturmaTarihi": "2026-10-29T06:03:08.156Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:03:45.049Z",
+  "sonGuncelleme": "2026-10-29T06:23:00.443Z",
   "githubKaydedildi": true
 }
