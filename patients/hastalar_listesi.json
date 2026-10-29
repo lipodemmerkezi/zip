@@ -1,11 +1,5 @@
 [
   {
-    "id": "betul_mert",
-    "isim": "BETÜL MERT",
-    "kayitTarihi": "2026-10-29T05:56:19.315Z",
-    "durumu": "aktif"
-  },
-  {
     "id": 1790575235520,
     "isim": "ASLI ERDEM",
     "not": "",
@@ -46,6 +40,13 @@
     "not": "",
     "arsiv": false,
     "sonGuncelleme": "2026-10-22T11:23:49.451Z"
+  },
+  {
+    "id": "betul_mert",
+    "isim": "BETÜL MERT",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2026-10-29T05:56:26.784Z"
   },
   {
     "id": "betul_mert",
