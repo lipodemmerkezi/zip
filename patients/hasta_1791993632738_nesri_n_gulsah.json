@@ -214,7 +214,7 @@
         "günlük ortalama 5000 adım önerilir",
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Nesrin Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda üçüncü haftaya başlıyoruz.\n\nİlk iki haftalık eliminasyon sürecinde sindirim sisteminizi dinlendirdikten sonra, bağırsak florasını daha dengeli bir yapıya kavuşturacak adımlara geçiyoruz. Sizin için hazırladığımız listede bu hafta kontrollü şekilde olgunlaştırılmış peynirleri menüye dahil ettik. Perşembe günkü badem unlu kabak ve peynirli poğaça ile sonraki günlerde yer verdiğimiz kabaklı peynirli muffin, fermente süt ürünlerine sindirimi yormadan yumuşak bir geçiş yapmamızı sağlayacak. Bu fermente kaynaklar bağırsak mikrobiyotasını çeşitlendirirken, bir yandan da gün içindeki yumurta ihtiyacını dengeleyerek öğünlerinizi zenginleştirecek.\n\nAkşam öğünlerinize eklediğimiz somonlu roka ve avokado salatası, barındırdığı zengin omega-3 ve sağlıklı yağ asitleriyle bağırsak mukoza bariyerinin güçlenmesine ve dolaşım üzerindeki inflamasyon yükünün hafiflemesine katkı sunuyor. Benzer şekilde yeşil fasulye yemeği ve cevizli kaşık salatasında bulunan lifler, bağırsaktaki dost bakteriler için doğrudan prebiyotik yakıt oluşturarak bağışıklık dengesini koruyan kısa zincirli yağ asitlerinin üretimini destekliyor.\n\nBu hafta özellikle peynir tükettiğiniz günlerde sindiriminizin, olası bir gaz veya şişkinlik hissi açısından nasıl tepki verdiğini sakin bir dikkatle gözlemlemenizi istiyorum. Vücudunuzun bu besinlere verdiği yanıt, önümüzdeki günlerde atacağımız adımlar için yol gösterici olacaktır.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -242,6 +242,6 @@
   ],
   "olusturmaTarihi": "2026-10-14T16:00:32.738Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:19:06.998Z",
+  "sonGuncelleme": "2026-10-29T06:25:31.433Z",
   "githubKaydedildi": true
 }
