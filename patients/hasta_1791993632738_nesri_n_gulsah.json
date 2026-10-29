@@ -40,24 +40,27 @@
     },
     {
       "haftaNo": 3,
-      "baslangic": "2026-11-01",
-      "bitis": "2026-11-07",
+      "baslangic": "2026-11-02",
+      "bitis": "2026-11-08",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "NESRİN GÜLŞAH 2-8 KASIM 3. HAFTA.pdf",
+      "pdfOrijinalIsim": "NESRİN GÜLŞAH 2-8 KASIM 3. HAFTA.pdf",
+      "pdfYolu": "pdfs/NESRİN GÜLŞAH 2-8 KASIM 3. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NESRİN GÜLŞAH 2-8 KASIM 3. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NESRİN GÜLŞAH 2-8 KASIM 3. HAFTA.pdf",
+      "kayitTarihi": "2026-10-29T06:18:57.959Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-14T16:00:32.738Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:18:14.007Z",
+  "sonGuncelleme": "2026-10-29T06:18:57.960Z",
   "githubKaydedildi": true
 }
