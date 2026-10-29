@@ -3879,6 +3879,23 @@
                 "nohut kraker",
                 "orman meyveli muhallebi"
             ]
+        },
+        {
+            "haftaNo": 14,
+            "baslangic": "2026-09-21",
+            "bitis": "2026-09-27",
+            "aciklama": "--- 2026-09-04 ---\nSevgi Doğan Lipödem YP+Danışmanlık  ANTALYA (3 Ay) (Dr. Harun): Siz\n",
+            "pdf": null,
+            "pdfName": null,
+            "pdfOrijinalIsim": null,
+            "pdfYolu": null,
+            "githubUrl": null,
+            "indirmeUrl": null,
+            "kayitTarihi": null,
+            "tarifKartlar": [],
+            "tarifler": [],
+            "gptMesaj": "",
+            "kilitli": false
         }
     ],
     "olusturmaTarihi": "2026-06-19T07:38:33.524Z",
