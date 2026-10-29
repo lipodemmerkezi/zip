@@ -4017,6 +4017,23 @@
                 "karabuğday ekmeği 1 dilim 25 gr",
                 "fırında sebzeli peynirli güveç"
             ]
+        },
+        {
+            "haftaNo": 15,
+            "baslangic": "2026-10-26",
+            "bitis": "2026-11-01",
+            "aciklama": "--- 2026-10-09 ---\nHatice Yitik Denizli Lipödem Danışmanlık+yp: Tamam teşekkürler\n",
+            "pdf": null,
+            "pdfName": null,
+            "pdfOrijinalIsim": null,
+            "pdfYolu": null,
+            "githubUrl": null,
+            "indirmeUrl": null,
+            "kayitTarihi": null,
+            "tarifKartlar": [],
+            "tarifler": [],
+            "gptMesaj": "",
+            "kilitli": false
         }
     ],
     "olusturmaTarihi": "2026-07-20T11:35:46.371Z",
