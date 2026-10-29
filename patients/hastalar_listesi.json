@@ -1,5 +1,11 @@
 [
   {
+    "id": "betul_mert",
+    "isim": "BETÜL MERT",
+    "kayitTarihi": "2026-10-29T05:56:19.315Z",
+    "durumu": "aktif"
+  },
+  {
     "id": 1790575235520,
     "isim": "ASLI ERDEM",
     "not": "",
@@ -42,12 +48,11 @@
     "sonGuncelleme": "2026-10-22T11:23:49.451Z"
   },
   {
-    "id": 1793024722154,
+    "id": "betul_mert",
     "isim": "BETÜL MERT",
     "not": "",
     "arsiv": false,
-    "olusturma": "2026-10-26T14:25:24.606Z",
-    "sonGuncelleme": "2026-10-26T14:25:24.606Z"
+    "sonGuncelleme": "2026-10-29T05:56:23.192Z"
   },
   {
     "id": 1792561028634,
@@ -1521,11 +1526,5 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
-  },
-  {
-    "id": "betul_mert",
-    "isim": "BETÜL MERT",
-    "kayitTarihi": "2026-10-29T05:56:19.315Z",
-    "durumu": "aktif"
   }
 ]
