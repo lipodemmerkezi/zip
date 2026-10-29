@@ -171,7 +171,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "yeşillikler için sevdiklerinizle değiştirebilirsiniz."
       ],
-      "gptMesaj": "",
+      "gptMesaj": "Merhaba Meltem Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda ikinci haftaya başlıyoruz.\n\nLipödem yönetiminde dokulardaki kronik inflamasyonu yatıştırmanın temel adımı, kan şekerini ve dolayısıyla insülin salgısını gün içinde olabildiğince dalgalanmadan tutabilmektir. İnsülin seviyeleri sakin seyrettiğinde hem hücresel düzeyde ödem çözülme süreci desteklenir hem de dolaşım sisteminin üzerindeki metabolik baskı hafifler. \n\nGüne başlarken yer verdiğimiz kurşun geçirmez kahve veya zeytinyağlı ılık su, insülini neredeyse hiç uyarmadan bedenin yağ yakım döngüsünü açar ve hücresel düzeyde enerjinin dengeli dağılmasını sağlar. Sizin için hazırladığımız listede klasik unlu mamuller yerine öğünlerinize eklediğimiz haşhaş ezmesi ekmeği, yüksek lif ve sağlıklı yağ örüntüsüyle bağırsak geçirgenliğini toparlamaya yardımcı olurken kan şekerinde ani yükselmelerin önüne geçer. Akşam menünüzdeki patlıcan musakka ve kıymalı kabak yemeği gibi dengeli lif ve protein kombinasyonları ile yanındaki cevizli kaşık salatasından gelen koruyucu yağ asitleri ise dokulardaki sessiz iltihabın gerilemesini destekler.\n\nBu hafta özellikle sabah rutininizin ardından ilk öğüne kadar hissettiğiniz tokluk süresini ve gün içindeki enerji seviyenizi takip etmenizi öneririm. Öğleden sonraki saatlerde ani bir yorgunluk veya acıkma atağı yaşamıyor olmanız, metabolizmanızın düşük insülin ortamına hızla adapte olduğunu gösterecektir.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
       "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
@@ -195,6 +195,6 @@
   ],
   "olusturmaTarihi": "2026-10-29T06:13:09.282Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:13:52.458Z",
+  "sonGuncelleme": "2026-10-29T06:24:01.511Z",
   "githubKaydedildi": true
 }
