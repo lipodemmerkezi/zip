@@ -3,9 +3,27 @@
   "isim": "MELTEM AKGÜN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-10-25",
+      "bitis": "2026-10-31",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-10-29T06:13:09.282Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:13:09.282Z",
+  "sonGuncelleme": "2026-10-29T06:13:21.896Z",
   "githubKaydedildi": true
 }
