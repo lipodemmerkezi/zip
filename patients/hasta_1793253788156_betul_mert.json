@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-10-25",
-      "bitis": "2026-10-31",
+      "baslangic": "2026-11-02",
+      "bitis": "2026-11-08",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "BETÜL MERT 2-8 KASIM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "BETÜL MERT 2-8 KASIM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/BETÜL MERT 2-8 KASIM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/BETÜL MERT 2-8 KASIM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/BETÜL MERT 2-8 KASIM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-10-29T06:03:36.306Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-10-29T06:03:08.156Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:03:22.577Z",
+  "sonGuncelleme": "2026-10-29T06:03:36.307Z",
   "githubKaydedildi": true
 }
