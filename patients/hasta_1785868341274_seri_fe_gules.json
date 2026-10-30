@@ -2,7 +2,7 @@
   "id": 1785868341274,
   "isim": "ŞERİFE GÜLEŞ",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3628,6 +3628,6 @@
   ],
   "olusturmaTarihi": "2026-08-04T18:32:21.274Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:36:09.766Z",
+  "sonGuncelleme": "2026-10-30T07:59:10.668Z",
   "githubKaydedildi": true
 }
