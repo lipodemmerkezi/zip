@@ -196,13 +196,6 @@
     "sonGuncelleme": "2026-10-29T06:25:05.453Z"
   },
   {
-    "id": 1785868341274,
-    "isim": "ŞERİFE GÜLEŞ",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-10-29T06:36:12.712Z"
-  },
-  {
     "id": 1790936028389,
     "isim": "ÜMMÜGÜLSÜM YİĞİT",
     "not": "",
@@ -1390,6 +1383,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-12T05:37:04.149Z"
+  },
+  {
+    "id": 1785868341274,
+    "isim": "ŞERİFE GÜLEŞ",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-10-30T07:59:16.690Z"
   },
   {
     "id": 1784364689998,
