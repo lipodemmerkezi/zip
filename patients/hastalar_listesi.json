@@ -126,13 +126,6 @@
     "sonGuncelleme": "2026-10-29T06:34:17.836Z"
   },
   {
-    "id": 1785867859066,
-    "isim": "HESNA BAŞTEPE",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-10-29T06:37:08.212Z"
-  },
-  {
     "id": 1786096439938,
     "isim": "HÜSNİYE AYAN",
     "not": "",
@@ -874,6 +867,13 @@
     "arsiv": true,
     "sonGuncelleme": "2025-09-03T10:25:38.241Z",
     "telefonAranacak": false
+  },
+  {
+    "id": 1785867859066,
+    "isim": "HESNA BAŞTEPE",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-10-30T07:54:48.656Z"
   },
   {
     "id": 1767173076752,
