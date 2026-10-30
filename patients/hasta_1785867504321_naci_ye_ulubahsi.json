@@ -2,7 +2,7 @@
   "id": 1785867504321,
   "isim": "NACİYE ULUBAHŞİ",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3815,6 +3815,6 @@
   ],
   "olusturmaTarihi": "2026-08-04T18:18:24.321Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:37:41.554Z",
+  "sonGuncelleme": "2026-10-30T07:54:28.821Z",
   "githubKaydedildi": true
 }
