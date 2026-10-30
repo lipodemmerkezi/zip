@@ -119,13 +119,6 @@
     "sonGuncelleme": "2026-10-29T06:34:17.836Z"
   },
   {
-    "id": 1786096439938,
-    "isim": "HÜSNİYE AYAN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-10-29T06:34:46.274Z"
-  },
-  {
     "id": 1793254389282,
     "isim": "MELTEM AKGÜN",
     "not": "",
@@ -897,6 +890,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2025-11-18T06:01:33.019Z"
+  },
+  {
+    "id": 1786096439938,
+    "isim": "HÜSNİYE AYAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-10-30T07:59:52.272Z"
   },
   {
     "id": 1781764332942,
