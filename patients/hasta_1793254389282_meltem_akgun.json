@@ -191,10 +191,27 @@
         "haşhaş ezmesi ekmeği (1 dilim)",
         "haşhaş ezmesi ekmeği (1 dilim)"
       ]
+    },
+    {
+      "haftaNo": 3,
+      "baslangic": "2026-11-09",
+      "bitis": "2026-11-15",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-11-05T05:24:09.977Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-10-29T06:13:09.282Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:24:01.511Z",
+  "sonGuncelleme": "2026-11-05T05:24:09.977Z",
   "githubKaydedildi": true
 }
