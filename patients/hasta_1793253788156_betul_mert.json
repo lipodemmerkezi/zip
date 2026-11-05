@@ -162,10 +162,27 @@
         "tavuk güveç",
         "cevizli kaşık salatası"
       ]
+    },
+    {
+      "haftaNo": 2,
+      "baslangic": "2026-11-09",
+      "bitis": "2026-11-15",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-11-05T05:26:57.924Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-10-29T06:03:08.156Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-10-29T06:23:00.443Z",
+  "sonGuncelleme": "2026-11-05T05:26:57.924Z",
   "githubKaydedildi": true
 }
