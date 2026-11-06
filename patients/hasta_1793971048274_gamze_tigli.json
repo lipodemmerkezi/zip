@@ -3,9 +3,27 @@
   "isim": "GAMZE TIĞLI",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-11-01",
+      "bitis": "2026-11-07",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-11-06T13:17:28.274Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-06T13:17:28.274Z",
+  "sonGuncelleme": "2026-11-06T13:17:39.875Z",
   "githubKaydedildi": true
 }
