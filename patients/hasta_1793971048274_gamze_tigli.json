@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-11-01",
-      "bitis": "2026-11-07",
+      "baslangic": "2026-11-09",
+      "bitis": "2026-11-15",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "GAMZE TIĞLI 9-15 KASIM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "GAMZE TIĞLI 9-15 KASIM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/GAMZE TIĞLI 9-15 KASIM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/GAMZE TIĞLI 9-15 KASIM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/GAMZE TIĞLI 9-15 KASIM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-11-06T13:18:00.379Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-11-06T13:17:28.274Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-06T13:17:39.875Z",
+  "sonGuncelleme": "2026-11-06T13:18:00.380Z",
   "githubKaydedildi": true
 }
