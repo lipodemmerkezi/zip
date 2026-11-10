@@ -1649,10 +1649,27 @@
         "bakla unu ekmeği",
         "tavuk güveç"
       ]
+    },
+    {
+      "haftaNo": 7,
+      "baslangic": "2026-11-16",
+      "bitis": "2026-11-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-11-10T10:46:31.526Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-10-01T13:27:17.891Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-05T05:52:44.638Z",
+  "sonGuncelleme": "2026-11-10T10:46:31.528Z",
   "githubKaydedildi": true
 }
