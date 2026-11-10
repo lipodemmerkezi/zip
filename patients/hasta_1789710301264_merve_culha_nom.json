@@ -2523,10 +2523,27 @@
         "tatlı patates püresi",
         "mantar soslu köfte"
       ]
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-11-16",
+      "bitis": "2026-11-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-11-10T10:46:53.524Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-18T05:45:01.264Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-05T05:54:12.249Z",
+  "sonGuncelleme": "2026-11-10T10:46:53.526Z",
   "githubKaydedildi": true
 }
