@@ -3034,10 +3034,27 @@
         "lorlu pazı sarması",
         "cevizli köz biber mezesi"
       ]
+    },
+    {
+      "haftaNo": 11,
+      "baslangic": "2026-11-16",
+      "bitis": "2026-11-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-11-10T10:48:34.530Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-03T11:20:26.626Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-05T05:57:07.657Z",
+  "sonGuncelleme": "2026-11-10T10:48:34.532Z",
   "githubKaydedildi": true
 }
