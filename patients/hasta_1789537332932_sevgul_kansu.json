@@ -2259,10 +2259,27 @@
         "lupin unlu ekmek (1 dilim)",
         "mantar soslu köfte"
       ]
+    },
+    {
+      "haftaNo": 9,
+      "baslangic": "2026-11-16",
+      "bitis": "2026-11-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-11-10T10:47:04.517Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-16T05:42:12.932Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-05T05:54:43.061Z",
+  "sonGuncelleme": "2026-11-10T10:47:04.519Z",
   "githubKaydedildi": true
 }
