@@ -3,9 +3,27 @@
   "isim": "İPEK ÖZCAN",
   "not": "",
   "arsiv": false,
-  "haftalar": [],
+  "haftalar": [
+    {
+      "haftaNo": 1,
+      "baslangic": "2026-11-08",
+      "bitis": "2026-11-14",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": null,
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "kilitli": false
+    }
+  ],
   "olusturmaTarihi": "2026-11-10T07:36:43.050Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-10T07:36:43.050Z",
+  "sonGuncelleme": "2026-11-10T07:36:54.962Z",
   "githubKaydedildi": true
 }
