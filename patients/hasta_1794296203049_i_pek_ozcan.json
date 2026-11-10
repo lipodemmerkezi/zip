@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-11-08",
-      "bitis": "2026-11-14",
+      "baslangic": "2026-11-11",
+      "bitis": "2026-11-15",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "İPEK ÖZCAN 11-15 KASIM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "İPEK ÖZCAN 11-15 KASIM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/İPEK ÖZCAN 11-15 KASIM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/İPEK ÖZCAN 11-15 KASIM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/İPEK ÖZCAN 11-15 KASIM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-11-10T07:37:10.708Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-11-10T07:36:43.050Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-10T07:36:54.962Z",
+  "sonGuncelleme": "2026-11-10T07:37:10.710Z",
   "githubKaydedildi": true
 }
