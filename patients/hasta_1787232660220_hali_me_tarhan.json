@@ -3538,10 +3538,27 @@
         "tahinli patlıcanlı börek",
         "keten tohumlu kraker 5 adet için"
       ]
+    },
+    {
+      "haftaNo": 13,
+      "baslangic": "2026-11-16",
+      "bitis": "2026-11-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-11-10T10:48:58.843Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-08-20T13:31:00.220Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-05T05:58:43.226Z",
+  "sonGuncelleme": "2026-11-10T10:48:58.845Z",
   "githubKaydedildi": true
 }
