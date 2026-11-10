@@ -1693,10 +1693,27 @@
         "tavuk güveç",
         "bademli kurabiye 2 adet"
       ]
+    },
+    {
+      "haftaNo": 7,
+      "baslangic": "2026-11-16",
+      "bitis": "2026-11-22",
+      "aciklama": "",
+      "pdf": null,
+      "pdfName": null,
+      "pdfOrijinalIsim": null,
+      "pdfYolu": null,
+      "githubUrl": null,
+      "indirmeUrl": null,
+      "kayitTarihi": "2026-11-10T10:46:42.524Z",
+      "tarifKartlar": [],
+      "tarifler": [],
+      "gptMesaj": "",
+      "pdfFile": {}
     }
   ],
   "olusturmaTarihi": "2026-09-28T06:00:35.520Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-05T05:52:11.930Z",
+  "sonGuncelleme": "2026-11-10T10:46:42.526Z",
   "githubKaydedildi": true
 }
