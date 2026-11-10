@@ -15,7 +15,7 @@
       "pdfYolu": "pdfs/İPEK ÖZCAN 11-15 KASIM 1. HAFTA.pdf",
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/İPEK ÖZCAN 11-15 KASIM 1. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/İPEK ÖZCAN 11-15 KASIM 1. HAFTA.pdf",
-      "kayitTarihi": "2026-11-10T07:37:10.708Z",
+      "kayitTarihi": "2026-11-10T07:38:35.245Z",
       "tarifKartlar": [
         {
           "tarifAdi": "tahin ekmeği (2 dilim)",
@@ -120,7 +120,7 @@
         "cevi̇z i̇çi̇ ekleyerek tükektebi̇li̇rsi̇ni̇z."
       ],
       "gptMesaj": "Merhaba İpek Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Çarşamba günü itibarıyla programımızda ilk haftaya başlıyoruz. \n\nBu hafta için hazırlanan beslenme listesine baktığımda, lipödem ve bölgesel incelme hedefleri doğrultusunda seçilmiş yiyeceklerin yer aldığını görüyorum. Bu yiyecekler, antiinflamatuar özellikleri ve kan dolaşımını desteklemesi nedeniyle seçilmiştir. Lipödemi yönetmede kritik olan lenfatik sistemi desteklerken, aynı zamanda kilo vermede de etkili olacaktır. Beslenme programımız bu şekilde tasarlanmış olup, bölgesel ölçülerde ilerleme kaydetmek için bu besinleri günlük rutininize dahil etmeniz oldukça önemlidir.\n\nSizin için hazırladığımız listede sahanda yumurta, zeytin, tahin ekmeği ve sebzeli omlet gibi protein ve sağlıklı yağ kaynakları bulunuyor. Yumurtanın yüksek kaliteli protein içeriği, vücudunuzun ihtiyaç duyduğu birçok besin maddesini karşılamaya yardımcı olurken, tahin ve zeytin gibi besinler de sağlıklı yağlar açısından zengin. Bu hafta, yumurtayı temel protein kaynağı olarak kullanacağız. Her öğünde bu besinleri tercih ederek hem lezzetli hem de besleyici bir diyet oluşturabilirsiniz.\n\nAynı zamanda, günlük su tüketiminizi artırmayı unutmayın. Su, vücudunuzun düzgün çalışması ve toksinlerin atılması için oldukça önemlidir. \n\nBu süreçte bazı takviyelerden de destek alabiliriz. Her hastaya özel belirlenmekle birlikte, bu dönemde önerdiğimiz takviye ürünlerin amacı; ödemi azaltmak, dolaşımı desteklemek ve dokuların onarım sürecine katkıda bulunmaktır. Zorunlu değiller ama ihtiyaç ve hedeflere göre faydalı olabilirler.\n\nAyrıca, her iki haftada bir, pazar günü ölçüm almanızı rica edeceğim. Bel, kalça, bacak çevresi gibi bölgelerin ölçümünü düzenli olarak kaydetmeniz, değişimi daha net görebilmemiz açısından önemli. Tartıya değil, incelmeye odaklanacağız.\n\nUnutmayın ki, programın başı her zaman en zor kısımdır. Ancak kısa süre içinde bedeninizdeki değişimleri hissetmeye başlayacaksınız. Bu süreci küçük ama etkili adımlarla birlikte yöneteceğiz. Her zaman yanınızdayım.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\n\nDr. Mustafa",
-      "kilitli": false,
+      "kilitli": true,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -196,6 +196,6 @@
   ],
   "olusturmaTarihi": "2026-11-10T07:36:43.050Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-10T07:38:08.664Z",
+  "sonGuncelleme": "2026-11-10T07:38:35.257Z",
   "githubKaydedildi": true
 }
