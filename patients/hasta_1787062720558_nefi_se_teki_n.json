@@ -3687,7 +3687,122 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/NEFİSE TEKİN 16-22 KASIM 14. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/NEFİSE TEKİN 16-22 KASIM 14. HAFTA.pdf",
       "kayitTarihi": "2026-11-10T10:49:16.105Z",
-      "tarifKartlar": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "susamlı omlet",
+          "kartResmi": "susamli_omlet.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/susamli_omlet.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "yeşil mercimek salatası",
+          "kartResmi": "yesil_mercimek_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yesil_mercimek_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "karabuğday ekmeği 1 dilim 25 gr",
+          "kartResmi": "karabugday_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/karabugday_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuklu kabak noodle (tavuk yerine hindi eti ile yapabilirsiniz)",
+          "kartResmi": "tavuklu_kabak_noodle.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuklu_kabak_noodle.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "çilekli - limonlu smoothie",
+          "kartResmi": "cilekli_limonlu_smoothie.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cilekli_limonlu_smoothie.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "tereyağlı kabak",
+          "kartResmi": "tereyagli_kabak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tereyagli_kabak.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "et sote",
+          "kartResmi": "et_sote.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/et_sote.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "havuçlu yoğurtlu semizotu salatası",
+          "kartResmi": "havuclu_yogurtlu_semizotu_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/havuclu_yogurtlu_semizotu_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "ketojeni̇k pi̇zza",
+          "kartResmi": "ketojenik_pizza.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/ketojenik_pizza.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "patlıcan salatalı tavuk şiş",
+          "kartResmi": "patlican_salatali_tavuk_sis.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_salatali_tavuk_sis.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "sebzeli ya da ıspanaklı muffin",
+          "kartResmi": "sebzeli_muffin.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sebzeli_muffin.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "sebzeli ya da ıspanaklı muffin",
+          "kartResmi": "ispanakli_muffin.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/ispanakli_muffin.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "yeşil mercimek köftesi",
+          "kartResmi": "yesil_mercimek_koftesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yesil_mercimek_koftesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "köz tadında fasulye salatası",
+          "kartResmi": "koz_tadinda_fasulye_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/koz_tadinda_fasulye_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu kabak mezesi",
+          "kartResmi": "yogurtlu_kabak_mezesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_kabak_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "zeytinyağlı taze fasulye",
+          "kartResmi": "zeytinyagli_taze_fasulye.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/zeytinyagli_taze_fasulye.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tahinli patlıcanlı börek",
+          "kartResmi": "tahinli_patlicanli_borek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tahinli_patlicanli_borek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "kahvaltılık kuru soğanlı cevizli lor kavurması",
+          "kartResmi": "kahvaltilik_kuru_soganli_cevizli_lor_kavurmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kahvaltilik_kuru_soganli_cevizli_lor_kavurmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırında sebzeli peynirli güveç",
+          "kartResmi": "firinda_sebzeli_peynirli_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_sebzeli_peynirli_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        }
+      ],
       "tarifler": [
         "nefi̇se teki̇n / 16-22 kasim 2026",
         "her sabah güne başlarken:",
@@ -3779,28 +3894,107 @@
       ],
       "gptMesaj": "",
       "pdfFile": {},
-      "pdfText": "1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nSusamlı Omlet\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak kuzu kulağı, 1 adet küçük salatalık + limon ve sirke ile)\n3 ince dilim ayva\nAkşam ()\n*Yeşil mercimek salatası\nKabak çekirdeği (1 avuç)\nToz kollajen 1 ölçek\nÖğle ()\nYumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 tatlı kaşığı zeytinyağı\n30 gram beyaz peynir\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal semizotu, 4-5 dal tere, 2 adet küçük yeşil biber\nZeytin (5 adet)\nKarabuğday ekmeği 1 dilim 25 gr\nCeviz (5 adet)\nAkşam ()\nTavuklu Kabak Noodle (Tavuk yerine hindi eti ile yapabilirsiniz)\nÇilekli - limonlu smoothie\nÖğle ()\nTereyağlı Kabak\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nKarabuğday ekmeği 1 dilim 25 gr\nZeytin (5 adet)\nTulum / kaşar peyniri (50 gram)\nÇiğ badem (20 adet)\nAkşam ()\nEt Sote\nHavuçlu Yoğurtlu Semizotu Salatası\nÖğle ()\n*KETOJENİK PİZZA\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 yaprak marul, 4-5 dal tere, 2 adet küçük yeşil biber\nZeytin (5 adet)\nÇiğ badem (10 adet)\nKarabuğday ekmeği 1 dilim 25 gr\nAkşam ()\nPatlıcan salatalı tavuk şiş\nKabak çekirdeği (1 avuç)\nToz kollajen 1 ölçek\nÖğle ()\nSebzeli ya da ıspanaklı muffin\nYeşillikler (4 yaprak marul, 4-5 yaprak kuzu kulağı, 1 adet küçük salatalık, limon ve sirke ile)\nZeytin (10 adet)\nÇiğ badem (10 adet)\n1 adet elma (100 gr) ya da mandalina\nAkşam ()\nYeşil mercimek köftesi\nKöz Tadında Fasulye Salatası\nYoğurtlu Kabak Mezesi\nCUMARTESİ\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nYeşillikler (dereotu, maydanoz, marul, sirke ve limon ile)\nÇiğ badem (20 adet)\nKarabuğday ekmeği 1 dilim 25 gr\nAkşam ()\nZeytinyağlı taze fasulye\nTahinli Patlıcanlı Börek\n"
-    },
-    {
-      "haftaNo": 15,
-      "baslangic": "2026-11-23",
-      "bitis": "2026-11-29",
-      "aciklama": "",
-      "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
-      "tarifKartlar": [],
-      "tarifler": [],
-      "gptMesaj": "Nefise Tekin için 14. hafta beslenme listesi sisteme yüklenmemiş görünüyor (\"Bu hafta için henüz beslenme listesi yüklenmemiş\").\n\nTalimatlar doğrultusunda gerçeğe aykırı/hayali yemek yazılamayacağı, menü içeriğinin başka dönemlerden kopyalanamayacağı ve mesajın güncel listeden 3–5 gerçek yemek ile besin–işlev bağlantılarını içermesi gerektiği için 14. hafta mesajı bu haliyle oluşturulamamaktadır.\n\nHedef haftaya ait beslenme listesini paylaştığınızda mesajınız kurallara uygun şekilde hazırlanacaktır.",
-      "kilitli": false
+      "pdfText": "1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nSusamlı Omlet\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak kuzu kulağı, 1 adet küçük salatalık + limon ve sirke ile)\n3 ince dilim ayva\nAkşam ()\n*Yeşil mercimek salatası\nKabak çekirdeği (1 avuç)\nToz kollajen 1 ölçek\nÖğle ()\nYumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 tatlı kaşığı zeytinyağı\n30 gram beyaz peynir\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal semizotu, 4-5 dal tere, 2 adet küçük yeşil biber\nZeytin (5 adet)\nKarabuğday ekmeği 1 dilim 25 gr\nCeviz (5 adet)\nAkşam ()\nTavuklu Kabak Noodle (Tavuk yerine hindi eti ile yapabilirsiniz)\nÇilekli - limonlu smoothie\nÖğle ()\nTereyağlı Kabak\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nKarabuğday ekmeği 1 dilim 25 gr\nZeytin (5 adet)\nTulum / kaşar peyniri (50 gram)\nÇiğ badem (20 adet)\nAkşam ()\nEt Sote\nHavuçlu Yoğurtlu Semizotu Salatası\nÖğle ()\n*KETOJENİK PİZZA\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 yaprak marul, 4-5 dal tere, 2 adet küçük yeşil biber\nZeytin (5 adet)\nÇiğ badem (10 adet)\nKarabuğday ekmeği 1 dilim 25 gr\nAkşam ()\nPatlıcan salatalı tavuk şiş\nKabak çekirdeği (1 avuç)\nToz kollajen 1 ölçek\nÖğle ()\nSebzeli ya da ıspanaklı muffin\nYeşillikler (4 yaprak marul, 4-5 yaprak kuzu kulağı, 1 adet küçük salatalık, limon ve sirke ile)\nZeytin (10 adet)\nÇiğ badem (10 adet)\n1 adet elma (100 gr) ya da mandalina\nAkşam ()\nYeşil mercimek köftesi\nKöz Tadında Fasulye Salatası\nYoğurtlu Kabak Mezesi\nCUMARTESİ\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar peyniri (30 gram)\nZeytin (5 adet)\nYeşillikler (dereotu, maydanoz, marul, sirke ve limon ile)\nÇiğ badem (20 adet)\nKarabuğday ekmeği 1 dilim 25 gr\nAkşam ()\nZeytinyağlı taze fasulye\nTahinli Patlıcanlı Börek\n",
+      "kilitli": false,
+      "eslesmeyenTarifler": [
+        "nefi̇se teki̇n / 16-22 kasim 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tulum / kaşar peyniri (30 gram)",
+        "zeytin (5 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak kuzu kulağı, 1 adet küçük salatalık + limon ve sirke ile)",
+        "akşam (tercihen hava kararınca)",
+        "kabak çekirdeği (1 avuç)",
+        "toz kollajen 1 ölçek",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yumurta salatası (2 adet haşlanmış yumurta, 5 dal maydanoz, 5 dal dereotu, 1 dilim limon ve 1 tatlı kaşığı zeytinyağı",
+        "beyaz peynir",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal semizotu, 4-5 dal tere, 2 adet küçük yeşil biber",
+        "zeytin (5 adet)",
+        "ceviz (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "zeytin (5 adet)",
+        "tulum / kaşar peyniri (50 gram)",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 yaprak marul, 4-5 dal tere, 2 adet küçük yeşil biber",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "akşam (tercihen hava kararınca)",
+        "kabak çekirdeği (1 avuç)",
+        "toz kollajen 1 ölçek",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak kuzu kulağı, 1 adet küçük salatalık, limon ve sirke ile)",
+        "zeytin (10 adet)",
+        "çiğ badem (10 adet)",
+        "elma (100 gr) ya da mandalina",
+        "akşam (tercihen hava kararınca)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+        "tulum / kaşar peyniri (30 gram)",
+        "zeytin (5 adet)",
+        "yeşillikler (dereotu, maydanoz, marul, sirke ve limon ile)",
+        "çiğ badem (20 adet)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "akşam (tercihen hava kararınca)",
+        "elma veya kivi",
+        "toz kollajen 1 ölçek",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "yeşillikler (4 yaprak marul, 4-5 dal semizotu, 1 adet küçük salatalık+ limon ve sirke ile)",
+        "çiğ badem (20 adet)",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yoğurt ( 2 yemek kaşığı ev yoğurdu)",
+        "turşu (organik, ev yapımı)",
+        "toz kollajen 1 ölçek",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "susamlı omlet",
+        "yeşil mercimek salatası",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "tavuklu kabak noodle (tavuk yerine hindi eti ile yapabilirsiniz)",
+        "çilekli - limonlu smoothie",
+        "tereyağlı kabak",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "et sote",
+        "havuçlu yoğurtlu semizotu salatası",
+        "ketojeni̇k pi̇zza",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "patlıcan salatalı tavuk şiş",
+        "sebzeli ya da ıspanaklı muffin",
+        "yeşil mercimek köftesi",
+        "köz tadında fasulye salatası",
+        "yoğurtlu kabak mezesi",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "zeytinyağlı taze fasulye",
+        "tahinli patlıcanlı börek",
+        "kahvaltılık kuru soğanlı cevizli lor kavurması",
+        "karabuğday ekmeği 1 dilim 25 gr",
+        "fırında sebzeli peynirli güveç"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-08-18T14:18:40.558Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-12T06:06:02.342Z",
+  "sonGuncelleme": "2026-11-12T07:36:08.031Z",
   "githubKaydedildi": true
 }
