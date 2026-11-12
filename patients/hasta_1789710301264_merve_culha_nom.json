@@ -2536,7 +2536,104 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/MERVE ÇULHA NOM 16-22 KASIM 9. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/MERVE ÇULHA NOM 16-22 KASIM 9. HAFTA.pdf",
       "kayitTarihi": "2026-11-10T10:46:59.459Z",
-      "tarifKartlar": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "kaşar peynirli simit poğaça (3 adet için)",
+          "kartResmi": "kasar_peynirli_simit_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kasar_peynirli_simit_pogaca.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yoğurtlu köfte çorbası",
+          "kartResmi": "yogurtlu_kofte_corbasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_kofte_corbasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "elmalı pancar salatası",
+          "kartResmi": "elmali_pancar_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/elmali_pancar_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli karabuğday ekmeği",
+          "kartResmi": "cevizli_karabugday_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_karabugday_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli karabuğday ekmeği",
+          "kartResmi": "karabugday_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/karabugday_ekmegi.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "hurma topları low carb",
+          "kartResmi": "hurma_toplari.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/hurma_toplari.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "glutensiz şehriye pilavı",
+          "kartResmi": "glutensiz_sehriye_pilavi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/glutensiz_sehriye_pilavi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "basmati pirinç pilavı",
+          "kartResmi": "basmati_pirinc_pilavi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/basmati_pirinc_pilavi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "avokadolu omlet",
+          "kartResmi": "avokado_omleti.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/avokado_omleti.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "pazı sarması",
+          "kartResmi": "pazi_sarmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazi_sarmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli köz biber mezesi",
+          "kartResmi": "cevizli_koz_biber_mezesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_koz_biber_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "lorlu gözleme",
+          "kartResmi": "lorlu_gozleme.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lorlu_gozleme.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tatlı patates omleti",
+          "kartResmi": "tatli_patates_omleti.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tatli_patates_omleti.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "köfte / ya da 150gram kuzu kavurma",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "patlıcan yatağında tavuk sote",
+          "kartResmi": "patlican_yataginde_tavuk_sote.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/patlican_yataginde_tavuk_sote.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "yoğurtlu kırmızı pancar salatası",
+          "kartResmi": "yogurtlu_pancar_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_pancar_salatasi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        }
+      ],
       "tarifler": [
         "merve çulha nom / 16-22 kasim 2026",
         "her sabah güne başlarken:",
@@ -2631,28 +2728,118 @@
       ],
       "gptMesaj": "",
       "pdfFile": {},
-      "pdfText": "1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nKaşar Peynirli Simit Poğaça (3 adet için)\nZeytin (10 adet)\nMevsim Yeşillikleri (dereotu, roka, maydanoz, marul vs.sirke, limon ile)\n1 adet elma (100 gr)\nFındık (10 adet)\nAkşam ()\nYoğurtlu Köfte Çorbası\nTavuk sote (100 gr tavuk fleto,1adet orta boy domates,1 adet yeşil biber ,1 yemek kaşığı zeytinyağı)\nElmalı Pancar Salatası\nCevizli Karabuğday Ekmeği\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar / lor peyniri (50 gram)\nYeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ile)\nZeytin (5 adet)\nCevizli Karabuğday Ekmeği\nHurma topları low carb\nAkşam ()\nYoğurtlu Köfte Çorbası\n100 gram ızgara ya da sote et\nGlutensiz Şehriye Pilavı\n2 yemek kaşığı ev yoğurdu\nCevizli Karabuğday Ekmeği\nÖğle ()\nHaşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar\nTulum / kaşar / lor peyniri (30 gram)\nYeşillikler (dereotu, roka, maydanoz, marul, sirke ve limon+1 tatlı kaşığı zeytinyağı ile)\nCevizli Karabuğday Ekmeği\nFındık (10 adet)\n1 adet elma (100 gr) ya da 3 ince dilim ayva\nAkşam ()\n200 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)\nBasmati Pirinç Pilavı\n2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı\nÖğle ()\nAvokadolu omlet\nZeytin (5 adet)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nCevizli Karabuğday Ekmeği\nAkşam ()\nPazı Sarması\nCevizli Köz Biber Mezesi\nCevizli Karabuğday Ekmeği\nHurma topları low carb\nÖğle ()\nLorlu Gözleme\nTulum / kaşar peyniri (30 gram)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nCevizli Karabuğday Ekmeği\nAkşam ()\n150 gr. Tavuk pirzola\nMevsim salata (marul, dereotu, roka, kırmızı lahana, yarım turp, yarım kırmızı pancar +1 yemek kaşığı zeytinyağı)\nCevizli Karabuğday Ekmeği\nKabak çekirdeği "
-    },
-    {
-      "haftaNo": 10,
-      "baslangic": "2026-11-23",
-      "bitis": "2026-11-29",
-      "aciklama": "--- 2026-11-06 ---\nMerve Çulha Nom Avusturya Lipödem Danışmanlık+yp: Cok tesekkür ederim\n",
-      "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
-      "tarifKartlar": [],
-      "tarifler": [],
-      "gptMesaj": "Merhaba Merve Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda onuncu haftaya başlıyoruz.\n\nKetojenik dönemde sağladığımız hücresel sakinliği ve dokulardaki ödem azalmasını korurken, metabolizmamızı hem daha esnek hem de uzun vadede sürdürülebilir bir ritme taşımak adına düşük karbonhidratlı beslenme fazına adım atıyoruz. Ketozis sürecinin dokulardaki derin inflamasyonu yatıştırmadaki gücünden faydalandıktan sonra, vücudun enerji dengesini korumak ve sosyal yaşama uyumu güçlendirmek için kontrollü bir çeşitliliğe alan açıyoruz. Bu dönemde temel hedefimiz, insülin yanıtını düşük seviyede tutmaya devam ederken dokulara daha geniş bir besin yelpazesi sunabilmektir.\n\nSizin için hazırladığımız listede yer verdiğimiz karabuğday unlu tarifler, içerdiği dirençli lifler ve rutin bileşeni sayesinde kan şekeri eğrisini düz tutarken kılcal damar duvarlarının dayanıklılığını artırır ve lenfatik dolaşımı korur. Öğünlerinize eklediğimiz taze yeşillikler eşliğindeki zeytinyağlı yeşil mercimek gibi kontrollü baklagil tabakları, bağırsak mikrobiyotasında kısa zincirli yağ asitlerinin üretimini tetikleyerek bağ doku bariyerini güçlendirir ve hücresel sıvı dengesini destekler. Menünüze ara ara dahil ettiğimiz az miktardaki böğürtlen veya yaban mersini gibi düşük glisemik indeksli meyveler ise zengin polifenol profilleriyle damar endotelini serbest radikallerden korur.\n\nBu geçişle birlikte daha önce deneyimlediğiniz dönemlere bir yenisini ekleyerek ileride de güvenle kullanabileceğiniz dengeli bir beslenme arşivi oluşturuyoruz. Yeni tabakları tüketirken gün içindeki tokluk sürenizi, yemek sonrası sindirim rahatlığınızı ve bacaklarınızdaki doku yumuşaklığının seyrini gözlemlemenizi öneririm. Ayrıca katettiğimiz mesafeyi ve dokulardaki toparlanmayı takip edebilmemiz adına bu hafta sonu sabah aç karnına bel, kalça ve bacak çevresi ölçümlerinizi alıp bizimle paylaşmanızı rica edeceğim.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
-      "kilitli": false
+      "pdfText": "1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nKaşar Peynirli Simit Poğaça (3 adet için)\nZeytin (10 adet)\nMevsim Yeşillikleri (dereotu, roka, maydanoz, marul vs.sirke, limon ile)\n1 adet elma (100 gr)\nFındık (10 adet)\nAkşam ()\nYoğurtlu Köfte Çorbası\nTavuk sote (100 gr tavuk fleto,1adet orta boy domates,1 adet yeşil biber ,1 yemek kaşığı zeytinyağı)\nElmalı Pancar Salatası\nCevizli Karabuğday Ekmeği\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\nTulum / kaşar / lor peyniri (50 gram)\nYeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ile)\nZeytin (5 adet)\nCevizli Karabuğday Ekmeği\nHurma topları low carb\nAkşam ()\nYoğurtlu Köfte Çorbası\n100 gram ızgara ya da sote et\nGlutensiz Şehriye Pilavı\n2 yemek kaşığı ev yoğurdu\nCevizli Karabuğday Ekmeği\nÖğle ()\nHaşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar\nTulum / kaşar / lor peyniri (30 gram)\nYeşillikler (dereotu, roka, maydanoz, marul, sirke ve limon+1 tatlı kaşığı zeytinyağı ile)\nCevizli Karabuğday Ekmeği\nFındık (10 adet)\n1 adet elma (100 gr) ya da 3 ince dilim ayva\nAkşam ()\n200 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)\nBasmati Pirinç Pilavı\n2 avuç yeşil salata + bir tatlı kaşığı zeytin yağı\nÖğle ()\nAvokadolu omlet\nZeytin (5 adet)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nCevizli Karabuğday Ekmeği\nAkşam ()\nPazı Sarması\nCevizli Köz Biber Mezesi\nCevizli Karabuğday Ekmeği\nHurma topları low carb\nÖğle ()\nLorlu Gözleme\nTulum / kaşar peyniri (30 gram)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nCevizli Karabuğday Ekmeği\nAkşam ()\n150 gr. Tavuk pirzola\nMevsim salata (marul, dereotu, roka, kırmızı lahana, yarım turp, yarım kırmızı pancar +1 yemek kaşığı zeytinyağı)\nCevizli Karabuğday Ekmeği\nKabak çekirdeği ",
+      "kilitli": false,
+      "eslesmeyenTarifler": [
+        "merve çulha nom / 16-22 kasim 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "zeytin (10 adet)",
+        "mevsim yeşillikleri (dereotu, roka, maydanoz, marul vs.sirke, limon ile)",
+        "elma (100 gr)",
+        "fındık (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "tavuk sote (100 gr tavuk fleto,1adet orta boy domates,1 adet yeşil biber ,1 yemek kaşığı zeytinyağı)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+        "tulum / kaşar / lor peyniri (50 gram)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ile)",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yoğurtlu köfte çorbası",
+        "ızgara ya da sote et",
+        "ev yoğurdu",
+        "cevizli karabuğday ekmeği",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "tulum / kaşar / lor peyniri (30 gram)",
+        "yeşillikler (dereotu, roka, maydanoz, marul, sirke ve limon+1 tatlı kaşığı zeytinyağı ile)",
+        "cevizli karabuğday ekmeği",
+        "fındık (10 adet)",
+        "elma (100 gr) ya da 3 ince dilim ayva",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "cevizli karabuğday ekmeği",
+        "akşam (tercihen hava kararınca)",
+        "cevizli karabuğday ekmeği",
+        "hurma topları low carb",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tulum / kaşar peyniri (30 gram)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "cevizli karabuğday ekmeği",
+        "akşam (tercihen hava kararınca)",
+        "tavuk pirzola",
+        "mevsim salata (marul, dereotu, roka, kırmızı lahana, yarım turp, yarım kırmızı pancar +1 yemek kaşığı zeytinyağı)",
+        "cevizli karabuğday ekmeği",
+        "kabak çekirdeği (1 avuç)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yeşillikler (dereotu, roka, maydanoz,marul, vs sirke ve limon ile)",
+        "cherry domates (2 adet)",
+        "cevizli karabuğday ekmeği",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
+        "cevizli karabuğday ekmeği",
+        "pazar",
+        "sahanda yumurta (2 yumurta, 1 tatlı kaşığı tereyağ)",
+        "tulum peyniri veya kaşar peyniri (30 gram)",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber",
+        "zeytin (5 adet)",
+        "cevizli karabuğday ekmeği",
+        "çiğ badem (20 adet)",
+        "akşam (tercihen hava kararınca)",
+        "cevizli karabuğday ekmeği",
+        "turşu (organik, ev yapımı)",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "kaşar peynirli simit poğaça (3 adet için)",
+        "yoğurtlu köfte çorbası",
+        "elmalı pancar salatası",
+        "cevizli karabuğday ekmeği",
+        "cevizli karabuğday ekmeği",
+        "hurma topları low carb",
+        "yoğurtlu köfte çorbası",
+        "glutensiz şehriye pilavı",
+        "cevizli karabuğday ekmeği",
+        "cevizli karabuğday ekmeği",
+        "basmati pirinç pilavı",
+        "avokadolu omlet",
+        "cevizli karabuğday ekmeği",
+        "pazı sarması",
+        "cevizli köz biber mezesi",
+        "cevizli karabuğday ekmeği",
+        "hurma topları low carb",
+        "lorlu gözleme",
+        "cevizli karabuğday ekmeği",
+        "cevizli karabuğday ekmeği",
+        "tatlı patates omleti",
+        "cevizli karabuğday ekmeği",
+        "köfte / ya da 150gram kuzu kavurma",
+        "cevizli karabuğday ekmeği",
+        "cevizli karabuğday ekmeği",
+        "patlıcan yatağında tavuk sote",
+        "yoğurtlu kırmızı pancar salatası",
+        "cevizli karabuğday ekmeği"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-09-18T05:45:01.264Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-12T05:59:22.383Z",
+  "sonGuncelleme": "2026-11-12T07:00:05.627Z",
   "githubKaydedildi": true
 }
