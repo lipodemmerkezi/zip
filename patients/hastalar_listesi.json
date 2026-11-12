@@ -161,13 +161,6 @@
     "sonGuncelleme": "2026-09-10T16:18:46.125Z"
   },
   {
-    "id": 1786461381387,
-    "isim": "SELVİNAZ MARDİN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-11-12T07:35:47.777Z"
-  },
-  {
     "id": 1792831030198,
     "isim": "SENEM SARIKAYA",
     "not": "",
@@ -1254,6 +1247,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-06-01T05:42:23.214Z"
+  },
+  {
+    "id": 1786461381387,
+    "isim": "SELVİNAZ MARDİN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-11-12T07:35:56.373Z"
   },
   {
     "id": 1771666827630,
