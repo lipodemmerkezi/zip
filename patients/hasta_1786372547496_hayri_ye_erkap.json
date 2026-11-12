@@ -2,7 +2,7 @@
   "id": 1786372547496,
   "isim": "HAYRİYE ERKAP",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -4186,6 +4186,6 @@
   ],
   "olusturmaTarihi": "2026-08-10T14:35:47.496Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-12T07:35:07.199Z",
+  "sonGuncelleme": "2026-11-12T07:35:20.687Z",
   "githubKaydedildi": true
 }
