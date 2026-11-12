@@ -1,11 +1,29 @@
 {
-  "id": 1793024722154,
-  "isim": "BETÜL MERT",
-  "not": "",
-  "arsiv": false,
-  "haftalar": [],
-  "olusturmaTarihi": "2026-10-26T14:25:22.154Z",
-  "yeniSistem": true,
-  "sonGuncelleme": "2026-10-26T14:25:22.154Z",
-  "githubKaydedildi": true
+    "id": 1793024722154,
+    "isim": "BETÜL MERT",
+    "not": "",
+    "arsiv": false,
+    "haftalar": [
+        {
+            "haftaNo": 1,
+            "baslangic": "2026-11-09",
+            "bitis": "2026-11-15",
+            "aciklama": "--- 2026-11-06 ---\nMustafa: Merhaba Betül Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda ikinci haftaya başlıyoruz.\n\n\n--- 2026-11-09 ---\nBetül Mert Kastamonu Lipödem Danışmanlık+yp: 2 kare bitter çikolata yerine bir tane kuru incir yiyebilir miyim\nMustafa: Merhaba Betül hanım, orman meyveleri tercih edelim. Kuru incirin fruktoz oranı ve glisemik endeksi yüksek olduğu için çok önermeyiz\nBetül Mert Kastamonu Lipödem Danışmanlık+yp: Merhabalar kolay gelsin\nBetül Mert Kastamonu Lipödem Danışmanlık+yp: Tamamdır teşekkür ediyorum\n",
+            "pdf": null,
+            "pdfName": null,
+            "pdfOrijinalIsim": null,
+            "pdfYolu": null,
+            "githubUrl": null,
+            "indirmeUrl": null,
+            "kayitTarihi": null,
+            "tarifKartlar": [],
+            "tarifler": [],
+            "gptMesaj": "",
+            "kilitli": false
+        }
+    ],
+    "olusturmaTarihi": "2026-10-26T14:25:22.154Z",
+    "yeniSistem": true,
+    "sonGuncelleme": "2026-10-26T14:25:22.154Z",
+    "githubKaydedildi": true
 }
