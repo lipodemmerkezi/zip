@@ -6,24 +6,27 @@
   "haftalar": [
     {
       "haftaNo": 1,
-      "baslangic": "2026-11-15",
-      "bitis": "2026-11-21",
+      "baslangic": "2026-11-18",
+      "bitis": "2026-11-22",
       "aciklama": "",
       "pdf": null,
-      "pdfName": null,
-      "pdfOrijinalIsim": null,
-      "pdfYolu": null,
-      "githubUrl": null,
-      "indirmeUrl": null,
-      "kayitTarihi": null,
+      "pdfName": "HÜLYA HESAPÇIOĞLU 18-22 KASIM 1. HAFTA.pdf",
+      "pdfOrijinalIsim": "HÜLYA HESAPÇIOĞLU 18-22 KASIM 1. HAFTA.pdf",
+      "pdfYolu": "pdfs/HÜLYA HESAPÇIOĞLU 18-22 KASIM 1. HAFTA.pdf",
+      "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/HÜLYA HESAPÇIOĞLU 18-22 KASIM 1. HAFTA.pdf",
+      "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/HÜLYA HESAPÇIOĞLU 18-22 KASIM 1. HAFTA.pdf",
+      "kayitTarihi": "2026-11-16T14:32:18.608Z",
       "tarifKartlar": [],
       "tarifler": [],
       "gptMesaj": "",
-      "kilitli": false
+      "kilitli": false,
+      "ozelTabFormat": false,
+      "pdfFile": {},
+      "manuelKartlar": []
     }
   ],
   "olusturmaTarihi": "2026-11-16T14:30:43.728Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-16T14:32:06.530Z",
+  "sonGuncelleme": "2026-11-16T14:32:18.609Z",
   "githubKaydedildi": true
 }
