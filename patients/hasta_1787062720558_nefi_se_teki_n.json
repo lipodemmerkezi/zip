@@ -2,7 +2,7 @@
   "id": 1787062720558,
   "isim": "NEFİSE TEKİN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3996,6 +3996,6 @@
   ],
   "olusturmaTarihi": "2026-08-18T14:18:40.558Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-12T07:36:41.776Z",
+  "sonGuncelleme": "2026-11-18T07:36:31.457Z",
   "githubKaydedildi": true
 }
