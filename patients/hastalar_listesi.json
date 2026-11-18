@@ -140,13 +140,6 @@
     "sonGuncelleme": "2026-11-12T07:06:54.994Z"
   },
   {
-    "id": 1787062720558,
-    "isim": "NEFİSE TEKİN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-11-12T07:36:44.685Z"
-  },
-  {
     "id": 1791993632738,
     "isim": "NESRİN GÜLŞAH",
     "not": "",
@@ -1051,6 +1044,13 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-06-19T07:09:45.952Z"
+  },
+  {
+    "id": 1787062720558,
+    "isim": "NEFİSE TEKİN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-11-18T07:36:35.347Z"
   },
   {
     "id": 1754749185310,
