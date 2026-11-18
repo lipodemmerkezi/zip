@@ -2,7 +2,7 @@
   "id": 1787232660220,
   "isim": "HALİME TARHAN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3862,6 +3862,6 @@
   ],
   "olusturmaTarihi": "2026-08-20T13:31:00.220Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-12T07:34:24.559Z",
+  "sonGuncelleme": "2026-11-18T07:36:20.499Z",
   "githubKaydedildi": true
 }
