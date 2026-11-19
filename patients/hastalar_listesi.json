@@ -1541,5 +1541,11 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
+  },
+  {
+    "id": "ulku_hesapcioglu",
+    "isim": "ÜLKÜ HESAPÇIOĞLU",
+    "kayitTarihi": "2026-11-19T06:01:45.771Z",
+    "durumu": "aktif"
   }
 ]
