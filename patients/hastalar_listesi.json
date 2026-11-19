@@ -112,13 +112,6 @@
     "sonGuncelleme": "2026-11-19T06:19:38.440Z"
   },
   {
-    "id": 1794839443728,
-    "isim": "HÜLYA HESAPÇIOĞLU",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-11-19T06:08:43.509Z"
-  },
-  {
     "id": 1794296203049,
     "isim": "İPEK ÖZCAN",
     "not": "",
@@ -173,6 +166,13 @@
     "not": "",
     "arsiv": false,
     "sonGuncelleme": "2026-11-19T06:13:03.868Z"
+  },
+  {
+    "id": 1794839443728,
+    "isim": "ÜLKÜ HESAPÇIOĞLU",
+    "not": "SAFRA KESESİ AMELİYATLI VE KAN SULANDIRICI KULLANIYOR. CURCUMİNOL VERMEYECEĞİZ.",
+    "arsiv": false,
+    "sonGuncelleme": "2026-11-19T06:22:50.602Z"
   },
   {
     "id": 1790936028389,
