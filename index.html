@@ -10545,9 +10545,9 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
               <!-- Açıklama Bölümü -->
               <div style="padding: 15px; background: #d1ecf1; border-radius: 8px; border-left: 4px solid #17a2b8;" class="${hafta.kilitli ? 'locked-area' : ''}">
-                <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px;">
+                <div onclick="toggleTextareaExpand('aciklama_${i}', this)" title="Metin kadar genişletmek / eski haline döndürmek için tıklayın" style="display: flex; align-items: center; gap: 8px; margin-bottom: 10px; cursor: pointer; user-select: none;">
                   <div style="background: #17a2b8; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 14px;">📝</div>
-                  <h4 style="margin: 0; color: #0c5460; font-size: 14px;">Açıklama</h4>
+                  <h4 style="margin: 0; color: #0c5460; font-size: 14px; display: inline-flex; align-items: center; gap: 6px;">Açıklama <span class="ta-expand-arrow" style="font-size: 11px; opacity: 0.65;">▾</span></h4>
                 </div>
                 <textarea id="aciklama_${i}" 
                           style="width: 100%; height: 70px; padding: 8px; border: 1px solid #bee5eb; border-radius: 6px; font-size: 12px; resize: vertical; background: #f8fdff;"
@@ -10618,6 +10618,10 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                   <label style="display: flex; align-items: center; gap: 6px; font-size: 11px; cursor: pointer; padding: 6px; border-radius: 4px; background: white; border: 1px solid #dee2e6;">
                     <input type="checkbox" id="ekPrompt_${i}" checked>
                     <span>📝 Ek Not</span>
+                  </label>
+                  <label style="display: flex; align-items: center; gap: 6px; font-size: 11px; cursor: pointer; padding: 6px; border-radius: 4px; background: #e8f7fa; border: 1px solid #17a2b8;">
+                    <input type="checkbox" id="aciklamaPrompt_${i}" checked>
+                    <span>💬 Açıklamalar</span>
                   </label>
                 </div>
                 
@@ -10697,7 +10701,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
               <!-- Ek Bilgiler -->
               <div style="margin-bottom: 15px;">
-                <label style="display: block; margin-bottom: 6px; font-weight: bold; color: #007bff; font-size: 12px;">📝 Ek Bilgiler:</label>
+                <label onclick="toggleTextareaExpand('ekNotlar_${i}', this)" title="Metin kadar genişletmek / eski haline döndürmek için tıklayın" style="display: inline-flex; align-items: center; gap: 5px; margin-bottom: 6px; font-weight: bold; color: #007bff; font-size: 12px; cursor: pointer; user-select: none;">📝 Ek Bilgiler: <span class="ta-expand-arrow" style="font-size: 11px; opacity: 0.65;">▾</span></label>
                 <textarea id="ekNotlar_${i}" 
                           style="width: 100%; height: 60px; padding: 8px; border: 1px solid #b8daff; border-radius: 6px; font-size: 12px; resize: vertical; background: #f8fbff;"
                           placeholder="Ek bilgiler, hastanın durumu..."
@@ -10707,7 +10711,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
               <!-- GPT Sonuç -->
               <div style="margin-bottom: 15px;">
-                <label style="display: block; margin-bottom: 6px; font-weight: bold; color: #007bff; font-size: 12px;">🎯 Haftalık Analiz:</label>
+                <label onclick="toggleTextareaExpand('gptMesaj_${i}', this)" title="Metin kadar genişletmek / eski haline döndürmek için tıklayın" style="display: inline-flex; align-items: center; gap: 5px; margin-bottom: 6px; font-weight: bold; color: #007bff; font-size: 12px; cursor: pointer; user-select: none;">🎯 Haftalık Analiz: <span class="ta-expand-arrow" style="font-size: 11px; opacity: 0.65;">▾</span></label>
                 <textarea id="gptMesaj_${i}" 
                           style="width: 100%; height: 100px; padding: 10px; border: 1px solid #b8daff; border-radius: 6px; font-size: 12px; resize: vertical; background: #ffffff; line-height: 1.4;"
                           placeholder="GPT analiz sonucu burada görünecek..."
@@ -10717,7 +10721,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
                 <!-- Revizyon Promptu -->
                 <div style="margin-top: 12px;">
-                  <label style="display: block; margin-bottom: 6px; font-weight: bold; color: #6f42c1; font-size: 12px;">🔁 Revizyon / Prompt</label>
+                  <label onclick="toggleTextareaExpand('gptRevizePrompt_${i}', this)" title="Metin kadar genişletmek / eski haline döndürmek için tıklayın" style="display: inline-flex; align-items: center; gap: 5px; margin-bottom: 6px; font-weight: bold; color: #6f42c1; font-size: 12px; cursor: pointer; user-select: none;">🔁 Revizyon / Prompt <span class="ta-expand-arrow" style="font-size: 11px; opacity: 0.65;">▾</span></label>
                   <textarea id="gptRevizePrompt_${i}" rows="3" style="width: 100%; padding: 10px; border: 1px solid #d6d8db; border-radius: 6px; font-family: Arial, sans-serif; font-size: 12px;" placeholder="Örn: 2. paragrafı daha net yaz. Tınıyı daha samimi yap. Maddeleri 5’e düşür. Gereksiz tekrarları kaldır." ${hafta.kilitli ? 'disabled' : ''}></textarea>
                   <div style="margin-top: 8px; display: flex; gap: 8px; align-items: center;">
                     <button onclick="gptAnalizRevizeEt(${i})" style="background: #6f42c1; color: white; border: none; padding: 8px 12px; border-radius: 4px; font-size: 11px; cursor: pointer;" ${hafta.kilitli ? 'disabled' : ''}>🔁 Revize Et</button>
@@ -10727,7 +10731,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
 
               <!-- Haftalık Analiz Kaydı -->
               <div>
-                <label style="display: block; margin-bottom: 6px; font-weight: bold; color: #dc3545; font-size: 12px;">💬 Haftalık Analiz Kaydı</label>
+                <label onclick="toggleTextareaExpand('gptMesajSync_${i}', this)" title="Metin kadar genişletmek / eski haline döndürmek için tıklayın" style="display: inline-flex; align-items: center; gap: 5px; margin-bottom: 6px; font-weight: bold; color: #dc3545; font-size: 12px; cursor: pointer; user-select: none;">💬 Haftalık Analiz Kaydı <span class="ta-expand-arrow" style="font-size: 11px; opacity: 0.65;">▾</span></label>
                 <textarea id="gptMesajSync_${i}" 
                           style="width: 100%; height: 80px; padding: 10px; border: 1px solid #f5c6cb; border-radius: 6px; font-size: 12px; resize: vertical; background: #fef5f5; line-height: 1.4;"
                           placeholder="Haftalık analiz kaydı veya not..."
@@ -10899,15 +10903,7 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                 content.classList.toggle('active', index === activeIndex);
             });
 
-            // Tab açıldığında default template mesajını set et
-            setTimeout(() => {
-                const ekNotlarTextarea = document.getElementById(`ekNotlar_${activeIndex}`);
-                if (ekNotlarTextarea && !ekNotlarTextarea.value.trim()) {
-                    if (typeof olusturEkBilgilerTemplatesu === 'function') {
-                        ekNotlarTextarea.value = olusturEkBilgilerTemplatesu(activeIndex);
-                    }
-                }
-            }, 100);
+            // Eski otomatik şablon ekNotlar alanını yapay metinle kirlettiği için otomatik doldurma devre dışı bırakıldı.
 
             // Sidebar'ları güncelle (eğer fonksiyon yüklenmişse)
             if (typeof haftaTabSecildiginde === 'function') {
@@ -10920,6 +10916,43 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
         // Tab değiştirme fonksiyonunu global yap
         window.switchTab = switchTab;
         window.olusturEkBilgilerTemplatesu = olusturEkBilgilerTemplatesu;
+
+        // Metin kutusu başlığına tıklayınca metin kadar genişlet / tekrar tıklayınca varsayılan boyuta döndür
+        function toggleTextareaExpand(textareaId, triggerEl) {
+            const ta = document.getElementById(textareaId);
+            if (!ta) return;
+
+            const arrow = triggerEl ? triggerEl.querySelector('.ta-expand-arrow') : null;
+            const isExpanded = ta.dataset.expanded === 'true';
+
+            if (!isExpanded) {
+                if (ta.dataset.defaultHeight === undefined) {
+                    ta.dataset.defaultHeight = ta.style.height || '';
+                    ta.dataset.defaultOverflow = ta.style.overflowY || '';
+                    ta.dataset.defaultMinPx = String(ta.offsetHeight || 70);
+                }
+                const fitHeight = () => {
+                    if (ta.dataset.expanded !== 'true') return;
+                    const minPx = parseInt(ta.dataset.defaultMinPx, 10) || 70;
+                    ta.style.height = 'auto';
+                    ta.style.height = Math.max(ta.scrollHeight + 12, minPx) + 'px';
+                    ta.style.overflowY = 'hidden';
+                };
+                ta.dataset.expanded = 'true';
+                fitHeight();
+                if (!ta.dataset.autoExpandBound) {
+                    ta.addEventListener('input', fitHeight);
+                    ta.dataset.autoExpandBound = 'true';
+                }
+                if (arrow) arrow.textContent = '▴';
+            } else {
+                ta.dataset.expanded = 'false';
+                ta.style.height = ta.dataset.defaultHeight || '';
+                ta.style.overflowY = ta.dataset.defaultOverflow || '';
+                if (arrow) arrow.textContent = '▾';
+            }
+        }
+        window.toggleTextareaExpand = toggleTextareaExpand;
 
         // Hafta açıklama kaydet (otomatik)
         function aciklamaKaydet(i) {
@@ -14441,25 +14474,14 @@ Kullanıcı 13+ hafta olan hastaları manuel olarak arşivler.
                 syncTextarea.value = gptMesaj;
             }
 
-            // Manuel kayıtta ** işaretlerini temizle
-            if (kaynak === 'manuel') {
-                // Log original message
-                console.log('📝 Orijinal mesaj:', gptMesaj);
-
-                // Remove ALL double asterisks globally
-                gptMesaj = gptMesaj.replace(/\*\*/g, '');
-
-                // Log cleaned message
-                console.log('🧹 Temizlenmiş mesaj:', gptMesaj);
-
-                // Temizlenmiş hali textarea'lara geri yansıt - update both explicitly
-                if (anaTextarea) {
-                    anaTextarea.value = gptMesaj;
-                    // Trigger change event if needed, but value set is enough for visual update
-                }
-                if (syncTextarea) {
-                    syncTextarea.value = gptMesaj;
-                }
+            // **, *** ve backtick işaretlerini otomatik " işaretine dönüştür
+            const temizGptMesaj = (typeof sanitizeAiMessageFormatting === 'function')
+                ? sanitizeAiMessageFormatting(gptMesaj)
+                : gptMesaj.replace(/\*{2,}/g, '"');
+            if (temizGptMesaj !== gptMesaj) {
+                gptMesaj = temizGptMesaj;
+                if (anaTextarea) anaTextarea.value = gptMesaj;
+                if (syncTextarea) syncTextarea.value = gptMesaj;
             }
 
             hafta.gptMesaj = gptMesaj;
@@ -19963,7 +19985,7 @@ console.log(`  PDF URL: ${pdfUrl}`);
                           <div style="display: flex; align-items: center; gap: 8px;">
                               <span>🎨</span> Genel Prompt Şablonları
                           </div>
-                          <button onclick="window.yukleV45Paketi()" style="padding: 6px 15px; background: #d9534f; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 13px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">🚀 v4.5 Klinik Kuralları Yükle</button>
+                          <button onclick="window.yukleV45Paketi()" style="padding: 6px 15px; background: #d9534f; color: white; border: none; border-radius: 4px; cursor: pointer; font-size: 13px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">🚀 v4.7 Klinik Kuralları Yükle</button>
                       </h3>
 
                     <!-- Yeni Şablon Ekleme Formu -->
@@ -20455,9 +20477,10 @@ console.log(`  PDF URL: ${pdfUrl}`);
 
                 console.log('Promptlar yükleniyor:', { owner, repo, branch, hasToken: !!token });
 
+                const cacheTs = Date.now();
                 // Genel promptları yükle
                 try {
-                    const genelResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/promptlar/genel_promptlar.json?ref=${branch}`, {
+                    const genelResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/promptlar/genel_promptlar.json?ref=${branch}&t=${cacheTs}`, {
                         headers: token ? {
                             'Authorization': `token ${token}`,
                             'Accept': 'application/vnd.github.v3+json'
@@ -20483,10 +20506,13 @@ console.log(`  PDF URL: ${pdfUrl}`);
 
                         // Eğer içerik tekrar JSON string ise bir kez daha parse et
                         const finalGenelObj = typeof genelObj === 'string' ? JSON.parse(genelObj) : genelObj;
+                        const genelList = Array.isArray(finalGenelObj)
+                            ? finalGenelObj
+                            : (Array.isArray(finalGenelObj?.promptlar) ? finalGenelObj.promptlar : null);
 
-                        if (finalGenelObj.promptlar && Array.isArray(finalGenelObj.promptlar)) {
-                            localStorage.setItem(GENEL_PROMPTLAR_KEY, JSON.stringify(finalGenelObj.promptlar));
-                            console.log('✅ Genel promptlar GitHub\'dan yüklendi:', finalGenelObj.promptlar.length, 'adet');
+                        if (genelList) {
+                            localStorage.setItem(GENEL_PROMPTLAR_KEY, JSON.stringify(genelList));
+                            console.log('✅ Genel promptlar GitHub\'dan yüklendi:', genelList.length, 'adet');
                         }
 
                         // Özel prompt'ları (Giriş ve Sonuç) da yükle
@@ -20516,9 +20542,9 @@ console.log(`  PDF URL: ${pdfUrl}`);
                     console.warn('Genel promptlar yüklenemedi:', err);
                 }
 
-                // Haftalık promptları yükle
+                // Haftalık promptları yükle (hem dizi [...] hem { promptlar: [...] } formatını destekler)
                 try {
-                    const haftalikResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/promptlar/haftalik_promptlar.json?ref=${branch}`, {
+                    const haftalikResponse = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/promptlar/haftalik_promptlar.json?ref=${branch}&t=${cacheTs}`, {
                         headers: token ? {
                             'Authorization': `token ${token}`,
                             'Accept': 'application/vnd.github.v3+json'
@@ -20537,10 +20563,13 @@ console.log(`  PDF URL: ${pdfUrl}`);
 
                         // Eğer içerik tekrar JSON string ise bir kez daha parse et
                         const finalHaftalikObj = typeof haftalikObj === 'string' ? JSON.parse(haftalikObj) : haftalikObj;
+                        const haftalikList = Array.isArray(finalHaftalikObj)
+                            ? finalHaftalikObj
+                            : (Array.isArray(finalHaftalikObj?.promptlar) ? finalHaftalikObj.promptlar : null);
 
-                        if (finalHaftalikObj.promptlar && Array.isArray(finalHaftalikObj.promptlar)) {
-                            localStorage.setItem(HAFTALIK_PROMPTLAR_KEY, JSON.stringify(finalHaftalikObj.promptlar));
-                            console.log('✅ Haftalık promptlar GitHub\'dan yüklendi:', finalHaftalikObj.promptlar.length, 'adet');
+                        if (haftalikList) {
+                            localStorage.setItem(HAFTALIK_PROMPTLAR_KEY, JSON.stringify(haftalikList));
+                            console.log('✅ Haftalık promptlar GitHub\'dan yüklendi:', haftalikList.length, 'adet');
                         }
                     }
                 } catch (err) {
@@ -20887,12 +20916,13 @@ console.log(`  PDF URL: ${pdfUrl}`);
                 const githubSettings = JSON.parse(localStorage.getItem('githubSettings') || '{}');
                 const owner = githubSettings.owner || 'lipodemmerkezi';
                 const repo = githubSettings.repo || 'zip';
+                const branch = githubSettings.branch || 'main';
                 const fileName = tip === 'genel' ? 'genel_promptlar.json' : 'haftalik_promptlar.json';
                 const filePath = `promptlar/${fileName}`;
 
                 // Mevcut dosyanın SHA'sını al
                 const getFileResponse = await fetch(
-                    `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}`,
+                    `https://api.github.com/repos/${owner}/${repo}/contents/${filePath}?ref=${branch}&t=${Date.now()}`,
                     {
                         headers: {
                             'Authorization': `token ${token}`,
@@ -20935,7 +20965,8 @@ console.log(`  PDF URL: ${pdfUrl}`);
                         body: JSON.stringify({
                             message: `Prompt güncellendi: ${baslik}`,
                             content: base64Content,
-                            sha: sha
+                            sha: sha,
+                            branch: branch
                         })
                     }
                 );
@@ -21774,6 +21805,66 @@ Style Requirements:
             return [];
         }
 
+        function sanitizeAiMessageFormatting(text) {
+            if (!text || typeof text !== 'string') return text || '';
+            let out = text;
+            // Üçlü ve çift yıldızları ("...") çift tırnağa dönüştür
+            out = out.replace(/\*\*\*([^\*\n]+?)\*\*\*/g, '"$1"');
+            out = out.replace(/\*\*([^\*\n]+?)\*\*/g, '"$1"');
+            // Eşleşmemiş kalan ** veya *** işaretlerini de " işaretine çevir
+            out = out.replace(/\*{2,}/g, '"');
+            // Tekil backtick markdown vurgularını da düz çift tırnağa çevir
+            out = out.replace(/`([^`\n]+?)`/g, '"$1"');
+            return out;
+        }
+
+        function getNaturalDoctorSystemInstruction() {
+            return [
+                'Sen Prof. Dr. Mustafa Saçar\'sın ve hastana doğrudan kendi ağzından WhatsApp haftalık mesajı yazıyorsun.',
+                '1. ÜSLUP KOPYALAMASINI REDDET: Promptta sana verilen "Önceki Haftaların GPT Analizleri" içindeki resmî/kitabî kalıpları ("Bu hafta sizden ricam...", "paylaşabilirseniz çok sevinirim", "çok değerli / çok kıymetli", "bu uzun yolculukta", "kendinizi mahrum hissetmeden", "hücre zarları", "beyindeki ödül merkezi", "doğal detoks", yemek adlarını sürekli tırnağa alma) ASLA taklit etme. Onlar sadece önceki konuları tekrar etmemen için arşivdir.',
+                '2. SADE VE İNSANİ HEKİM DİLİ: Selamlamadan sonra boş yaşam koçu girişi ("Bu on üç hafta boyunca önemli adımlar attık / kendinize iyi baktınız" gibi) yapmadan doğrudan bu haftanın somut menü düzenine gir. Ders kitabı mekanizması veya tekdüze cümle kalıpları kurma; 2 kısa, nefes alan menü paragrafıyla anlat. Her Türkçe cümle tam yüklemle bitsin; çeviri Türkçesi ("Benim için ... duymak önemli") kurma.',
+                '3. DÜZ METİN VE DOĞRU BESİN KATEGORİSİ: Yemek adlarını tırnaksız küçük harf yaz (örn. etli kereviz yemeği, nohut ekmeği), PDF\'teki "/" işaretini kopyalama ("urfa / adana kebap" değil "urfa ya da adana kebap"); ** / *** / ` yasak. Tuzlu hamur işlerini (poğaça, börek, ekmek) ASLA tatlı isteği veya tatlı seçeneği gibi anlatma.',
+                '4. İÇ BİLGİ HASTAYA SIZMAZ: Promptlardaki iç karar ve iç terimleri ("ölçüm istemi üzerinden zaman geçti", "iki/üç hafta doldu", "tablonuzda kayıt yok", "şablon", "çok yönlü değerlendirme", "adapte") hastaya yazma. "ÖLÇÜM DURUMU" bölümü varsa ölçüm konusunda YALNIZCA onun KARAR satırına uy ve o bölümü hastaya yansıtma.',
+                '5. KAYITTA OLMAYANI SÖYLEME VE GERİ OKUMA YAPMA: WhatsApp\'ta gerçekten konuşulmadıkça "konuşmuştuk / bahsetmiştiniz / belirtmiştiniz / sormuştunuz" deme. Hastanın kıyafetlerinin bollaştığını, hafiflediğini veya rahatladığını bu haftanın kaydında bizzat yazmadıysa ASLA varsayma veya "duymak beni mutlu etti" deme. "Mustafa:" satırları senin eski yanıtlarındır; zaten cevapladığın lojistik/malzeme/ölçüm sorularını yeniden açma. Eski uygulamaları (süt ürünleri 3. hafta, lenf drenajı 5. hafta) yeniymiş gibi sunma; 13. haftada veda/bilanço havası kurma.',
+                '6. İDDİA SINIRI VE TEK İSTEK KURALI: "bağışıklığı destekler", "ruhsal dengeyi korur", "detoks" gibi doğrulanmamış etki yükleme. Kapanıştaki sabit cümle dışında: ölçüm isteği varsa EK SORU SORMA; ölçüm isteği yoksa en fazla TEK kısa soru sor. Soruları art arda yığma.'
+            ].join('\n');
+        }
+
+        function buildGenelTalimatBlock(isBulk = false) {
+            const genelPromptlar = JSON.parse(localStorage.getItem(GENEL_PROMPTLAR_KEY) || '[]');
+            if (!Array.isArray(genelPromptlar) || genelPromptlar.length === 0) return '';
+            const parts = [];
+            if (genelPromptlar[0]?.icerik) {
+                parts.push('=== GENEL TALİMAT ===\n' + genelPromptlar[0].icerik);
+            }
+            if (genelPromptlar[1]?.icerik) {
+                parts.push('=== KLİNİK ANLATIM REHBERİ ===\n' + genelPromptlar[1].icerik);
+            }
+            if (isBulk && genelPromptlar[2]?.icerik) {
+                parts.push('=== TOPLU ÜRETİM REHBERİ ===\n' + genelPromptlar[2].icerik);
+            }
+            return parts.join('\n\n');
+        }
+
+        async function ensurePromptlarLoadedFromGithubIfEmpty() {
+            const g = JSON.parse(localStorage.getItem(GENEL_PROMPTLAR_KEY) || '[]');
+            const h = JSON.parse(localStorage.getItem(HAFTALIK_PROMPTLAR_KEY) || '[]');
+            if ((!Array.isArray(g) || g.length === 0 || !Array.isArray(h) || h.length === 0) && typeof loadPromptlarFromGithub === 'function') {
+                try {
+                    await loadPromptlarFromGithub();
+                } catch (e) {
+                    console.warn('Otomatik prompt yükleme atlandı:', e);
+                }
+            }
+        }
+
+        function getOncekiAnalizlerHeader() {
+            return [
+                '=== ÖNCEKİ HAFTALARIN GPT ANALİZLERİ (YALNIZCA TEKRARDAN KAÇINMAK İÇİN) ===',
+                '⚠️ ÜSLUP TAKLİDİ YASAKTIR: Aşağıdaki eski mesajlar sadece daha önce hangi yemek ve konuların işlendiğini görmen içindir. Bu eski mesajların "Bu hafta sizden ricam...", "paylaşabilirseniz çok sevinirim", "çok değerli/kıymetli", "geçtiğimiz hafta konuşmuştuk/odaklanmıştık", "hücre zarları" gibi kalıplarını ve tırnaklı yemek yazımını KESİNLİKLE TAKLİT ETME! Yeni mesajı tamamen sade ve doğal Dr. Mustafa diliyle yaz.'
+            ].join('\n');
+        }
+
         // Claude API'ye prompt gönder
         async function sendToClaude(finalPrompt, haftaIndex, settings, gptMesajTextarea) {
             try {
@@ -21794,6 +21885,7 @@ Style Requirements:
                     body: JSON.stringify({
                         model: claudeModel,
                         max_tokens: 8000, // Claude çok daha uzun yanıtlar verebilir
+                        system: getNaturalDoctorSystemInstruction(),
                         messages: [{
                             role: 'user',
                             content: finalPrompt
@@ -21808,7 +21900,7 @@ Style Requirements:
                 }
 
                 const result = await response.json();
-                const claudeYanit = result.content[0].text;
+                const claudeYanit = sanitizeAiMessageFormatting(result.content[0].text);
 
                 // Sonucu göster
                 gptMesajTextarea.value = claudeYanit;
@@ -21856,6 +21948,9 @@ Style Requirements:
                         'Content-Type': 'application/json'
                     },
                     body: JSON.stringify({
+                        systemInstruction: {
+                            parts: [{ text: getNaturalDoctorSystemInstruction() }]
+                        },
                         contents: [{
                             parts: [{
                                 text: finalPrompt
@@ -21897,6 +21992,8 @@ Style Requirements:
                 } else {
                     throw new Error('Gemini API yanıt formatı beklenmedik: ' + JSON.stringify(result));
                 }
+
+                geminiYanit = sanitizeAiMessageFormatting(geminiYanit);
 
                 // Sonucu göster
                 gptMesajTextarea.value = geminiYanit;
@@ -21940,10 +22037,10 @@ Style Requirements:
                     },
                     body: JSON.stringify({
                         model: settings.model || 'gpt-4',
-                        messages: [{
-                            role: 'user',
-                            content: finalPrompt
-                        }],
+                        messages: [
+                            { role: 'system', content: getNaturalDoctorSystemInstruction() },
+                            { role: 'user', content: finalPrompt }
+                        ],
                         max_tokens: getModelMaxTokens(settings.model || 'gpt-4'),
                         temperature: 0.7
                     })
@@ -21955,7 +22052,7 @@ Style Requirements:
                 }
 
                 const result = await response.json();
-                const gptYanit = result.choices[0].message.content;
+                const gptYanit = sanitizeAiMessageFormatting(result.choices[0].message.content);
 
                 gptMesajTextarea.value = gptYanit;
                 gptMesajTextarea.disabled = false;
@@ -22242,6 +22339,553 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
             }
         }
 
+        function stripAciklamaFromEkNotlar(text) {
+            if (!text || typeof text !== 'string') return '';
+            let clean = text;
+            const markerIdx = clean.indexOf('=== AÇIKLAMA ===');
+            if (markerIdx !== -1) {
+                clean = clean.substring(0, markerIdx);
+            }
+            // Eski sistemin ekNotlar'a otomatik yazdığı şablon paragrafını ayıkla
+            clean = clean.replace(/Merhaba\s+[^\n]*?Hanım,\s*ben\s+Dr\.\s*Mustafa\.[\s\S]*?günlük\s+rutininize\s+dahil\s+etmeniz\s+oldukça\s+önemlidir\./gi, '');
+            return clean.trim();
+        }
+
+        const TR_GUNLER = ['Pazar', 'Pazartesi', 'Salı', 'Çarşamba', 'Perşembe', 'Cuma', 'Cumartesi'];
+        const TR_AYLAR = ['Ocak', 'Şubat', 'Mart', 'Nisan', 'Mayıs', 'Haziran', 'Temmuz', 'Ağustos', 'Eylül', 'Ekim', 'Kasım', 'Aralık'];
+
+        function parseLocalYmdDate(dateStr) {
+            if (!dateStr || typeof dateStr !== 'string') return null;
+            const s = dateStr.trim();
+            let y, m, d;
+            let match = s.match(/^(\d{4})-(\d{1,2})-(\d{1,2})/);
+            if (match) {
+                y = parseInt(match[1], 10);
+                m = parseInt(match[2], 10);
+                d = parseInt(match[3], 10);
+            } else {
+                match = s.match(/^(\d{1,2})[\.\/](\d{1,2})[\.\/](\d{4})/);
+                if (!match) return null;
+                d = parseInt(match[1], 10);
+                m = parseInt(match[2], 10);
+                y = parseInt(match[3], 10);
+            }
+            if (m < 1 || m > 12 || d < 1 || d > 31) return null;
+            const dt = new Date(y, m - 1, d, 12, 0, 0);
+            if (dt.getFullYear() !== y || dt.getMonth() !== m - 1 || dt.getDate() !== d) return null;
+            return dt;
+        }
+
+        function formatTurkishDateFull(dt) {
+            if (!dt) return '';
+            return `${dt.getDate()} ${TR_AYLAR[dt.getMonth()]} ${dt.getFullYear()} ${TR_GUNLER[dt.getDay()]}`;
+        }
+
+        function formatTurkishDateShort(dt) {
+            if (!dt) return '';
+            const dd = String(dt.getDate()).padStart(2, '0');
+            const mm = String(dt.getMonth() + 1).padStart(2, '0');
+            return `${dd}.${mm}.${dt.getFullYear()}`;
+        }
+
+        function computeTabSendFriday(hafta) {
+            let startDate = parseLocalYmdDate(hafta?.baslangic);
+            let endDate = parseLocalYmdDate(hafta?.bitis);
+
+            if (!startDate && endDate) {
+                startDate = new Date(endDate.getFullYear(), endDate.getMonth(), endDate.getDate() - 6, 12, 0, 0);
+            }
+            if (!startDate) {
+                const now = new Date();
+                startDate = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 12, 0, 0);
+            }
+            if (!endDate) {
+                endDate = new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDate() + 6, 12, 0, 0);
+            }
+
+            // Tab haftası genellikle gelecek Pazartesi-Pazar'dır; mesaj ve liste bir önceki Cuma gider.
+            const daysBackToFriday = (startDate.getDay() - 5 + 7) % 7;
+            const sendFriday = new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDate() - daysBackToFriday, 12, 0, 0);
+            const prevFriday = new Date(sendFriday.getFullYear(), sendFriday.getMonth(), sendFriday.getDate() - 7, 12, 0, 0);
+
+            return { startDate, endDate, sendFriday, prevFriday };
+        }
+
+        function describeRelativeToSendFriday(msgDate, sendFriday) {
+            if (!msgDate || !sendFriday) return '';
+            const diffDays = Math.round((sendFriday.getTime() - msgDate.getTime()) / 86400000);
+            const dayName = TR_GUNLER[msgDate.getDay()];
+            const shortDate = formatTurkishDateShort(msgDate);
+
+            let relLabel;
+            if (diffDays === 0) {
+                relLabel = 'BUGÜN / GÖNDERİM GÜNÜ (Cuma)';
+            } else if (diffDays === 1) {
+                relLabel = 'DÜN (1 gün önce — Çok Güncel)';
+            } else if (diffDays === 2) {
+                relLabel = '2 GÜN ÖNCE (Hafta içi)';
+            } else if (diffDays === 3) {
+                relLabel = '3 GÜN ÖNCE (Hafta içi)';
+            } else if (diffDays === 4) {
+                relLabel = '4 GÜN ÖNCE (Bu hafta başı)';
+            } else if (diffDays === 5 || diffDays === 6) {
+                relLabel = `GEÇTİĞİMİZ HAFTA SONU (${diffDays} gün önce)`;
+            } else if (diffDays === 7) {
+                relLabel = '1 HAFTA ÖNCE (Geçen Cuma)';
+            } else if (diffDays >= 8 && diffDays <= 13) {
+                relLabel = `GEÇTİĞİMİZ HAFTA (${diffDays} gün önce)`;
+            } else if (diffDays >= 14) {
+                relLabel = `${Math.round(diffDays / 7)} HAFTA ÖNCE (${diffDays} gün önce)`;
+            } else {
+                relLabel = `GÖNDERİM SONRASI (${Math.abs(diffDays)} gün sonra)`;
+            }
+
+            return `${shortDate} ${dayName} — ${relLabel}`;
+        }
+
+        function annotateAciklamaDates(text, sendFriday) {
+            if (!text || !sendFriday) return text || '';
+            const seenIsoDates = new Set();
+
+            // 1) --- YYYY-MM-DD --- formatı
+            let annotated = text.replace(/---\s*(\d{4}-\d{2}-\d{2})\s*---/g, (full, ymd) => {
+                const dt = parseLocalYmdDate(ymd);
+                if (!dt) return full;
+                const key = ymd;
+                if (!seenIsoDates.has(key)) {
+                    seenIsoDates.add(key);
+                    return `--- ${ymd} [${describeRelativeToSendFriday(dt, sendFriday)}] ---`;
+                }
+                return `--- ${ymd} [${TR_GUNLER[dt.getDay()]}] ---`;
+            });
+
+            // 2) [HH:MM, DD.MM.YYYY] WhatsApp formatı
+            annotated = annotated.replace(/\[(\d{1,2}:\d{2}),\s*(\d{1,2}\.\d{1,2}\.\d{4})\]/g, (full, time, dmy) => {
+                const dt = parseLocalYmdDate(dmy);
+                if (!dt) return full;
+                const key = formatTurkishDateShort(dt);
+                if (!seenIsoDates.has(key)) {
+                    seenIsoDates.add(key);
+                    return `[${time}, ${dmy} | ${describeRelativeToSendFriday(dt, sendFriday)}]`;
+                }
+                return full;
+            });
+
+            return annotated;
+        }
+
+        function trimAciklamaSmart(text, maxChars) {
+            if (!text || typeof text !== 'string') return '';
+            const clean = text.trim();
+            if (!maxChars || clean.length <= maxChars) return clean;
+            const targetHead = Math.max(100, Math.floor(maxChars * 0.25));
+            const targetTail = Math.max(150, maxChars - targetHead - 45);
+            const headBreak = clean.indexOf('\n', targetHead);
+            const headEnd = (headBreak !== -1 && headBreak < targetHead + 80) ? headBreak : targetHead;
+            const rawTailStart = Math.max(headEnd + 1, clean.length - targetTail);
+            const tailBreak = clean.lastIndexOf('\n', rawTailStart);
+            const tailStart = (tailBreak > headEnd && rawTailStart - tailBreak < 80) ? tailBreak + 1 : rawTailStart;
+            const head = clean.slice(0, headEnd).trimEnd();
+            const tail = clean.slice(tailStart).trimStart();
+            return `${head}\n...[önceki satırlar kısaltıldı]...\n${tail}`;
+        }
+
+        function analyzeAciklamaDialogState(cleanText) {
+            const lines = cleanText.split(/\r?\n/).map(l => l.trim()).filter(l => l && !/^---\s*\d{4}-\d{2}-\d{2}/.test(l));
+            const clinicRegex = /^(\[[^\]]+\]\s*)?(Prof\.?\s*Dr\.?\s*)?Mustafa(\s+Saçar)?\s*:/i;
+            const speakerRegex = /^(\[[^\]]+\]\s*)?([^:]{2,95}):\s*(.*)$/;
+            const shortAckRegex = /^(teşekkür|tşk|sağ ol|sağol|tamam|tmm|olur|anladım|peki|eyvallah|iyi akşamlar|günaydın|hayırlı|inşallah|amin)/i;
+            const symptomRegex = /(ağrı|şiş|(?<!lip)ödem|mide|gaz|kabız|ishal|bulantı|kus|ameliyat|varis|masaj|lenf|drenaj|bacak|regl|uyku|yorgun|hassas|dokun|kısır|tansiyon|şeker|baş dön|halsiz|morar|kramp|çarpıntı|merdiven|yürüyüş|egzersiz|açlık|tatlı krizi|duygusal|incelmi|kilo al)/i;
+            const clinicalRegex = /(ağrı|şiş|(?<!lip)ödem|mide|gaz|kabız|ishal|bulantı|kus|ameliyat|varis|masaj|lenf|drenaj|ölçüm|kilo|kol\s*\d|bacak|su\s|tuz|kahve|tatlı|regl|uyku|yorgun|hassas|dokun|kısır|peynir|yoğurt|yumurta|besin|yemek|tarif|diyet|tansiyon|şeker)/i;
+            const logisticsRegex = /(liste(yi|sini|niz)?|pdf|atabilir\s*misiniz|iletiyorum|gönderiyorum|youtu\.be|link|dosya|randevu|marka|market|şok|migros|internet|son mu|daha var\s*m[ıi]|sıvı yağ|ayçiçek|zeytinyağ|ölçüm olmayacak|iki haftada bir)/i;
+            const measurementOnlyRegex = /(ölçüm|ölçü|mezura|mezür|iki haftada)/i;
+
+            let hasClinicReply = false;
+            let lastSpeakerType = 'unknown';
+            let lastLineContent = '';
+            let consecutivePatientAck = 0;
+            const contentLines = [];
+
+            for (const line of lines) {
+                if (clinicRegex.test(line)) {
+                    hasClinicReply = true;
+                    lastSpeakerType = 'clinic';
+                    lastLineContent = line.replace(clinicRegex, '').trim();
+                    contentLines.push(lastLineContent);
+                    consecutivePatientAck = 0;
+                } else {
+                    const m = line.match(speakerRegex);
+                    const content = m ? m[3].trim() : line;
+                    lastLineContent = content;
+                    contentLines.push(content);
+                    if (m) {
+                        lastSpeakerType = 'patient';
+                    }
+                    if (hasClinicReply && content.length <= 70 && shortAckRegex.test(content)) {
+                        consecutivePatientAck++;
+                    } else if (m) {
+                        consecutivePatientAck = 0;
+                    }
+                }
+            }
+
+            const contentOnlyText = contentLines.join('\n');
+            const closedByClinic = hasClinicReply && (lastSpeakerType === 'clinic' || consecutivePatientAck > 0);
+            const hasRealSymptom = symptomRegex.test(contentOnlyText);
+            const hasClinicalContent = clinicalRegex.test(contentOnlyText);
+            const isPureLogistics = !hasRealSymptom && !hasClinicalContent && logisticsRegex.test(contentOnlyText);
+            // Kapanmış tek seferlik lojistik / marka / yağ / liste / ölçüm takvimi sorusu (semptom yoksa haftalık mesaja taşınmamalı)
+            const isClosedNonSymptomQA = closedByClinic && !hasRealSymptom && (logisticsRegex.test(contentOnlyText) || measurementOnlyRegex.test(contentOnlyText));
+
+            return {
+                hasClinicReply,
+                closedByClinic,
+                hasRealSymptom,
+                hasClinicalContent,
+                isPureLogistics,
+                isClosedNonSymptomQA
+            };
+        }
+
+        function pruneClosedTrivialBlocks(rawText, sendFriday) {
+            if (!rawText || typeof rawText !== 'string') return '';
+            const trimmed = rawText.trim();
+            if (!trimmed) return '';
+            // Eğer metin --- YYYY-MM-DD --- bloklarına bölünebiliyorsa her tarih bloğunu ayrı süz
+            if (!/^---\s*\d{4}-\d{2}-\d{2}/m.test(trimmed)) {
+                return trimmed;
+            }
+            const parts = trimmed.split(/(?=^---\s*\d{4}-\d{2}-\d{2}[^\r\n]*$)/m).map(s => s.trim()).filter(Boolean);
+            const kept = [];
+            for (const part of parts) {
+                const dm = part.match(/^---\s*(\d{4}-\d{2}-\d{2})/);
+                const dt = dm ? parseLocalYmdDate(dm[1]) : null;
+                const daysAgo = (dt && sendFriday) ? Math.round((sendFriday.getTime() - dt.getTime()) / 86400000) : null;
+                const st = analyzeAciklamaDialogState(part);
+                // 1) Kapanmış lojistik / marka / malzeme / ölçüm-takvimi soruları (semptom yoksa) tamamen düşür
+                if (st.isClosedNonSymptomQA) continue;
+                // 2) Saf lojistik blok (kapanmış veya 2+ gün eski) düşür
+                if (st.isPureLogistics && (st.closedByClinic || (daysAgo !== null && daysAgo >= 2))) continue;
+                // 3) 21+ gün önce yapıştırılmış ve semptom/aktif takip içermeyen eski sohbet bloklarını düşür
+                if (daysAgo !== null && daysAgo > 21 && (st.closedByClinic || !st.hasRealSymptom)) continue;
+                kept.push(part);
+            }
+            return kept.join('\n\n').trim();
+        }
+
+        function collectAciklamaGecmisi(hasta, haftaIndex, options = {}) {
+            if (!hasta || !Array.isArray(hasta.haftalar) || !hasta.haftalar[haftaIndex]) {
+                return [];
+            }
+            const maxGeriHafta = options.maxGeriHafta ?? 4;
+            const useLiveDom = Boolean(options.useLiveDom);
+            const targetHafta = hasta.haftalar[haftaIndex];
+            const targetHaftaNo = parseInt(targetHafta.haftaNo, 10) || (haftaIndex + 1);
+            const calendarInfo = computeTabSendFriday(targetHafta);
+
+            const normalized = hasta.haftalar.map((h, idx) => ({
+                hafta: h,
+                idx: idx,
+                haftaNo: parseInt(h?.haftaNo, 10) || (idx + 1)
+            }));
+
+            const candidates = normalized
+                .filter(item => item.idx === haftaIndex || item.haftaNo < targetHaftaNo)
+                .sort((a, b) => b.haftaNo - a.haftaNo);
+
+            const entries = [];
+            for (const item of candidates) {
+                const delta = item.idx === haftaIndex ? 0 : Math.max(1, targetHaftaNo - item.haftaNo);
+                if (delta > maxGeriHafta) continue;
+
+                let rawText = item.hafta?.aciklama || '';
+                if (delta === 0 && useLiveDom) {
+                    const domEl = document.getElementById(`aciklama_${haftaIndex}`);
+                    if (domEl && typeof domEl.value === 'string') {
+                        rawText = domEl.value;
+                    }
+                }
+                const cleanText = pruneClosedTrivialBlocks((rawText || '').trim(), calendarInfo.sendFriday);
+                if (!cleanText) continue;
+
+                // Metin içindeki en güncel tarih damgasını bul (eski tarihli mesaj aktif taba konmuş olabilir)
+                let latestMsgDate = null;
+                const ymdMatches = cleanText.match(/\b(\d{4}-\d{2}-\d{2})\b/g) || [];
+                const dmyMatches = cleanText.match(/\b(\d{1,2}\.\d{1,2}\.\d{4})\b/g) || [];
+                for (const ds of [...ymdMatches, ...dmyMatches]) {
+                    const parsed = parseLocalYmdDate(ds);
+                    if (parsed && (!latestMsgDate || parsed > latestMsgDate)) {
+                        latestMsgDate = parsed;
+                    }
+                }
+                const effectiveDaysAgo = latestMsgDate
+                    ? Math.round((calendarInfo.sendFriday.getTime() - latestMsgDate.getTime()) / 86400000)
+                    : null;
+
+                // Hem takvim hem tab sırasına göre gerçek yaş + diyalog kapanma analizi
+                const effectiveAgeDays = effectiveDaysAgo !== null ? Math.max(effectiveDaysAgo, delta * 7) : delta * 7;
+                const dialogState = analyzeAciklamaDialogState(cleanText);
+                const hasNewerEntries = entries.length > 0;
+
+                // SÖNÜMLENDİRME (FADE-OUT) KAPISI 1: Tamamen idari/lojistik, kapanmış non-semptom Q&A (yağ/marka/liste/ölçüm-takvimi) notları düşür
+                if (dialogState.isClosedNonSymptomQA || (dialogState.isPureLogistics && (dialogState.closedByClinic || effectiveAgeDays >= 2))) {
+                    continue;
+                }
+                // SÖNÜMLENDİRME KAPISI 2: Daha güncel haftalarda yeni notlar varken, 21+ gün önce doktor tarafından yanıtlanıp kapanmış eski diyalogu tamamen sönümlendir
+                if (hasNewerEntries && delta >= 2 && effectiveAgeDays >= 21 && dialogState.closedByClinic) {
+                    continue;
+                }
+
+                let priorityLabel, maxChars;
+                if (effectiveAgeDays <= 6) {
+                    if (dialogState.closedByClinic) {
+                        priorityLabel = 'GÜNCEL ANCAK DR. MUSTAFA YANITLAMIŞ (%50 ETKİ — Tekrar Cevaplama, Gerekirse Sonucu Sor veya Pekiştir)';
+                        maxChars = 1800;
+                    } else {
+                        priorityLabel = 'BİRİNCİL ÖNCELİK (%100 — AKTİF / YANIT BEKLEYEN GÜNCEL DURUM)';
+                        maxChars = 3000;
+                    }
+                } else if (effectiveAgeDays <= 13) {
+                    if (dialogState.closedByClinic) {
+                        priorityLabel = `1-2 HAFTA ÖNCE VE YANITLANMIŞ — SÖNÜMLENDİRİLİYOR (%20 ETKİ, ${effectiveAgeDays} gün önce — Çözüldüyse HİÇ DEĞİNME)`;
+                        maxChars = 750;
+                    } else {
+                        priorityLabel = `1-2 HAFTA ÖNCE — AÇIK TAKİP (%40 ETKİ, ${effectiveAgeDays} gün önce — Sadece Kapanmamış Durum Varsa Kısaca Sor)`;
+                        maxChars = 1100;
+                    }
+                } else {
+                    if (dialogState.closedByClinic) {
+                        priorityLabel = `${effectiveAgeDays} GÜN ÖNCE VE ÇÖZÜLMÜŞ/YANITLANMIŞ — SÖNÜMLENDİRİLDİ (%5 ETKİ — Bugün Anlamsızsa Tamamen YOK SAY, Değinme)`;
+                        maxChars = 450;
+                    } else {
+                        priorityLabel = `${effectiveAgeDays} GÜN ÖNCE — AĞIR SÖNÜMLENDİRME (%15 ETKİ — Paragraf Açma, Sadece Kritik Bağlam Varsa 1 Kısa Cümle)`;
+                        maxChars = 600;
+                    }
+                }
+
+                const tarihBilgi = item.hafta?.tabTarih
+                    || ((item.hafta?.baslangic && item.hafta?.bitis) ? `${item.hafta.baslangic} - ${item.hafta.bitis}` : (item.hafta?.tarih || ''));
+
+                const trimmed = trimAciklamaSmart(cleanText, maxChars);
+                const annotatedText = annotateAciklamaDates(trimmed, calendarInfo.sendFriday);
+
+                entries.push({
+                    haftaNo: item.haftaNo,
+                    delta,
+                    effectiveDaysAgo,
+                    effectiveAgeDays,
+                    closedByClinic: dialogState.closedByClinic,
+                    tarihBilgi,
+                    priorityLabel,
+                    text: annotatedText,
+                    hasClinicMessage: Boolean(item.hafta?.gptMesaj && item.hafta.gptMesaj.trim().length > 50)
+                });
+            }
+
+            return entries;
+        }
+
+        function buildAciklamaPromptBlock(hasta, haftaIndex, options = {}) {
+            const entries = collectAciklamaGecmisi(hasta, haftaIndex, options);
+            if (entries.length === 0) return '';
+
+            const targetHafta = hasta.haftalar[haftaIndex];
+            const targetHaftaNo = parseInt(targetHafta?.haftaNo, 10) || (haftaIndex + 1);
+            const cal = computeTabSendFriday(targetHafta);
+
+            const lines = [];
+            lines.push('=== HASTA İLETİŞİM GEÇMİŞİ VE AÇIKLAMALAR (TAKVİM REFERANSLI — GERİYE GİTTİKÇE AZALAN ETKİ) ===');
+            lines.push('TAKVİM REFERANSI:');
+            lines.push(`- Hedef Tab Haftası: ${targetHaftaNo}. Hafta (${formatTurkishDateFull(cal.startDate)} - ${formatTurkishDateFull(cal.endDate)})`);
+            lines.push(`- Mesajın Hastaya Gönderim Günü (Referans Gün): ${formatTurkishDateFull(cal.sendFriday)}`);
+            lines.push(`- Aktif Tab Açıklama Birikim Aralığı: ${formatTurkishDateFull(cal.prevFriday)} -> ${formatTurkishDateFull(cal.sendFriday)} arası WhatsApp yazışmaları ve notlar.`);
+            lines.push('');
+            lines.push('İLETİŞİM USTALIĞI, KİMLİK VE DR. MUSTAFA ÜSLUBU KURALLARI:');
+            lines.push('1. [DR. MUSTAFA GİBİ KONUŞ — BÜROKRATİK / META-KONUŞMA KESİNLİKLE YASAK]:');
+            lines.push('   - Sen dışarıdan rapor yazan bir asistan değil, bizzat hastanın doktoru Prof. Dr. Mustafa Saçar\'sın. Konuşma tarzın sade, doğrudan, sıcak ve günlük konuşma Türkçesi olmalıdır (örn. "dönem dönem duraklamalar olabilir", "bazı yiyecekler geçici olarak dokunabiliyor", "bacaklarınızı biraz rahatlattı mı?").');
+            lines.push('   - HASTAYA "TAKİP EDİYORUM / DEĞERLİ BİLGİ / HATIRLATMAK İSTERİM" DEME! Şu yapay meta-cümlelerin HİÇBİRİNİ KULLANMA:');
+            lines.push('     "yakından takip ediyorum", "özenle değerlendireceğiz", "değerli bilgiler sunuyor", "güzel bir gözlem(i)", "çok değerli bir adımdır", "belirttiğinizi görüyorum", "yazdığınızı görüyorum", "paylaştığınızı görüyorum", "bahsettiğiniz ... yakından", "dikkatle okudum", "belirtmek isterim", "hatırlatmak isterim", "altını çizmek isterim", "özen göstermenizi rica ediyorum", "devam etmenizi rica ediyorum", "paylaştığınız için teşekkür ederim".');
+            lines.push('   - ❌ YAPAY BOT: "Geçtiğimiz günlerde bahsettiğiniz şişkinlik ve sağ bacağınızdaki doku seyrini yakından takip ediyorum. Bu tür gözlemler bize değerli bilgiler sunuyor. Masajda yağ kullanmamanızı hatırlatmak isterim."');
+            lines.push('   - ✅ GERÇEK DR. MUSTAFA: "Bazen sağ bacakta şişliğin biraz daha inatçı gittiği ya da bazı sebzelerin geçici gaz yaptığı dönemler olabiliyor; bedeninizin neye rahat tepki verdiğini gördükçe menüyü de buna göre şekillendiriyoruz. Bu arada elle yapılan lenf drenajından sonra bacaklarınızda hafiflik hissedebildiniz mi?"');
+            lines.push('2. [KİMLİK — "Mustafa:" / "Prof.Dr. Mustafa Saçar:" SENİN KENDİ SÖZLERİNDİR]:');
+            lines.push('   - WhatsApp kayıtlarındaki "Mustafa:" satırlarını bizzat SEN yazdın. Hastanın sorusunu orada zaten cevapladıysan (örn. "masaj olur mu" -> "yağsız elle yapın" dediysen), bugünkü mesajda bir daha aynı kuralı ders verir gibi anlatma.');
+            lines.push('   - Sadece gerçekten gerekiyorsa, o kuralı bilen doktor rahatlığıyla sonucunu/hissini sor veya konuşmanın devamı gibi tek doğal cümleyle pekiştir; asla tekrara düşme.');
+            lines.push('3. [TARİH, BAĞLAM VE KONUYA GÖRE SÖNÜMLENDİRME]:');
+            lines.push('   - ÇÖZÜLMÜŞ / ESKİ KONUYU SÖNÜMLENDİR: 7-14+ gün önceki ve "Mustafa:" tarafından yanıtlanmış bir konuşma bugünün menüsüne veya canlı takibe doğrudan hizmet etmiyorsa TAMAMEN BIRAK (hiç yazma).');
+            lines.push('   - "SÖNÜMLENDİRİLDİ" veya "SÖNÜMLENDİRİLİYOR" etiketli kayıtlar için ASLA açılış paragrafını bu konuya ayırma; en fazla uygun bir akışta 1 kısa, insan gibi hâl-hatır/pekiştirme cümlesi kur (gerekmiyorsa hiç değinmeden menüye geç).');
+            lines.push('   - Köşeli parantezdeki gün hesabını yalnızca doğru zaman zarfını seçmek için iç pusula yap (Perşembe -> "dün", Çarşamba/Salı -> "iki gün önce", Cumartesi/Pazar -> "hafta sonunda", 7-13 gün -> "geçtiğimiz hafta", 14+ gün -> yalnız gerekiyorsa "geçenlerde" veya zamansız doğrudan konuya gir). Tarih yoksa gün/hafta uydurma.');
+
+            entries.forEach(entry => {
+                const tarihEk = entry.tarihBilgi ? ` (${entry.tarihBilgi})` : '';
+                const mesajNotu = entry.delta > 0 && entry.hasClinicMessage ? ' [Not: Bu haftaya ait haftalık analiz mesajımız da mevcuttur; orada çözülmüş konuları tekrar açmayın.]' : '';
+                let bodyText = entry.text;
+                if (entry.effectiveAgeDays >= 14 && entry.closedByClinic) {
+                    bodyText = `[DİKKAT — ESKİ & ÇÖZÜLMÜŞ KAYIT (${entry.effectiveAgeDays} GÜN ÖNCE): Dr. Mustafa bu mesajı zaten yanıtlamıştır. "belirtmiştiniz / endişeniz yersiz / yeni başladığınız / 6 yıl önce / zeytinyağı-defne yağı" gibi ayrıntıları KESİNLİKLE geri okuyup tekrar cevaplama! Yalnızca bugüne dair çok gerekliyse sonucu kısaca sor veya tamamen atla.]\n` + bodyText;
+                }
+                lines.push(`\n--- [${entry.priorityLabel}] ${entry.haftaNo}. Hafta${tarihEk}${mesajNotu} ---\n${bodyText}`);
+            });
+
+            return lines.join('\n');
+        }
+
+        function analyzeOlcumDurumu(hasta, haftaIndex, options = {}) {
+            const hedef = hasta?.haftalar?.[haftaIndex];
+            if (!hedef) return null;
+            const useLiveDom = Boolean(options.useLiveDom);
+            const hedefNo = parseInt(hedef.haftaNo, 10) || (haftaIndex + 1);
+            const cal = computeTabSendFriday(hedef);
+            const gunFarki = (dt) => Math.round((cal.sendFriday.getTime() - dt.getTime()) / 86400000);
+
+            // 1) Tabloya elle girilmiş ölçümler (çoğu hastada boştur; ölçümler resim/WhatsApp ile gelir)
+            let lastTable = null;
+            (hasta.olcumler || []).forEach(o => {
+                if (!o) return;
+                const hasValue = ['kilo', 'agirlik', 'bel', 'kalca', 'sagUyluk', 'solUyluk'].some(k => o[k] !== '' && o[k] != null);
+                const dt = parseLocalYmdDate(o.tarih);
+                if (hasValue && dt && dt <= cal.sendFriday && (!lastTable || dt > lastTable)) lastTable = dt;
+            });
+            const tableDaysAgo = lastTable ? gunFarki(lastTable) : null;
+
+            // 2) WhatsApp açıklamalarında ölçüm hareketleri (son 3 tab)
+            const clinicRe = /^(\[[^\]]+\]\s*)?(Prof\.?\s*Dr\.?\s*)?Mustafa(\s+Saçar)?\s*:/i;
+            const olcumWordRe = /(ölçüm|ölçü|mezura|mezür)/i;
+            const numericRe = /\b(kilo|bel|kal[cç]a|uyluk|diz|bald[ıi]r|bilek|kol)\s*[:=]?\s*\d{2,3}([.,]\d{1,3})?\b/i;
+            const cmRe = /\b\d{2,3}([.,]\d)?\s*cm\b/i;
+            const sentVerbRe = /(ölçülerimi|ölçümlerimi|ölçümü|ölçümleri|ölçüleri)\s*(attım|gönderdim|yolladım|iletiyorum|gönderiyorum|ekte)/i;
+            const mediaRe = /(dosya eklendi|dosya ekli|<medya|media omitted|medya dahil|görsel|fotoğraf|\bIMG[-_]|\.jpe?g\b|\.png\b)/i;
+            const askRe = /(\?|olmayacak|olacak mı|olacakmı|gerekiyor mu|gerekiyormu|ne zaman|atayım|atmam|gönderelim|göndereyim)/i;
+            const reqRe = /(bekliyoruz|gönderebilir|gönderin|gönder\b|atabilir|atın|iletin|iletebilir|paylaş|alıp|alın|rica)/i;
+            const commentRe = /(tebrik|harika|güzel|iyi (gidiyor|seyr|bir)|azalma|azalmış|azalm|kaybı|başarılı|ilerleme|değişim|toparlan|aldık|elimize ulaştı)/i;
+
+            const events = [];
+            let seq = 0;
+            const tabs = (hasta.haftalar || [])
+                .map((h, idx) => ({ h, idx, no: parseInt(h?.haftaNo, 10) || (idx + 1) }))
+                .filter(t => (t.idx === haftaIndex || t.no < hedefNo) && (hedefNo - t.no) <= 2)
+                .sort((a, b) => a.no - b.no);
+
+            tabs.forEach(t => {
+                let metin = t.h?.aciklama || '';
+                if (t.idx === haftaIndex && useLiveDom) {
+                    const el = document.getElementById(`aciklama_${haftaIndex}`);
+                    if (el && typeof el.value === 'string') metin = el.value;
+                }
+                const offset = hedefNo - t.no;
+                let curDate = null;
+                let mediaCtx = 0;
+                String(metin).split(/\r?\n/).forEach(rawLine => {
+                    const line = rawLine.trim();
+                    if (!line) return;
+                    const header = line.match(/^---\s*(\d{4}-\d{2}-\d{2})/);
+                    if (header) { curDate = parseLocalYmdDate(header[1]); return; }
+                    const br = line.match(/^\[\d{1,2}:\d{2},\s*(\d{1,2}\.\d{1,2}\.\d{4})\]/);
+                    if (br) curDate = parseLocalYmdDate(br[1]) || curDate;
+                    const content = line.replace(/^\[[^\]]+\]\s*/, '');
+                    const daysAgo = curDate ? gunFarki(curDate) : offset * 7 + 2;
+                    const mentionsOlcum = olcumWordRe.test(content);
+                    if (!clinicRe.test(line)) {
+                        const sent = numericRe.test(content) || cmRe.test(content) || sentVerbRe.test(content)
+                            || (mediaRe.test(content) && (mentionsOlcum || mediaCtx > 0));
+                        if (sent) {
+                            events.push({ seq: seq++, type: 'sent', daysAgo, text: content.slice(0, 90) });
+                        } else if (mentionsOlcum && askRe.test(content)) {
+                            events.push({ seq: seq++, type: 'asked', daysAgo, text: content.slice(0, 90) });
+                        }
+                    } else {
+                        if (mentionsOlcum && reqRe.test(content)) {
+                            events.push({ seq: seq++, type: 'requested', daysAgo, text: content.slice(0, 90) });
+                        }
+                        if (events.some(e => e.type === 'sent') && commentRe.test(content)) {
+                            events.push({ seq: seq++, type: 'commented', daysAgo, text: content.slice(0, 90) });
+                        }
+                    }
+                    mediaCtx = mentionsOlcum ? 2 : Math.max(0, mediaCtx - 1);
+                });
+            });
+
+            const sentEvents = events.filter(e => e.type === 'sent');
+            const latestSent = sentEvents.length ? sentEvents[sentEvents.length - 1] : null;
+            const commentedAfter = latestSent ? events.some(e => e.type === 'commented' && e.seq > latestSent.seq) : false;
+            const reqEvents = events.filter(e => e.type === 'requested' || e.type === 'asked');
+            const latestReq = reqEvents.length ? reqEvents[reqEvents.length - 1] : null;
+
+            let state, detay;
+            if (latestSent && latestSent.daysAgo <= 13) {
+                state = commentedAfter ? 'SENT_COMMENTED' : 'SENT_UNCOMMENTED';
+                detay = `Hasta son 2 hafta içinde ölçüm göndermiş (yaklaşık ${Math.max(latestSent.daysAgo, 0)} gün önce)${commentedAfter ? ' ve Dr. Mustafa WhatsApp\'ta yanıt/yorum vermiş.' : '; Dr. Mustafa\'nın yorumu kayıtta görünmüyor.'}`;
+            } else if (latestReq && (!latestSent || latestReq.seq > latestSent.seq) && latestReq.daysAgo <= 12) {
+                state = 'REQUESTED_WAITING';
+                detay = 'WhatsApp kaydında ölçüm konusu konuşulmuş: hasta sormuş ve/veya Dr. Mustafa "ölçümlerinizi bekliyoruz, gönderebilirsiniz" demiş; hasta henüz ölçüm göndermemiş görünüyor.';
+            } else {
+                const bilinen = [latestSent ? latestSent.daysAgo : null, tableDaysAgo].filter(v => v !== null);
+                const sonBilinen = bilinen.length ? Math.min(...bilinen) : null;
+                let due, neden;
+                if (sonBilinen !== null) {
+                    due = sonBilinen >= 14;
+                    neden = `son kayıtlı ölçüm yaklaşık ${sonBilinen} gün önce`;
+                } else {
+                    due = (hedefNo % 2 === 1);
+                    neden = `kayıtlarda ölçüm izi yok; iki haftalık düzende ${hedefNo}. hafta ${due ? 'ölçüm haftası' : 'ölçüm haftası değil'} (tek numaralı haftalarda ölçüm beklenir)`;
+                }
+                state = due ? 'DUE' : 'NOT_DUE';
+                detay = neden.charAt(0).toUpperCase() + neden.slice(1) + '.';
+            }
+
+            let sonrakiOlcum = 'iki hafta sonra';
+            if (latestSent && latestSent.daysAgo <= 13) {
+                const kalan = Math.max(14 - Math.max(latestSent.daysAgo, 0), 1);
+                sonrakiOlcum = `${kalan} gün sonra`;
+            }
+            return { state, detay, hedefNo, cal, sonrakiOlcum, evidence: (latestSent || latestReq || {}).text || '' };
+        }
+
+        function buildOlcumDurumuBlock(hasta, haftaIndex, options = {}) {
+            const a = analyzeOlcumDurumu(hasta, haftaIndex, options);
+            if (!a) return '';
+            const karar = {
+                SENT_COMMENTED: 'Ölçüm ZATEN gönderilmiş ve yorumlanmış. Haftalık mesajda ölçümü yeniden yorumlama, "ölçümlerinizi göndermiştiniz / bahsetmiştiniz" deme ve yeni ölçüm isteme; ölçümden hiç söz etmemek en doğrusudur. Bir sonraki ölçüm yaklaşık ' + a.sonrakiOlcum + '.',
+                SENT_UNCOMMENTED: 'Ölçüm gönderilmiş ama yorumu kayıtta yok. Mesajın sonuna doğru tek-iki cümleyle genel gidişatı değerlendir (tek tek santimetre sayma). Rakamlar metinde yazılı değilse (resim olarak geldiyse) yorum uydurma; yalnızca "ölçümleriniz elimize ulaştı, ayrıca değerlendirip size döneceğim" gibi tek cümle yaz. Yeni ölçüm isteme.',
+                REQUESTED_WAITING: 'ÖLÇÜM İSTEME VE SORMA YASAĞI: Ölçüm isteği WhatsApp\'ta ZATEN iletilmiş, hastadan veri bekleniyor. Bu haftalık mesajda ölçümden HİÇ SÖZ ETME; "ölçümleri yapabildiniz mi", "bahsettiğiniz ölçümler", "sormuştunuz", "hafta sonu mezura ölçümlerinizi iletirseniz" gibi HİÇBİR cümle YAZMA.',
+                NOT_DUE: 'ÖLÇÜM İSTEME YASAĞI: Bu hafta ölçüm haftası değil; bu mesajda ölçümden HİÇ SÖZ ETME.',
+                DUE: 'İki haftalık ölçüm zamanı geldi. Mesajın sonuna doğru, kapanış cümlesinden hemen önce doğal ve sıcak tek bir cümleyle iste: hafta sonu sabah aç karnına güncel ölçümlerini gönderdiğinde gidişatı değerlendirip süreçle ilgili kendisine daha sağlıklı geri bildirim verebileceğimizi doğrudan anlat (örn. "Hafta sonu sabah aç karnına güncel ölçümlerinizi gönderirseniz gidişatı değerlendirip süreçle ilgili size daha net geri bildirim verebiliriz."). "Uygunsanız" ve "(yazı ya da fotoğraf olarak)" ifadelerini KESİNLİKLE YAZMA. Bu isteği yazıyorsan mesajda BAŞKA SORU SORMA.'
+            }[a.state];
+            return [
+                '=== ÖLÇÜM DURUMU (İÇ BİLGİ — BU BÖLÜMDEKİ HİÇBİR KARARI, HESABI VEYA CÜMLEYİ HASTAYA YAZMA) ===',
+                'Genel düzen: Hastalar ölçümlerini yaklaşık 2 haftada bir gönderir (kâğıda yazılı fotoğraf, resim veya doğrudan WhatsApp yazısı olarak); bazen biz isteriz. Ölçüm geldiğinde genellikle Dr. Mustafa WhatsApp\'ta zaten yorum yapmıştır.',
+                `Bu mesaj: ${a.hedefNo}. hafta, gönderim günü ${formatTurkishDateFull(a.cal.sendFriday)}.`,
+                'Kayıttan tespit: ' + a.detay,
+                'KARAR: ' + karar,
+                'Ortak kurallar: Ölçüm için "bahsetmiştiniz / göndermiştiniz / sormuştunuz / uygunsanız / yazı ya da fotoğraf olarak / ölçüm istemi / yeterli zaman geçti / iki-üç hafta doldu / tablonuzda kayıt yok" gibi ifadeler ASLA kurma. Resim olarak gelen sayıları göremezsin; rakam uydurma. Ölçümle ilgili yazacağın metin en fazla tek cümle olsun ve mesajın başına konmasın.'
+            ].join('\n');
+        }
+
+        function getNaturalDoctorStyleAuditBlock(options = {}) {
+            const hasAciklama = options.hasAciklama !== false;
+            let olcumBlock = '';
+            if (options.hasta) {
+                try {
+                    olcumBlock = buildOlcumDurumuBlock(options.hasta, options.haftaIndex, { useLiveDom: Boolean(options.useLiveDom) });
+                } catch (e) {
+                    console.warn('Ölçüm durumu hesaplanamadı:', e);
+                }
+            }
+            const rules = [
+                '=== SON HEKİM ÜSLUBU, TÜRKÇE DİL VE WHATSAPP SÜZGECİ (YAZMADAN ÖNCE KENDİNİ DENETLE) ===',
+                'Taslağını bitirmeden önce her cümleyi tecrübeli bir hekim ve iletişim ustası gözüyle şu süzgeçlerden geçir:',
+                '1. BOŞ YAŞAM KOÇU AÇILIŞI VE SAHTE "KONUŞMUŞTUK" YASAĞI: Selamlamadan hemen sonra "çok değerli", "bu uzun yolculukta", "kendinizi mahrum hissetmeden", "yaşam tarzı değişikliği", "bu dengeyi sağlamak için tasarlandı", "bu on üç hafta boyunca önemli adımlar attık / kendinize iyi baktınız" gibi içi boş koçluk veya veda paragrafı YAZMA; doğrudan bu haftanın somut akışına gir.',
+                '2. DERS KİTABI / NÖROBİLİM JARGONU VE BESİN KATEGORİSİ DOĞRULUĞU: "beyindeki ödül merkezi", "hücre zarlarının bütünlüğü", "doğal detoks süreçleri", "psikolojik bir tatmin", "sağlıklı bir bağırsak ortamı" gibi ifadeler YAZMA. Hastanın bedeninde hissedebileceği sade Türkçe kur (tokluk, mide rahatlığı, ödem yükünün hafifliği gibi). Tuzlu hamur işlerini (poğaça, börek, ekmek) ASLA tatlı isteği veya tatlı seçeneği gibi anlatma; tatlı ihtiyacı yalnızca gerçekten tatlı olan tariflerde anılır. PDF\'teki "/" işaretini kopyalama ("urfa / adana kebap" yerine "urfa ya da adana kebap" yaz).',
+                '3. EKSİLTİLİ CÜMLE, ÇEVİRİ TÜRKÇESİ VE BOT KALIPLARI: "...açısından önemli bir ipucu." gibi yüklemsiz kesik cümle bırakma. "Benim için ... duymak önemli" gibi İngilizceden çevrilmiş cümle kurma (doğrusu: "...paylaşırsanız çok işe yarar"). Şu kalıpların HİÇBİRİNİ yazma: "faydalarını göreceğinize inanıyorum", "endişeniz yersiz", "listenize baktığımda ... görüyorum", "yakından takip ediyorum", "özenle değerlendireceğiz", "değerli bilgiler sunuyor", "belirttiğinizi/yazdığınızı görüyorum", "belirtmiştiniz", "bahsetmiştiniz", "sormuştunuz", "dikkatle okudum", "hatırlatmak/belirtmek isterim", "kendinizi mahrum hissetmeden".',
+                '4. İÇ KARAR VE İÇ TERİM SIZINTISI YASAĞI: Talimatlardaki iç kavramları hastaya ASLA yazma: "ölçüm istemi üzerinden yeterli zaman geçti", "iki/üç hafta doldu", "tablonuzda kayıt yok", "şablon" (yemek/menü için; yerine "düzen" veya "öğün düzeni" de), "çok yönlü değerlendirmek" (yerine "tartıdan başka kıyafet, enerji ve bacak rahatlığına da bakıyoruz" gibi somut söyle), "adapte", "tasarlandı", "program boyunca edindiğiniz alışkanlıkları entegre". Hasta mesajı doktorun doğal cümlesidir; sistemin karar dili değildir.',
+                '5. HAFIZA, HAFTA OLGUNLUĞU VE DOĞRULANMAMIŞ VARSAYIM YASAĞI: Kayıtta olmayan hiçbir şeyi söyleme. WhatsApp\'ta gerçekten konuşulmadıkça "geçen hafta konuştuğumuz / konuşmuştuk" deme; önceki haftalık mesajlarımıza gerekirse "yazmıştım" de. Hastanın "kıyafetlerinin bollaştığını / hafiflik veya rahatlık hissettiğini" BU HAFTANIN KAYDI doğrulamıyorsa ASLA varsayma ve "duymak beni mutlu etti" deme. 3. haftadan beri süren süt ürünlerini, 5. haftadan beri süren lenf drenajını, sonraki haftalarda başlayan uygulamaları ileri haftalarda "bu hafta ekliyoruz / yeni başlıyoruz" diye anlatma. 13. haftada veda ya da bilanço havası ("bu on üç haftalık süreçte önemli adımlar attık") kurma; destek sürüyor.',
+                '6. İDDİA SINIRI: Besinlere kanıtlanmamış etki yükleme: "bağışıklığınızı destekler", "ruhsal dengeyi korur", "detoks", "toksin atar", "iltihabı baskılar" yazma. Tokluk, sindirim rahatlığı, ödem yükü, kan şekerinin dengeli gitmesi gibi somut ve mütevazı karşılıklar kullan.',
+                '7. NEFES ALAN PARAGRAFLAR, TIRNAKSIZ YAZIM, TEK İSTEK/TEK SORU: Menü anlatımını 2 kısa paragrafa böl ve her yemekte aynı "[X], [Y] sayesinde ... yardımcı olur" kalıbını tekrarlama. Yemek adlarında ** / *** veya ters tırnak (`) KULLANMA; yemekleri doğal akışta tırnaksız küçük harf yaz. Kapanıştaki sabit cümle dışında: ölçüm isteği varsa EK SORU SORMA; ölçüm isteği yoksa en fazla TEK kısa soru sor; soruları art arda yığma. "Bu hafta sizden ricam ... gözlemlemenizdir / paylaşabilirseniz çok sevinirim" gibi resmi anket dili kullanma; 1-2 net samimi cümle yaz.'
+            ];
+            if (hasAciklama) {
+                rules.push('8. KİMLİK, ZAMAN, SÖNÜMLENDİRME VE İNCE KİŞİSELLİK: "Mustafa:" olarak zaten cevapladığın bir soruyu sıfırdan yeniden anlatma. 2-3 hafta önce başlayan uygulamaya "yeni başladığınız" veya 18 gün önceki mesaja "geçtiğimiz günlerde" deme. Çözülmüş konuları tamamen sönümlendir; yalnızca bugün hâlâ devam eden gerçek bir süreç varsa geri okuma yapmadan, doğal akışta 1 kısa samimi dokunuş ekle.');
+            }
+            return (olcumBlock ? olcumBlock + '\n\n' : '') + rules.join('\n');
+        }
+
         // Haftalık GPT analizi için gelişmiş fonksiyon
         async function gptAnalizeEt(haftaIndex) {
             try {
@@ -22293,8 +22937,6 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                     return;
                 }
 
-                guncelleEkBilgilerDinamik(haftaIndex);
-
                 const gptMesajTextarea = document.getElementById(`gptMesaj_${haftaIndex}`);
                 if (!gptMesajTextarea) {
                     alert('❌ GPT sonuç alanı bulunamadı!');
@@ -22304,19 +22946,19 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 gptMesajTextarea.value = '🤖 Analiz hazırlanıyor, lütfen bekleyin...';
                 gptMesajTextarea.disabled = true;
 
+                await ensurePromptlarLoadedFromGithubIfEmpty();
+
                 const prompts = [];
+                const targetHaftaNo = parseInt(hafta?.haftaNo, 10) || haftaNo;
 
                 if (document.getElementById(`genelPrompt_${haftaIndex}`)?.checked) {
-                    const genelPromptlar = JSON.parse(localStorage.getItem(GENEL_PROMPTLAR_KEY) || '[]');
-                    if (genelPromptlar.length > 0) {
-                        prompts.push('=== GENEL TALİMAT ===');
-                        prompts.push(genelPromptlar[0].icerik);
-                    }
+                    const genelBlock = buildGenelTalimatBlock(false);
+                    if (genelBlock) prompts.push(genelBlock);
                 }
 
                 if (document.getElementById(`haftalikPrompt_${haftaIndex}`)?.checked) {
                     const haftalikPromptlar = JSON.parse(localStorage.getItem(HAFTALIK_PROMPTLAR_KEY) || '[]');
-                    const haftaPrompt = haftalikPromptlar.find(p => p.haftaNo === haftaNo);
+                    const haftaPrompt = haftalikPromptlar.find(p => parseInt(p.haftaNo, 10) === targetHaftaNo);
                     if (haftaPrompt) {
                         prompts.push('=== HAFTALIK TEMA ===');
                         prompts.push(haftaPrompt.icerik);
@@ -22340,8 +22982,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 if (document.getElementById(`oncekiAnalizler_${haftaIndex}`)?.checked) {
                     const oncekiAnalizler = getOncekiGptAnalizleri(haftaIndex);
                     if (oncekiAnalizler.length > 0) {
-                        prompts.push('=== ÖNCEKİ HAFTALARIN GPT ANALİZLERİ (TUTARLILIK İÇİN) ===');
-                        prompts.push('ÖNEMLİ: Aynı içeriği tekrar etmeyin. Önceki haftaları tamamlayan yeni öneriler üretin.');
+                        prompts.push(getOncekiAnalizlerHeader());
                         prompts.push('');
                         oncekiAnalizler.forEach(analiz => {
                             prompts.push(`--- ${analiz.haftaNo}. Hafta (Özet) ---`);
@@ -22351,8 +22992,15 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                     }
                 }
 
+                if (document.getElementById(`aciklamaPrompt_${haftaIndex}`)?.checked ?? true) {
+                    const aciklamaBlock = buildAciklamaPromptBlock(seciliHasta, haftaIndex, { useLiveDom: true });
+                    if (aciklamaBlock) {
+                        prompts.push(aciklamaBlock);
+                    }
+                }
+
                 if (document.getElementById(`ekPrompt_${haftaIndex}`)?.checked) {
-                    const ekNotlarHam = document.getElementById(`ekNotlar_${haftaIndex}`)?.value?.trim();
+                    const ekNotlarHam = stripAciklamaFromEkNotlar(document.getElementById(`ekNotlar_${haftaIndex}`)?.value?.trim());
                     if (ekNotlarHam) {
                         const temizEkNotlar = temizleEkBilgilerTekrarlari(ekNotlarHam);
                         if (temizEkNotlar) {
@@ -22399,6 +23047,11 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                         window.cleanedPdfContent = 'Bu hafta için henüz beslenme listesi yüklenmemiş.';
                         prompts.push(window.cleanedPdfContent);
                     }
+                }
+
+                const hasAciklamaCtx = (document.getElementById(`aciklamaPrompt_${haftaIndex}`)?.checked ?? true) && collectAciklamaGecmisi(seciliHasta, haftaIndex, { useLiveDom: true }).length > 0;
+                if (prompts.length > 0) {
+                    prompts.push(getNaturalDoctorStyleAuditBlock({ hasAciklama: hasAciklamaCtx, hasta: seciliHasta, haftaIndex: haftaIndex, useLiveDom: true }));
                 }
 
                 const finalPrompt = prompts.length > 0 ? prompts.join('\n\n') : 'Bu hafta için analiz yapılabilecek veri bulunamadı.';
@@ -22676,6 +23329,10 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 .replace(/=== (.*?) ===/g, '<div style="font-weight: bold; text-decoration: underline; color: #007bff; margin: 15px 0 10px 0; font-size: 14px;">📋 $1</div>')
                 .replace(/\n/g, '<br>');
 
+            const aciklamaGecmisi = collectAciklamaGecmisi(seciliHasta, haftaIndex, { useLiveDom: true });
+            const aciklamaVarsayilanChecked = (document.getElementById(`aciklamaPrompt_${haftaIndex}`)?.checked ?? true) ? 'checked' : '';
+            const aciklamaBadge = aciklamaGecmisi.length > 0 ? ` (${aciklamaGecmisi.length} hafta)` : '';
+
             // Ana checkbox'ları oluştur
             const mainCheckboxesHtml = `
         <div style="margin-bottom: 15px; padding: 12px; background: #e7f3ff; border: 1px solid #b8daff; border-radius: 6px;">
@@ -22702,6 +23359,10 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
             <label style="display: flex; align-items: center; gap: 6px; font-size: 12px; cursor: pointer; padding: 6px; border-radius: 4px; background: white; border: 1px solid #dee2e6;">
               <input type="checkbox" id="modal_ekPrompt" checked onchange="updatePromptPreview(${haftaIndex})">
               <span>📝 Ek Not</span>
+            </label>
+            <label style="display: flex; align-items: center; gap: 6px; font-size: 12px; cursor: pointer; padding: 6px; border-radius: 4px; background: #e8f7fa; border: 1px solid #17a2b8;">
+              <input type="checkbox" id="modal_aciklamaPrompt" ${aciklamaVarsayilanChecked} onchange="updatePromptPreview(${haftaIndex})">
+              <span>💬 Açıklamalar${aciklamaBadge}</span>
             </label>
             <label style="display: flex; align-items: center; gap: 6px; font-size: 12px; cursor: pointer; padding: 6px; border-radius: 4px; background: white; border: 1px solid #dee2e6;">
               <input type="checkbox" id="modal_beslenmeListesi" checked onchange="updatePromptPreview(${haftaIndex})">
@@ -22948,19 +23609,18 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 }
             }
 
+            const previewHaftaNo = parseInt(seciliHasta?.haftalar?.[haftaIndex]?.haftaNo, 10) || (haftaIndex + 1);
+
             // Genel prompt
             if (document.getElementById('modal_genelPrompt')?.checked) {
-                const genelPromptlar = JSON.parse(localStorage.getItem(GENEL_PROMPTLAR_KEY) || '[]');
-                if (genelPromptlar.length > 0) {
-                    prompts.push('=== GENEL TALİMAT ===');
-                    prompts.push(genelPromptlar[0].icerik);
-                }
+                const genelBlock = buildGenelTalimatBlock(false);
+                if (genelBlock) prompts.push(genelBlock);
             }
 
             // Haftalık prompt
             if (document.getElementById('modal_haftalikPrompt')?.checked) {
                 const haftalikPromptlar = JSON.parse(localStorage.getItem(HAFTALIK_PROMPTLAR_KEY) || '[]');
-                const haftaPrompt = haftalikPromptlar.find(p => p.haftaNo === (haftaIndex + 1));
+                const haftaPrompt = haftalikPromptlar.find(p => parseInt(p.haftaNo, 10) === previewHaftaNo);
                 if (haftaPrompt) {
                     prompts.push('=== HAFTALIK TEMA ===');
                     prompts.push(haftaPrompt.icerik);
@@ -22992,8 +23652,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
             });
 
             if (secilenOncekiAnalizler.length > 0) {
-                prompts.push('=== ÖNCEKİ HAFTALARIN GPT ANALİZLERİ (TUTARLILIK İÇİN) ===');
-                prompts.push('ÖNEMLİ: Aynı içeriği tekrar etmeyin. Önceki haftaları tamamlayan yeni öneriler üretin.');
+                prompts.push(getOncekiAnalizlerHeader());
                 prompts.push('');
                 secilenOncekiAnalizler.forEach(analiz => {
                     prompts.push(`--- ${analiz.haftaNo}. Hafta ---`);
@@ -23002,9 +23661,17 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 });
             }
 
+            // Hasta açıklamaları (aktif hafta + azalan etkili önceki haftalar)
+            if (document.getElementById('modal_aciklamaPrompt')?.checked) {
+                const aciklamaBlock = buildAciklamaPromptBlock(seciliHasta, haftaIndex, { useLiveDom: true });
+                if (aciklamaBlock) {
+                    prompts.push(aciklamaBlock);
+                }
+            }
+
             // Ek notlar
             if (document.getElementById('modal_ekPrompt')?.checked) {
-                const ekNotlarHam = document.getElementById(`ekNotlar_${haftaIndex}`)?.value?.trim();
+                const ekNotlarHam = stripAciklamaFromEkNotlar(document.getElementById(`ekNotlar_${haftaIndex}`)?.value?.trim());
                 if (ekNotlarHam) {
                     const temizEkNotlar = temizleEkBilgilerTekrarlari(ekNotlarHam);
                     if (temizEkNotlar) {
@@ -23031,6 +23698,11 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                     prompts.push('=== SONUÇ TALİMATI ===');
                     prompts.push(sonucPrompt);
                 }
+            }
+
+            const hasModalAciklama = Boolean(document.getElementById('modal_aciklamaPrompt')?.checked && collectAciklamaGecmisi(seciliHasta, haftaIndex, { useLiveDom: true }).length > 0);
+            if (prompts.length > 0) {
+                prompts.push(getNaturalDoctorStyleAuditBlock({ hasAciklama: hasModalAciklama, hasta: seciliHasta, haftaIndex: haftaIndex, useLiveDom: true }));
             }
 
             const yeniPrompt = prompts.length > 0 ? prompts.join('\n\n') : 'Hiçbir içerik seçilmedi.';
@@ -23218,18 +23890,15 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
 
                 // Genel prompt
                 if (document.getElementById(`genelPrompt_${haftaIndex}`)?.checked) {
-                    const genelPromptlar = JSON.parse(localStorage.getItem(GENEL_PROMPTLAR_KEY) || '[]');
-                    if (genelPromptlar.length > 0) {
-                        prompts.push('=== GENEL TALİMAT ===');
-                        prompts.push(genelPromptlar[0].icerik);
-                    }
+                    const genelBlock = buildGenelTalimatBlock(false);
+                    if (genelBlock) prompts.push(genelBlock);
                 }
 
                 // Haftalık prompt
                 if (document.getElementById(`haftalikPrompt_${haftaIndex}`)?.checked) {
                     const haftalikPromptlar = JSON.parse(localStorage.getItem(HAFTALIK_PROMPTLAR_KEY) || '[]');
-                    const haftaNo = haftaIndex + 1;
-                    const haftaPrompt = haftalikPromptlar.find(p => p.haftaNo === haftaNo);
+                    const haftaNo = parseInt(hafta?.haftaNo, 10) || (haftaIndex + 1);
+                    const haftaPrompt = haftalikPromptlar.find(p => parseInt(p.haftaNo, 10) === haftaNo);
                     if (haftaPrompt) {
                         prompts.push('=== HAFTALIK TEMA ===');
                         prompts.push(haftaPrompt.icerik);
@@ -23255,8 +23924,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 if (document.getElementById(`oncekiAnalizler_${haftaIndex}`)?.checked) {
                     const oncekiAnalizler = getOncekiGptAnalizleri(haftaIndex);
                     if (oncekiAnalizler.length > 0) {
-                        prompts.push('=== ÖNCEKİ HAFTALARIN GPT ANALİZLERİ (TUTARLILIK İÇİN) ===');
-                        prompts.push('ÖNEMLİ: Aynı içeriği tekrar etmeyin. Önceki haftaları tamamlayan yeni öneriler üretin.');
+                        prompts.push(getOncekiAnalizlerHeader());
                         prompts.push('');
                         oncekiAnalizler.forEach(analiz => {
                             prompts.push(`--- ${analiz.haftaNo}. Hafta ---`);
@@ -23266,9 +23934,17 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                     }
                 }
 
+                // Açıklamalar
+                if (document.getElementById(`aciklamaPrompt_${haftaIndex}`)?.checked ?? true) {
+                    const aciklamaBlock = buildAciklamaPromptBlock(seciliHasta, haftaIndex, { useLiveDom: true });
+                    if (aciklamaBlock) {
+                        prompts.push(aciklamaBlock);
+                    }
+                }
+
                 // Ek notlar
                 if (document.getElementById(`ekPrompt_${haftaIndex}`)?.checked) {
-                    const ekNotlarHam = document.getElementById(`ekNotlar_${haftaIndex}`)?.value?.trim();
+                    const ekNotlarHam = stripAciklamaFromEkNotlar(document.getElementById(`ekNotlar_${haftaIndex}`)?.value?.trim());
                     if (ekNotlarHam) {
                         const temizEkNotlar = temizleEkBilgilerTekrarlari(ekNotlarHam);
                         if (temizEkNotlar) {
@@ -23295,6 +23971,11 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 if (settings.sonucPrompt?.trim()) {
                     prompts.push('=== SONUÇ TALİMATI ===');
                     prompts.push(settings.sonucPrompt.trim());
+                }
+
+                const hasCopyAciklama = (document.getElementById(`aciklamaPrompt_${haftaIndex}`)?.checked ?? true) && collectAciklamaGecmisi(seciliHasta, haftaIndex, { useLiveDom: true }).length > 0;
+                if (prompts.length > 0) {
+                    prompts.push(getNaturalDoctorStyleAuditBlock({ hasAciklama: hasCopyAciklama, hasta: seciliHasta, haftaIndex: haftaIndex, useLiveDom: true }));
                 }
 
                 const finalPrompt = prompts.length > 0 ? prompts.join('\n\n') : 'Bu hafta için analiz yapılabilecek veri bulunamadı.';
@@ -23414,20 +24095,20 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
 
             // Yeni prompt oluştur (temel yapı)
             const prompts = [];
+            const targetHaftaNo = parseInt(seciliHasta?.haftalar?.[haftaIndex]?.haftaNo, 10) || (haftaIndex + 1);
 
-            // 1. Genel prompt ekle
+            // 1. Genel prompt ekle (1. ANA TALİMAT + 2. KLİNİK ANLATIM REHBERİ)
             if (document.getElementById(`genelPrompt_${haftaIndex}`)?.checked) {
-                const genelPromptlar = JSON.parse(localStorage.getItem(GENEL_PROMPTLAR_KEY) || '[]');
-                if (genelPromptlar.length > 0) {
-                    prompts.push('=== GENEL TALİMAT ===');
-                    prompts.push(genelPromptlar[0].icerik);
+                const genelBlock = buildGenelTalimatBlock(false);
+                if (genelBlock) {
+                    prompts.push(genelBlock);
                 }
             }
 
             // 2. Haftalık prompt ekle
             if (document.getElementById(`haftalikPrompt_${haftaIndex}`)?.checked) {
                 const haftalikPromptlar = JSON.parse(localStorage.getItem(HAFTALIK_PROMPTLAR_KEY) || '[]');
-                const haftaPrompt = haftalikPromptlar.find(p => p.haftaNo === (haftaIndex + 1));
+                const haftaPrompt = haftalikPromptlar.find(p => parseInt(p.haftaNo, 10) === targetHaftaNo);
                 if (haftaPrompt) {
                     prompts.push('=== HAFTALIK TEMA ===');
                     prompts.push(haftaPrompt.icerik);
@@ -23451,9 +24132,7 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
 
             // 4. Seçili önceki analizleri ekle
             if (selectedAnalyses.length > 0) {
-                prompts.push('=== ÖNCEKİ HAFTALARIN GPT ANALİZLERİ (TUTARLILIK İÇİN) ===');
-                prompts.push('ÖNEMLİ: Bu içerikleri aynen tekrar etmeyin! Sadece tutarlılık sağlamak ve tekrardan kaçınmak için kullanın.');
-                prompts.push('Hasta ile daha önce konuştukları konuları tekrar etmek yerine, süreci ileriye taşıyan yeni bakış açıları sunun.');
+                prompts.push(getOncekiAnalizlerHeader());
                 prompts.push('');
                 selectedAnalyses.forEach(analiz => {
                     prompts.push(`--- ${analiz.haftaNo}. Hafta (Özet) ---`);
@@ -23464,9 +24143,19 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                 prompts.push('Bu hafta için tamamen yeni, önceki haftaları tamamlayan içerik oluşturun.');
             }
 
+            // 4.5. Açıklamalar (aktif hafta + azalan etkili geçmiş)
+            let hasSelectedAciklama = false;
+            if (document.getElementById(`aciklamaPrompt_${haftaIndex}`)?.checked ?? true) {
+                const aciklamaBlock = buildAciklamaPromptBlock(seciliHasta, haftaIndex, { useLiveDom: true });
+                if (aciklamaBlock) {
+                    hasSelectedAciklama = true;
+                    prompts.push(aciklamaBlock);
+                }
+            }
+
             // 5. Bu hafta ek bilgileri
             if (document.getElementById(`ekPrompt_${haftaIndex}`)?.checked) {
-                const ekNotlarHam = document.getElementById(`ekNotlar_${haftaIndex}`)?.value?.trim();
+                const ekNotlarHam = stripAciklamaFromEkNotlar(document.getElementById(`ekNotlar_${haftaIndex}`)?.value?.trim());
                 if (ekNotlarHam) {
                     // Ek notları da temizle
                     const temizEkNotlar = temizleEkBilgilerTekrarlari(ekNotlarHam);
@@ -23502,6 +24191,9 @@ Yanıtınızı Türkçe, anlaşılır ve profesyonel bir dilde verin.`;
                     prompts.push('Bu hafta için henüz beslenme listesi yüklenmemiş.');
                 }
             }
+
+            // 7. Ölçüm durumu ve son hekim üslubu / sızıntı süzgeci
+            prompts.push(getNaturalDoctorStyleAuditBlock({ hasAciklama: hasSelectedAciklama, hasta: seciliHasta, haftaIndex: haftaIndex, useLiveDom: true }));
 
             // Final prompt oluştur
             const updatedPrompt = prompts.join('\n\n');
@@ -29772,7 +30464,8 @@ IMPORTANT RULES:
                             <div style="display:flex;gap:20px;flex-wrap:wrap;margin-bottom:15px;">
                                 <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;"><input type="checkbox" id="bgpt_genel" checked style="width:16px;height:16px;"> Genel Kurallar</label>
                                 <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;"><input type="checkbox" id="bgpt_hafta" checked style="width:16px;height:16px;"> Hafta Teması</label>
-                                <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;"><input type="checkbox" id="bgpt_hasta" checked style="width:16px;height:16px;"> Hasta Bilgileri (Açıklama Kutusu Dahil)</label>
+                                <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;"><input type="checkbox" id="bgpt_hasta" checked style="width:16px;height:16px;"> Hasta Bilgileri</label>
+                                <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;color:#0c5460;"><input type="checkbox" id="bgpt_aciklama" checked style="width:16px;height:16px;"> Açıklamalar (Aktif + Azalan Geçmiş)</label>
                                 <label style="cursor:pointer;display:flex;align-items:center;gap:5px;font-weight:bold;color:#000;"><input type="checkbox" id="bgpt_onceki" checked style="width:16px;height:16px;"> Önceki Haftalar (Kapsamlı)</label>
                             </div>
                             <div style="margin-bottom:15px;">
@@ -29859,6 +30552,7 @@ IMPORTANT RULES:
                 genel: document.getElementById('bgpt_genel').checked,
                 hafta: document.getElementById('bgpt_hafta').checked,
                 hasta: document.getElementById('bgpt_hasta').checked,
+                aciklama: document.getElementById('bgpt_aciklama')?.checked ?? true,
                 onceki: document.getElementById('bgpt_onceki').checked,
                 ekNot: document.getElementById('bgpt_ekNot').value.trim(),
                 model: document.getElementById('bgpt_model').value
@@ -29868,6 +30562,8 @@ IMPORTANT RULES:
             const gptSettings = JSON.parse(localStorage.getItem(GPT_SETTINGS_KEY) || '{}');
             const GITHUB_REPO = document.getElementById('githubRepo')?.value.trim() || 'lipodemmerkezi/zip';
             const GITHUB_TOKEN = document.getElementById('githubToken')?.value.trim();
+
+            await ensurePromptlarLoadedFromGithubIfEmpty();
             
             let basarili = 0;
             let hatali = 0;
@@ -29921,7 +30617,7 @@ IMPORTANT RULES:
                         if (isAgent) {
                             kullanilanModel = 'Agent';
                             // Agent mode only needs patient context, not the full prompt with instructions
-                            const agentPrompt = await bgptPromptOlustur(hastaData, hedefHaftaIndeks, {hasta: true, ekNot: ayarlar.ekNot, genel: false, hafta: false, onceki: false});
+                            const agentPrompt = await bgptPromptOlustur(hastaData, hedefHaftaIndeks, {hasta: true, aciklama: ayarlar.aciklama, ekNot: ayarlar.ekNot, genel: false, hafta: false, onceki: false});
                             mesaj = await agentApiGonder(agentPrompt, gptSettings.assistantId, gptSettings);
                         } else {
                             mesaj = await bgptApiGonder(prompt, kullanilanModel, gptSettings);
@@ -30078,7 +30774,7 @@ IMPORTANT RULES:
                   throw new Error("Agent'tan geçerli bir cevap alınamadı.");
               }
               
-              return botMsg.content[0].text.value;
+              return sanitizeAiMessageFormatting(botMsg.content[0].text.value);
           }
 
           async function bgptPromptOlustur(hasta, haftaIndex, ayarlar) {
@@ -30090,15 +30786,13 @@ IMPORTANT RULES:
             const HAFTALIK_PROMPTLAR_KEY = 'haftalikPromptlar';
             
             if (ayarlar.genel) {
-                const genelPromptlar = JSON.parse(localStorage.getItem(GENEL_PROMPTLAR_KEY) || '[]');
-                if (genelPromptlar.length > 0) {
-                    prompts.push('=== GENEL TALİMAT ===\n' + genelPromptlar[0].icerik);
-                }
+                const genelBlock = buildGenelTalimatBlock(true);
+                if (genelBlock) prompts.push(genelBlock);
             }
             
             if (ayarlar.hafta) {
                 const haftalikPromptlar = JSON.parse(localStorage.getItem(HAFTALIK_PROMPTLAR_KEY) || '[]');
-                const haftaPrompt = haftalikPromptlar.find(p => p.haftaNo === haftaNo);
+                const haftaPrompt = haftalikPromptlar.find(p => parseInt(p.haftaNo, 10) === parseInt(haftaNo, 10));
                 if (haftaPrompt) {
                     prompts.push('=== HAFTALIK TEMA ===\n' + haftaPrompt.icerik);
                 }
@@ -30106,18 +30800,27 @@ IMPORTANT RULES:
             
             if (ayarlar.hasta) {
                 let hastaBilgi = `Hasta Adı: ${hasta.isim}\n`;
+                if (hasta.not) {
+                    hastaBilgi += `Hasta Notu: ${hasta.not}\n`;
+                }
+                if (hasta.notlar) {
+                    hastaBilgi += `Hasta Notları: ${hasta.notlar}\n`;
+                }
+                if (hasta.yasam) {
+                    hastaBilgi += `Yaşam Bilgileri: ${hasta.yasam}\n`;
+                }
                 if (hafta.eslesenTarifler && hafta.eslesenTarifler.length > 0) {
                     hastaBilgi += '\n=== BU HAFTAKİ MENÜSÜ ===\n';
                     hastaBilgi += hafta.eslesenTarifler.map(t => '- ' + t).join('\n');
                 }
-                
-                // Açıklama (WhatsApp yazışmaları) bölümünü GPT'ye gönder!
-                if (hafta.aciklama && hafta.aciklama.trim().length > 0) {
-                    hastaBilgi += '\n\n=== AÇIKLAMA (DİYALOG/NOTLAR) ===\n';
-                    hastaBilgi += hafta.aciklama.trim();
+                prompts.push(hastaBilgi.trim());
+            }
+
+            if (ayarlar.aciklama !== false && (ayarlar.aciklama || ayarlar.hasta)) {
+                const aciklamaBlock = buildAciklamaPromptBlock(hasta, haftaIndex, { useLiveDom: false });
+                if (aciklamaBlock) {
+                    prompts.push(aciklamaBlock);
                 }
-                
-                prompts.push(hastaBilgi);
             }
             
             if (ayarlar.onceki) {
@@ -30130,7 +30833,7 @@ IMPORTANT RULES:
                     }
                 }
                 if (oncekiAnalizler.length > 0) {
-                    prompts.push('=== ÖNCEKİ HAFTALARIN GPT ANALİZLERİ (TUTARLILIK İÇİN) ===\nÖNEMLİ: Aynı içeriği tekrar etmeyin.');
+                    prompts.push(getOncekiAnalizlerHeader());
                     oncekiAnalizler.forEach(a => {
                         prompts.push(`--- ${a.haftaNo}. Hafta (Özet) ---\n` + a.icerik);
                     });
@@ -30165,6 +30868,9 @@ IMPORTANT RULES:
             } else if (!listeEklendi) {
                 prompts.push('Bu hafta için henüz beslenme listesi yüklenmemiş.');
             }
+
+            const hasBulkAciklama = Boolean(ayarlar.aciklama !== false && (ayarlar.aciklama || ayarlar.hasta) && collectAciklamaGecmisi(hasta, haftaIndex, { useLiveDom: false }).length > 0);
+            prompts.push(getNaturalDoctorStyleAuditBlock({ hasAciklama: hasBulkAciklama, hasta: hasta, haftaIndex: haftaIndex, useLiveDom: false }));
             
             return prompts.join('\n\n');
         }
@@ -30182,13 +30888,14 @@ IMPORTANT RULES:
                     method: 'POST',
                     headers: {'Content-Type': 'application/json'},
                     body: JSON.stringify({
+                        systemInstruction: { parts: [{ text: getNaturalDoctorSystemInstruction() }] },
                         contents: [{ parts: [{ text: prompt }] }],
                         generationConfig: { temperature: 0.7 }
                     })
                 });
                 if (!req.ok) throw new Error('API Hatası: ' + req.status);
                 const res = await req.json();
-                return res.candidates[0].content.parts[0].text;
+                return sanitizeAiMessageFormatting(res.candidates[0].content.parts[0].text);
             } else {
                 // OpenAI Fallback
                 const req = await fetch('https://api.openai.com/v1/chat/completions', {
@@ -30196,13 +30903,16 @@ IMPORTANT RULES:
                     headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
                     body: JSON.stringify({
                         model: model,
-                        messages: [{ role: 'user', content: prompt }],
+                        messages: [
+                            { role: 'system', content: getNaturalDoctorSystemInstruction() },
+                            { role: 'user', content: prompt }
+                        ],
                         temperature: 0.7
                     })
                 });
                 if (!req.ok) throw new Error('API Hatası: ' + req.status);
                 const res = await req.json();
-                return res.choices[0].message.content;
+                return sanitizeAiMessageFormatting(res.choices[0].message.content);
             }
         }
         
