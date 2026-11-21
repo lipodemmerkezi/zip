@@ -3350,6 +3350,12 @@
           "kartResmi": "yaz_tarhanasi.jpg",
           "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yaz_tarhanasi.jpg",
           "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "sebzeli tavuk",
+          "kartResmi": "sebzeli_tavuk.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/sebzeli_tavuk.jpg",
+          "eslesmeTuru": "tam eşleşme"
         }
       ],
       "tarifler": [
@@ -3437,7 +3443,7 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
       ],
       "gptMesaj": "Merhaba Rahime Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibariyle programımızda on ikinci haftaya başlıyoruz.\n\nBu noktaya gelmiş olmamız, bu sürecin sonuna yaklaşırken hem geriye dönüp baktığımızda katettiğimiz yolu görmemiz hem de bundan sonrası için sağlam bir zemin oluşturmamız adına çok değerli. Bu 12 haftalık süreçte yalnızca bir beslenme planı uygulamadık; birlikte yeni alışkanlıklar edindik, bedeninize farklı bir gözle bakmayı öğrendik ve lipödem gibi dirençli bir tablo karşısında nasıl güçlü adımlar atılabileceğini deneyimledik. Artık bu değişim size ait.\n\nBu süreçte beslenme, masaj ve egzersiz üç temel yapı taşı oldu. Her biri kendi başına etkiliydi ama bir araya geldiklerinde vücudunuzda çok daha güçlü bir iyileşme sistemi kurdular. Bu sistemi, yalnızca kilo vermek için değil, vücudun içsel bir dengeye kavuşarak kendini yeniden yapılandırması için tasarladık.\n\nBu hafta sizin için hazırladığımız listede de bu bütünsel yaklaşımı sürdüren, süreci toparlayıcı ve destekleyici besinler görebilirsiniz. Nohutlu sebze güveci ve yeşil mercimekli kabak sandal gibi seçenekler, geçen haftalarda başladığımız egzersiz düzeni için size kaliteli ve yavaş salınımlı enerji sağlarken, kan şekerinizi dengede tutmaya devam edecek. Somon fleto gibi değerli bir besin, içerdiği Omega-3 ile vücuttaki inflamasyonu baskılarken, aynı zamanda D vitamini desteği de sunar. Ispanaklı ve yoğurtlu borani, hellim peynirli semizotu gibi öğünler ise hem lezzetli hem de kas fonksiyonları ve sinir sisteminin düzenlenmesi için kritik olan magnezyum açısından zengindir.\n\nBu süreçte bazı haftalarda kilo vermenizin yavaşladığını ya da durduğunu hissetmiş olabilirsiniz. Bu durumu bir başarısızlık gibi görmek yerine, bedenin bir yeniden yapılanma ve toparlanma dönemi olarak değerlendirmek en doğrusu olur. Lipödemli yağ dokusu yalnızca bir enerji deposu değil, aynı zamanda yıllar içinde birikmiş toksinlerin de deposudur. Yağ yakımı çok hızlı olursa, bu toksinler kana karışır ve karaciğer gibi organlar bu yükü tolere etmekte zorlanabilir. İşte bu nedenle beden, kendini korumak için zaman zaman yağ yakımını yavaşlatır. Bu dönemde aslında size şunu söyler: \"Ben toparlanıyorum, içeriyi temizliyorum, biraz yavaşlıyorum ama süreci bırakmadım.\"\n\nUnutmayın ki tartıda gördüğünüz rakam her zaman gerçeği yansıtmaz. Asıl önemli olan yağ dokusunun azalmasıdır ve bunu en iyi kıyafetlerinizdeki değişimle, aynadaki görüntünüzle ve ölçüm sonuçlarınızla fark edersiniz. Kıyafetlerdeki bollaşmalar, özellikle bacak çevresinde hissedilen gevşeme, sıkılaşmanın en doğal ve en kalıcı göstergesidir.\n\nArtık yeni alışkanlıklarınızla birlikte sürdürülebilir bir düzenin temelleri atıldı. Bu programın amacı yalnızca kilo kaybı değil, bedensel ve zihinsel düzeyde kalıcı bir iyileşmeyi sağlamaktı. Ve biz bu yolun büyük bir kısmını başarıyla yürüdük.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.",
-      "kilitli": true,
+      "kilitli": false,
       "ozelTabFormat": false,
       "pdfFile": {},
       "manuelKartlar": [],
@@ -3462,6 +3468,7 @@
         "maydanozlu poğaça",
         "kaşarlı kabak graten",
         "yaz tarhanası",
+        "sebzeli tavuk",
         "karabuğday ekmeği 1 dilim 25 gr"
       ],
       "eslesmeyenTarifler": [
@@ -3526,7 +3533,6 @@
         "zeytin (5 adet)",
         "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
         "akşam (tercihen hava kararınca)",
-        "sebzeli tavuk",
         "karabuğday ekmeği 1 dilim 25 gr",
         "ev yoğurdu",
         "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon sıkılmış şekilde)",
@@ -3556,6 +3562,6 @@
   ],
   "olusturmaTarihi": "2026-05-20T13:45:49.044Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-09-10T16:18:42.501Z",
+  "sonGuncelleme": "2026-11-21T20:03:32.631Z",
   "githubKaydedildi": true
 }
