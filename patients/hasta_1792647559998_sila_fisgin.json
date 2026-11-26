@@ -1194,7 +1194,110 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SILA FIŞGIN 23-29 KASIM 5. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SILA FIŞGIN 23-29 KASIM 5. HAFTA.pdf",
       "kayitTarihi": "2026-11-19T06:02:41.950Z",
-      "tarifKartlar": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "bakla unu ekmeği",
+          "kartResmi": "bakla_unu_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/bakla_unu_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "bonfile steak",
+          "kartResmi": "bonfile_steak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/bonfile_steak.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "peynirli biber dolması",
+          "kartResmi": "peynirli_biber_dolmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/peynirli_biber_dolmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "haşhaş ezmesi ekmeği (1 dilim)",
+          "kartResmi": "hashas_ezmesi_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/hashas_ezmesi_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "mantar soslu köfte",
+          "kartResmi": "mantar_soslu_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/mantar_soslu_kofte.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli köz biber mezesi",
+          "kartResmi": "cevizli_koz_biber_mezesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_koz_biber_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk fajita",
+          "kartResmi": "tavuk_fajita.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuk_fajita.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "göçmen salatası",
+          "kartResmi": "gocmen_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/gocmen_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk pirzola ya da kanat",
+          "kartResmi": "firinda_tavuk_kanat.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_tavuk_kanat.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "cevizli kaşık salatası",
+          "kartResmi": "cevizli_kasik_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_kasik_salatasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+          "kartResmi": "lupin_unlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lupin_unlu_pogaca.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+          "kartResmi": "lorlu_pogaca.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/lorlu_pogaca.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı kabak/ ispanak yemeği",
+          "kartResmi": "kiymali_ispanak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kiymali_ispanak.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "kıymalı kabak/ ispanak yemeği",
+          "kartResmi": "kiymali_kabak_yemegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kiymali_kabak_yemegi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "yoğurtlu salatalık mezesi",
+          "kartResmi": "yogurtlu_salatalik_mezesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yogurtlu_salatalik_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "yumurtalı ıspanak / pazı kavurma",
+          "kartResmi": "yumurtali_ispanak.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/yumurtali_ispanak.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "alinazik kebabı",
+          "kartResmi": "alinazik_kebabi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/alinazik_kebabi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        }
+      ],
       "tarifler": [
         "sila fişgin / 23-29 kasim",
         "her sabah güne başlarken:",
@@ -1288,7 +1391,103 @@
       ],
       "gptMesaj": "Merhaba Sıla Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda beşinci haftaya başlıyoruz.\n\nİlk dört haftalık beslenme düzeniyle birlikte dokulardaki iltihabi yük hafiflemeye ve lipödemli dokular yumuşamaya başlarken, bu rahatlamayı mekanik bir destekle pekiştirmek için günlük rutininize manuel lenf drenaj masajını dahil ediyoruz. Lenf damarları cildin hemen altında oldukça ince bir ağ tabakası halinde uzandığı için bu masaj derin baskılarla değil, neredeyse bastırmadan, cildi hafifçe esneten yavaş ve ritmik dokunuşlarla uygulanmalıdır. Uygulamaya geçmeden önce alacağınız birkaç derin karın nefesi, göğüs kafesi altındaki ana lenf kanalını uyararak dokulardan serbestleşen sıvının ve metabolik atıkların dolaşıma katılıp vücuttan uzaklaştırılmasını belirgin biçimde kolaylaştırır. Mesajımızla birlikte paylaşacağımız videolar ve sekiz haftalık masaj takvimi doğrultusunda ilk iki hafta boyunca sabah ve akşam olmak üzere günde iki kez uygulayarak bu ritmi oluşturacağız.\n\nSizin için hazırladığımız listede doku dolaşımını ve hücresel temizliği destekleyen tabaklara yer vermeyi sürdürdük. Öğle öğünlerinize eklediğimiz haşhaş ezmesi ekmeği, içerdiği magnezyum, sağlıklı doymamış yağlar ve lif yapısıyla hücresel zar bütünlüğünü korurken kan şekeri dalgalanmalarının önüne geçerek dokulardaki sıvı dengesini destekler. Menüde yer alan peynirli biber dolması, olgunlaşmış peynirin sunduğu kaliteli protein ve fermente bileşenleri biberin yoğun C vitaminiyle buluşturarak bağ dokusunun kollajen yapısını güçlendirir ve lenfatik kılcal damarların geçirgenliğini dengeler. Akşam öğünlerindeki mantar soslu köfte ve alinazik kebabı gibi seçenekler ise kas dokusunu koruyan esansiyel amino asitleri sağlarken mantarın yapısındaki biyoaktif bileşenler hücresel inflamasyonun gerilemesine katkı verir.\n\nBu süreçte masaj uygulamalarının ardından bacaklarınızdaki dolgunluk ve ağırlık hissindeki değişimi, dokulardaki rahatlamayı ve gün içindeki sıvı atılımınızı gözlemlemenizi öneririm.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
       "kilitli": false,
-      "pdfText": "SILA FIŞGIN / 23-29 KASIM\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nHaşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar\nTulum / kaşar peyniri (30 gram)\nBakla Unu Ekmeği\nZeytin (5 adet)\n3 cherry domatesi bir yemek kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nAkşam ()\nBonfile Steak\nYeşil salata (mevsim yeşillikleri+ 1 yemek kaşığı zeytinyağı)\nEv yapımı turşu\nKabak çekirdeği (1 avuç)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nMantarlı omlet (1 adet yumurta,5 adet mantar,1 tatlı kaşığı tereyağı)\nTulum peyniri veya kaşar peyniri (50 gram)\nYeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 yemek kaşığı zeytinyağı ile)\nBitter çikolata (2 kare)\nFındık (10 adet)\nAkşam ()\n200 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı\nzeytinyağı)\nCeviz (3 adet)\nÖğle ()\nPeynirli biber dolması\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nCeviz (5 adet)\nZeytin (10 adet)\nAkşam ()\nMantar Soslu Köfte\nCevizli Köz Biber Mezesi\nFındık (10 adet)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nHaşlanmış yumurta (1 adet)\nTulum / kaşar peyniri (30 gram)\nHaşhaş ezmesi ekmeği (1 dilim)\nZeytin (5 adet)\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı\nzeytinyağı\nCeviz (3 adet)\nAkşam ()\nTavuk Fajita\nGöçmen Salatası\nÖğle ()\nSahanda yumurta (1 yumurta – 1 yemek kaşığı tereyağı)\nYeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon +1 tatlı kaşığı zeytinyağı ile)\nTulum / kaşar peyniri (30 gram)\nZeytin (10 adet)\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)\nAkşam ()\n150 gr. Tavuk pirzola ya da ka"
+      "pdfText": "SILA FIŞGIN / 23-29 KASIM\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nHaşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar\nTulum / kaşar peyniri (30 gram)\nBakla Unu Ekmeği\nZeytin (5 adet)\n3 cherry domatesi bir yemek kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nAkşam ()\nBonfile Steak\nYeşil salata (mevsim yeşillikleri+ 1 yemek kaşığı zeytinyağı)\nEv yapımı turşu\nKabak çekirdeği (1 avuç)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nMantarlı omlet (1 adet yumurta,5 adet mantar,1 tatlı kaşığı tereyağı)\nTulum peyniri veya kaşar peyniri (50 gram)\nYeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 yemek kaşığı zeytinyağı ile)\nBitter çikolata (2 kare)\nFındık (10 adet)\nAkşam ()\n200 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)\nSemizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı\nzeytinyağı)\nCeviz (3 adet)\nÖğle ()\nPeynirli biber dolması\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber\nCeviz (5 adet)\nZeytin (10 adet)\nAkşam ()\nMantar Soslu Köfte\nCevizli Köz Biber Mezesi\nFındık (10 adet)\nKollajen (1 ölçek 10 gram)\nÖğle ()\nHaşlanmış yumurta (1 adet)\nTulum / kaşar peyniri (30 gram)\nHaşhaş ezmesi ekmeği (1 dilim)\nZeytin (5 adet)\nSalatalık (orta boy) ,Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı\nzeytinyağı\nCeviz (3 adet)\nAkşam ()\nTavuk Fajita\nGöçmen Salatası\nÖğle ()\nSahanda yumurta (1 yumurta – 1 yemek kaşığı tereyağı)\nYeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon +1 tatlı kaşığı zeytinyağı ile)\nTulum / kaşar peyniri (30 gram)\nZeytin (10 adet)\nHaşhaş ezmesi ekmeği (1 dilim)\nSalatalık (orta boy) + Cherry domates (2 adet)\nAkşam ()\n150 gr. Tavuk pirzola ya da ka",
+      "eslesmeyenTarifler": [
+        "sila fişgin / 23-29 kasim",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "tulum / kaşar peyniri (30 gram)",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata (mevsim yeşillikleri+ 1 yemek kaşığı zeytinyağı)",
+        "ev yapımı turşu",
+        "kabak çekirdeği (1 avuç)",
+        "kollajen (1 ölçek 10 gram)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "mantarlı omlet (1 adet yumurta,5 adet mantar,1 tatlı kaşığı tereyağı)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon ve 1 yemek kaşığı zeytinyağı ile)",
+        "bitter çikolata (2 kare)",
+        "fındık (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "semizotu salatası (2 avuç semizotu,1 adet orta boy domates,1 adet salatalık,1 adet biber ve 1 yemek kaşığı",
+        "ceviz (3 adet)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "ceviz (5 adet)",
+        "zeytin (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "fındık (10 adet)",
+        "kollajen (1 ölçek 10 gram)",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet)",
+        "tulum / kaşar peyniri (30 gram)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy) ,cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 tatlı kaşığı",
+        "ceviz (3 adet)",
+        "akşam (tercihen hava kararınca)",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (1 yumurta – 1 yemek kaşığı tereyağı)",
+        "yeşillikler (dereotu, roka, maydanoz, marul vs. + sirke, limon +1 tatlı kaşığı zeytinyağı ile)",
+        "tulum / kaşar peyniri (30 gram)",
+        "zeytin (10 adet)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "salatalık (orta boy) + cherry domates (2 adet)",
+        "akşam (tercihen hava kararınca)",
+        "turşu (organik, ev yapımı)",
+        "kabak çekirdeği (1 avuç)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık, limon ve sirke+1 yemek kaşığı zeytinyağı ile)",
+        "zeytin (10 adet)",
+        "tulum / kaşar peyniri (30 gram)",
+        "fındık (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "zeytin (10 adet)",
+        "salatalık (orta boy) + cherry domates (2 adet)+ 4-5 dal maydanoz+ 2 adet küçük yeşil biber",
+        "tulum peyniri (50 gram)",
+        "bitter çikolata (2 kare)",
+        "akşam (tercihen hava kararınca)",
+        "mevsim salata (marul, dereotu, roka, kırmızı lahana, yarım turp, yarım kırmızı pancar +1 yemek kaşığı zeytinyağı)",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "turşu (organik, ev yapımı)",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir"
+      ],
+      "eslesenTarifler": [
+        "bakla unu ekmeği",
+        "bonfile steak",
+        "peynirli biber dolması",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "mantar soslu köfte",
+        "cevizli köz biber mezesi",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "tavuk fajita",
+        "göçmen salatası",
+        "haşhaş ezmesi ekmeği (1 dilim)",
+        "tavuk pirzola ya da kanat",
+        "cevizli kaşık salatası",
+        "lupin unlu poğaça (veya 3 adet lorlu poğaça)",
+        "kıymalı kabak/ ispanak yemeği",
+        "yoğurtlu salatalık mezesi",
+        "yumurtalı ıspanak / pazı kavurma",
+        "alinazik kebabı",
+        "haşhaş ezmesi ekmeği (1 dilim)"
+      ]
     },
     {
       "haftaNo": 6,
@@ -1302,7 +1501,92 @@
       "githubUrl": "https://github.com/lipodemmerkezi/zip/blob/main/pdfs/SILA FIŞGIN 30 KASIM -6 ARALIK 6. HAFTA.pdf",
       "indirmeUrl": "https://raw.githubusercontent.com/lipodemmerkezi/zip/main/pdfs/SILA FIŞGIN 30 KASIM -6 ARALIK 6. HAFTA.pdf",
       "kayitTarihi": "2026-11-26T05:33:32.101Z",
-      "tarifKartlar": [],
+      "tarifKartlar": [
+        {
+          "tarifAdi": "bakla unu ekmeği",
+          "kartResmi": "bakla_unu_ekmegi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/bakla_unu_ekmegi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuklu salata",
+          "kartResmi": "tavuk_salatasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuk_salatasi.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "hindistan cevizli tahinli toplar (2 adet)",
+          "kartResmi": "hindistan_cevizli_tahinli_toplar.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/hindistan_cevizli_tahinli_toplar.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "köfte",
+          "kartResmi": "keto_kofte.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/keto_kofte.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        },
+        {
+          "tarifAdi": "fırında kabaklı börek (1 dilim)",
+          "kartResmi": "firinda_kabakli_borek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinda_kabakli_borek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "pazı sarması",
+          "kartResmi": "pazi_sarmasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazi_sarmasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli köz biber mezesi",
+          "kartResmi": "cevizli_koz_biber_mezesi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_koz_biber_mezesi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "ispanaklı ya da pazılı tava böreği",
+          "kartResmi": "pazili_tava_boregi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/pazili_tava_boregi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "domatesli kabak çorbası",
+          "kartResmi": "domatesli_kabak_corbasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/domatesli_kabak_corbasi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "fırınlanmış peynirli taze fasulye graten",
+          "kartResmi": "firinlanmis_peynirli_taze_fasulye_graten.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/firinlanmis_peynirli_taze_fasulye_graten.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "cevizli browni kek",
+          "kartResmi": "cevizli_browni_kek.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/cevizli_browni_kek.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "domatesli kabak çorbası",
+          "kartResmi": "kabak_corbasi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/kabak_corbasi.jpg",
+          "eslesmeTuru": "ardışık eşleşme"
+        },
+        {
+          "tarifAdi": "alinazik kebabı",
+          "kartResmi": "alinazik_kebabi.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/alinazik_kebabi.jpg",
+          "eslesmeTuru": "tam eşleşme"
+        },
+        {
+          "tarifAdi": "tavuk güveç",
+          "kartResmi": "tavuk_guvec.jpg",
+          "kartData": "https://lipodemmerkezi.github.io/zip/tarifler/tavuk_guvec.jpg",
+          "eslesmeTuru": "manuel eşleştirme"
+        }
+      ],
       "tarifler": [
         "sila fişgin / 30 kasim -6 aralik 2026",
         "her sabah güne başlarken:",
@@ -1392,13 +1676,107 @@
         "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
         "bakla unu ekmeği yerine 10 adet çiğ badem ya da 1 adet yumurta tüketebilirsiniz."
       ],
-      "gptMesaj": "Merhaba Sıla Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda altıncı haftaya başlıyoruz.\n\nÖğünlerinizde vitamin ve mineral çeşitliliğini artıracak, aynı zamanda doku beslenmesini ve uzun süreli tokluğu destekleyecek bir denge kurduk. Örneğin perşembe akşamı için planladığımız ızgara ya da fırında balık ve yanındaki roka salatası, hem protein hem de yağda eriyen vitaminler ve sağlıklı yağ asitleri açısından zengin bir birliktelik sunuyor. Menüde yer verdiğimiz bakla unu ekmeği ise lif ve bitkisel protein içeriğiyle kan şekerinizin gün boyu dengeli seyretmesine katkı sağlayarak öğün aralarındaki tokluğu korumanızı kolaylaştıracaktır.\n\nÇarşamba günkü pazı sarması ve cevizli köz biber mezesi gibi tabaklar, koyu yeşilliklerden gelen magnezyum ve biberin sunduğu C vitamini ile dokuların toparlanma sürecine destek verir. Cumartesi akşamına eklediğimiz kabak çekirdeği de çinko ve sağlıklı yağlar açısından menüyü güzel tamamlayan bir kaynak oldu. Geçtiğimiz hafta başladığımız lenf drenaj masajlarını uygularken bacaklarınızdaki dolgunluk hissinde bir hafifleme fark edebildiniz mi?\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
+      "gptMesaj": "Merhaba Sıla Hanım, ben Dr. Mustafa. Nasılsınız? Umarım her şey yolundadır. Pazartesi günü itibarıyla programımızda altıncı haftaya başlıyoruz.\n\nÖğünlerinizde vitamin ve mineral çeşitliliğini artıracak, aynı zamanda doku beslenmesini ve uzun süreli tokluğu destekleyecek bir denge kurduk. Örneğin perşembe akşamı için planladığımız ızgara ya da fırında balık ve yanındaki roka salatası, hem protein hem de yağda eriyen vitaminler ve sağlıklı yağ asitleri açısından zengin bir birliktelik sunuyor. Menüde yer verdiğimiz bakla unu ekmeği ise lif ve bitkisel protein içeriğiyle kan şekerinizin gün boyu dengeli seyretmesine katkı sağlayarak öğün aralarındaki tokluğu korumanızı kolaylaştıracaktır.\n\nÇarşamba günkü pazı sarması ve cevizli köz biber mezesi gibi tabaklar, koyu yeşilliklerden gelen magnezyum ve biberin sunduğu C vitamini ile dokuların toparlanma sürecine destek verir. Cumartesi akşamına eklediğimiz kabak çekirdeği de çinko ve sağlıklı yağlar açısından menüyü güzel tamamlayan bir kaynak oldu. Geçtiğimiz hafta başladığımız lenf drenaj masajlarını uygularken bacaklarınızdaki dolgunluk hissinde bir hafifleme fark edebildiniz mi?\nHafta sonu ölçümlerinizi bekliyoruz.\n\nHer zaman olduğu gibi bize ulaşabilirsiniz. Gözlemlerinizi ve yorumlarınızı da merak ediyorum.\nDr. Mustafa",
       "kilitli": false,
-      "pdfText": "SILA FIŞGIN / 30 KASIM -6 ARALIK 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\n30 gram beyaz peynir\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)\nBakla Unu Ekmeği\nZeytin (5 adet)\n3 cherry domatesi bir yemek kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nAkşam ()\n*Tavuklu salata\nHindistan cevizli tahinli toplar (2 adet)\nÖğle ()\nHaşlanmış yumurta (2 adet)\n30 gram beyaz peynir\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı\nzeytinyağı\nÇiğ badem (10 adet)\nZeytin (10 adet)\nAkşam ()\n150 gram köfte\nYeşil salata (marul, dereotu, roka, kırmızı lahana,1 yemek kaşığı zeytinyağı)\nBakla Unu Ekmeği\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*Fırında Kabaklı Börek (1 dilim)\nTulum / kaşar peyniri (50 gram)\nZeytin (5 adet)\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)\nÇiğ badem (10 adet)\nAkşam ()\nPazı Sarması\nCevizli Köz Biber Mezesi\nBakla Unu Ekmeği\nÖğle ()\nMantarlı omlet (1 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)\nTulum peyniri veya kaşar peyniri (50 gram)\nZeytin (10 adet)\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)\nFındık (20 adet)\nBitter çikolata (2 kare)\nAkşam ()\n200 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)\nRoka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek\nkaşığı zeytinyağı ve istenilen baharatlar ile)\n1 yemek kaşığı tahin\nÖğle ()\nIspanaklı ya da Pazılı Tava Böreği\nZeytin (5 adet)\nÇiğ badem (10 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık+ limon ve sirke ile)\nAkşam ()\nDomatesli kabak çorbası\nFırınlanmış Peynirli Taze Fasulye Graten\nCevizli Browni kek\nKollajen ("
+      "pdfText": "SILA FIŞGIN / 30 KASIM -6 ARALIK 2026\n1 su bardağı ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi\nKurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)\nPAZARTESİ\nÖğle ()\nSahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)\n30 gram beyaz peynir\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)\nBakla Unu Ekmeği\nZeytin (5 adet)\n3 cherry domatesi bir yemek kaşığı zeytinyağı ile soteleyip, üzerine kekik ve pul biber serpin\nAkşam ()\n*Tavuklu salata\nHindistan cevizli tahinli toplar (2 adet)\nÖğle ()\nHaşlanmış yumurta (2 adet)\n30 gram beyaz peynir\nSalatalık (orta boy), Cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı\nzeytinyağı\nÇiğ badem (10 adet)\nZeytin (10 adet)\nAkşam ()\n150 gram köfte\nYeşil salata (marul, dereotu, roka, kırmızı lahana,1 yemek kaşığı zeytinyağı)\nBakla Unu Ekmeği\nKollajen (1 ölçek 10 gram)\nÖğle ()\n*Fırında Kabaklı Börek (1 dilim)\nTulum / kaşar peyniri (50 gram)\nZeytin (5 adet)\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)\nÇiğ badem (10 adet)\nAkşam ()\nPazı Sarması\nCevizli Köz Biber Mezesi\nBakla Unu Ekmeği\nÖğle ()\nMantarlı omlet (1 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)\nTulum peyniri veya kaşar peyniri (50 gram)\nZeytin (10 adet)\nYeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)\nFındık (20 adet)\nBitter çikolata (2 kare)\nAkşam ()\n200 gr. ızgara ya da fırında balık (çupra, levrek, alabalık vs.)\nRoka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek\nkaşığı zeytinyağı ve istenilen baharatlar ile)\n1 yemek kaşığı tahin\nÖğle ()\nIspanaklı ya da Pazılı Tava Böreği\nZeytin (5 adet)\nÇiğ badem (10 adet)\nYeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık+ limon ve sirke ile)\nAkşam ()\nDomatesli kabak çorbası\nFırınlanmış Peynirli Taze Fasulye Graten\nCevizli Browni kek\nKollajen (",
+      "eslesmeyenTarifler": [
+        "sila fişgin / 30 kasim -6 aralik 2026",
+        "her sabah güne başlarken:",
+        "ılık su + 1 yk. zeytinyağı + 5-10 damla limon - 1 yk. elma sirkesi",
+        "kurşun geçirmez kahve (1 fincan kahve + 1 tatlı kaşığı hindistan cevizi yağı veya tereyağı/sade yağ)",
+        "hafta",
+        "pazartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "sahanda yumurta (1 yumurta, 1 tatlı kaşığı tereyağ)",
+        "beyaz peynir",
+        "yeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)",
+        "zeytin (5 adet)",
+        "akşam (tercihen hava kararınca)",
+        "sali",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (2 adet)",
+        "beyaz peynir",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber+1 yemek kaşığı",
+        "çiğ badem (10 adet)",
+        "zeytin (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "yeşil salata (marul, dereotu, roka, kırmızı lahana,1 yemek kaşığı zeytinyağı)",
+        "bakla unu ekmeği",
+        "kollajen (1 ölçek 10 gram)",
+        "çarşamba",
+        "öğle (tercihen saat 12:00 civarında)",
+        "tulum / kaşar peyniri (50 gram)",
+        "zeytin (5 adet)",
+        "yeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "bakla unu ekmeği",
+        "perşembe",
+        "öğle (tercihen saat 12:00 civarında)",
+        "mantarlı omlet (1 adet yumurta, 5 adet mantar, 1 tatlı kaşığı tereyağı)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "zeytin (10 adet)",
+        "yeşillikler (dereotu, roka, marul, sirke ve limon +1 tatlı kaşığı zeytinyağı ile)",
+        "fındık (20 adet)",
+        "bitter çikolata (2 kare)",
+        "akşam (tercihen hava kararınca)",
+        "ızgara ya da fırında balık (çupra, levrek, alabalık vs.)",
+        "roka salatası (yarım bağ roka, 1 adet küçük salatalık, 3 adet cherry domates, yarım kırmızı soğan + limon, 1 yemek",
+        "tahin",
+        "cuma",
+        "öğle (tercihen saat 12:00 civarında)",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "yeşillikler (4 yaprak marul, 4-5 yaprak roka, 1 adet küçük salatalık+ limon ve sirke ile)",
+        "akşam (tercihen hava kararınca)",
+        "kollajen (1 ölçek 10 gram)",
+        "cumartesi̇",
+        "öğle (tercihen saat 12:00 civarında)",
+        "haşlanmış yumurta (1 adet) + (üzerine eritilmiş 1 tatlı kaşığı tereyağı ve istenilen baharatlar",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "zeytin (5 adet)",
+        "çiğ badem (10 adet)",
+        "yeşillikler (dereotu, roka, marul, sirke ve limon ile)",
+        "akşam (tercihen hava kararınca)",
+        "kabak çekirdeği (1 avuç)",
+        "pazar",
+        "öğle (tercihen saat 12:00 civarında)",
+        "menemen (2 yumurta ile)",
+        "tulum peyniri veya kaşar peyniri (50 gram)",
+        "zeytin (5 adet)",
+        "salatalık (orta boy), cherry domates (2 adet), 4-5 dal roka, 4-5 dal tere, 2 adet küçük yeşil biber",
+        "çiğ badem (10 adet)",
+        "akşam (tercihen hava kararınca)",
+        "köz biber salatası (1 adet kapya biber, 2 adet kornişon turşu, 4 adet ceviz, 1 tatlı kaşığı zeytinyağı, tuz ve limon)",
+        "hindistan cevizli tahinli toplar (2 adet)",
+        "ara öğün (tercihen saat 15:00-16:00 civarında): maden suyu (2 çimdik kaya tuzu ve limon 5-10 damla limon",
+        "günlük ortalama 5000 adım önerilir",
+        "günlük su tüketimi 2 litrenin üzerinde olması önerilir",
+        "bakla unu ekmeği yerine 10 adet çiğ badem ya da 1 adet yumurta tüketebilirsiniz."
+      ],
+      "eslesenTarifler": [
+        "bakla unu ekmeği",
+        "tavuklu salata",
+        "hindistan cevizli tahinli toplar (2 adet)",
+        "köfte",
+        "bakla unu ekmeği",
+        "fırında kabaklı börek (1 dilim)",
+        "pazı sarması",
+        "cevizli köz biber mezesi",
+        "bakla unu ekmeği",
+        "ispanaklı ya da pazılı tava böreği",
+        "domatesli kabak çorbası",
+        "fırınlanmış peynirli taze fasulye graten",
+        "cevizli browni kek",
+        "domatesli kabak çorbası",
+        "alinazik kebabı",
+        "tavuk güveç",
+        "hindistan cevizli tahinli toplar (2 adet)"
+      ]
     }
   ],
   "olusturmaTarihi": "2026-10-22T05:39:19.998Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-26T05:45:39.978Z",
+  "sonGuncelleme": "2026-11-26T06:01:30.578Z",
   "githubKaydedildi": true
 }
