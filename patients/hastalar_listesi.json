@@ -56,6 +56,13 @@
     "sonGuncelleme": "2026-10-08T07:33:01.986Z"
   },
   {
+    "id": "elvan",
+    "isim": "ELVAN",
+    "not": "",
+    "arsiv": false,
+    "sonGuncelleme": "2026-11-26T05:34:38.331Z"
+  },
+  {
     "id": 1789391509012,
     "isim": "ELVAN DEMİRHAN",
     "not": "",
@@ -1541,11 +1548,5 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
-  },
-  {
-    "id": "elvan",
-    "isim": "ELVAN",
-    "kayitTarihi": "2026-11-26T05:34:34.634Z",
-    "durumu": "aktif"
   }
 ]
