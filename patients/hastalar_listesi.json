@@ -1541,5 +1541,11 @@
     "not": "",
     "arsiv": true,
     "sonGuncelleme": "2026-09-01T06:06:46.203Z"
+  },
+  {
+    "id": "elvan",
+    "isim": "ELVAN",
+    "kayitTarihi": "2026-11-26T05:34:34.634Z",
+    "durumu": "aktif"
   }
 ]
