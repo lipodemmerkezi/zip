@@ -2,7 +2,7 @@
   "id": 1788264647608,
   "isim": "ESMA KAYACAN",
   "not": "",
-  "arsiv": false,
+  "arsiv": true,
   "haftalar": [
     {
       "haftaNo": 1,
@@ -3981,6 +3981,6 @@
   ],
   "olusturmaTarihi": "2026-09-01T12:10:47.608Z",
   "yeniSistem": true,
-  "sonGuncelleme": "2026-11-26T06:14:48.053Z",
+  "sonGuncelleme": "2026-11-27T05:57:42.902Z",
   "githubKaydedildi": true
 }
