@@ -63,13 +63,6 @@
     "sonGuncelleme": "2026-11-26T06:05:31.596Z"
   },
   {
-    "id": 1788264647608,
-    "isim": "ESMA KAYACAN",
-    "not": "",
-    "arsiv": false,
-    "sonGuncelleme": "2026-11-26T06:14:51.707Z"
-  },
-  {
     "id": 1793180022396,
     "isim": "FATMA ABALI",
     "not": "",
@@ -552,6 +545,13 @@
     "arsiv": true,
     "sonGuncelleme": "2025-09-27T10:03:24.271Z",
     "telefonAranacak": false
+  },
+  {
+    "id": 1788264647608,
+    "isim": "ESMA KAYACAN",
+    "not": "",
+    "arsiv": true,
+    "sonGuncelleme": "2026-11-27T05:57:46.942Z"
   },
   {
     "id": 1756892753290,
